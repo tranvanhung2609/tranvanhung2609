@@ -26,20 +26,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tranhung26092002.tranhung26092002&left_color=lightcoral&right_color=darkkhaki"  />
 </div>
 
-<div>
-  <div align="left">
-    <h3>👨‍💻 Backend Developer | Java Spring Boot</h3>
-    <p>
-      I'm Tran Van Hung from Nam Dinh, Vietnam<br>
-      - 🔭 Currently working with Java Spring Boot and Backend technologies in Hanoi<br>
-      - 🌱 Developing skills in DevOps and Frontend<br>
-      - 💡 Passionate about building efficient software solutions<br>
-      - 🎯 Always learning and improving programming skills<br>
-      - ⚡ Fun fact: I can code continuously for 8 hours without a break! 😄<br>
-      - 🎮 Hobbies: Reading books, gaming, and exploring new technologies
-    </p>
-  </div>
-</div>
 
 ### 🛠️ Skills & Technologies
 
