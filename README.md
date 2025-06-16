@@ -1,29 +1,17 @@
-<h1 align="center">Hey there 👋 | I'm Tran Van Hung</h1>
 
-<div align="center">
-  <img src="images/dev.png" alt="Developer" width="200" style="margin: 10px 0;"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+Spring+Boot;DevOps+Enthusiast;Frontend+Basic" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/tranhung26092002">
-    <img src="https://img.shields.io/github/followers/tranhung26092002?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tranhung2609/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/tranhung2609">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook" alt="Facebook"/>
-  </a>
-  <a href="mailto:tranvanhung26092002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hanoi-blue?style=flat&logo=location" alt="Location"/>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tranhung26092002.tranhung26092002&left_color=lightcoral&right_color=darkkhaki"  />
+<div>
+  <div align="left">
+    <h3>👨‍💻 Backend Developer | Java Spring Boot</h3>
+    <p>
+      I'm Tran Van Hung from Nam Dinh, Vietnam<br>
+      - 🔭 Currently working with Java Spring Boot and Backend technologies in Hanoi<br>
+      - 🌱 Developing skills in DevOps and Frontend<br>
+      - 💡 Passionate about building efficient software solutions<br>
+      - 🎯 Always learning and improving programming skills<br>
+      - ⚡ Fun fact: I can code continuously for 8 hours without a break! 😄<br>
+      - 🎮 Hobbies: Reading books, gaming, and exploring new technologies
+    </p>
+  </div>
 </div>
 
 ### 🛠️ Skills & Technologies
