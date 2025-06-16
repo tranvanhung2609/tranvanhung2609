@@ -30,7 +30,7 @@
   <div align="left">
     <h3>👨‍💻 Backend Developer | Java Spring Boot</h3>
     <p>
-      I'm Tran Van Hung from Hanoi, Vietnam 🇻🇳<br>
+      I'm Tran Van Hung from Nam Dinh, Vietnam<br>
       - 🔭 Currently working with Java Spring Boot and Backend technologies<br>
       - 🌱 Developing skills in DevOps and Frontend<br>
       - 💡 Passionate about building efficient software solutions<br>
