@@ -87,22 +87,32 @@
   </picture>
 </p>
 
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tranvanhung2609&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+</div>
+
 ### 📜 Certifications
 
 <div align="left">
   <img src="images/toeic.jpg" alt="TOEIC Certificate" width="200" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
 </div>
 
+### 📰 Backend & DevOps News
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranvanhung2609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvanhung2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranvanhung2609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvanhung2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 <h3 align="left">Streak Stats</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tranvanhung2609&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tranvanhung2609&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 </details>
@@ -113,4 +123,3 @@
 </div>
 
 ⭐️ From [tranvanhung2609](https://github.com/tranvanhung2609)
-
