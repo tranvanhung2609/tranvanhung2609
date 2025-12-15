@@ -32,11 +32,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pacman animation
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
       - name: Generate gitartwork
         uses: jasineri/gitartwork@v1
