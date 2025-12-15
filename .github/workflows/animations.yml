@@ -3,10 +3,8 @@ name: Generate Animations
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
   schedule:
-    - cron: "0 */6 * * *" # Runs on the 0, 6, 12 and 18th hour.
+    - cron: "0 */12 * * *" # Optimize: Run every 12 hours instead of 6
   workflow_dispatch:
 
 jobs:
@@ -35,7 +33,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p dist
           npm install -g pacman-contribution-graph
           pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output dist/pacman-contribution-graph.svg
           pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
