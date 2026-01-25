@@ -101,6 +101,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka Explained Simply: Core Concepts, Best Practices, and Common Pitfalls for Developers](https://dev.to/khadijah/apache-kafka-explained-simply-core-concepts-best-practices-and-common-pitfalls-for-developers-4mmb)
+- [Apache Kafka Explained Simply: Core Concepts, Best Practices, and Common Pitfalls for Developers](https://dev.to/khadijah/apache-kafka-explained-simply-core-concepts-best-practices-and-common-pitfalls-for-developers-4mmb)
+- [The Lobster’s Shell: 5 Rules for Not Turning Your AI Assistant into a Botnet](https://dev.to/alexis_gilgonzales_c5d9a/the-lobsters-shell-5-rules-for-not-turning-your-ai-assistant-into-a-botnet-1n7i)
+- [Solved: Raised prices on existing customers. Lost 4%. Here’s the email that kept the other 96%.](https://dev.to/techresolve/solved-raised-prices-on-existing-customers-lost-4-heres-the-email-that-kept-the-other-96-1e0h)
+- [Solved: Monitor MongoDB Slow Queries and Pipe to Discord Channel](https://dev.to/techresolve/solved-monitor-mongodb-slow-queries-and-pipe-to-discord-channel-4p39)
+- [What is Amazon Kinesis Data Streams](https://dev.to/ankitmalikg/what-is-amazon-kinesis-data-streams-43m9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
