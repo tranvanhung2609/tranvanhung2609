@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Part 1 : Peer Aware Eureka Service Registry](https://dev.to/pratik280/part-1-peer-aware-eureka-service-registry-219n)
-- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-5d6b)
-- [Solved: People who deployed microsegmentation, how is it going?](https://dev.to/techresolve/solved-people-who-deployed-microsegmentation-how-is-it-going-3gii)
-- [Solved: I was hacked, help me understand how???](https://dev.to/techresolve/solved-i-was-hacked-help-me-understand-how-4j67)
-- [Solved: I built a CLI tool to deploy to Docker Swarm like it’s Vercel &lpar;Secrets rotation, Multi-env&rpar;](https://dev.to/techresolve/solved-i-built-a-cli-tool-to-deploy-to-docker-swarm-like-its-vercel-secrets-rotation-multi-env-3g3m)
-- [Solved: How Often Do You Write Pester tests?](https://dev.to/techresolve/solved-how-often-do-you-write-pester-tests-2eei)
+- [How I Slashed API Latency by 80% &lpar;350ms -&gt; 60ms&rpar; by Ditching Serverless](https://dev.to/kabeer_nshah_8bdaa6e7fc8/how-i-slashed-api-latency-by-80-350ms-60ms-by-ditching-serverless-28p4)
+- [Solved: Bejibun: A Full-Stack TypeScript Framework for Bun with CLI, ORM, and MVC Structure.](https://dev.to/techresolve/solved-bejibun-a-full-stack-typescript-framework-for-bun-with-cli-orm-and-mvc-structure-1gbe)
+- [Solved: Is anyone using WooPayments? How do you like it?](https://dev.to/techresolve/solved-is-anyone-using-woopayments-how-do-you-like-it-5f95)
+- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
+- [The Classic Bug: Command Injection in OpenCode&#39;s Server Mode](https://dev.to/pachilo/the-classic-bug-command-injection-in-opencodes-server-mode-2pf1)
+- [Docker-Based Static Website Deployment: A Comprehensive Guide](https://dev.to/blacorpheus/docker-based-static-website-deployment-a-comprehensive-guide-2dk9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
