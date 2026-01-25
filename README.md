@@ -120,8 +120,8 @@
 
 <h3 align="left">Streak Stats</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=tranvanhung2609&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=tranvanhung2609&theme=dracula" height="220" alt="streak graph" />
   </a>
 </div>
 
