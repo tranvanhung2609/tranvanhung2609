@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *' # Run every 6 hours
   workflow_dispatch: # Run manually
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
