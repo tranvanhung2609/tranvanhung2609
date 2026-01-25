@@ -91,7 +91,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tranvanhung2609&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+    <img src="https://github-trophies.vercel.app/?username=tranvanhung2609&theme=darkhub&no-frame=true&margin-w=4&column=7" alt="trophies" />
   </a>
 </div>
 
@@ -121,7 +121,7 @@
 <h3 align="left">Streak Stats</h3>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvanhung2609&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=tranvanhung2609&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph" />
   </a>
 </div>
 
