@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Explained Simply: Core Concepts, Best Practices, and Common Pitfalls for Developers](https://dev.to/khadijah/apache-kafka-explained-simply-core-concepts-best-practices-and-common-pitfalls-for-developers-4mmb)
-- [Apache Kafka Explained Simply: Core Concepts, Best Practices, and Common Pitfalls for Developers](https://dev.to/khadijah/apache-kafka-explained-simply-core-concepts-best-practices-and-common-pitfalls-for-developers-4mmb)
-- [The Lobster’s Shell: 5 Rules for Not Turning Your AI Assistant into a Botnet](https://dev.to/alexis_gilgonzales_c5d9a/the-lobsters-shell-5-rules-for-not-turning-your-ai-assistant-into-a-botnet-1n7i)
-- [Solved: Raised prices on existing customers. Lost 4%. Here’s the email that kept the other 96%.](https://dev.to/techresolve/solved-raised-prices-on-existing-customers-lost-4-heres-the-email-that-kept-the-other-96-1e0h)
-- [Solved: Monitor MongoDB Slow Queries and Pipe to Discord Channel](https://dev.to/techresolve/solved-monitor-mongodb-slow-queries-and-pipe-to-discord-channel-4p39)
-- [What is Amazon Kinesis Data Streams](https://dev.to/ankitmalikg/what-is-amazon-kinesis-data-streams-43m9)
+- [Part 1 : Peer Aware Eureka Service Registry](https://dev.to/pratik280/part-1-peer-aware-eureka-service-registry-219n)
+- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-5d6b)
+- [Solved: People who deployed microsegmentation, how is it going?](https://dev.to/techresolve/solved-people-who-deployed-microsegmentation-how-is-it-going-3gii)
+- [Solved: I was hacked, help me understand how???](https://dev.to/techresolve/solved-i-was-hacked-help-me-understand-how-4j67)
+- [Solved: I built a CLI tool to deploy to Docker Swarm like it’s Vercel &lpar;Secrets rotation, Multi-env&rpar;](https://dev.to/techresolve/solved-i-built-a-cli-tool-to-deploy-to-docker-swarm-like-its-vercel-secrets-rotation-multi-env-3g3m)
+- [Solved: How Often Do You Write Pester tests?](https://dev.to/techresolve/solved-how-often-do-you-write-pester-tests-2eei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
