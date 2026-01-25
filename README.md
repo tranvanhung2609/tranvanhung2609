@@ -90,7 +90,9 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tranvanhung2609&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tranvanhung2609&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  </a>
 </div>
 
 ### 📜 Certifications
@@ -118,7 +120,9 @@
 
 <h3 align="left">Streak Stats</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tranvanhung2609&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranvanhung2609&theme=dracula&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  </a>
 </div>
 
 </details>
