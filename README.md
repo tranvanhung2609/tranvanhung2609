@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Por dentro do ScyllaDB: A escolha do Discord para performance máxima](https://dev.to/higordiego/por-dentro-do-scylladb-a-escolha-do-discord-para-performance-maxima-3l6f)
-- [We got tired of users asking &quot;is this file legit?&quot; so we built a verification system](https://dev.to/sekyuriti/we-got-tired-of-users-asking-is-this-file-legit-so-we-built-a-verification-system-29na)
-- [Terraform for Beginners: Building Real AWS Infrastructure Step by Step](https://dev.to/techgirli/terraform-for-beginners-building-real-aws-infrastructure-step-by-step-3jf)
-- [Web Developer Travis McCracken on Distributed Caching with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-distributed-caching-with-rust-5469)
-- [Create a new Azure Key Vault](https://dev.to/daniel_shaibu/create-a-new-azure-key-vault-1bki)
-- [From Speculative Bags to Everyday Spend: Why Devs Should Care More About Crypto Cards](https://dev.to/tanelith/from-speculative-bags-to-everyday-spend-why-devs-should-care-more-about-crypto-cards-4h0l)
+- [Solved: Just curious: how do small businesses like coffee shops stay open in big cities like NYC?](https://dev.to/techresolve/solved-just-curious-how-do-small-businesses-like-coffee-shops-stay-open-in-big-cities-like-nyc-3ljc)
+- [Solved: Microsoft&#39;s AI: When to use Copilot, Studio, or Azure OpenAI?](https://dev.to/techresolve/solved-microsofts-ai-when-to-use-copilot-studio-or-azure-openai-4i9n)
+- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
+- [ELK Stack vs OpenTelemetry: The Ultimate Guide to Log Parsing in 2026](https://dev.to/dataformathub/elk-stack-vs-opentelemetry-the-ultimate-guide-to-log-parsing-in-2026-1bgd)
+- [Day-40 Bridging the Gap: My Day Modernizing CI/CD and Traffic Management](https://dev.to/jayanth_dasari_7/day-40-bridging-the-gap-my-day-modernizing-cicd-and-traffic-management-11f5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
