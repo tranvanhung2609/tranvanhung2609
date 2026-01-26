@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Slashed API Latency by 80% &lpar;350ms -&gt; 60ms&rpar; by Ditching Serverless](https://dev.to/kabeer_nshah_8bdaa6e7fc8/how-i-slashed-api-latency-by-80-350ms-60ms-by-ditching-serverless-28p4)
-- [Solved: Bejibun: A Full-Stack TypeScript Framework for Bun with CLI, ORM, and MVC Structure.](https://dev.to/techresolve/solved-bejibun-a-full-stack-typescript-framework-for-bun-with-cli-orm-and-mvc-structure-1gbe)
-- [Solved: Is anyone using WooPayments? How do you like it?](https://dev.to/techresolve/solved-is-anyone-using-woopayments-how-do-you-like-it-5f95)
-- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
-- [The Classic Bug: Command Injection in OpenCode&#39;s Server Mode](https://dev.to/pachilo/the-classic-bug-command-injection-in-opencodes-server-mode-2pf1)
-- [Docker-Based Static Website Deployment: A Comprehensive Guide](https://dev.to/blacorpheus/docker-based-static-website-deployment-a-comprehensive-guide-2dk9)
+- [Java Is Modern—So Why Does It Still Feel Verbose?](https://dev.to/anand_jaisy_2f7644a12001b/java-is-modern-so-why-does-it-still-feel-verbose-460a)
+- [CKA-SIMULATION STANDARD 100 labs](https://dev.to/jumptotech/cka-simulation-standard-100-labs-2ba4)
+- [HELM — COMPLETE CORE CONCEPTS &amp; CHART EXPLANATION](https://dev.to/jumptotech/helm-complete-core-concepts-chart-explanation-dmk)
+- [Java Agentic Framework](https://dev.to/vishalmysore/java-agentic-framework-3gn5)
+- [Solved: Helpful TypeScript Utility Types I’ve hand rolled over time, enjoy](https://dev.to/techresolve/solved-helpful-typescript-utility-types-ive-hand-rolled-over-time-enjoy-46hh)
+- [Solved: Ditch the US tech grind. The best countries for developers with better work-life balance.](https://dev.to/techresolve/solved-ditch-the-us-tech-grind-the-best-countries-for-developers-with-better-work-life-balance-2g6j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
