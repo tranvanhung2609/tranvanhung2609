@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java Is Modern—So Why Does It Still Feel Verbose?](https://dev.to/anand_jaisy_2f7644a12001b/java-is-modern-so-why-does-it-still-feel-verbose-460a)
-- [CKA-SIMULATION STANDARD 100 labs](https://dev.to/jumptotech/cka-simulation-standard-100-labs-2ba4)
-- [HELM — COMPLETE CORE CONCEPTS &amp; CHART EXPLANATION](https://dev.to/jumptotech/helm-complete-core-concepts-chart-explanation-dmk)
-- [Java Agentic Framework](https://dev.to/vishalmysore/java-agentic-framework-3gn5)
-- [Solved: Helpful TypeScript Utility Types I’ve hand rolled over time, enjoy](https://dev.to/techresolve/solved-helpful-typescript-utility-types-ive-hand-rolled-over-time-enjoy-46hh)
-- [Solved: Ditch the US tech grind. The best countries for developers with better work-life balance.](https://dev.to/techresolve/solved-ditch-the-us-tech-grind-the-best-countries-for-developers-with-better-work-life-balance-2g6j)
+- [Parsing NGINX Configurations with Rust: A Complete Guide to nginx-discovery](https://dev.to/ajitkumar/parsing-nginx-configurations-with-rust-a-complete-guide-to-nginx-discovery-3705)
+- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka)
+- [Weekly Tech Recap &lpar;Jan 19 - Jan 25, 2026&rpar;](https://dev.to/hkj13/weekly-tech-recap-jan-19-jan-25-2026-5766)
+- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
+- [Will Solon AI Skills be the future of Java AI Agents?](https://dev.to/noear/will-solon-ai-skills-be-the-future-of-java-ai-agents-42lc)
+- [A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.](https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
