@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Parsing NGINX Configurations with Rust: A Complete Guide to nginx-discovery](https://dev.to/ajitkumar/parsing-nginx-configurations-with-rust-a-complete-guide-to-nginx-discovery-3705)
-- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka)
-- [Weekly Tech Recap &lpar;Jan 19 - Jan 25, 2026&rpar;](https://dev.to/hkj13/weekly-tech-recap-jan-19-jan-25-2026-5766)
-- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
-- [Will Solon AI Skills be the future of Java AI Agents?](https://dev.to/noear/will-solon-ai-skills-be-the-future-of-java-ai-agents-42lc)
-- [A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.](https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j)
+- [Por dentro do ScyllaDB: A escolha do Discord para performance máxima](https://dev.to/higordiego/por-dentro-do-scylladb-a-escolha-do-discord-para-performance-maxima-3l6f)
+- [We got tired of users asking &quot;is this file legit?&quot; so we built a verification system](https://dev.to/sekyuriti/we-got-tired-of-users-asking-is-this-file-legit-so-we-built-a-verification-system-29na)
+- [Terraform for Beginners: Building Real AWS Infrastructure Step by Step](https://dev.to/techgirli/terraform-for-beginners-building-real-aws-infrastructure-step-by-step-3jf)
+- [Web Developer Travis McCracken on Distributed Caching with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-distributed-caching-with-rust-5469)
+- [Create a new Azure Key Vault](https://dev.to/daniel_shaibu/create-a-new-azure-key-vault-1bki)
+- [From Speculative Bags to Everyday Spend: Why Devs Should Care More About Crypto Cards](https://dev.to/tanelith/from-speculative-bags-to-everyday-spend-why-devs-should-care-more-about-crypto-cards-4h0l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
