@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Hosting Reviews No Longer Explain Anything](https://dev.to/k_hohlov/why-most-hosting-reviews-no-longer-explain-anything-41ie)
-- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
-- [Fixing a GitLab CE Upgrade Error: FinalizeHkFixNonExistingTimelogUsers and undefined method &#39;id&#39; for nil:NilClass](https://dev.to/nhisyamj/fixing-a-gitlab-ce-upgrade-error-finalizehkfixnonexistingtimelogusers-and-undefined-method-id-476l)
-- [Wayland vs X11: 2026 Comparison](https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok)
-- [Cron Job Monitoring for Backups: What Actually Goes Wrong](https://dev.to/jasper_brookers/cron-job-monitoring-for-backups-what-actually-goes-wrong-296i)
-- [Kubernetes Helm Chart Troubleshooting Guide](https://dev.to/aicontentlab/kubernetes-helm-chart-troubleshooting-guide-12h2)
+- [Alert Fatigue Is Killing Your On-Call Culture — Here&#39;s How to Fix It](https://dev.to/inboryn_99399f96579fcd705/alert-fatigue-is-killing-your-on-call-culture-heres-how-to-fix-it-2ikj)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-3ehc)
+- [Fail-Safe Your Legacy Java in One Sprint](https://dev.to/siy/fail-safe-your-legacy-java-in-one-sprint-d2b)
+- [Fail-Safe Your Legacy Java in One Sprint](https://dev.to/siy/fail-safe-your-legacy-java-in-one-sprint-d2b)
+- [JDK, JRE, JVM, JIT](https://dev.to/nanthini_ammu_ac02ad32802/jdk-jre-jvm-jit-3kbe)
+- [How to secure youre first CI/CD Pipeline using Github Actions](https://dev.to/techgirli/how-to-secure-youre-first-cicd-pipeline-using-github-actions-hci)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
