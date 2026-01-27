@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Alert Fatigue Is Killing Your On-Call Culture — Here&#39;s How to Fix It](https://dev.to/inboryn_99399f96579fcd705/alert-fatigue-is-killing-your-on-call-culture-heres-how-to-fix-it-2ikj)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-3ehc)
-- [Fail-Safe Your Legacy Java in One Sprint](https://dev.to/siy/fail-safe-your-legacy-java-in-one-sprint-d2b)
-- [Fail-Safe Your Legacy Java in One Sprint](https://dev.to/siy/fail-safe-your-legacy-java-in-one-sprint-d2b)
-- [JDK, JRE, JVM, JIT](https://dev.to/nanthini_ammu_ac02ad32802/jdk-jre-jvm-jit-3kbe)
-- [How to secure youre first CI/CD Pipeline using Github Actions](https://dev.to/techgirli/how-to-secure-youre-first-cicd-pipeline-using-github-actions-hci)
+- [Why the Google Cloud Certified Professional Data Engineer Certification Matters in 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/why-the-google-cloud-professional-data-engineer-certification-matters-in-2026-16fn)
+- [Traditional Code Review Is Dead. What Comes Next?](https://dev.to/signadot/traditional-code-review-is-dead-what-comes-next-41oi)
+- [How to Secure Your CI/CD Pipeline End-to-End &lpar;With Real Tools&rpar;](https://dev.to/srinivasamcjf/how-to-secure-your-cicd-pipeline-end-to-end-with-real-tools-plj)
+- [Building &amp; Deploying Real-World AI Applications with Google AI Studio 🚀](https://dev.to/kulbhushan_borse_ae325ef5/building-deploying-real-world-ai-applications-with-google-ai-studio-254p)
+- [Reestudando sua infraestrutura](https://dev.to/marcos_vile/reestudando-sua-infraestrutura-324p)
+- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
