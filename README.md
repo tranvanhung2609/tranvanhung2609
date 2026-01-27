@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Just curious: how do small businesses like coffee shops stay open in big cities like NYC?](https://dev.to/techresolve/solved-just-curious-how-do-small-businesses-like-coffee-shops-stay-open-in-big-cities-like-nyc-3ljc)
-- [Solved: Microsoft&#39;s AI: When to use Copilot, Studio, or Azure OpenAI?](https://dev.to/techresolve/solved-microsofts-ai-when-to-use-copilot-studio-or-azure-openai-4i9n)
-- [FlashFX Export System Documentation](https://dev.to/therealgabry/flashfx-export-system-documentation-32ac)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)
-- [ELK Stack vs OpenTelemetry: The Ultimate Guide to Log Parsing in 2026](https://dev.to/dataformathub/elk-stack-vs-opentelemetry-the-ultimate-guide-to-log-parsing-in-2026-1bgd)
-- [Day-40 Bridging the Gap: My Day Modernizing CI/CD and Traffic Management](https://dev.to/jayanth_dasari_7/day-40-bridging-the-gap-my-day-modernizing-cicd-and-traffic-management-11f5)
+- [RDS Backup vs Snapshot: A Comprehensive Guide](https://dev.to/datatechbridge/rds-backup-vs-snapshot-a-comprehensive-guide-2m36)
+- [Kubernetes CI/CD with GitOps &amp; Argo CD](https://dev.to/jumptotech/kubernetes-cicd-with-gitops-argo-cd-2mj7)
+- [The Real Reason Beginners Quit Backend Development](https://dev.to/luciano_brito_289ca39d287/the-real-reason-beginners-quit-backend-development-544l)
+- [Java Agentic Actions with Real time updates](https://dev.to/vishalmysore/java-agentic-actions-with-real-time-updates-13jl)
+- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
+- [I built a privacy-focused HCL &amp; YAML converter &lpar;because I don&#39;t trust servers&rpar;](https://dev.to/aslouneyahya/i-built-a-privacy-focused-hcl-yaml-converter-because-i-dont-trust-servers-2of8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
