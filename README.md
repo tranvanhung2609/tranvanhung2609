@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Infrastructure Needs Modular Data Centers](https://dev.to/sujay_namburi_7b1df3eb386/why-ai-infrastructure-needs-modular-data-centers-58io)
-- [actor-IaC: POJO-actor Workflow Based Infrastructure as Code for Cluster Management &lpar;Part 1&rpar;](https://dev.to/devteam2512/actor-iac-pojo-actor-workflow-based-infrastructure-as-code-for-cluster-management-part-1-1mhi)
-- [actor-IaC: POJO-actor Workflow Based Infrastructure as Code for Cluster Management &lpar;Part 1&rpar;](https://dev.to/devteam2512/actor-iac-pojo-actor-workflow-based-infrastructure-as-code-for-cluster-management-part-1-1mhi)
-- [Certificate Pinning Alone Won’t Stop Modern MITM Attacks](https://dev.to/vaibhav_shakya_e6b352bfc4/certificate-pinning-alone-wont-stop-modern-mitm-attacks-4o9b)
-- [Four golden signals of SRE, R.E.D &amp; U.S.E Metrics](https://dev.to/rashmitha_5c6495b0/four-golden-signals-of-sre-red-use-metrics-1k7d)
-- [POJO-actor Tutorial Part 2-3: Improving the Workflow API — Introducing the @Action Annotation](https://dev.to/devteam2512/pojo-actor-tutorial-part-2-3-improving-the-workflow-api-introducing-the-action-annotation-pe)
+- [From ScrumBuddy to Brunelly: Bad Requirements Are Still Killing Software Projects](https://dev.to/guypowell/from-scrumbuddy-to-brunellybad-requirements-are-stillkilling-software-projects-1apd)
+- [Java Records and Pattern Matching: 5 Practical Techniques for Modern Domain Modeling](https://dev.to/nithinbharathwaj/java-records-and-pattern-matching-5-practical-techniques-for-modern-domain-modeling-i91)
+- [The New Paradigm: AI-Powered Server Management via Chat](https://dev.to/ryancwynar/the-new-paradigm-ai-powered-server-management-via-chat-56h7)
+- [Shorts, Streams and Shills: How YouTube Shapes Retail Crypto Behavior in 2026 🎥](https://dev.to/tanelith/shorts-streams-and-shills-how-youtube-shapes-retail-crypto-behavior-in-2026-428c)
+- [Web Developer Travis McCracken on Optimizing JSON Encoding in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-optimizing-json-encoding-in-go-b2b)
+- [Java &amp; Tech Insights: Building a Food Donation App That Makes a Difference](https://dev.to/hanryjones9/java-tech-insights-building-a-food-donation-app-that-makes-a-difference-1eah)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
