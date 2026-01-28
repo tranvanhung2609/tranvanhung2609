@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Unity as data, not a platform — the idea behind NextLiber VRM](https://dev.to/akito_hayasaka_5a998b52e2/unity-as-data-not-a-platform-the-idea-behind-nextliber-vrm-cnn)
-- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
-- [[Boost]](https://dev.to/gem_hell/-2f97)
-- [From YAML to Production: Deploying HoloDeck Agents to Azure Container Apps](https://dev.to/jeremiahbarias/from-yaml-to-production-deploying-holodeck-agents-to-azure-container-apps-2a1e)
-- [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
-- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
+- [Why AI Infrastructure Needs Modular Data Centers](https://dev.to/sujay_namburi_7b1df3eb386/why-ai-infrastructure-needs-modular-data-centers-58io)
+- [actor-IaC: POJO-actor Workflow Based Infrastructure as Code for Cluster Management &lpar;Part 1&rpar;](https://dev.to/devteam2512/actor-iac-pojo-actor-workflow-based-infrastructure-as-code-for-cluster-management-part-1-1mhi)
+- [actor-IaC: POJO-actor Workflow Based Infrastructure as Code for Cluster Management &lpar;Part 1&rpar;](https://dev.to/devteam2512/actor-iac-pojo-actor-workflow-based-infrastructure-as-code-for-cluster-management-part-1-1mhi)
+- [Certificate Pinning Alone Won’t Stop Modern MITM Attacks](https://dev.to/vaibhav_shakya_e6b352bfc4/certificate-pinning-alone-wont-stop-modern-mitm-attacks-4o9b)
+- [Four golden signals of SRE, R.E.D &amp; U.S.E Metrics](https://dev.to/rashmitha_5c6495b0/four-golden-signals-of-sre-red-use-metrics-1k7d)
+- [POJO-actor Tutorial Part 2-3: Improving the Workflow API — Introducing the @Action Annotation](https://dev.to/devteam2512/pojo-actor-tutorial-part-2-3-improving-the-workflow-api-introducing-the-action-annotation-pe)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
