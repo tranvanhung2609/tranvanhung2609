@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From ScrumBuddy to Brunelly: Bad Requirements Are Still Killing Software Projects](https://dev.to/guypowell/from-scrumbuddy-to-brunellybad-requirements-are-stillkilling-software-projects-1apd)
-- [Java Records and Pattern Matching: 5 Practical Techniques for Modern Domain Modeling](https://dev.to/nithinbharathwaj/java-records-and-pattern-matching-5-practical-techniques-for-modern-domain-modeling-i91)
-- [The New Paradigm: AI-Powered Server Management via Chat](https://dev.to/ryancwynar/the-new-paradigm-ai-powered-server-management-via-chat-56h7)
-- [Shorts, Streams and Shills: How YouTube Shapes Retail Crypto Behavior in 2026 🎥](https://dev.to/tanelith/shorts-streams-and-shills-how-youtube-shapes-retail-crypto-behavior-in-2026-428c)
-- [Web Developer Travis McCracken on Optimizing JSON Encoding in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-optimizing-json-encoding-in-go-b2b)
-- [Java &amp; Tech Insights: Building a Food Donation App That Makes a Difference](https://dev.to/hanryjones9/java-tech-insights-building-a-food-donation-app-that-makes-a-difference-1eah)
+- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
+- [Why Error Monitoring Shouldn&#39;t Stop at Alerts](https://dev.to/pablobuilds_/why-error-monitoring-shouldnt-stop-at-alerts-me4)
+- [Java Logic Mastery: Leap Year, Voting Eligibility, and OOP Instance Validation](https://dev.to/labex/java-logic-mastery-leap-year-voting-eligibility-and-oop-instance-validation-52a5)
+- [How I Reduced My Docker Image Size by 90% Using Multi-Stage Builds](https://dev.to/vipinyadav01/how-i-reduced-my-docker-image-size-by-90-using-multi-stage-builds-p4h)
+- [50 Free Utility Tools Every Backend Developer Needs](https://dev.to/orbit2x/50-free-utility-tools-every-backend-developer-needs-34b0)
+- [50 Free Utility Tools Every Backend Developer Needs](https://dev.to/orbit2x/50-free-utility-tools-every-backend-developer-needs-34b0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
