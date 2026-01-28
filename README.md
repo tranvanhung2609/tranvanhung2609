@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why the Google Cloud Certified Professional Data Engineer Certification Matters in 2026](https://dev.to/tech_croc_f32fbb6ea8ed4/why-the-google-cloud-professional-data-engineer-certification-matters-in-2026-16fn)
-- [Traditional Code Review Is Dead. What Comes Next?](https://dev.to/signadot/traditional-code-review-is-dead-what-comes-next-41oi)
-- [How to Secure Your CI/CD Pipeline End-to-End &lpar;With Real Tools&rpar;](https://dev.to/srinivasamcjf/how-to-secure-your-cicd-pipeline-end-to-end-with-real-tools-plj)
-- [Building &amp; Deploying Real-World AI Applications with Google AI Studio 🚀](https://dev.to/kulbhushan_borse_ae325ef5/building-deploying-real-world-ai-applications-with-google-ai-studio-254p)
-- [Reestudando sua infraestrutura](https://dev.to/marcos_vile/reestudando-sua-infraestrutura-324p)
-- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
+- [Unity as data, not a platform — the idea behind NextLiber VRM](https://dev.to/akito_hayasaka_5a998b52e2/unity-as-data-not-a-platform-the-idea-behind-nextliber-vrm-cnn)
+- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
+- [[Boost]](https://dev.to/gem_hell/-2f97)
+- [From YAML to Production: Deploying HoloDeck Agents to Azure Container Apps](https://dev.to/jeremiahbarias/from-yaml-to-production-deploying-holodeck-agents-to-azure-container-apps-2a1e)
+- [The Great Developer’s Dilemma: Is 2D Actually &quot;Easier&quot; Than 3D in 2026?](https://dev.to/noah-jhon/the-great-developers-dilemma-is-2d-actually-easier-than-3d-in-2026-3m8o)
+- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
