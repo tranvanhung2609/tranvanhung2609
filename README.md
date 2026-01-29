@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Caching Strategies with Redis in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-caching-strategies-with-redis-in-rust-1171)
-- [Stop the Latency: Why MCP Servers Belong on Dedicated Hardware, Not Lambda Functions](https://dev.to/bytesrack/stop-the-latency-why-mcp-servers-belong-on-dedicated-hardware-not-lambda-functions-169n)
-- [Which Programming Language Should You Learn for DevOps? &lpar;Python vs Go vs Node.js&rpar;](https://dev.to/yatharth_sanghavi/which-programming-language-should-you-learn-for-devops-python-vs-go-vs-nodejs-3k5o)
-- [⚡ Evrone’s Take on GPU Sharing: Lessons from a Real MLOps Platform](https://dev.to/evrone/evrones-take-on-gpu-sharing-lessons-from-a-real-mlops-platform-46lj)
-- [Why I’m Moving My K8s Clusters to Bare Metal &lpar;Performance Guide&rpar;](https://dev.to/shannon_dias_927e8f0d0d18/why-im-moving-my-k8s-clusters-to-bare-metal-performance-guide-pi1)
-- [All your Kubernetes answers. Right inside Slack.](https://dev.to/kubeha_18/all-your-kubernetes-answers-right-inside-slack-45p)
+- [Part 3: Final Architecture &amp; Lessons Learned](https://dev.to/jonghwayoo3_dev/part-4-final-architecture-lessons-learned-on4)
+- [Part 2: Optimizing Search Performance&quot;](https://dev.to/jonghwayoo3_dev/part-2-optimizing-search-performance-22h5)
+- [Part 2: Optimizing Search Performance&quot;](https://dev.to/jonghwayoo3_dev/part-2-optimizing-search-performance-22h5)
+- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
+- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo3_dev/part-1-reliable-payment-transaction-1njd)
+- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo3_dev/part-1-reliable-payment-transaction-1njd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
