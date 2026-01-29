@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How We Reduced API Response Time by 60% in Node.js Using Caching, Query Optimization &amp; Performance Profiling](https://dev.to/darshanraval/how-we-reduced-api-response-time-by-60-in-nodejs-using-caching-query-optimization--4cla)
-- [Why Error Monitoring Shouldn&#39;t Stop at Alerts](https://dev.to/pablobuilds_/why-error-monitoring-shouldnt-stop-at-alerts-me4)
-- [Java Logic Mastery: Leap Year, Voting Eligibility, and OOP Instance Validation](https://dev.to/labex/java-logic-mastery-leap-year-voting-eligibility-and-oop-instance-validation-52a5)
-- [How I Reduced My Docker Image Size by 90% Using Multi-Stage Builds](https://dev.to/vipinyadav01/how-i-reduced-my-docker-image-size-by-90-using-multi-stage-builds-p4h)
-- [50 Free Utility Tools Every Backend Developer Needs](https://dev.to/orbit2x/50-free-utility-tools-every-backend-developer-needs-34b0)
-- [50 Free Utility Tools Every Backend Developer Needs](https://dev.to/orbit2x/50-free-utility-tools-every-backend-developer-needs-34b0)
+- [Marix A Modern, Zero Knowledge SSH Client](https://dev.to/dev_marix_54db61135c5b3a3/marixa-modern-zero-knowledge-ssh-client-oe3)
+- [Designing an Extensible Query API Using a DSL](https://dev.to/inno0317/designing-an-extensible-query-api-using-a-dsl-3gfb)
+- [How to Integrate M-Pesa Daraja STK Push Using Golang](https://dev.to/danikeya/how-to-integrate-m-pesa-daraja-stk-push-using-golang-1iob)
+- [Argo CD – Full Power Demonstration &lpar;Already Deployed App&rpar;](https://dev.to/jumptotech/argo-cd-full-power-demonstration-already-deployed-app-165b)
+- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
+- [P2P vs On-Ramp: Two Ways to Move Money Globally](https://dev.to/dan_keller/p2p-vs-on-ramp-two-ways-to-move-money-globally-559f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
