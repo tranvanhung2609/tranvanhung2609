@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
-- [Solved: Automating DNS Record Updates on Cloudflare using Python API](https://dev.to/techresolve/solved-automating-dns-record-updates-on-cloudflare-using-python-api-26kj)
-- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
-- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
-- [The Real Shift: Dev Tools vs Dev Workflows](https://dev.to/jaideepparashar/the-real-shift-dev-tools-vs-dev-workflows-4pib)
-- [Your Gateway to a Successful IT Career](https://dev.to/ammu_s_1780c2eb8a682500fc/your-gateway-to-a-successful-it-career-1jpa)
+- [Web Developer Travis McCracken on Caching Strategies with Redis in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-caching-strategies-with-redis-in-rust-1171)
+- [Stop the Latency: Why MCP Servers Belong on Dedicated Hardware, Not Lambda Functions](https://dev.to/bytesrack/stop-the-latency-why-mcp-servers-belong-on-dedicated-hardware-not-lambda-functions-169n)
+- [Which Programming Language Should You Learn for DevOps? &lpar;Python vs Go vs Node.js&rpar;](https://dev.to/yatharth_sanghavi/which-programming-language-should-you-learn-for-devops-python-vs-go-vs-nodejs-3k5o)
+- [⚡ Evrone’s Take on GPU Sharing: Lessons from a Real MLOps Platform](https://dev.to/evrone/evrones-take-on-gpu-sharing-lessons-from-a-real-mlops-platform-46lj)
+- [Why I’m Moving My K8s Clusters to Bare Metal &lpar;Performance Guide&rpar;](https://dev.to/shannon_dias_927e8f0d0d18/why-im-moving-my-k8s-clusters-to-bare-metal-performance-guide-pi1)
+- [All your Kubernetes answers. Right inside Slack.](https://dev.to/kubeha_18/all-your-kubernetes-answers-right-inside-slack-45p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
