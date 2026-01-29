@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Marix A Modern, Zero Knowledge SSH Client](https://dev.to/dev_marix_54db61135c5b3a3/marixa-modern-zero-knowledge-ssh-client-oe3)
-- [Designing an Extensible Query API Using a DSL](https://dev.to/inno0317/designing-an-extensible-query-api-using-a-dsl-3gfb)
-- [How to Integrate M-Pesa Daraja STK Push Using Golang](https://dev.to/danikeya/how-to-integrate-m-pesa-daraja-stk-push-using-golang-1iob)
-- [Argo CD – Full Power Demonstration &lpar;Already Deployed App&rpar;](https://dev.to/jumptotech/argo-cd-full-power-demonstration-already-deployed-app-165b)
-- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
-- [P2P vs On-Ramp: Two Ways to Move Money Globally](https://dev.to/dan_keller/p2p-vs-on-ramp-two-ways-to-move-money-globally-559f)
+- [Solved: Monitor Linux Disk Space usage and trigger Cleanup Scripts](https://dev.to/techresolve/solved-monitor-linux-disk-space-usage-and-trigger-cleanup-scripts-440)
+- [Solved: Automating DNS Record Updates on Cloudflare using Python API](https://dev.to/techresolve/solved-automating-dns-record-updates-on-cloudflare-using-python-api-26kj)
+- [QR Codes Were Just the Entry Point: A Technical Breakdown of Post-Viral Social Engineering Vectors](https://dev.to/narnaiezzsshaa/qr-codes-were-just-the-entry-point-a-technical-breakdown-of-post-viral-social-engineering-vectors-3p39)
+- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
+- [The Real Shift: Dev Tools vs Dev Workflows](https://dev.to/jaideepparashar/the-real-shift-dev-tools-vs-dev-workflows-4pib)
+- [Your Gateway to a Successful IT Career](https://dev.to/ammu_s_1780c2eb8a682500fc/your-gateway-to-a-successful-it-career-1jpa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
