@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Final Architecture &amp; Lessons Learned](https://dev.to/jonghwayoo3_dev/part-4-final-architecture-lessons-learned-on4)
-- [Part 2: Optimizing Search Performance&quot;](https://dev.to/jonghwayoo3_dev/part-2-optimizing-search-performance-22h5)
-- [Part 2: Optimizing Search Performance&quot;](https://dev.to/jonghwayoo3_dev/part-2-optimizing-search-performance-22h5)
-- [Supabase vs Appwrite A Student &amp; Freelancer Perspective &lpar;2026&rpar;](https://dev.to/girma35/supabase-vs-appwrite-a-student-freelancer-perspective-2026-iaj)
-- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo3_dev/part-1-reliable-payment-transaction-1njd)
-- [Part 1: Reliable Payment &amp; Transaction](https://dev.to/jonghwayoo3_dev/part-1-reliable-payment-transaction-1njd)
+- [AI Infrastructure for Startups: From Vibe to Moat](https://dev.to/sashido/ai-infrastructure-for-startups-from-vibe-to-moat-370)
+- [Save Money on AWS S3: Automate Storage Tiering with Terraform 💰](https://dev.to/suhas_mallesh/save-money-on-aws-s3-automate-storage-tiering-with-terraform-23i)
+- [Configuration Needs Semantics](https://dev.to/bwi/configuration-needs-semantics-4ii3)
+- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
+- [How I Reduced Production Incidents as a Senior SRE &lpar;Without Slowing Releases&rpar;](https://dev.to/ravi_teja_8b63d9205dc7a13/how-i-reduced-production-incidents-as-a-senior-sre-without-slowing-releases-49kb)
+- [CKS SecurityContext Patterns You Must Memorize &lpar;Pod vs Container + Fast Verification&rpar;](https://dev.to/devops_dynamo_ae449a82026/cks-securitycontext-patterns-you-must-memorize-pod-vs-container-fast-verification-39ac)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
