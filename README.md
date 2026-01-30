@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [My Hands-On Journey with Git, GitHub &amp; Real-World Team Workflows](https://dev.to/bagshraddha/my-hands-on-journey-with-git-github-real-world-team-workflows-3fli)
-- [Making AWS Cost Comparison a Native Part of Infrastructure Design](https://dev.to/mechcloud/engineering-aws-cost-comparison-using-infrastructure-semantics-22am)
-- [Web Developer Travis McCracken on How I Use Makefiles to Manage Backend Projects](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-use-makefiles-to-manage-backend-projects-gn6)
-- [Skip the waitlist: AI skills beyond a traditional campus](https://dev.to/iuzair/skip-the-waitlist-ai-skills-beyond-a-traditional-campus-35b7)
-- [Instance&lpar;Object&rpar; Variable](https://dev.to/nanthini_ammu_ac02ad32802/instanceobject-variable-44od)
-- [From Confused to Confident: What DevOps Engineers Actually Do](https://dev.to/shrinithi/from-confused-to-confident-what-devops-engineers-actually-do-djc)
+- [Streamlining Authentication Flows with Python: A DevOps Approach Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-python-a-devops-approach-under-pressure-4l70)
+- [Securing Legacy Codebases: A DevOps Approach to Bypassing Gated Content with Cybersecurity Tactics](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-codebases-a-devops-approach-to-bypassing-gated-content-with-cybersecurity-tactics-2an0)
+- [Overcoming Geo-Blocked Features in Testing with Python and Open Source Solutions](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-testing-with-python-and-open-source-solutions-c2h)
+- [DNS Record Types Explained](https://dev.to/dark-lord-harsh/dns-record-types-explained-8hf)
+- [Streamlining Data Quality: A DevOps Approach to Cleaning Dirty Data with Automated QA Tests](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-quality-a-devops-approach-to-cleaning-dirty-data-with-automated-qa-tests-imf)
+- [Overcoming IP Bans During High-Traffic Web Scraping with SQL Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-during-high-traffic-web-scraping-with-sql-strategies-4ghj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
