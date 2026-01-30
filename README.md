@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Infrastructure for Startups: From Vibe to Moat](https://dev.to/sashido/ai-infrastructure-for-startups-from-vibe-to-moat-370)
-- [Save Money on AWS S3: Automate Storage Tiering with Terraform 💰](https://dev.to/suhas_mallesh/save-money-on-aws-s3-automate-storage-tiering-with-terraform-23i)
-- [Configuration Needs Semantics](https://dev.to/bwi/configuration-needs-semantics-4ii3)
-- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
-- [How I Reduced Production Incidents as a Senior SRE &lpar;Without Slowing Releases&rpar;](https://dev.to/ravi_teja_8b63d9205dc7a13/how-i-reduced-production-incidents-as-a-senior-sre-without-slowing-releases-49kb)
-- [CKS SecurityContext Patterns You Must Memorize &lpar;Pod vs Container + Fast Verification&rpar;](https://dev.to/devops_dynamo_ae449a82026/cks-securitycontext-patterns-you-must-memorize-pod-vs-container-fast-verification-39ac)
+- [🕒 Online DevOps Training in Electronic City Bangalore – Flexible Learning at Emexo](https://dev.to/vamika_dafe6480c75e4390b7/online-devops-training-in-electronic-city-bangalore-flexible-learning-at-emexo-241n)
+- [Visual Regression Testing with AI Vision Models in 2026](https://dev.to/devin-rosario/visual-regression-testing-with-ai-vision-models-in-2026-29c3)
+- [Commonly used Linux commands by DevOps engineers - Version 2](https://dev.to/alok38/commonly-used-linux-commands-by-devops-engineers-version-2-55o)
+- [Rust for Android High Performance JNI Layers in 2026](https://dev.to/devin-rosario/rust-for-android-high-performance-jni-layers-in-2026-18nf)
+- [AWS EFS Emergency Response: How I Spent $69 in 26 Hours &lpar;And How to Avoid It&rpar;](https://dev.to/tielec-takashi/aws-efs-emergency-response-how-i-spent-69-in-26-hours-and-how-to-avoid-it-5gb8)
+- [How to get NginX on AWS serve a static webpage to the web?](https://dev.to/alok38/how-to-get-nginx-on-aws-serve-a-static-webpage-to-the-web-526p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
