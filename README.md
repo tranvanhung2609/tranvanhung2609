@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Authentication Flows with Python: A DevOps Approach Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-python-a-devops-approach-under-pressure-4l70)
-- [Securing Legacy Codebases: A DevOps Approach to Bypassing Gated Content with Cybersecurity Tactics](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-codebases-a-devops-approach-to-bypassing-gated-content-with-cybersecurity-tactics-2an0)
-- [Overcoming Geo-Blocked Features in Testing with Python and Open Source Solutions](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-testing-with-python-and-open-source-solutions-c2h)
-- [DNS Record Types Explained](https://dev.to/dark-lord-harsh/dns-record-types-explained-8hf)
-- [Streamlining Data Quality: A DevOps Approach to Cleaning Dirty Data with Automated QA Tests](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-quality-a-devops-approach-to-cleaning-dirty-data-with-automated-qa-tests-imf)
-- [Overcoming IP Bans During High-Traffic Web Scraping with SQL Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-during-high-traffic-web-scraping-with-sql-strategies-4ghj)
+- [20% Cheaper, 4x Faster: Migrate 100+ EBS Volumes from gp2 to gp3 in Minutes ⚡](https://dev.to/suhas_mallesh/20-cheaper-4x-faster-migrate-100-ebs-volumes-from-gp2-to-gp3-in-minutes-3j42)
+- [Preventing Spam Traps with Docker: A DevOps Approach Without Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/preventing-spam-traps-with-docker-a-devops-approach-without-documentation-gaps-1h7h)
+- [Solving Memory Leaks with Open Source DevOps Tools: A Practical Guide](https://dev.to/mohammad_waseem_c31f3a26f/solving-memory-leaks-with-open-source-devops-tools-a-practical-guide-1oih)
+- [Mitigating Leaking PII in Test Environments with Docker: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-leaking-pii-in-test-environments-with-docker-a-devops-approach-2d1g)
+- [Mastering Massive Load Testing: DevOps Strategies for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/mastering-massive-load-testing-devops-strategies-for-enterprise-scalability-3b0g)
+- [10 Tools on Orbit2x You Didn&#39;t Know You Needed](https://dev.to/orbit2x/10-tools-on-orbit2x-you-didnt-know-you-needed-46nf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
