@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Production Databases: A TypeScript Approach to Prevent Clutter](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-a-typescript-approach-to-prevent-clutter-4l67)
-- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
-- [Rapid API Solutions to Prevent Spam Traps Under Tight Deadlines in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/rapid-api-solutions-to-prevent-spam-traps-under-tight-deadlines-in-devops-9ej)
-- [Overcoming Geo-Blocked Features in DevOps: Open Source API Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-features-in-devops-open-source-api-strategies-1g04)
-- [Isolating Development Environments Using Web Scraping Without Budget](https://dev.to/mohammad_waseem_c31f3a26f/isolating-development-environments-using-web-scraping-without-budget-2o70)
-- [Streamlining Test Account Management in Linux Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-linux-without-documentation-57fo)
+- [Web Developer Travis McCracken on The Backend Tech Stack I Actually Use](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-backend-tech-stack-i-actually-use-1lf1)
+- [Building Secure AWS Networking with Terraform](https://dev.to/techgirli/building-secure-aws-networking-with-terraform-3jhh)
+- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
+- [Kubernetes Resource Management at Scale: Why Your Clusters Are Full, Idle, and Still Starving for Resources](https://dev.to/naveens16/kubernetes-resource-management-at-scale-why-your-clusters-are-full-idle-and-still-starving-for-kpk)
+- [How Code Health Reduces Technical Debt Across the SDLC](https://dev.to/rahxuls/how-code-health-reduces-technical-debt-across-the-sdlc-4ae6)
+- [The DevOps vs. Forensics Mindset: Tracing Unauthorized kubectl Access on EKS](https://dev.to/aws-builders/the-devops-vs-forensics-mindset-tracing-unauthorized-kubectl-access-on-eks-2ce3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
