@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on The Backend Tech Stack I Actually Use](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-backend-tech-stack-i-actually-use-1lf1)
-- [Building Secure AWS Networking with Terraform](https://dev.to/techgirli/building-secure-aws-networking-with-terraform-3jhh)
-- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
-- [Kubernetes Resource Management at Scale: Why Your Clusters Are Full, Idle, and Still Starving for Resources](https://dev.to/naveens16/kubernetes-resource-management-at-scale-why-your-clusters-are-full-idle-and-still-starving-for-kpk)
-- [How Code Health Reduces Technical Debt Across the SDLC](https://dev.to/rahxuls/how-code-health-reduces-technical-debt-across-the-sdlc-4ae6)
-- [The DevOps vs. Forensics Mindset: Tracing Unauthorized kubectl Access on EKS](https://dev.to/aws-builders/the-devops-vs-forensics-mindset-tracing-unauthorized-kubectl-access-on-eks-2ce3)
+- [Sharing AI Development Rules Across Your Organization](https://dev.to/paulduvall/sharing-ai-development-rules-across-your-organization-dan)
+- [CKAD Exam: The Essential Cheatsheet I Wish I Had When I Started](https://dev.to/andrew_collins/ckad-exam-the-essential-cheatsheet-i-wish-i-had-when-i-started-3727)
+- [The 10 Sites Guide to Buying Old Yahoo Accounts In ...](https://dev.to/arabela_bertram_39caa8229/the-10-sites-guide-to-buying-old-yahoo-accounts-in--30an)
+- [Redis Explained: What It Is, Why Developers Use It and the Problems It Solves](https://dev.to/kmsaifullah/redis-explained-what-it-is-why-developers-use-it-and-the-problems-it-solves-4hei)
+- [8 Best Sites to Buy Google Reviews &lpar;5 Star &amp; Positive&rpar;](https://dev.to/arabela_bertram_39caa8229/8-best-sites-to-buy-google-reviews-5-star-positive-c4h)
+- [Solved: Hostinger WordPress Premium or Business for a small WooCommerce store?](https://dev.to/techresolve/solved-hostinger-wordpress-premium-or-business-for-a-small-woocommerce-store-3ja2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
