@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Isolated Development Environments with TypeScript in Enterprise Settings](https://dev.to/mohammad_waseem_c31f3a26f/mastering-isolated-development-environments-with-typescript-in-enterprise-settings-5gno)
-- [Designing a Robust Phishing Pattern Detection System with TypeScript in Microservices Architecture](https://dev.to/mohammad_waseem_c31f3a26f/designing-a-robust-phishing-pattern-detection-system-with-typescript-in-microservices-architecture-5545)
-- [Streamlining Production Databases: A DevOps Approach to Tackle Clutter Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-a-devops-approach-to-tackle-clutter-without-documentation-3fhj)
-- [Isolating Dev Environments in Legacy Codebases with DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/isolating-dev-environments-in-legacy-codebases-with-devops-strategies-38oa)
-- [Scaling Dev Environments with JavaScript During Peak Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/scaling-dev-environments-with-javascript-during-peak-traffic-events-3poh)
-- [Leveraging Kubernetes for Resilient IP Rotation in Web Scraping](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-kubernetes-for-resilient-ip-rotation-in-web-scraping-31g5)
+- [Streamlining Production Databases with API-Driven Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-api-driven-open-source-tools-48gn)
+- [Streamlining Email Flow Validation with TypeScript and Open Source Tools in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-flow-validation-with-typescript-and-open-source-tools-in-devops-3lbd)
+- [Mastering Isolated Development Environments in Microservices with Docker](https://dev.to/mohammad_waseem_c31f3a26f/mastering-isolated-development-environments-in-microservices-with-docker-16fh)
+- [I built an open-source SBOM dashboard to track vulnerabilities across all my projects](https://dev.to/y1uda/i-built-an-open-source-sbom-dashboard-to-track-vulnerabilities-across-all-my-projects-5c1j)
+- [Solving Isolated Development Environments with TypeScript: A Practical Approach](https://dev.to/mohammad_waseem_c31f3a26f/solving-isolated-development-environments-with-typescript-a-practical-approach-349o)
+- [Rapid Optimization of Slow Database Queries with Python in High-Pressure DevOps Scenarios](https://dev.to/mohammad_waseem_c31f3a26f/rapid-optimization-of-slow-database-queries-with-python-in-high-pressure-devops-scenarios-37nj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
