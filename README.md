@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PART 2 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-2-controller-all-concept-in-springboot-project-1fln)
-- [PART 2 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-2-controller-all-concept-in-springboot-project-1fln)
-- [Web Developer Travis McCracken on Why Rust Is Worth the Steep Learning Curve](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-rust-is-worth-the-steep-learning-curve-1a4e)
-- [4 Claude Code Subagent Mistakes That Kill Your Workflow &lpar;And The Fixes&rpar;](https://dev.to/alireza_rezvani/4-claude-code-subagent-mistakes-that-kill-your-workflow-and-the-fixes-3n72)
-- [Terraform as a Pre-CI/CD Discipline](https://dev.to/techgirli/terraform-as-a-pre-cicd-discipline-34n8)
-- [Logs, Metrics, and Traces: What They Are and When to Use Each](https://dev.to/simran_kumari_464546e0a3c/logs-metrics-and-traces-what-they-are-and-when-to-use-each-2pcp)
+- [Balagan Agent 🌪️ Chaos Engineering for AI Agents](https://dev.to/ariel_sh_badacdbc56554713/ive-launched-balagan-agent-on-product-hunt-chaos-engineering-for-ai-agents-1ofc)
+- [7 WebRTC Trends Shaping Real-Time Communication in 2026](https://dev.to/alakkadshaw/7-webrtc-trends-shaping-real-time-communication-in-2026-1o07)
+- [Solved: How do you keep productivity high without burnout?](https://dev.to/techresolve/solved-how-do-you-keep-productivity-high-without-burnout-5f1i)
+- [Solved: Give Opinion: What can FinOps Weekly do Better?](https://dev.to/techresolve/solved-give-opinion-what-can-finops-weekly-do-better-1kgb)
+- [Common Docker Mistakes That Slow Your CI/CD &lpar;And How to Fix Them&rpar;](https://dev.to/abdulmuhaimin1219/common-docker-mistakes-that-slow-your-cicd-and-how-to-fix-them-50m4)
+- [Zero Trust Beyond the Perimeter: Workload Identity for Kubernetes](https://dev.to/kubeha_18/zero-trust-beyond-the-perimeter-workload-identity-for-kubernetes-4pdm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
