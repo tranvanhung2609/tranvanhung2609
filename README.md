@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem Explained: Beyond the &quot;Pick Two&quot; Myth](https://dev.to/amalik18/cap-theorem-explained-beyond-the-pick-two-myth-k1n)
-- [CP Systems Explained: The Hidden Cost of Strong Consistency](https://dev.to/amalik18/cp-systems-explained-the-hidden-cost-of-strong-consistency-1kgp)
-- [Mastering Massive Load Testing with TypeScript Under Tight Deadlines: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-massive-load-testing-with-typescript-under-tight-deadlines-a-devops-approach-36ja)
-- [Automating Authentication Workflows During High Traffic Events: A DevOps Perspective](https://dev.to/mohammad_waseem_c31f3a26f/automating-authentication-workflows-during-high-traffic-events-a-devops-perspective-1c8k)
-- [Update thousands of servers](https://dev.to/jypelle/update-thousands-of-servers-33i7)
-- [Debugging Memory Leaks with Zero-Budget Web Scraping: A DevOps Innovator’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/debugging-memory-leaks-with-zero-budget-web-scraping-a-devops-innovators-approach-1g64)
+- [Streamlining Authentication Flows with Go: A DevOps Approach without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-go-a-devops-approach-without-documentation-1d53)
+- [Streamlining Test Account Management in TypeScript: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-typescript-a-devops-approach-1lkn)
+- [Leveraging Go for Enterprise Email Delivery: Avoiding Spam Traps in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-go-for-enterprise-email-delivery-avoiding-spam-traps-in-devops-3im3)
+- [Optimizing Slow Database Queries in Kubernetes with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-slow-database-queries-in-kubernetes-with-open-source-tools-1mbo)
+- [I accidentally DDoS&#39;d myself &lpar;and why you should too&rpar;](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf)
+- [Harnessing Docker for Phishing Pattern Detection in Legacy Systems](https://dev.to/mohammad_waseem_c31f3a26f/harnessing-docker-for-phishing-pattern-detection-in-legacy-systems-gb8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
