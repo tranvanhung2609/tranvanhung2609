@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker Best Practices for Production Deployments](https://dev.to/andrew_collins/docker-best-practices-for-production-deployments-o93)
-- [Java Naming Conventions: The Definitive Guide for Class Names and Best Practices](https://dev.to/lifeportal20002010/java-naming-conventions-the-definitive-guide-for-class-names-and-best-practices-ob3)
-- [Module 2 Summary - Workflow Orchestration with Kestra Part 1](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-1-4ah0)
-- [DEVASC 200-901: Leading Network Programmability – My 591Lab](https://dev.to/al_beruni_6f2dfaf29b51d96/devasc-200-901-leading-network-programmability-my-591lab-1ek5)
-- [AI &amp; Tech News Briefing - 2026-02-03](https://dev.to/andrew_collins/ai-tech-news-briefing-2026-02-03-hf0)
-- [-&gt;&gt; Day-20 Terraform Custom Modules for EKS - From Zero to Production](https://dev.to/amit_kumar_7db8e36a64dd45/-day-20-terraform-custom-modules-for-eks-from-zero-to-production-4j92)
+- [Scaling Peak Performance: Handling Massive Load Testing with Python During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/scaling-peak-performance-handling-massive-load-testing-with-python-during-high-traffic-events-3daf)
+- [Mastering Massive Load Testing on Legacy Linux Systems: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/mastering-massive-load-testing-on-legacy-linux-systems-a-devops-approach-1ki2)
+- [Overcoming IP Bans During Web Scraping with Go and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-during-web-scraping-with-go-and-open-source-tools-29ng)
+- [Optimizing Slow Queries in Microservices Through QA Testing Strategies](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-slow-queries-in-microservices-through-qa-testing-strategies-1fm9)
+- [Breaking Geo-Restrictions: Testing Geo-Blocked Features with TypeScript and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/breaking-geo-restrictions-testing-geo-blocked-features-with-typescript-and-open-source-tools-2gdn)
+- [Securing Test Environments from PII Leaks During High Traffic Events with Python](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-from-pii-leaks-during-high-traffic-events-with-python-25k3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
