@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Balagan Agent 🌪️ Chaos Engineering for AI Agents](https://dev.to/ariel_sh_badacdbc56554713/ive-launched-balagan-agent-on-product-hunt-chaos-engineering-for-ai-agents-1ofc)
-- [7 WebRTC Trends Shaping Real-Time Communication in 2026](https://dev.to/alakkadshaw/7-webrtc-trends-shaping-real-time-communication-in-2026-1o07)
-- [Solved: How do you keep productivity high without burnout?](https://dev.to/techresolve/solved-how-do-you-keep-productivity-high-without-burnout-5f1i)
-- [Solved: Give Opinion: What can FinOps Weekly do Better?](https://dev.to/techresolve/solved-give-opinion-what-can-finops-weekly-do-better-1kgb)
-- [Common Docker Mistakes That Slow Your CI/CD &lpar;And How to Fix Them&rpar;](https://dev.to/abdulmuhaimin1219/common-docker-mistakes-that-slow-your-cicd-and-how-to-fix-them-50m4)
-- [Zero Trust Beyond the Perimeter: Workload Identity for Kubernetes](https://dev.to/kubeha_18/zero-trust-beyond-the-perimeter-workload-identity-for-kubernetes-4pdm)
+- [Docker Best Practices for Production Deployments](https://dev.to/andrew_collins/docker-best-practices-for-production-deployments-o93)
+- [Java Naming Conventions: The Definitive Guide for Class Names and Best Practices](https://dev.to/lifeportal20002010/java-naming-conventions-the-definitive-guide-for-class-names-and-best-practices-ob3)
+- [Module 2 Summary - Workflow Orchestration with Kestra Part 1](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-1-4ah0)
+- [DEVASC 200-901: Leading Network Programmability – My 591Lab](https://dev.to/al_beruni_6f2dfaf29b51d96/devasc-200-901-leading-network-programmability-my-591lab-1ek5)
+- [AI &amp; Tech News Briefing - 2026-02-03](https://dev.to/andrew_collins/ai-tech-news-briefing-2026-02-03-hf0)
+- [-&gt;&gt; Day-20 Terraform Custom Modules for EKS - From Zero to Production](https://dev.to/amit_kumar_7db8e36a64dd45/-day-20-terraform-custom-modules-for-eks-from-zero-to-production-4j92)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
