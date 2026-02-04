@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Authentication Flows with Go: A DevOps Approach without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-go-a-devops-approach-without-documentation-1d53)
-- [Streamlining Test Account Management in TypeScript: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-typescript-a-devops-approach-1lkn)
-- [Leveraging Go for Enterprise Email Delivery: Avoiding Spam Traps in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-go-for-enterprise-email-delivery-avoiding-spam-traps-in-devops-3im3)
-- [Optimizing Slow Database Queries in Kubernetes with Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-slow-database-queries-in-kubernetes-with-open-source-tools-1mbo)
-- [I accidentally DDoS&#39;d myself &lpar;and why you should too&rpar;](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf)
-- [Harnessing Docker for Phishing Pattern Detection in Legacy Systems](https://dev.to/mohammad_waseem_c31f3a26f/harnessing-docker-for-phishing-pattern-detection-in-legacy-systems-gb8)
+- [Securing Isolated Development Environments Through Cybersecurity Strategies Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/securing-isolated-development-environments-through-cybersecurity-strategies-without-documentation-14b9)
+- [Automating Test Account Management with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/automating-test-account-management-with-rust-and-open-source-tools-37fe)
+- [Stop Creating an ALB for Every Service: Master Multi-Service Routing and Save Thousands with Terraform ⚡](https://dev.to/suhas_mallesh/stop-creating-an-alb-for-every-service-master-multi-service-routing-and-save-thousands-with-35dh)
+- [Streamlining Production Databases: A DevOps Approach to Cluttered Data under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-a-devops-approach-to-cluttered-data-under-tight-deadlines-48lo)
+- [Securing Legacy Codebases: A Lead QA Engineer’s Approach to Isolated Development Environments through Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-codebases-a-lead-qa-engineers-approach-to-isolated-development-environments-59nl)
+- [Streamlining Test Account Management with Rust During Peak Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-with-rust-during-peak-traffic-events-138g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
