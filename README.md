@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Legacy Databases: DevOps Strategies for Cluttered Production Environments](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-devops-strategies-for-cluttered-production-environments-2ga4)
-- [Leveraging Linux in Microservices for Bypassing Gated Content Safely and Efficiently](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-in-microservices-for-bypassing-gated-content-safely-and-efficiently-1g2i)
-- [Streamlining Production Databases with Rust and Open Source Tools](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-rust-and-open-source-tools-k6)
-- [Streamlining Authentication Flows in Microservices with TypeScript and DevOps Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-in-microservices-with-typescript-and-devops-automation-1lhl)
-- [Streamlining Authentication Flows with Go and Open Source DevOps Tools](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-go-and-open-source-devops-tools-4d15)
-- [Rapid Isolation of Development Environments with Node.js: A DevOps Approach Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/rapid-isolation-of-development-environments-with-nodejs-a-devops-approach-under-pressure-51ob)
+- [Unearthing Subtle Misconfigurations in Cloud-Native Kubernet](https://dev.to/harsh_a45dbc191edc27e4b96/unearthing-subtle-misconfigurations-in-cloud-native-kubernet-1jjp)
+- [Detecting Phishing Patterns with Node.js During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-nodejs-during-high-traffic-events-23f9)
+- [Streamlining Authentication Flows with SQL in a Microservices Ecosystem](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-sql-in-a-microservices-ecosystem-1n86)
+- [Streamlining Slow Database Queries Through API-First Development Without Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-slow-database-queries-through-api-first-development-without-documentation-gaps-3lm1)
+- [Fundamental Programming Structures in Java](https://dev.to/sjue_bsjs_45955e4c6361540/fundamental-programming-structures-in-java-h07)
+- [1. Terraform Basics &amp; Workflow](https://dev.to/smit2036/1-terraform-basics-workflow-3ekh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
