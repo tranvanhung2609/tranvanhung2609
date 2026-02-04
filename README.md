@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Unearthing Subtle Misconfigurations in Cloud-Native Kubernet](https://dev.to/harsh_a45dbc191edc27e4b96/unearthing-subtle-misconfigurations-in-cloud-native-kubernet-1jjp)
-- [Detecting Phishing Patterns with Node.js During High Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-nodejs-during-high-traffic-events-23f9)
-- [Streamlining Authentication Flows with SQL in a Microservices Ecosystem](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-with-sql-in-a-microservices-ecosystem-1n86)
-- [Streamlining Slow Database Queries Through API-First Development Without Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-slow-database-queries-through-api-first-development-without-documentation-gaps-3lm1)
-- [Fundamental Programming Structures in Java](https://dev.to/sjue_bsjs_45955e4c6361540/fundamental-programming-structures-in-java-h07)
-- [1. Terraform Basics &amp; Workflow](https://dev.to/smit2036/1-terraform-basics-workflow-3ekh)
+- [Secure Docker-Based Microservices: Preventing PII Leaks in Test Environments](https://dev.to/mohammad_waseem_c31f3a26f/secure-docker-based-microservices-preventing-pii-leaks-in-test-environments-kn)
+- [How We Cut AWS Costs by 65% in 3 Weeks Without Sacrificing Anything](https://dev.to/robindeva/how-we-cut-aws-costs-by-65-in-3-weeks-without-sacrificing-anything-5dpl)
+- [Why Beginners Should Build Before They Feel “Ready”](https://dev.to/parmesh_patil_def14442c82/why-beginners-should-build-before-they-feel-ready-3cll)
+- [SpringbootAI generates complete technical documentation.](https://dev.to/springbootai/springbootai-generates-complete-technical-documentation-164p)
+- [Unmatched Performance and Speed](https://dev.to/aashi_singh_3cbc04bbcb534/unmatched-performance-and-speed-31in)
+- [Unmatched Performance and Speed](https://dev.to/aashi_singh_3cbc04bbcb534/unmatched-performance-and-speed-2goe)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
