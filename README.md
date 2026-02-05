@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Secure Docker-Based Microservices: Preventing PII Leaks in Test Environments](https://dev.to/mohammad_waseem_c31f3a26f/secure-docker-based-microservices-preventing-pii-leaks-in-test-environments-kn)
-- [How We Cut AWS Costs by 65% in 3 Weeks Without Sacrificing Anything](https://dev.to/robindeva/how-we-cut-aws-costs-by-65-in-3-weeks-without-sacrificing-anything-5dpl)
-- [Why Beginners Should Build Before They Feel “Ready”](https://dev.to/parmesh_patil_def14442c82/why-beginners-should-build-before-they-feel-ready-3cll)
-- [SpringbootAI generates complete technical documentation.](https://dev.to/springbootai/springbootai-generates-complete-technical-documentation-164p)
-- [Unmatched Performance and Speed](https://dev.to/aashi_singh_3cbc04bbcb534/unmatched-performance-and-speed-31in)
-- [Unmatched Performance and Speed](https://dev.to/aashi_singh_3cbc04bbcb534/unmatched-performance-and-speed-2goe)
+- [AWS ECS Deployment — From Git Push to Running Containers](https://dev.to/seahjs/aws-ecs-deployment-from-git-push-to-running-containers-3of)
+- [How I Tamed Claude Code with Pre-Tool Hooks &lpar;And You Should Too&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-tamed-claude-code-with-pre-tool-hooks-and-you-should-too-3nh1)
+- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8)
+- [AWS Enterprise Production Architecture – End-to-End DevOps Project](https://dev.to/irfanpasha/aws-enterprise-production-architecture-end-to-end-devops-project-3l8n)
+- [Streamlining Authentication Automations for Legacy Systems: A DevOps and Cybersecurity Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-automations-for-legacy-systems-a-devops-and-cybersecurity-approach-blj)
+- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
