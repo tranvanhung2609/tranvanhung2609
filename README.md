@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Prometheus Alerting Rules Best Practices](https://dev.to/aicontentlab/prometheus-alerting-rules-best-practices-33aa)
-- [Troubleshoot Kubernetes Helm Chart Deployments](https://dev.to/aicontentlab/troubleshoot-kubernetes-helm-chart-deployments-2lpa)
-- [You Are Allowed to Leave Systems That No Longer Teach You](https://dev.to/numbpill3d/you-are-allowed-to-leave-systems-that-no-longer-teach-you-m87)
-- [Quantifying the &quot;Vague Anxiety&quot; of Tailscale: tailsnitch Exposes 50 Configuration Mistakes](https://dev.to/tumf/quantifying-the-vague-anxiety-of-tailscale-tailsnitch-exposes-50-configuration-mistakes-1cm9)
-- [👻 **The PowerShell Downgrade Playbook**](https://dev.to/harsh_a45dbc191edc27e4b96/the-powershell-downgrade-playbook-13i7)
-- [Chicago Bears Jacket – Tradition, Toughness &amp; the Foundation of NFL Football](https://dev.to/lana_rhoades/chicago-bears-jacket-tradition-toughness-the-foundation-of-nfl-football-p90)
+- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
+- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
+- [The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me](https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8)
+- [From Idea to Launch: Building Scalable Products for Long-Term Growth](https://dev.to/vertex_invo_0005b24675db4/from-idea-to-launch-building-scalable-products-for-long-term-growth-3dh1)
+- [🌐 Advantages of Web Development Languages Today](https://dev.to/sanaul_news_24/advantages-of-web-development-languages-today-46m6)
+- [5 Assumptions About AI Game Dev Studios](https://dev.to/makko_ai/5-assumptions-about-ai-game-dev-studios-38b4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
