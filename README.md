@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS Deployment — From Git Push to Running Containers](https://dev.to/seahjs/aws-ecs-deployment-from-git-push-to-running-containers-3of)
-- [How I Tamed Claude Code with Pre-Tool Hooks &lpar;And You Should Too&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-i-tamed-claude-code-with-pre-tool-hooks-and-you-should-too-3nh1)
-- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8)
-- [AWS Enterprise Production Architecture – End-to-End DevOps Project](https://dev.to/irfanpasha/aws-enterprise-production-architecture-end-to-end-devops-project-3l8n)
-- [Streamlining Authentication Automations for Legacy Systems: A DevOps and Cybersecurity Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-automations-for-legacy-systems-a-devops-and-cybersecurity-approach-blj)
-- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
+- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
+- [Why My `@Transactional` Did Absolutely Nothing &lpar;A Spring Proxy Trap&rpar;](https://dev.to/mohamed_akthar_7/why-my-transactional-did-absolutely-nothing-a-spring-proxy-trap-20hb)
+- [Golden Triangle Tour with Varanasi | Delhi, Agra, Jaipur &amp; Varanasi Tour](https://dev.to/mysatyatravels/golden-triangle-tour-with-varanasi-delhi-agra-jaipur-varanasi-tour-6bm)
+- [What Are Custom Boat Docks and Why Build One](https://dev.to/dream_boatdocks_95524d5c/what-are-custom-boat-docks-and-why-build-one-5bpf)
+- [How Rising Code Complexity Impacts Testing, Debugging, and Releases?](https://dev.to/sophielane/how-rising-code-complexity-impacts-testing-debugging-and-releases-59ef)
+- [Online Community Demise and why DEV is Different &lpar;at least a little bit, I hope&rpar;](https://dev.to/aashi_singh_3cbc04bbcb534/online-community-demise-and-why-dev-is-different-at-least-a-little-bit-i-hope-489h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
