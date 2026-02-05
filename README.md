@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
-- [Why My `@Transactional` Did Absolutely Nothing &lpar;A Spring Proxy Trap&rpar;](https://dev.to/mohamed_akthar_7/why-my-transactional-did-absolutely-nothing-a-spring-proxy-trap-20hb)
-- [Golden Triangle Tour with Varanasi | Delhi, Agra, Jaipur &amp; Varanasi Tour](https://dev.to/mysatyatravels/golden-triangle-tour-with-varanasi-delhi-agra-jaipur-varanasi-tour-6bm)
-- [What Are Custom Boat Docks and Why Build One](https://dev.to/dream_boatdocks_95524d5c/what-are-custom-boat-docks-and-why-build-one-5bpf)
-- [How Rising Code Complexity Impacts Testing, Debugging, and Releases?](https://dev.to/sophielane/how-rising-code-complexity-impacts-testing-debugging-and-releases-59ef)
-- [Online Community Demise and why DEV is Different &lpar;at least a little bit, I hope&rpar;](https://dev.to/aashi_singh_3cbc04bbcb534/online-community-demise-and-why-dev-is-different-at-least-a-little-bit-i-hope-489h)
+- [Prometheus Alerting Rules Best Practices](https://dev.to/aicontentlab/prometheus-alerting-rules-best-practices-33aa)
+- [Troubleshoot Kubernetes Helm Chart Deployments](https://dev.to/aicontentlab/troubleshoot-kubernetes-helm-chart-deployments-2lpa)
+- [You Are Allowed to Leave Systems That No Longer Teach You](https://dev.to/numbpill3d/you-are-allowed-to-leave-systems-that-no-longer-teach-you-m87)
+- [Quantifying the &quot;Vague Anxiety&quot; of Tailscale: tailsnitch Exposes 50 Configuration Mistakes](https://dev.to/tumf/quantifying-the-vague-anxiety-of-tailscale-tailsnitch-exposes-50-configuration-mistakes-1cm9)
+- [👻 **The PowerShell Downgrade Playbook**](https://dev.to/harsh_a45dbc191edc27e4b96/the-powershell-downgrade-playbook-13i7)
+- [Chicago Bears Jacket – Tradition, Toughness &amp; the Foundation of NFL Football](https://dev.to/lana_rhoades/chicago-bears-jacket-tradition-toughness-the-foundation-of-nfl-football-p90)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
