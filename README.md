@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Skills Nobody Teaches You in Full Stack Courses But Companies Actually Test in Interviews- quastech](https://dev.to/quastech/skills-nobody-teaches-you-in-full-stack-courses-but-companies-actually-test-in-interviews-quastech-1pj2)
-- [Skills Nobody Teaches You in Full Stack Courses But Companies Actually Test in Interviews- quastech](https://dev.to/quastech/skills-nobody-teaches-you-in-full-stack-courses-but-companies-actually-test-in-interviews-quastech-1pj2)
-- [Moving to GraphQL Federation for Mobile Backends](https://dev.to/del_rosario/moving-to-graphql-federation-for-mobile-backends-299l)
-- [Nvidia’s Next-Gen Gaming Chip Delay — What It Actually Means for Developers](https://dev.to/frozenblood/nvidias-next-gen-gaming-chip-delay-what-it-actually-means-for-developers-1imc)
-- [Indexes Aren’t Magic — How Databases Really Use Them](https://dev.to/frozenblood/indexes-arent-magic-how-databases-really-use-them-412n)
-- [Moltbook Is Not an AI Society](https://dev.to/aashi_singh_3cbc04bbcb534/moltbook-is-not-an-ai-society-49hj)
+- [🔑 Token Confusion: Cloud Identity Drift](https://dev.to/harsh_a45dbc191edc27e4b96/token-confusion-cloud-identity-drift-4ip4)
+- [Built an Legaltech for Singapore using RAG&lpar;improvements&rpar;](https://dev.to/aditya_prasad_c670b9e01c4/built-an-legaltech-for-singapore-using-ragimprovements-285g)
+- [Empowering Somali Youth with Tech, AI, and Startup Knowledge](https://dev.to/eng_buzuri/empowering-somali-youth-with-tech-ai-and-startup-knowledge-a6e)
+- [Automatic AWS Tags for AWS Backup: Complete Automation Guide](https://dev.to/mark_rayhshtat_b33ccde07a/automatic-aws-tags-for-aws-backup-complete-automation-guide-411b)
+- [LXC vs Docker in Production: How Container Runtimes Behave Differently at Scale](https://dev.to/atmosly/lxc-vs-docker-in-production-how-container-runtimes-behave-differently-at-scale-i1e)
+- [Why Professional Web Development Services Matter for Business Growth in 2026](https://dev.to/mr_zubair78698423/why-professional-web-development-services-matter-for-business-growth-in-2026-2oi4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
