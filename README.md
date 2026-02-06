@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
-- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
-- [The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me](https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8)
-- [From Idea to Launch: Building Scalable Products for Long-Term Growth](https://dev.to/vertex_invo_0005b24675db4/from-idea-to-launch-building-scalable-products-for-long-term-growth-3dh1)
-- [🌐 Advantages of Web Development Languages Today](https://dev.to/sanaul_news_24/advantages-of-web-development-languages-today-46m6)
-- [5 Assumptions About AI Game Dev Studios](https://dev.to/makko_ai/5-assumptions-about-ai-game-dev-studios-38b4)
+- [Qué pasa realmente cuando una app pide algo](https://dev.to/aws/que-pasa-realmente-cuando-una-app-pide-algo-19g0)
+- [More Than Just a Board: Why My First Jira Sprint Was a Lesson in DevOps](https://dev.to/goodnessoj/more-than-just-a-board-why-my-first-jira-sprint-was-a-lesson-in-devops-4n85)
+- [AWS ECS Deployment — Review](https://dev.to/seahjs/aws-ecs-deployment-review-53ci)
+- [docker-android: A Docker Environment for Controlling Android Emulators from a Web Browser](https://dev.to/tumf/docker-android-a-docker-environment-for-controlling-android-emulators-from-a-web-browser-9lg)
+- [Agentic CLI Design: 7 Principles for Designing CLI as a Protocol for AI Agents](https://dev.to/tumf/agentic-cli-design-7-principles-for-designing-cli-as-a-protocol-for-ai-agents-2c10)
+- [Stop Blaming AWS Defaults for Your Misconfigurations](https://dev.to/narnaiezzsshaa/stop-blaming-aws-defaults-for-your-misconfigurations-5gbo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
