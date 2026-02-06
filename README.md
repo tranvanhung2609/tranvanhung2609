@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🔑 Token Confusion: Cloud Identity Drift](https://dev.to/harsh_a45dbc191edc27e4b96/token-confusion-cloud-identity-drift-4ip4)
-- [Built an Legaltech for Singapore using RAG&lpar;improvements&rpar;](https://dev.to/aditya_prasad_c670b9e01c4/built-an-legaltech-for-singapore-using-ragimprovements-285g)
-- [Empowering Somali Youth with Tech, AI, and Startup Knowledge](https://dev.to/eng_buzuri/empowering-somali-youth-with-tech-ai-and-startup-knowledge-a6e)
-- [Automatic AWS Tags for AWS Backup: Complete Automation Guide](https://dev.to/mark_rayhshtat_b33ccde07a/automatic-aws-tags-for-aws-backup-complete-automation-guide-411b)
-- [LXC vs Docker in Production: How Container Runtimes Behave Differently at Scale](https://dev.to/atmosly/lxc-vs-docker-in-production-how-container-runtimes-behave-differently-at-scale-i1e)
-- [Why Professional Web Development Services Matter for Business Growth in 2026](https://dev.to/mr_zubair78698423/why-professional-web-development-services-matter-for-business-growth-in-2026-2oi4)
+- [Top 10 Verified Sites to Buy Old Yahoo Accounts in 2026 ...](https://dev.to/brianna_collins_82e3d7e1b/top-10-verified-sites-to-buy-old-yahoo-accounts-in-2026--964)
+- [YOLO11 Pose Estimation: The Complete Beginner&#39;s Guide](https://dev.to/sohan_lal_241c2d80b2705e7/yolo11-pose-estimation-the-complete-beginners-guide-4m7d)
+- [Getting Started with Clprolf: Structuring Responsibilities in OOP](https://dev.to/charles_koffler_bcabc582b/getting-started-with-clprolf-structuring-responsibilities-in-oop-5doe)
+- [We Stopped Treating AI Agents Like Chatbots and Started Treating Them Like OS Processes](https://dev.to/praetorian_guard/we-stopped-treating-ai-agents-like-chatbots-and-started-treating-them-like-os-processes-3dml)
+- [How We Tamed the Thundering Herd in Our ArgoCD Multi-Tenant Setup](https://dev.to/latentorder/how-we-tamed-the-thundering-herd-in-our-argocd-multi-tenant-setup-19b5)
+- [Fix Git Mistakes: Hands-on Labs for Git Switch, File Recovery, and Commit Removal](https://dev.to/labex/fix-git-mistakes-hands-on-labs-for-git-switch-file-recovery-and-commit-removal-5165)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
