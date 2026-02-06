@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Qué pasa realmente cuando una app pide algo](https://dev.to/aws/que-pasa-realmente-cuando-una-app-pide-algo-19g0)
-- [More Than Just a Board: Why My First Jira Sprint Was a Lesson in DevOps](https://dev.to/goodnessoj/more-than-just-a-board-why-my-first-jira-sprint-was-a-lesson-in-devops-4n85)
-- [AWS ECS Deployment — Review](https://dev.to/seahjs/aws-ecs-deployment-review-53ci)
-- [docker-android: A Docker Environment for Controlling Android Emulators from a Web Browser](https://dev.to/tumf/docker-android-a-docker-environment-for-controlling-android-emulators-from-a-web-browser-9lg)
-- [Agentic CLI Design: 7 Principles for Designing CLI as a Protocol for AI Agents](https://dev.to/tumf/agentic-cli-design-7-principles-for-designing-cli-as-a-protocol-for-ai-agents-2c10)
-- [Stop Blaming AWS Defaults for Your Misconfigurations](https://dev.to/narnaiezzsshaa/stop-blaming-aws-defaults-for-your-misconfigurations-5gbo)
+- [Skills Nobody Teaches You in Full Stack Courses But Companies Actually Test in Interviews- quastech](https://dev.to/quastech/skills-nobody-teaches-you-in-full-stack-courses-but-companies-actually-test-in-interviews-quastech-1pj2)
+- [Skills Nobody Teaches You in Full Stack Courses But Companies Actually Test in Interviews- quastech](https://dev.to/quastech/skills-nobody-teaches-you-in-full-stack-courses-but-companies-actually-test-in-interviews-quastech-1pj2)
+- [Moving to GraphQL Federation for Mobile Backends](https://dev.to/del_rosario/moving-to-graphql-federation-for-mobile-backends-299l)
+- [Nvidia’s Next-Gen Gaming Chip Delay — What It Actually Means for Developers](https://dev.to/frozenblood/nvidias-next-gen-gaming-chip-delay-what-it-actually-means-for-developers-1imc)
+- [Indexes Aren’t Magic — How Databases Really Use Them](https://dev.to/frozenblood/indexes-arent-magic-how-databases-really-use-them-412n)
+- [Moltbook Is Not an AI Society](https://dev.to/aashi_singh_3cbc04bbcb534/moltbook-is-not-an-ai-society-49hj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
