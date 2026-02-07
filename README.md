@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Verified Sites to Buy Old Yahoo Accounts in 2026 ...](https://dev.to/brianna_collins_82e3d7e1b/top-10-verified-sites-to-buy-old-yahoo-accounts-in-2026--964)
-- [YOLO11 Pose Estimation: The Complete Beginner&#39;s Guide](https://dev.to/sohan_lal_241c2d80b2705e7/yolo11-pose-estimation-the-complete-beginners-guide-4m7d)
-- [Getting Started with Clprolf: Structuring Responsibilities in OOP](https://dev.to/charles_koffler_bcabc582b/getting-started-with-clprolf-structuring-responsibilities-in-oop-5doe)
-- [We Stopped Treating AI Agents Like Chatbots and Started Treating Them Like OS Processes](https://dev.to/praetorian_guard/we-stopped-treating-ai-agents-like-chatbots-and-started-treating-them-like-os-processes-3dml)
-- [How We Tamed the Thundering Herd in Our ArgoCD Multi-Tenant Setup](https://dev.to/latentorder/how-we-tamed-the-thundering-herd-in-our-argocd-multi-tenant-setup-19b5)
-- [Fix Git Mistakes: Hands-on Labs for Git Switch, File Recovery, and Commit Removal](https://dev.to/labex/fix-git-mistakes-hands-on-labs-for-git-switch-file-recovery-and-commit-removal-5165)
+- [The Uncomfortable Truth: Why CLIs Are Still Beating MCP Servers in the Age of AI Agents](https://dev.to/mechcloud_academy/the-uncomfortable-truth-why-clis-are-still-beating-mcp-servers-in-the-age-of-ai-agents-4n9f)
+- [How I Monitor Uptime With Zero Dependencies](https://dev.to/arkforge-ceo/how-i-monitor-uptime-with-zero-dependencies-478m)
+- [I Built a Free Tool to Find Quantum-Vulnerable Cryptography in Your Code](https://dev.to/3canfreekit/i-built-a-free-tool-to-find-quantum-vulnerable-cryptography-in-your-code-2cpo)
+- [How I Monitor Uptime With Zero Dependencies — Architecture of a Minimal Monitoring Engine](https://dev.to/arkforge-ceo/how-i-monitor-uptime-with-zero-dependencies-architecture-of-a-minimal-monitoring-engine-2cn9)
+- [I Built a Self-Healing AI System Using Claude Code as Emergency Doctor](https://dev.to/ramsbaby/i-built-a-self-healing-ai-system-using-claude-code-as-emergency-doctor-183f)
+- [Aeon: A Zero-Allocation Go Time Library That Treats Time as &quot;Containers&quot; Rather Than &quot;Offsets&quot;](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
