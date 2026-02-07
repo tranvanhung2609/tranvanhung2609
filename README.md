@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Cloud Identity Theft: The K8s Blind Spot](https://dev.to/harsh_a45dbc191edc27e4b96/cloud-identity-theft-the-k8s-blind-spot-1bjl)
-- [🧠 AI Architecture for Beginners: What Goes Where &lpar;No Buzzwords&rpar;](https://dev.to/manukumar07/ai-architecture-for-beginners-what-goes-where-no-buzzwords-245c)
-- [Java_class,Object](https://dev.to/ajayr18/javaclassobject-17ag)
-- [Class in Java::](https://dev.to/manoj_k_/class-in-java-19ji)
-- [What is Class in java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-class-in-java-4106)
-- [what is class in Java?](https://dev.to/aj_arul/what-is-class-in-java-5bg3)
+- [Advancing the C language in today’s time means improving safety,](https://dev.to/azadnabi/advancing-the-c-language-in-todays-time-means-improving-safety-1jlf)
+- [Web Developer Travis McCracken on My Favorite VSCode Extensions for Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-my-favorite-vscode-extensions-for-backend-dev-3bko)
+- [How I Documented My Terraform DevSecOps Project](https://dev.to/techgirli/how-i-documented-my-terraform-devsecops-project-42bo)
+- [Book Jaipur to Delhi One Way Cab Now](https://dev.to/easyyatratrip_628b13c98ae/book-jaipur-to-delhi-one-way-cab-now-2bg0)
+- [Operating AI in Production Is an Ops Problem](https://dev.to/prateekdalal/operating-ai-in-production-is-an-ops-problem-2io6)
+- [uigigf](https://dev.to/juhouhio/uigigf-4odd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
