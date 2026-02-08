@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Task-Based Productivity Program &lpar;Python&rpar;](https://dev.to/mushfikurrahaman100/task-based-productivity-program-python-184n)
-- [Freshping Is Shutting Down March 6 — Your Migration Checklist](https://dev.to/shibley/freshping-is-shutting-down-march-6-your-migration-checklist-2f4g)
-- [The Real Cost of API Downtime in 2026](https://dev.to/shibley/the-real-cost-of-api-downtime-in-2026-162b)
-- [Productivity Program using Python](https://dev.to/mushfikurrahaman100/productivity-program-using-python-56j2)
-- [Advantages of Python Programming](https://dev.to/mushfikurrahaman100/advantages-of-python-programming-16gd)
-- [Wired Django, Nextcloud, Grafana, Loki &amp; Prometheus into a secure observability mesh over Tailnet &lpar;metrics &amp; logs, dashboards&rpar;.](https://dev.to/rahim8050/wired-django-nextcloud-grafana-loki-prometheus-into-a-secure-observability-mesh-over-tailnet-357k)
+- [Building Reusable React Components with Editable Prop Schemas for Visual Page Builders](https://dev.to/jasonbiondo/building-reusable-react-components-with-editable-prop-schemas-for-visual-page-builders-15ak)
+- [Web Developer Travis McCracken on Logging and Observability in Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-logging-and-observability-in-backend-systems-26ie)
+- [Foundation of Modern Languages](https://dev.to/m1_nnx_0b02f8ec58d174ed74/foundation-of-modern-languages-387k)
+- [SSH Mastery 2026: From Zero to Hero - The Developer&#39;s Complete Guide](https://dev.to/md8_habibullah/ssh-mastery-2026-from-zero-to-hero-the-developers-complete-guide-1bla)
+- [How I Built Multi-Tenant SaaS on AWS &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/akilesh_thuniki/how-i-built-multi-tenant-saas-on-aws-so-you-dont-have-to-2p3o)
+- [Instance variable, Local variable, static variable and global variable](https://dev.to/karthick_m22/instance-variable-local-variable-static-variable-and-global-variable-5389)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
