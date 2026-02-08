@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankumarofficial/gofr-an-opinionated-microservice-development-framework-jml)
-- [When AWS Lambda Versioning Was Not Enough](https://dev.to/martin_d_5a09a3d2755932b1/when-aws-lambda-versioning-was-not-enough-1fe8)
-- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
-- [Developing a unique interactive portfolio.](https://dev.to/z3rosec/developing-a-unique-interactive-portfolio-5hnh)
-- [CodeBehind 4.6 Released; Upgrade to .NET 10](https://dev.to/elanatframework/codebehind-46-released-upgrade-to-net-10-2p1g)
-- [How to Implement OpenClaw in a Spring Boot Application &lpar;Java&rpar;](https://dev.to/mykola-bielousov/how-to-implement-openclaw-in-a-spring-boot-application-java-5c02)
+- [Task-Based Productivity Program &lpar;Python&rpar;](https://dev.to/mushfikurrahaman100/task-based-productivity-program-python-184n)
+- [Freshping Is Shutting Down March 6 — Your Migration Checklist](https://dev.to/shibley/freshping-is-shutting-down-march-6-your-migration-checklist-2f4g)
+- [The Real Cost of API Downtime in 2026](https://dev.to/shibley/the-real-cost-of-api-downtime-in-2026-162b)
+- [Productivity Program using Python](https://dev.to/mushfikurrahaman100/productivity-program-using-python-56j2)
+- [Advantages of Python Programming](https://dev.to/mushfikurrahaman100/advantages-of-python-programming-16gd)
+- [Wired Django, Nextcloud, Grafana, Loki &amp; Prometheus into a secure observability mesh over Tailnet &lpar;metrics &amp; logs, dashboards&rpar;.](https://dev.to/rahim8050/wired-django-nextcloud-grafana-loki-prometheus-into-a-secure-observability-mesh-over-tailnet-357k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
