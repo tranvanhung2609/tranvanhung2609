@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🔑 Cloud Policy Abuse: The IAM Blind Spot](https://dev.to/harsh_hak/cloud-policy-abuse-the-iam-blind-spot-fgj)
-- [Tech With Tim: ClawdBot Full Tutorial for Beginners: SECURE Setup Guide](https://dev.to/vibe_youtube/tech-with-tim-clawdbot-full-tutorial-for-beginners-secure-setup-guide-2p4c)
-- [Notification System Design](https://dev.to/azmy/notification-system-design-12ol)
-- [Java LocalDate Guide: Using getDayOfWeek, getDayOfMonth, and From Methods](https://dev.to/labex/java-localdate-guide-using-getdayofweek-getdayofmonth-and-from-methods-4n8k)
-- [Java LocalDate Guide: Using getDayOfWeek, getDayOfMonth, and From Methods](https://dev.to/labex/java-localdate-guide-using-getdayofweek-getdayofmonth-and-from-methods-4n8k)
-- [Git Operations Simplified &#39;git pull&#39; VS &#39;git fetch.&#39;](https://dev.to/arun_dhole_c877fddec2131d/git-operations-simplified-git-pull-vs-git-fetch-3mld)
+- [GoFr: An Opinionated Microservice Development Framework](https://dev.to/amankumarofficial/gofr-an-opinionated-microservice-development-framework-jml)
+- [When AWS Lambda Versioning Was Not Enough](https://dev.to/martin_d_5a09a3d2755932b1/when-aws-lambda-versioning-was-not-enough-1fe8)
+- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
+- [Developing a unique interactive portfolio.](https://dev.to/z3rosec/developing-a-unique-interactive-portfolio-5hnh)
+- [CodeBehind 4.6 Released; Upgrade to .NET 10](https://dev.to/elanatframework/codebehind-46-released-upgrade-to-net-10-2p1g)
+- [How to Implement OpenClaw in a Spring Boot Application &lpar;Java&rpar;](https://dev.to/mykola-bielousov/how-to-implement-openclaw-in-a-spring-boot-application-java-5c02)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
