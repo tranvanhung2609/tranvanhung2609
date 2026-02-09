@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building a deterministic lead scoring API](https://dev.to/joxm/what-i-learned-building-a-deterministic-lead-scoring-api-1nej)
-- [What Building a Backend Taught Me About Statelessness and Idempotent APIs](https://dev.to/grooms_nicholas/what-building-a-backend-taught-me-about-statelessness-and-idempotent-apis-366k)
-- [Fire Your DevOps Team: A Solo Dev’s Guide to Kamal 2](https://dev.to/zilton7/fire-your-devops-team-a-solo-devs-guide-to-kamal-2-41fn)
-- [Welcome to IgorIOT &lpar;a.k.a. I Go Riot&rpar;](https://dev.to/igoriot/welcome-to-igoriot-aka-i-go-riot-1kng)
-- [Knowledge in patches will not help us more. As it will not serve any purpose in any fast chaging world. An AI-powered personal knowledge system is not about storing more. It’s about compounding understanding over time. It will lead to long term success.](https://dev.to/jaideepparashar/knowledge-in-patches-will-not-help-us-more-as-it-will-not-serve-any-purpose-in-any-fast-chaging-1hah)
-- [How to Build an AI-Powered Personal Knowledge System](https://dev.to/jaideepparashar/how-to-build-an-ai-powered-personal-knowledge-system-48dd)
+- [Where Can I Create an Online Store Without Coding](https://dev.to/marnus_53e688a7ea/where-can-i-create-an-online-store-without-coding-3m3p)
+- [FastAPI: Backend Framework or Service Framework?](https://dev.to/ahmadwaqarcs/fastapi-backend-framework-or-service-framework-g1j)
+- [Weekly Tech Recap &lpar;Feb 2 - Feb 8, 2026&rpar;](https://dev.to/hkj13/weekly-tech-recap-feb-2-feb-8-2026-5d89)
+- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
+- [👻 Living Off The Land Evasion](https://dev.to/harsh_hak/living-off-the-land-evasion-24oc)
+- [Beat 4-year costs: AI degree-level skills in 18 months](https://dev.to/iuzair/beat-4-year-costs-ai-degree-level-skills-in-18-months-3ki)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
