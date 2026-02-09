@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Where Can I Create an Online Store Without Coding](https://dev.to/marnus_53e688a7ea/where-can-i-create-an-online-store-without-coding-3m3p)
-- [FastAPI: Backend Framework or Service Framework?](https://dev.to/ahmadwaqarcs/fastapi-backend-framework-or-service-framework-g1j)
-- [Weekly Tech Recap &lpar;Feb 2 - Feb 8, 2026&rpar;](https://dev.to/hkj13/weekly-tech-recap-feb-2-feb-8-2026-5d89)
-- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
-- [👻 Living Off The Land Evasion](https://dev.to/harsh_hak/living-off-the-land-evasion-24oc)
-- [Beat 4-year costs: AI degree-level skills in 18 months](https://dev.to/iuzair/beat-4-year-costs-ai-degree-level-skills-in-18-months-3ki)
+- [I Ditched AWS for a 10Gbps AMD EPYC VPS: Here are the Benchmarks 🚀](https://dev.to/rackoona/i-ditched-aws-for-a-10gbps-amd-epyc-vps-here-are-the-benchmarks-4lfm)
+- [Variables and Constants](https://dev.to/sjue_bsjs_45955e4c6361540/variables-and-constants-42f8)
+- [The Invisible Risk of Open-Source Dependencies in Cloud-Native Stacks](https://dev.to/kubeha_18/the-invisible-risk-of-open-source-dependencies-in-cloud-native-stacks-3oc6)
+- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
+- [Hidden gems of Kubernetes](https://dev.to/suresh_devops_ffa0728a190/hidden-gems-of-kubernetes-25l9)
+- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-2e69)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
