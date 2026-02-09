@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Future of IT: Artificial Intelligence, Cybersecurity, and Cloud Computing](https://dev.to/waseem_akram_cfea4907338b/the-future-of-it-artificial-intelligence-cybersecurity-and-cloud-computing-ge1)
-- [Buy LinkedIn Profiles &lpar;Rental&rpar; — Verified &amp; Aged Accounts](https://dev.to/bhai_c3af1414399edf4ee041/buy-linkedin-profiles-rental-verified-aged-accounts-5b7)
-- [Advantages of C Language in Today’s Time](https://dev.to/daniyalsikandar/advantages-of-c-language-in-todays-time-1734)
-- [📧 Exchange Evasion: C2 Over MAPI](https://dev.to/harsh_hak/exchange-evasion-c2-over-mapi-3ikm)
-- [The Ultimate Guide To Buying Old Yahoo Accounts | PDF](https://dev.to/bhai_c3af1414399edf4ee041/the-ultimate-guide-to-buying-old-yahoo-accounts-pdf-10l8)
-- [Why Developers Are Switching to Modern Tooling: A 2026 Reality Check](https://dev.to/koko_to_07707a5912d1fff4c/why-developers-are-switching-to-modern-tooling-a-2026-reality-check-24a5)
+- [What I learned building a deterministic lead scoring API](https://dev.to/joxm/what-i-learned-building-a-deterministic-lead-scoring-api-1nej)
+- [What Building a Backend Taught Me About Statelessness and Idempotent APIs](https://dev.to/grooms_nicholas/what-building-a-backend-taught-me-about-statelessness-and-idempotent-apis-366k)
+- [Fire Your DevOps Team: A Solo Dev’s Guide to Kamal 2](https://dev.to/zilton7/fire-your-devops-team-a-solo-devs-guide-to-kamal-2-41fn)
+- [Welcome to IgorIOT &lpar;a.k.a. I Go Riot&rpar;](https://dev.to/igoriot/welcome-to-igoriot-aka-i-go-riot-1kng)
+- [Knowledge in patches will not help us more. As it will not serve any purpose in any fast chaging world. An AI-powered personal knowledge system is not about storing more. It’s about compounding understanding over time. It will lead to long term success.](https://dev.to/jaideepparashar/knowledge-in-patches-will-not-help-us-more-as-it-will-not-serve-any-purpose-in-any-fast-chaging-1hah)
+- [How to Build an AI-Powered Personal Knowledge System](https://dev.to/jaideepparashar/how-to-build-an-ai-powered-personal-knowledge-system-48dd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
