@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Docker Exit Codes](https://dev.to/aicontentlab/debugging-docker-exit-codes-37db)
-- [Jaipur to Chirawa One Way Cab Service | Easy Yatra Trip](https://dev.to/easyyatratrip_628b13c98ae/jaipur-to-chirawa-one-way-cab-service-easy-yatra-trip-2nh7)
-- [Solved: Is fast cart checkout pages are important for Woocommerce?](https://dev.to/techresolve/solved-is-fast-cart-checkout-pages-are-important-for-woocommerce-3deb)
-- [Solved: Private endpoints yes or not?](https://dev.to/techresolve/solved-private-endpoints-yes-or-not-5ei2)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2g7d)
-- [JavaScript Event Loop Explained: Microtasks &amp; Macrotasks](https://dev.to/andrewjames/javascript-event-loop-explained-microtasks-macrotasks-14c4)
+- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
+- [Still paying 4 years for a tech career?](https://dev.to/iuzair/still-paying-4-years-for-a-tech-career-1be4)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/kelvin_vosky_dc39384ebad2/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-463l)
+- [The Zombie Entity: Why my Spring Boot API returned &quot;200 OK&quot; but refused to Delete](https://dev.to/vigneshwaralingam/the-zombie-entity-why-my-spring-boot-api-returned-200-ok-but-refused-to-delete-46f3)
+- [The Zombie Entity: Why my Spring Boot API returned &quot;200 OK&quot; but refused to Delete](https://dev.to/vigneshwaralingam/the-zombie-entity-why-my-spring-boot-api-returned-200-ok-but-refused-to-delete-46f3)
+- [Deploying a Containerized E-commerce Application on AWS EC2: A Practical DevOps Walkthrough](https://dev.to/bayo_ogundele_b3f16b3c436/deploying-a-containerized-e-commerce-application-on-aws-ec2-a-practical-devops-walkthrough-5b10)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
