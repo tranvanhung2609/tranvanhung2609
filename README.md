@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Projects Fail After the POC Stage](https://dev.to/inboryn_99399f96579fcd705/why-most-ai-projects-fail-after-the-poc-stage-45m)
-- [Affordable Data Science Course Available in India – Quastech](https://dev.to/quastech/affordable-data-science-course-available-in-india-quastech-43db)
-- [Preparing for DevOps roles? Don’t skip VPC Peering.](https://dev.to/kunal_phalke_8212/preparing-for-devops-roles-dont-skip-vpc-peering-1g89)
-- [Manticore Search 17.5.1](https://dev.to/sanikolaev/manticore-search-1751-cbj)
-- [The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)
-- [Introduction - TechStoryBits](https://dev.to/muthu_krishnan_2326/introduction-techstorybits-4l10)
+- [Debugging Docker Exit Codes](https://dev.to/aicontentlab/debugging-docker-exit-codes-37db)
+- [Jaipur to Chirawa One Way Cab Service | Easy Yatra Trip](https://dev.to/easyyatratrip_628b13c98ae/jaipur-to-chirawa-one-way-cab-service-easy-yatra-trip-2nh7)
+- [Solved: Is fast cart checkout pages are important for Woocommerce?](https://dev.to/techresolve/solved-is-fast-cart-checkout-pages-are-important-for-woocommerce-3deb)
+- [Solved: Private endpoints yes or not?](https://dev.to/techresolve/solved-private-endpoints-yes-or-not-5ei2)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2g7d)
+- [JavaScript Event Loop Explained: Microtasks &amp; Macrotasks](https://dev.to/andrewjames/javascript-event-loop-explained-microtasks-macrotasks-14c4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
