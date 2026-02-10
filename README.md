@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Ditched AWS for a 10Gbps AMD EPYC VPS: Here are the Benchmarks 🚀](https://dev.to/rackoona/i-ditched-aws-for-a-10gbps-amd-epyc-vps-here-are-the-benchmarks-4lfm)
-- [Variables and Constants](https://dev.to/sjue_bsjs_45955e4c6361540/variables-and-constants-42f8)
-- [The Invisible Risk of Open-Source Dependencies in Cloud-Native Stacks](https://dev.to/kubeha_18/the-invisible-risk-of-open-source-dependencies-in-cloud-native-stacks-3oc6)
-- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
-- [Hidden gems of Kubernetes](https://dev.to/suresh_devops_ffa0728a190/hidden-gems-of-kubernetes-25l9)
-- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-2e69)
+- [The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)
+- [Introduction - TechStoryBits](https://dev.to/muthu_krishnan_2326/introduction-techstorybits-4l10)
+- [Skip the 4-year wait - start your cyber career now](https://dev.to/iuzair/skip-the-4-year-wait-start-your-cyber-career-now-4738)
+- [Why AI Workloads Behave Differently Across Hosting Platforms](https://dev.to/k_hohlov/why-ai-workloads-behave-differently-across-hosting-platforms-147b)
+- [Today, a small team, or even a solo developer, can launch a serious AI-powered SaaS without investors, without a burn-rate treadmill, and without betting the company on growth-at-all-costs.](https://dev.to/jaideepparashar/today-a-small-team-or-even-a-solo-developer-can-launch-a-serious-ai-powered-saas-without-1jpd)
+- [How Developers Can Launch AI-Powered SaaS Without Investors](https://dev.to/jaideepparashar/how-developers-can-launch-ai-powered-saas-without-investors-28jf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
