@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
+- [Why Most AI Projects Fail After the POC Stage](https://dev.to/inboryn_99399f96579fcd705/why-most-ai-projects-fail-after-the-poc-stage-45m)
+- [Affordable Data Science Course Available in India – Quastech](https://dev.to/quastech/affordable-data-science-course-available-in-india-quastech-43db)
+- [Preparing for DevOps roles? Don’t skip VPC Peering.](https://dev.to/kunal_phalke_8212/preparing-for-devops-roles-dont-skip-vpc-peering-1g89)
+- [Manticore Search 17.5.1](https://dev.to/sanikolaev/manticore-search-1751-cbj)
 - [The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)
 - [Introduction - TechStoryBits](https://dev.to/muthu_krishnan_2326/introduction-techstorybits-4l10)
-- [Skip the 4-year wait - start your cyber career now](https://dev.to/iuzair/skip-the-4-year-wait-start-your-cyber-career-now-4738)
-- [Why AI Workloads Behave Differently Across Hosting Platforms](https://dev.to/k_hohlov/why-ai-workloads-behave-differently-across-hosting-platforms-147b)
-- [Today, a small team, or even a solo developer, can launch a serious AI-powered SaaS without investors, without a burn-rate treadmill, and without betting the company on growth-at-all-costs.](https://dev.to/jaideepparashar/today-a-small-team-or-even-a-solo-developer-can-launch-a-serious-ai-powered-saas-without-1jpd)
-- [How Developers Can Launch AI-Powered SaaS Without Investors](https://dev.to/jaideepparashar/how-developers-can-launch-ai-powered-saas-without-investors-28jf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
