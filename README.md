@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solved: I’ve always wanted to make something like this. Does anyone know how to](https://dev.to/techresolve/solved-ive-always-wanted-to-make-something-like-this-does-anyone-know-how-to-50d1)
-- [Solved: Migrating many Route53 hosted zones and records to Terraform – best approach?](https://dev.to/techresolve/solved-migrating-many-route53-hosted-zones-and-records-to-terraform-best-approach-1jka)
-- [Web Developer Travis McCracken on Fast Startup Times for Containerized Services](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-startup-times-for-containerized-services-5373)
-- [Decentralized MLM: The Next Generation of Network Marketing](https://dev.to/jack799200/decentralized-mlm-the-next-generation-of-network-marketing-18mn)
-- [The 7 Most Critical Manual Testing Mistakes and How to Fix Them](https://dev.to/matt_calder_e620d84cf0c14/the-7-most-critical-manual-testing-mistakes-and-how-to-fix-them-42o1)
-- [How to Inspect All Cron Jobs on a Linux System: A Sysadmin&#39;s Guide](https://dev.to/geeksta/how-to-inspect-all-cron-jobs-on-a-linux-system-a-sysadmins-guide-k9f)
+- [Breaking the Sequential Ceiling: High-Performance Concurrency in Java 8 Enterprise Systems](https://dev.to/nunosilva/breaking-the-sequential-ceiling-high-performance-concurrency-in-java-8-enterprise-systems-14k7)
+- [Criando meu primeiro Caixinha Eletrônico em Java: Unindo Lógica de Decisão e Records](https://dev.to/thnocard36/criando-meu-primeiro-caixinha-eletronico-em-java-unindo-logica-de-decisao-e-records-2eog)
+- [Building v0.1: The 4th Gen &amp; Notion Shift](https://dev.to/mdreal32/building-v01-the-4th-gen-notion-shift-56jg)
+- [Your Traces Look Fine. Your Revenue Isn’t.](https://dev.to/paras_kampasi/your-traces-look-fine-your-revenue-isnt-1pah)
+- [Deploying a Production Ready Website in Minutes &lpar;No Lock-In&rpar;](https://dev.to/belalibrahim/deploying-a-production-ready-website-in-minutes-no-lock-in-282f)
+- [Optimizing AI Agent Memory: Tiered Context and Aggressive Compaction](https://dev.to/kiravaughn/optimizing-ai-agent-memory-tiered-context-and-aggressive-compaction-4bei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
