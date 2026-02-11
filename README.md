@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
-- [Still paying 4 years for a tech career?](https://dev.to/iuzair/still-paying-4-years-for-a-tech-career-1be4)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/kelvin_vosky_dc39384ebad2/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-463l)
-- [The Zombie Entity: Why my Spring Boot API returned &quot;200 OK&quot; but refused to Delete](https://dev.to/vigneshwaralingam/the-zombie-entity-why-my-spring-boot-api-returned-200-ok-but-refused-to-delete-46f3)
-- [The Zombie Entity: Why my Spring Boot API returned &quot;200 OK&quot; but refused to Delete](https://dev.to/vigneshwaralingam/the-zombie-entity-why-my-spring-boot-api-returned-200-ok-but-refused-to-delete-46f3)
-- [Deploying a Containerized E-commerce Application on AWS EC2: A Practical DevOps Walkthrough](https://dev.to/bayo_ogundele_b3f16b3c436/deploying-a-containerized-e-commerce-application-on-aws-ec2-a-practical-devops-walkthrough-5b10)
+- [Guia Completo de Monitoramento &lpar;ER605 + Prometheus&rpar;](https://dev.to/ferradas/guia-completo-de-monitoramento-er605-prometheus-46ai)
+- [SLIs, SLOs, SLAs: The Guide to SRE’s Secret Sauce](https://dev.to/bhushitha_hashan/slis-slos-slas-the-guide-to-sres-secret-sauce-53bh)
+- [Why Status Code Monitoring Isn&#39;t Enough in 2026 &lpar;And What We Do Instead&rpar;](https://dev.to/arkforge-ceo/why-status-code-monitoring-isnt-enough-in-2026-and-what-we-do-instead-1kef)
+- [Stop Configuring Nginx: The Easiest Way to Deploy Go &amp; React with HTTPS](https://dev.to/alex_g_aeeb05ba69eee8a4fd/stop-configuring-nginx-the-easiest-way-to-deploy-go-react-with-https-51ma)
+- [We Just Launched ArkWatch — Because Status Code Monitoring Is a 2015 Solution to a 2026 Problem](https://dev.to/arkforge-ceo/we-just-launched-arkwatch-because-status-code-monitoring-is-a-2015-solution-to-a-2026-problem-4jp)
+- [ArkWatch vs Traditional Monitoring: What Changes When You Monitor Content, Not Just Status Codes](https://dev.to/arkforge-ceo/arkwatch-vs-traditional-monitoring-what-changes-when-you-monitor-content-not-just-status-codes-dbn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
