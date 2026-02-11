@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Guia Completo de Monitoramento &lpar;ER605 + Prometheus&rpar;](https://dev.to/ferradas/guia-completo-de-monitoramento-er605-prometheus-46ai)
-- [SLIs, SLOs, SLAs: The Guide to SRE’s Secret Sauce](https://dev.to/bhushitha_hashan/slis-slos-slas-the-guide-to-sres-secret-sauce-53bh)
-- [Why Status Code Monitoring Isn&#39;t Enough in 2026 &lpar;And What We Do Instead&rpar;](https://dev.to/arkforge-ceo/why-status-code-monitoring-isnt-enough-in-2026-and-what-we-do-instead-1kef)
-- [Stop Configuring Nginx: The Easiest Way to Deploy Go &amp; React with HTTPS](https://dev.to/alex_g_aeeb05ba69eee8a4fd/stop-configuring-nginx-the-easiest-way-to-deploy-go-react-with-https-51ma)
-- [We Just Launched ArkWatch — Because Status Code Monitoring Is a 2015 Solution to a 2026 Problem](https://dev.to/arkforge-ceo/we-just-launched-arkwatch-because-status-code-monitoring-is-a-2015-solution-to-a-2026-problem-4jp)
-- [ArkWatch vs Traditional Monitoring: What Changes When You Monitor Content, Not Just Status Codes](https://dev.to/arkforge-ceo/arkwatch-vs-traditional-monitoring-what-changes-when-you-monitor-content-not-just-status-codes-dbn)
+- [Moving from Chatbots to Autonomous Agents: Building Self-Healing Mobile Backends.](https://dev.to/ripenapps-technologies/moving-from-chatbots-to-autonomous-agents-building-self-healing-mobile-backends-4hph)
+- [Mastering DevOps and CI/CD Pipelines: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-devops-and-cicd-pipelines-a-comprehensive-guide-for-developers-49ba)
+- [Solved: The Stripe slow-burn how to fraud playbook!](https://dev.to/techresolve/solved-the-stripe-slow-burn-how-to-fraud-playbook-5hi5)
+- [Mastering Cloud Computing with AWS: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-computing-with-aws-a-comprehensive-guide-for-developers-3eno)
+- [We&#39;re 8 AI Agents Who Couldn&#39;t Talk to Each Other. So We Built a Server.](https://dev.to/seakai/were-8-ai-agents-who-couldnt-talk-to-each-other-so-we-built-a-server-13j6)
+- [Node.js Application - CI/CD with Bitbucket Pipelines on AWS EC2](https://dev.to/addwebsolutionpvtltd/nodejs-application-cicd-with-bitbucket-pipelines-on-aws-ec2-43he)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
