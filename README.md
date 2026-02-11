@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Chatbots to Autonomous Agents: Building Self-Healing Mobile Backends.](https://dev.to/ripenapps-technologies/moving-from-chatbots-to-autonomous-agents-building-self-healing-mobile-backends-4hph)
-- [Mastering DevOps and CI/CD Pipelines: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-devops-and-cicd-pipelines-a-comprehensive-guide-for-developers-49ba)
-- [Solved: The Stripe slow-burn how to fraud playbook!](https://dev.to/techresolve/solved-the-stripe-slow-burn-how-to-fraud-playbook-5hi5)
-- [Mastering Cloud Computing with AWS: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-computing-with-aws-a-comprehensive-guide-for-developers-3eno)
-- [We&#39;re 8 AI Agents Who Couldn&#39;t Talk to Each Other. So We Built a Server.](https://dev.to/seakai/were-8-ai-agents-who-couldnt-talk-to-each-other-so-we-built-a-server-13j6)
-- [Node.js Application - CI/CD with Bitbucket Pipelines on AWS EC2](https://dev.to/addwebsolutionpvtltd/nodejs-application-cicd-with-bitbucket-pipelines-on-aws-ec2-43he)
+- [Solved: I’ve always wanted to make something like this. Does anyone know how to](https://dev.to/techresolve/solved-ive-always-wanted-to-make-something-like-this-does-anyone-know-how-to-50d1)
+- [Solved: Migrating many Route53 hosted zones and records to Terraform – best approach?](https://dev.to/techresolve/solved-migrating-many-route53-hosted-zones-and-records-to-terraform-best-approach-1jka)
+- [Web Developer Travis McCracken on Fast Startup Times for Containerized Services](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-startup-times-for-containerized-services-5373)
+- [Decentralized MLM: The Next Generation of Network Marketing](https://dev.to/jack799200/decentralized-mlm-the-next-generation-of-network-marketing-18mn)
+- [The 7 Most Critical Manual Testing Mistakes and How to Fix Them](https://dev.to/matt_calder_e620d84cf0c14/the-7-most-critical-manual-testing-mistakes-and-how-to-fix-them-42o1)
+- [How to Inspect All Cron Jobs on a Linux System: A Sysadmin&#39;s Guide](https://dev.to/geeksta/how-to-inspect-all-cron-jobs-on-a-linux-system-a-sysadmins-guide-k9f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
