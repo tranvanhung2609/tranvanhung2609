@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Replicate Zepto&#39;s AI Success Story with Custom AI Development Services](https://dev.to/infutrix/how-to-replicate-zeptos-ai-success-story-with-custom-ai-development-services-1e44)
-- [What you use?](https://dev.to/techsorter/what-you-use-13f9)
-- [Your Lambda Memory is Wrong: Auto-Tune It and Save 40% in Minutes ⚡](https://dev.to/suhas_mallesh/your-lambda-memory-is-wrong-auto-tune-it-and-save-40-in-minutes-3hkb)
-- [Running Redis 24/7? You&#39;re Leaving 40% on the Table Without Reserved Nodes 🔥](https://dev.to/suhas_mallesh/running-redis-247-youre-leaving-40-on-the-table-without-reserved-nodes-44fi)
-- [Your Dev Database Has Multi-AZ Enabled &lpar;You&#39;re Paying Double for No Reason&rpar; 💸](https://dev.to/suhas_mallesh/your-dev-database-has-multi-az-enabled-youre-paying-double-for-no-reason-3jc3)
-- [Software Testing Basics in Agile and CI/CD Environments](https://dev.to/sophielane/software-testing-basics-in-agile-and-cicd-environments-5h3j)
+- [Docker Container Memory and CPU Limits](https://dev.to/aicontentlab/docker-container-memory-and-cpu-limits-1825)
+- [How AIOps is Revolutionising IT Downtime in 2026.](https://dev.to/colateai/how-aiops-is-revolutionising-it-downtime-in-2026-28m0)
+- [Web Developer Travis McCracken on Deploying Rust Services on Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-deploying-rust-services-on-kubernetes-4581)
+- [Map-Based Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #007](https://dev.to/sugaiketadao/map-based-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-attempt-in-515i)
+- [Let&#39;s build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)
+- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
