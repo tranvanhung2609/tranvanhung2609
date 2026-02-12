@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Sequential Ceiling: High-Performance Concurrency in Java 8 Enterprise Systems](https://dev.to/nunosilva/breaking-the-sequential-ceiling-high-performance-concurrency-in-java-8-enterprise-systems-14k7)
-- [Criando meu primeiro Caixinha Eletrônico em Java: Unindo Lógica de Decisão e Records](https://dev.to/thnocard36/criando-meu-primeiro-caixinha-eletronico-em-java-unindo-logica-de-decisao-e-records-2eog)
-- [Building v0.1: The 4th Gen &amp; Notion Shift](https://dev.to/mdreal32/building-v01-the-4th-gen-notion-shift-56jg)
-- [Your Traces Look Fine. Your Revenue Isn’t.](https://dev.to/paras_kampasi/your-traces-look-fine-your-revenue-isnt-1pah)
-- [Deploying a Production Ready Website in Minutes &lpar;No Lock-In&rpar;](https://dev.to/belalibrahim/deploying-a-production-ready-website-in-minutes-no-lock-in-282f)
-- [Optimizing AI Agent Memory: Tiered Context and Aggressive Compaction](https://dev.to/kiravaughn/optimizing-ai-agent-memory-tiered-context-and-aggressive-compaction-4bei)
+- [How to create shared library lab](https://dev.to/jumptotech/how-to-create-shared-library-lab-5bpe)
+- [AWS EC2 &lpar;Ubuntu&rpar; --------------------- Jenkins Controller &lpar;Orchestrator&rpar;](https://dev.to/jumptotech/aws-ec2-ubuntu-jenkins-46mb)
+- [Running One Docker Container Per User on a $35/Month Server](https://dev.to/reeddev42/running-one-docker-container-per-user-on-a-35month-server-51hh)
+- [Building a Directory Platform with Node.js &amp; PostgreSQL &lpar;Lessons from a Niche Gaming Project&rpar;](https://dev.to/a_richards_8e5195d4bab61e/building-a-directory-platform-with-nodejs-postgresql-lessons-from-a-niche-gaming-project-10dg)
+- [A Note on Language: Three Terms I Use When Talking About AI Governance.](https://dev.to/hollowhouse/a-note-on-language-three-terms-i-use-when-talking-about-ai-governance-3ccd)
+- [Conversational Development With Claude Code --- Part 6: Impact Analysis of a Ratings Feature](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-6-impact-analysis-of-a-ratings-feature-385e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
