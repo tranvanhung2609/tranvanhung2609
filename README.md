@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker Container Memory and CPU Limits](https://dev.to/aicontentlab/docker-container-memory-and-cpu-limits-1825)
-- [How AIOps is Revolutionising IT Downtime in 2026.](https://dev.to/colateai/how-aiops-is-revolutionising-it-downtime-in-2026-28m0)
-- [Web Developer Travis McCracken on Deploying Rust Services on Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-deploying-rust-services-on-kubernetes-4581)
-- [Map-Based Design - I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #007](https://dev.to/sugaiketadao/map-based-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-attempt-in-515i)
-- [Let&#39;s build a Local Mail Server from Scratch with Postfix and Dovecot](https://dev.to/khripkooleg/lets-build-a-local-mail-server-from-scratch-with-postfix-and-dovecot-3gje)
-- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
+- [From Backend Engineer to AI Engineer: A Practical Roadmap &lpar;No Hype&rpar;](https://dev.to/tinhtinhcd/from-backend-engineer-to-ai-engineer-a-practical-roadmap-no-hype-4kl)
+- [Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c)
+- [Blazing-Fast Execution](https://dev.to/atif_tanwri_dd92ce60fab70/blazing-fast-execution-4n07)
+- [Limitations of C Language](https://dev.to/mukesh_kumar_529a85eef0c1/limitations-of-c-language-5d6e)
+- [Skip tests while build running?](https://dev.to/kiponos/skip-tests-while-build-running-10j4)
+- [Skip tests while build running?](https://dev.to/kiponos/skip-tests-while-build-running-10j4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
