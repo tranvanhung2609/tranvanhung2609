@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to create shared library lab](https://dev.to/jumptotech/how-to-create-shared-library-lab-5bpe)
-- [AWS EC2 &lpar;Ubuntu&rpar; --------------------- Jenkins Controller &lpar;Orchestrator&rpar;](https://dev.to/jumptotech/aws-ec2-ubuntu-jenkins-46mb)
-- [Running One Docker Container Per User on a $35/Month Server](https://dev.to/reeddev42/running-one-docker-container-per-user-on-a-35month-server-51hh)
-- [Building a Directory Platform with Node.js &amp; PostgreSQL &lpar;Lessons from a Niche Gaming Project&rpar;](https://dev.to/a_richards_8e5195d4bab61e/building-a-directory-platform-with-nodejs-postgresql-lessons-from-a-niche-gaming-project-10dg)
-- [A Note on Language: Three Terms I Use When Talking About AI Governance.](https://dev.to/hollowhouse/a-note-on-language-three-terms-i-use-when-talking-about-ai-governance-3ccd)
-- [Conversational Development With Claude Code --- Part 6: Impact Analysis of a Ratings Feature](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-6-impact-analysis-of-a-ratings-feature-385e)
+- [How to Replicate Zepto&#39;s AI Success Story with Custom AI Development Services](https://dev.to/infutrix/how-to-replicate-zeptos-ai-success-story-with-custom-ai-development-services-1e44)
+- [What you use?](https://dev.to/techsorter/what-you-use-13f9)
+- [Your Lambda Memory is Wrong: Auto-Tune It and Save 40% in Minutes ⚡](https://dev.to/suhas_mallesh/your-lambda-memory-is-wrong-auto-tune-it-and-save-40-in-minutes-3hkb)
+- [Running Redis 24/7? You&#39;re Leaving 40% on the Table Without Reserved Nodes 🔥](https://dev.to/suhas_mallesh/running-redis-247-youre-leaving-40-on-the-table-without-reserved-nodes-44fi)
+- [Your Dev Database Has Multi-AZ Enabled &lpar;You&#39;re Paying Double for No Reason&rpar; 💸](https://dev.to/suhas_mallesh/your-dev-database-has-multi-az-enabled-youre-paying-double-for-no-reason-3jc3)
+- [Software Testing Basics in Agile and CI/CD Environments](https://dev.to/sophielane/software-testing-basics-in-agile-and-cicd-environments-5h3j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
