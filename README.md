@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Automating Documentation Review in Your CI/CD Pipeline](https://dev.to/bipin_rimal314/automating-documentation-review-in-your-cicd-pipeline-goj)
-- [Your Documentation is Lying to Your Users](https://dev.to/bipin_rimal314/your-documentation-is-lying-to-your-users-41o6)
-- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-n7k)
-- [Multithreading and Concurrency in Java: Complete Beginner to Advanced Guide](https://dev.to/gowtham_kalyan_a0f7df04c1/multithreading-and-concurrency-in-java-complete-beginner-to-advanced-guide-10ap)
-- [👻 EDR Evasion: Unhooking the Kernel](https://dev.to/harsh_hak/edr-evasion-unhooking-the-kernel-kn)
-- [Exception Handling Best Practices in Java: A Complete Guide for Developers](https://dev.to/aswin_arya_89918234fee18f/exception-handling-best-practices-in-java-a-complete-guide-for-developers-13c9)
+- [Is Shopify Down? How to Check Shopify Status and Fix Issues](https://dev.to/shibley/is-shopify-down-how-to-check-shopify-status-and-fix-issues-282f)
+- [[Boost]](https://dev.to/oakulikov/-32kh)
+- [[Boost]](https://dev.to/oakulikov/-32kh)
+- [The 1:1 Myth: Why Your CPU Can Handle 400 Threads on 4 Cores](https://dev.to/nunosilva/the-11-myth-why-your-cpu-can-handle-400-threads-on-4-cores-57il)
+- [Navigation/Route Calculation System](https://dev.to/_noob/navigationroute-calculation-system-p0k)
+- [Is PayPal Down? How to Check Status and Fix Issues](https://dev.to/shibley/is-paypal-down-how-to-check-status-and-fix-issues-4co4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
