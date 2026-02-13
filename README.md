@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure &lpar;Step‑by‑Step Guide&rpar;](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l)
-- [Working With Git And Github](https://dev.to/cmwokocha/working-with-git-and-github-131j)
-- [Building a Production-Ready Python CLI Tool with Logging, Error Handling, and Auto-Updates in 2026](https://dev.to/leejackson/building-a-production-ready-python-cli-tool-with-logging-error-handling-and-auto-updates-in-2026-58ca)
-- [Stop Burning Money: How to Find Orphaned Azure Disks with PowerShell](https://dev.to/gavindobbs_wa/stop-burning-money-how-to-find-orphaned-azure-disks-with-powershell-5a8f)
-- [what is inside Jenkins](https://dev.to/jumptotech/what-is-inside-jenkins-2f1p)
-- [what problem solve Jenkins](https://dev.to/jumptotech/what-problem-solve-jenkins-2dmh)
+- [How to Learn Go &lpar;Golang&rpar; Fast in 2026 – Complete Practical Roadmap 🚀](https://dev.to/yash_sonawane25/how-to-learn-go-golang-fast-in-2026-complete-practical-roadmap-3eka)
+- [How to Learn Go &lpar;Golang&rpar; Fast in 2026 – Complete Practical Roadmap 🚀](https://dev.to/yash_sonawane25/how-to-learn-go-golang-fast-in-2026-complete-practical-roadmap-3eka)
+- [Hardcoded Selectors vs. AI Prompts: A Resilience Benchmark on Etsy](https://dev.to/sommic/hardcoded-selectors-vs-ai-prompts-a-resilience-benchmark-on-etsy-39k9)
+- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
+- [Still stuck choosing a degree path?](https://dev.to/alnafi/still-stuck-choosing-a-degree-path-39mb)
+- [Bulletproof Backups: Automating Encrypted Cloud Sync with Rclone and Systemd](https://dev.to/lyraalishaikh/bulletproof-backups-automating-encrypted-cloud-sync-with-rclone-and-systemd-2n16)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
