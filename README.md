@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From Backend Engineer to AI Engineer: A Practical Roadmap &lpar;No Hype&rpar;](https://dev.to/tinhtinhcd/from-backend-engineer-to-ai-engineer-a-practical-roadmap-no-hype-4kl)
-- [Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c)
-- [Blazing-Fast Execution](https://dev.to/atif_tanwri_dd92ce60fab70/blazing-fast-execution-4n07)
-- [Limitations of C Language](https://dev.to/mukesh_kumar_529a85eef0c1/limitations-of-c-language-5d6e)
-- [Skip tests while build running?](https://dev.to/kiponos/skip-tests-while-build-running-10j4)
-- [Skip tests while build running?](https://dev.to/kiponos/skip-tests-while-build-running-10j4)
+- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure &lpar;Step‑by‑Step Guide&rpar;](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l)
+- [Working With Git And Github](https://dev.to/cmwokocha/working-with-git-and-github-131j)
+- [Building a Production-Ready Python CLI Tool with Logging, Error Handling, and Auto-Updates in 2026](https://dev.to/leejackson/building-a-production-ready-python-cli-tool-with-logging-error-handling-and-auto-updates-in-2026-58ca)
+- [Stop Burning Money: How to Find Orphaned Azure Disks with PowerShell](https://dev.to/gavindobbs_wa/stop-burning-money-how-to-find-orphaned-azure-disks-with-powershell-5a8f)
+- [what is inside Jenkins](https://dev.to/jumptotech/what-is-inside-jenkins-2f1p)
+- [what problem solve Jenkins](https://dev.to/jumptotech/what-problem-solve-jenkins-2dmh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
