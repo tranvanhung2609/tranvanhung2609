@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Learn Go &lpar;Golang&rpar; Fast in 2026 – Complete Practical Roadmap 🚀](https://dev.to/yash_sonawane25/how-to-learn-go-golang-fast-in-2026-complete-practical-roadmap-3eka)
-- [How to Learn Go &lpar;Golang&rpar; Fast in 2026 – Complete Practical Roadmap 🚀](https://dev.to/yash_sonawane25/how-to-learn-go-golang-fast-in-2026-complete-practical-roadmap-3eka)
-- [Hardcoded Selectors vs. AI Prompts: A Resilience Benchmark on Etsy](https://dev.to/sommic/hardcoded-selectors-vs-ai-prompts-a-resilience-benchmark-on-etsy-39k9)
-- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
-- [Still stuck choosing a degree path?](https://dev.to/alnafi/still-stuck-choosing-a-degree-path-39mb)
-- [Bulletproof Backups: Automating Encrypted Cloud Sync with Rclone and Systemd](https://dev.to/lyraalishaikh/bulletproof-backups-automating-encrypted-cloud-sync-with-rclone-and-systemd-2n16)
+- [Automating Documentation Review in Your CI/CD Pipeline](https://dev.to/bipin_rimal314/automating-documentation-review-in-your-cicd-pipeline-goj)
+- [Your Documentation is Lying to Your Users](https://dev.to/bipin_rimal314/your-documentation-is-lying-to-your-users-41o6)
+- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-n7k)
+- [Multithreading and Concurrency in Java: Complete Beginner to Advanced Guide](https://dev.to/gowtham_kalyan_a0f7df04c1/multithreading-and-concurrency-in-java-complete-beginner-to-advanced-guide-10ap)
+- [👻 EDR Evasion: Unhooking the Kernel](https://dev.to/harsh_hak/edr-evasion-unhooking-the-kernel-kn)
+- [Exception Handling Best Practices in Java: A Complete Guide for Developers](https://dev.to/aswin_arya_89918234fee18f/exception-handling-best-practices-in-java-a-complete-guide-for-developers-13c9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
