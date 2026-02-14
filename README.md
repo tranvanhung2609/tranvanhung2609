@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow Zurich Release: Highlighted New Features](https://dev.to/nayan_patel_8ad7591f41897/servicenow-zurich-release-highlighted-new-features-1nid)
-- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga)
-- [Designing a CLAUDE.md Context System: How I Give AI Full Project Context Without Re-explaining Anything](https://dev.to/syntora/designing-a-claudemd-context-system-how-i-give-ai-full-project-context-without-re-explaining-3p2p)
-- [Stop Overpaying for Secrets You Never Rotate: Migrate to SSM Parameter Store with Terraform 🔐](https://dev.to/suhas_mallesh/stop-overpaying-for-secrets-you-never-rotate-migrate-to-ssm-parameter-store-with-terraform-4l26)
-- [That 500GB EBS Volume is 90% Empty: Right-Size It and Stop Wasting Money 💾](https://dev.to/suhas_mallesh/that-500gb-ebs-volume-is-90-empty-right-size-it-and-stop-wasting-money-1603)
-- [Building an Autonomous FinOps Agent: My Experiment in Automating Cloud Cost Optimization](https://dev.to/exploredataaiml/building-an-autonomous-finops-agent-my-experiment-in-automating-cloud-cost-optimization-52id)
+- [Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74)
+- [Is LinkedIn Down? How to Check LinkedIn Status and Fix Connection Issues &lpar;2026&rpar;](https://dev.to/shibley/is-linkedin-down-how-to-check-linkedin-status-and-fix-connection-issues-2026-47eg)
+- [Is Shopify Down? How to Check Shopify Status and Fix Store Issues &lpar;2026&rpar;](https://dev.to/shibley/is-shopify-down-how-to-check-shopify-status-and-fix-store-issues-2026-22mh)
+- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
+- [Is PayPal Down? How to Check PayPal Status and Fix Payment Issues &lpar;2026&rpar;](https://dev.to/shibley/is-paypal-down-how-to-check-paypal-status-and-fix-payment-issues-2026-100d)
+- [Exploring Search Capabilities With Atlas Search-Part 2](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
