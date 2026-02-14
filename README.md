@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74)
-- [Is LinkedIn Down? How to Check LinkedIn Status and Fix Connection Issues &lpar;2026&rpar;](https://dev.to/shibley/is-linkedin-down-how-to-check-linkedin-status-and-fix-connection-issues-2026-47eg)
-- [Is Shopify Down? How to Check Shopify Status and Fix Store Issues &lpar;2026&rpar;](https://dev.to/shibley/is-shopify-down-how-to-check-shopify-status-and-fix-store-issues-2026-22mh)
-- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
-- [Is PayPal Down? How to Check PayPal Status and Fix Payment Issues &lpar;2026&rpar;](https://dev.to/shibley/is-paypal-down-how-to-check-paypal-status-and-fix-payment-issues-2026-100d)
-- [Exploring Search Capabilities With Atlas Search-Part 2](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-search-capabilities-with-atlas-search-part-2-2i4c)
+- [JavaScript Hoisting and the Temporal Dead Zone — Why var got deprecated, and let/const Rule the Modern Stack](https://dev.to/ritam369/javascript-hoisting-and-the-temporal-dead-zone-why-var-got-deprecated-and-letconst-rule-the-1g6f)
+- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5)
+- [[Boost]](https://dev.to/smit2036/-3o0l)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-5egp)
+- [Your Deployment Pipeline Is a Privileged Identity System](https://dev.to/iyanu_david/your-deployment-pipeline-is-a-privileged-identity-system-m6o)
+- [**5 Java Annotation Processing Techniques That Generate Code and Eliminate Boilerplate Completely**](https://dev.to/nithinbharathwaj/5-java-annotation-processing-techniques-that-generate-code-and-eliminate-boilerplate-completely-1klh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
