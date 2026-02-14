@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Hoisting and the Temporal Dead Zone — Why var got deprecated, and let/const Rule the Modern Stack](https://dev.to/ritam369/javascript-hoisting-and-the-temporal-dead-zone-why-var-got-deprecated-and-letconst-rule-the-1g6f)
-- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5)
-- [[Boost]](https://dev.to/smit2036/-3o0l)
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-5egp)
-- [Your Deployment Pipeline Is a Privileged Identity System](https://dev.to/iyanu_david/your-deployment-pipeline-is-a-privileged-identity-system-m6o)
-- [**5 Java Annotation Processing Techniques That Generate Code and Eliminate Boilerplate Completely**](https://dev.to/nithinbharathwaj/5-java-annotation-processing-techniques-that-generate-code-and-eliminate-boilerplate-completely-1klh)
+- [The Control Plane Is Your Real Production System](https://dev.to/iyanu_david/the-control-plane-is-your-real-production-system-3ic1)
+- [3-way Boolean Anti-pattern](https://dev.to/sualeh/3-way-boolean-anti-pattern-2fdf)
+- [You Don&#39;t Need Docker for Local Dev: 4 Faster Alternatives](https://dev.to/tildalice/you-dont-need-docker-for-local-dev-4-faster-alternatives-37gc)
+- [OpenClaw routing patterns for SetupClaw: private vs group agents, approval gates, and escalation paths](https://dev.to/clawsetup/openclaw-routing-patterns-for-setupclaw-private-vs-group-agents-approval-gates-and-escalation-5fka)
+- [Building the Wall: Autonomous Security for AI Infrastructures](https://dev.to/agentnexus/building-the-wall-autonomous-security-for-ai-infrastructures-3ffa)
+- [Hybrid Local Memory in OpenClaw &lpar;SetupClaw Basic Setup&rpar;: BM25 + Vectors + sqlite-vec + Local Embeddings](https://dev.to/clawsetup/hybrid-local-memory-in-openclaw-setupclaw-basic-setup-bm25-vectors-sqlite-vec-local-3184)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
