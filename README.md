@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is Shopify Down? How to Check Shopify Status and Fix Issues](https://dev.to/shibley/is-shopify-down-how-to-check-shopify-status-and-fix-issues-282f)
-- [[Boost]](https://dev.to/oakulikov/-32kh)
-- [[Boost]](https://dev.to/oakulikov/-32kh)
-- [The 1:1 Myth: Why Your CPU Can Handle 400 Threads on 4 Cores](https://dev.to/nunosilva/the-11-myth-why-your-cpu-can-handle-400-threads-on-4-cores-57il)
-- [Navigation/Route Calculation System](https://dev.to/_noob/navigationroute-calculation-system-p0k)
-- [Is PayPal Down? How to Check Status and Fix Issues](https://dev.to/shibley/is-paypal-down-how-to-check-status-and-fix-issues-4co4)
+- [ServiceNow Zurich Release: Highlighted New Features](https://dev.to/nayan_patel_8ad7591f41897/servicenow-zurich-release-highlighted-new-features-1nid)
+- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga)
+- [Designing a CLAUDE.md Context System: How I Give AI Full Project Context Without Re-explaining Anything](https://dev.to/syntora/designing-a-claudemd-context-system-how-i-give-ai-full-project-context-without-re-explaining-3p2p)
+- [Stop Overpaying for Secrets You Never Rotate: Migrate to SSM Parameter Store with Terraform 🔐](https://dev.to/suhas_mallesh/stop-overpaying-for-secrets-you-never-rotate-migrate-to-ssm-parameter-store-with-terraform-4l26)
+- [That 500GB EBS Volume is 90% Empty: Right-Size It and Stop Wasting Money 💾](https://dev.to/suhas_mallesh/that-500gb-ebs-volume-is-90-empty-right-size-it-and-stop-wasting-money-1603)
+- [Building an Autonomous FinOps Agent: My Experiment in Automating Cloud Cost Optimization](https://dev.to/exploredataaiml/building-an-autonomous-finops-agent-my-experiment-in-automating-cloud-cost-optimization-52id)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
