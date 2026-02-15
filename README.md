@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Advanced Scheduling &lpar; Hidden gems of Kubernetes &rpar;](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-hidden-gems-of-kubernetes-1--29l9)
-- [Why Small Businesses in India Need Digital Marketing More Than Ever](https://dev.to/anshii_ansh_6f2aa264f374a/why-small-businesses-in-india-need-digital-marketing-more-than-ever-5cdd)
-- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
-- [Web Developer Travis McCracken on Why I Still Like REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-still-like-rest-2fo6)
-- [[Boost]](https://dev.to/nafiz_howladar_0d6b1ac512/-3dd3)
-- [Email Authentication That Holds Up in the Real World &lpar;SPF, DKIM, DMARC — and the messy parts&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/email-authentication-that-holds-up-in-the-real-world-spf-dkim-dmarc-and-the-messy-parts-3k9o)
+- [How to design a Simple URL Shortener&lpar;TinyURL&rpar;](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m)
+- [El Modelo C4](https://dev.to/jlarizar/el-modelo-c4-4hlc)
+- [CountIQ: A Systems Notebook on Real-World Backend Engineering](https://dev.to/grooms_nicholas/countiq-a-systems-notebook-on-real-world-backend-engineering-1nei)
+- [stats.vocherrealtime](https://dev.to/mrkoala1001/statsvocherrealtime-2g9l)
+- [Deterministic Testing of Concurrent Go Code](https://dev.to/serifcolakel/deterministic-testing-of-concurrent-go-code-3ag)
+- [Beyond RBAC: Designing Scalable Access Control Without Role Explosion](https://dev.to/sep83/beyond-rbac-designing-scalable-access-control-without-role-explosion-770)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
