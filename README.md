@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From Django to Rust Microservices: What Prometheus Taught Me About Backend Performance](https://dev.to/rahim8050/from-django-to-rust-microservices-what-prometheus-taught-me-about-backend-performance-3lbk)
-- [From Django to Rust Microservices: What Prometheus Taught Me About Backend Performance](https://dev.to/rahim8050/from-django-to-rust-microservices-what-prometheus-taught-me-about-backend-performance-3lbk)
-- [How to Fix Unexpected Indexed Pages &lpar;Technical SEO Debug Guide&rpar;](https://dev.to/inzo_viral_c6020e52400352/how-to-fix-unexpected-indexed-pages-technical-seo-debug-guide-3mpj)
-- [Basic Data Types in C](https://dev.to/mukesh_kumar_529a85eef0c1/basic-data-types-in-c-26g2)
-- [Automated Kernel Tuning: Say Goodbye to Static sysctl with bpftune 🚀](https://dev.to/lyraalishaikh/automated-kernel-tuning-say-goodbye-to-static-sysctl-with-bpftune-2pbi)
-- [CareCode Open HMIS: An Open-Source Hospital Management System Built in Production, Not in Theory](https://dev.to/buddhika_ariyaratne/carecode-open-hmis-an-open-source-hospital-management-system-built-in-production-not-in-theory-55a1)
+- [Kubernetes Advanced Scheduling &lpar; Hidden gems of Kubernetes &rpar;](https://dev.to/suresh_devops_ffa0728a190/kubernetes-advanced-scheduling-hidden-gems-of-kubernetes-1--29l9)
+- [Why Small Businesses in India Need Digital Marketing More Than Ever](https://dev.to/anshii_ansh_6f2aa264f374a/why-small-businesses-in-india-need-digital-marketing-more-than-ever-5cdd)
+- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
+- [Web Developer Travis McCracken on Why I Still Like REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-still-like-rest-2fo6)
+- [[Boost]](https://dev.to/nafiz_howladar_0d6b1ac512/-3dd3)
+- [Email Authentication That Holds Up in the Real World &lpar;SPF, DKIM, DMARC — and the messy parts&rpar;](https://dev.to/sonia_bobrik_1939cdddd79d/email-authentication-that-holds-up-in-the-real-world-spf-dkim-dmarc-and-the-messy-parts-3k9o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
