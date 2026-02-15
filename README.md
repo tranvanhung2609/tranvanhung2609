@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Playback Resume System at Scale &lpar;It’s Not Just a Timestamp&rpar;](https://dev.to/jyotheendra_doddala/designing-a-playback-resume-system-at-scale-its-not-just-a-timestamp-2il4)
-- [I Benchmarked 5 Python Async Patterns for 72 Hours — Here&#39;s What Actually Scales](https://dev.to/leejackson/i-benchmarked-5-python-async-patterns-for-72-hours-heres-what-actually-scales-2np4)
-- [AI-Powered Code Review: Automate Pull Request Analysis with GitHub Actions](https://dev.to/paul_robertson_e844997d2b/ai-powered-code-review-automate-pull-request-analysis-with-github-actions-j90)
-- [Providing storage for the public website](https://dev.to/ayoola_ogunleye_f5b671a10/providing-storage-for-the-public-website-27ha)
-- [LLD-6:YouTube Subscription System](https://dev.to/_noob/youtube-subscribtion-system-31m6)
-- [**How to Build a Unified Hybrid API in Java: REST, GraphQL, and gRPC in One System**](https://dev.to/nithinbharathwaj/how-to-build-a-unified-hybrid-api-in-java-rest-graphql-and-grpc-in-one-system-4bcd)
+- [From Django to Rust Microservices: What Prometheus Taught Me About Backend Performance](https://dev.to/rahim8050/from-django-to-rust-microservices-what-prometheus-taught-me-about-backend-performance-3lbk)
+- [From Django to Rust Microservices: What Prometheus Taught Me About Backend Performance](https://dev.to/rahim8050/from-django-to-rust-microservices-what-prometheus-taught-me-about-backend-performance-3lbk)
+- [How to Fix Unexpected Indexed Pages &lpar;Technical SEO Debug Guide&rpar;](https://dev.to/inzo_viral_c6020e52400352/how-to-fix-unexpected-indexed-pages-technical-seo-debug-guide-3mpj)
+- [Basic Data Types in C](https://dev.to/mukesh_kumar_529a85eef0c1/basic-data-types-in-c-26g2)
+- [Automated Kernel Tuning: Say Goodbye to Static sysctl with bpftune 🚀](https://dev.to/lyraalishaikh/automated-kernel-tuning-say-goodbye-to-static-sysctl-with-bpftune-2pbi)
+- [CareCode Open HMIS: An Open-Source Hospital Management System Built in Production, Not in Theory](https://dev.to/buddhika_ariyaratne/carecode-open-hmis-an-open-source-hospital-management-system-built-in-production-not-in-theory-55a1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
