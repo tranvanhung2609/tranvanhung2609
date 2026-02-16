@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Super Simple Web Scraping in Java &lpar;Jsoup&rpar;](https://dev.to/deividas-strole/super-simple-web-scraping-in-java-jsoup-5cmn)
-- [Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)
-- [Building the Wall: Autonomous Security for AI Infrastructures](https://dev.to/agentnexus/building-the-wall-autonomous-security-for-ai-infrastructures-2m52)
-- [Build a Telegram Bot in Java with the N1netails Telegram Client](https://dev.to/shahidfoy/build-a-telegram-bot-in-java-with-the-n1netails-telegram-client-3p4c)
-- [How to Get IP, ASN, and Network Information with curl &lpar;No API Key Required&rpar;](https://dev.to/aminimaniv/how-to-get-ip-asn-and-network-information-with-curl-no-api-key-required-1l5g)
-- [Cloud workstation on AWS for $36/month: Windows EC2, static IP and Denver egress explained](https://dev.to/lbcristaldo/cloud-workstation-on-aws-for-36month-windows-ec2-static-ip-and-denver-egress-explained-36f3)
+- [BaaS Backend as a Service for Parallel AI Agent Teams](https://dev.to/sashido/baas-backend-as-a-service-for-parallel-ai-agent-teams-1mh1)
+- [Inheritance in java](https://dev.to/jegadeshwaran_b_b86e7dd1a/inheritance-in-java-2cpa)
+- [Full Stack Development Using Java + React](https://dev.to/gowtham_kalyan_a0f7df04c1/full-stack-development-using-java-react-jlb)
+- [Java Real-Time Projects for Beginners](https://dev.to/aswin_arya_89918234fee18f/java-real-time-projects-for-beginners-1d15)
+- [AI-Powered Enterprise CI/CD Pipeline: Jenkins + OpenAI + SonarQube + Nexus + Docker + Kubernetes + Helm](https://dev.to/srinivasamcjf/enterprise-devops-cicd-pipeline-jenkins-sonarqube-nexus-docker-kubernetes-helm-31ei)
+- [This is amazing insightfull](https://dev.to/devtech0023/this-is-amazing-insightfull-1ab3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
