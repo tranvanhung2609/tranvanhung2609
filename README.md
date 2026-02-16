@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to design a Simple URL Shortener&lpar;TinyURL&rpar;](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m)
-- [El Modelo C4](https://dev.to/jlarizar/el-modelo-c4-4hlc)
-- [CountIQ: A Systems Notebook on Real-World Backend Engineering](https://dev.to/grooms_nicholas/countiq-a-systems-notebook-on-real-world-backend-engineering-1nei)
-- [stats.vocherrealtime](https://dev.to/mrkoala1001/statsvocherrealtime-2g9l)
-- [Deterministic Testing of Concurrent Go Code](https://dev.to/serifcolakel/deterministic-testing-of-concurrent-go-code-3ag)
-- [Beyond RBAC: Designing Scalable Access Control Without Role Explosion](https://dev.to/sep83/beyond-rbac-designing-scalable-access-control-without-role-explosion-770)
+- [Super Simple Web Scraping in Java &lpar;Jsoup&rpar;](https://dev.to/deividas-strole/super-simple-web-scraping-in-java-jsoup-5cmn)
+- [Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)
+- [Building the Wall: Autonomous Security for AI Infrastructures](https://dev.to/agentnexus/building-the-wall-autonomous-security-for-ai-infrastructures-2m52)
+- [Build a Telegram Bot in Java with the N1netails Telegram Client](https://dev.to/shahidfoy/build-a-telegram-bot-in-java-with-the-n1netails-telegram-client-3p4c)
+- [How to Get IP, ASN, and Network Information with curl &lpar;No API Key Required&rpar;](https://dev.to/aminimaniv/how-to-get-ip-asn-and-network-information-with-curl-no-api-key-required-1l5g)
+- [Cloud workstation on AWS for $36/month: Windows EC2, static IP and Denver egress explained](https://dev.to/lbcristaldo/cloud-workstation-on-aws-for-36month-windows-ec2-static-ip-and-denver-egress-explained-36f3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
