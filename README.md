@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [BaaS Backend as a Service for Parallel AI Agent Teams](https://dev.to/sashido/baas-backend-as-a-service-for-parallel-ai-agent-teams-1mh1)
-- [Inheritance in java](https://dev.to/jegadeshwaran_b_b86e7dd1a/inheritance-in-java-2cpa)
-- [Full Stack Development Using Java + React](https://dev.to/gowtham_kalyan_a0f7df04c1/full-stack-development-using-java-react-jlb)
-- [Java Real-Time Projects for Beginners](https://dev.to/aswin_arya_89918234fee18f/java-real-time-projects-for-beginners-1d15)
-- [AI-Powered Enterprise CI/CD Pipeline: Jenkins + OpenAI + SonarQube + Nexus + Docker + Kubernetes + Helm](https://dev.to/srinivasamcjf/enterprise-devops-cicd-pipeline-jenkins-sonarqube-nexus-docker-kubernetes-helm-31ei)
-- [This is amazing insightfull](https://dev.to/devtech0023/this-is-amazing-insightfull-1ab3)
+- [Complete Guide to Node.js Best Practices for Production in 2024](https://dev.to/iammuhammadarslan/complete-guide-to-nodejs-best-practices-for-production-in-2024-6ai)
+- [Java Concepts #1 &lpar;Java8, Mircro-services, String&rpar;](https://dev.to/axtant/java-concepts-1-java8-mircro-services-string-3hid)
+- [Web Developer Travis McCracken on Using Go for Fast API Prototyping](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-fast-api-prototyping-3h4h)
+- [How to Do IMAP Email Migration with EdbMails Software](https://dev.to/avathompson/how-to-do-imap-email-migration-with-edbmails-software-19aj)
+- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
+- [When Systems Fail, Trust Is the Real Incident: A Practical Guide to Communication for Engineers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/when-systems-fail-trust-is-the-real-incident-a-practical-guide-to-communication-for-engineers-and-mdm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
