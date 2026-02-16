@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Node.js Best Practices for Production in 2024](https://dev.to/iammuhammadarslan/complete-guide-to-nodejs-best-practices-for-production-in-2024-6ai)
-- [Java Concepts #1 &lpar;Java8, Mircro-services, String&rpar;](https://dev.to/axtant/java-concepts-1-java8-mircro-services-string-3hid)
-- [Web Developer Travis McCracken on Using Go for Fast API Prototyping](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-fast-api-prototyping-3h4h)
-- [How to Do IMAP Email Migration with EdbMails Software](https://dev.to/avathompson/how-to-do-imap-email-migration-with-edbmails-software-19aj)
-- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
-- [When Systems Fail, Trust Is the Real Incident: A Practical Guide to Communication for Engineers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/when-systems-fail-trust-is-the-real-incident-a-practical-guide-to-communication-for-engineers-and-mdm)
+- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge &amp; Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11)
+- [Vibe Coding Security: Why Traditional AppSec Breaks](https://dev.to/xygenisecurity/vibe-coding-security-why-traditional-appsec-breaks-471k)
+- [Polimorphism](https://dev.to/karthick_m22/polimorphism-2k3p)
+- [How to Store and Manage Build Artifacts Using Nexus Repository Manager](https://dev.to/gita_cliff/how-to-store-and-manage-build-artifacts-using-nexus-repository-manager-388g)
+- [Navigating the Web with NGINX](https://dev.to/basskibo/navigating-the-web-with-nginx-3a5o)
+- [DevOps RealWorld Series #1 --&gt; Jenkins Pipelines Colliding on the Same Kubernetes Agent Pod](https://dev.to/sudhesh_g_b1ddefe9194fd09/devops-real-world-series-1-jenkins-pipelines-colliding-on-the-same-kubernetes-agent-pod-d09)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
