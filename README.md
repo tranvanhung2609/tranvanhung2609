@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge &amp; Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11)
-- [Vibe Coding Security: Why Traditional AppSec Breaks](https://dev.to/xygenisecurity/vibe-coding-security-why-traditional-appsec-breaks-471k)
-- [Polimorphism](https://dev.to/karthick_m22/polimorphism-2k3p)
-- [How to Store and Manage Build Artifacts Using Nexus Repository Manager](https://dev.to/gita_cliff/how-to-store-and-manage-build-artifacts-using-nexus-repository-manager-388g)
-- [Navigating the Web with NGINX](https://dev.to/basskibo/navigating-the-web-with-nginx-3a5o)
-- [DevOps RealWorld Series #1 --&gt; Jenkins Pipelines Colliding on the Same Kubernetes Agent Pod](https://dev.to/sudhesh_g_b1ddefe9194fd09/devops-real-world-series-1-jenkins-pipelines-colliding-on-the-same-kubernetes-agent-pod-d09)
+- [[Boost]](https://dev.to/yasir_etc/-3bof)
+- [I Automated My Blog with Cron + AI Agents — 30 Days of Real Data](https://dev.to/leejackson/i-automated-my-blog-with-cron-ai-agents-30-days-of-real-data-3pem)
+- [Why Your Next Rails App Doesn&#39;t Need Nginx or Apache](https://dev.to/zilton7/why-your-next-rails-app-doesnt-need-nginx-or-apache-2b9b)
+- [Ed&#39;s JavaLand 2026 Session Picks](https://dev.to/edburns00/eds-javaland-2026-session-picks-7ni)
+- [Ed&#39;s JavaLand 2025 Session Picks](https://dev.to/edburns00/eds-javaland-2025-session-picks-h42)
+- [How to Troubleshoot RAG in Production: A Field Guide](https://dev.to/sindhu_murthy_628835a359d/how-to-troubleshoot-rag-in-production-a-field-guide-6nb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
