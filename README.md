@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Top Software Outsourcing Companies in India to Watch in 2026](https://dev.to/marry_walker/top-software-outsourcing-companies-in-india-to-watch-in-2026-3p1l)
-- [ArrayList and LinkedList](https://dev.to/dinesh_g_909f4a82c67f5bbd/arraylist-and-linkedlist-3fbo)
-- [Laravel Policies: Centralize Your Authorization and Keep Your Controllers Clean](https://dev.to/blamsa0mine/laravel-policies-centralize-your-authorization-and-keep-your-controllers-clean-2c2d)
-- [Web Developer Travis McCracken on Rust Error Handling: The Right Way](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-error-handling-the-right-way-393f)
-- [Your AI Assistant Has No Memory — And That’s Why It Feels Unreliable](https://dev.to/cloyouai/your-ai-assistant-has-no-memory-and-thats-why-it-feels-unreliable-3gdo)
-- [Why Platform Engineering Is the Next Big Shift &lpar;and How Ops Teams Win&rpar;](https://dev.to/kubeha_18/why-platform-engineering-is-the-next-big-shift-and-how-ops-teams-win-1lkp)
+- [How to sandbox AI agents in 2026: Firecracker, gVisor, runtimes &amp; isolation strategies](https://dev.to/manveer_chawla_64a7283d5a/how-to-sandbox-ai-agents-in-2026-firecracker-gvisor-runtimes-isolation-strategies-14pk)
+- [Azure Weekly: Agentic Cloud Operations and the AI Database Push](https://dev.to/htekdev/azure-weekly-agentic-cloud-operations-and-the-ai-database-push-46d8)
+- [5.5 Best Places to Buy a Verified GCash Account in 2026-27](https://dev.to/loraincardena6wkct/55-best-places-to-buy-a-verified-gcash-account-in-2026-27-436e)
+- [2027 Guide: Where and How to Buy Verified Airbnb accounts](https://dev.to/loraincardena6wkct/2027-guide-where-and-how-to-buy-verified-airbnb-accounts-31o)
+- [The Truth About Buying Verified Stripe Accounts](https://dev.to/loraincardena6wkct/the-truth-about-buying-verified-stripe-accounts-16dc)
+- [Caching Patterns That Scale](https://dev.to/aishwarya_br/caching-patterns-that-scale-18k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
