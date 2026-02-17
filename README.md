@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yasir_etc/-3bof)
-- [I Automated My Blog with Cron + AI Agents — 30 Days of Real Data](https://dev.to/leejackson/i-automated-my-blog-with-cron-ai-agents-30-days-of-real-data-3pem)
-- [Why Your Next Rails App Doesn&#39;t Need Nginx or Apache](https://dev.to/zilton7/why-your-next-rails-app-doesnt-need-nginx-or-apache-2b9b)
-- [Ed&#39;s JavaLand 2026 Session Picks](https://dev.to/edburns00/eds-javaland-2026-session-picks-7ni)
-- [Ed&#39;s JavaLand 2025 Session Picks](https://dev.to/edburns00/eds-javaland-2025-session-picks-h42)
-- [How to Troubleshoot RAG in Production: A Field Guide](https://dev.to/sindhu_murthy_628835a359d/how-to-troubleshoot-rag-in-production-a-field-guide-6nb)
+- [ICSI Clarifies DIR-5 Procedure: Key Update on DIN Surrender Compliance](https://dev.to/chahat_garg_f52e3ae3ee62e/icsi-clarifies-dir-5-procedure-key-update-on-din-surrender-compliance-1ho7)
+- [Coding Interview Problems in Java](https://dev.to/sharath_kumar_ec951693318/coding-interview-problems-in-java-5bij)
+- [Time Complexity &amp; Big-O Notation](https://dev.to/aswin_arya_89918234fee18f/time-complexity-big-o-notation-29h0)
+- [Algorithms in Java &lpar;Sorting &amp; Searching&rpar;](https://dev.to/gowtham_kalyan_a0f7df04c1/algorithms-in-java-sorting-searching-23g4)
+- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
+- [How to Become a DevOps Engineer with AWS, Azure, and GCP &lpar;2026 Complete Roadmap&rpar;](https://dev.to/pallavivemula/how-to-become-a-devops-engineer-with-aws-azure-and-gcp-2026-complete-roadmap-4n5c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
