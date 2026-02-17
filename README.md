@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ICSI Clarifies DIR-5 Procedure: Key Update on DIN Surrender Compliance](https://dev.to/chahat_garg_f52e3ae3ee62e/icsi-clarifies-dir-5-procedure-key-update-on-din-surrender-compliance-1ho7)
-- [Coding Interview Problems in Java](https://dev.to/sharath_kumar_ec951693318/coding-interview-problems-in-java-5bij)
-- [Time Complexity &amp; Big-O Notation](https://dev.to/aswin_arya_89918234fee18f/time-complexity-big-o-notation-29h0)
-- [Algorithms in Java &lpar;Sorting &amp; Searching&rpar;](https://dev.to/gowtham_kalyan_a0f7df04c1/algorithms-in-java-sorting-searching-23g4)
-- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
-- [How to Become a DevOps Engineer with AWS, Azure, and GCP &lpar;2026 Complete Roadmap&rpar;](https://dev.to/pallavivemula/how-to-become-a-devops-engineer-with-aws-azure-and-gcp-2026-complete-roadmap-4n5c)
+- [Top Software Outsourcing Companies in India to Watch in 2026](https://dev.to/marry_walker/top-software-outsourcing-companies-in-india-to-watch-in-2026-3p1l)
+- [ArrayList and LinkedList](https://dev.to/dinesh_g_909f4a82c67f5bbd/arraylist-and-linkedlist-3fbo)
+- [Laravel Policies: Centralize Your Authorization and Keep Your Controllers Clean](https://dev.to/blamsa0mine/laravel-policies-centralize-your-authorization-and-keep-your-controllers-clean-2c2d)
+- [Web Developer Travis McCracken on Rust Error Handling: The Right Way](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-error-handling-the-right-way-393f)
+- [Your AI Assistant Has No Memory — And That’s Why It Feels Unreliable](https://dev.to/cloyouai/your-ai-assistant-has-no-memory-and-thats-why-it-feels-unreliable-3gdo)
+- [Why Platform Engineering Is the Next Big Shift &lpar;and How Ops Teams Win&rpar;](https://dev.to/kubeha_18/why-platform-engineering-is-the-next-big-shift-and-how-ops-teams-win-1lkp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
