@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to sandbox AI agents in 2026: Firecracker, gVisor, runtimes &amp; isolation strategies](https://dev.to/manveer_chawla_64a7283d5a/how-to-sandbox-ai-agents-in-2026-firecracker-gvisor-runtimes-isolation-strategies-14pk)
-- [Azure Weekly: Agentic Cloud Operations and the AI Database Push](https://dev.to/htekdev/azure-weekly-agentic-cloud-operations-and-the-ai-database-push-46d8)
-- [5.5 Best Places to Buy a Verified GCash Account in 2026-27](https://dev.to/loraincardena6wkct/55-best-places-to-buy-a-verified-gcash-account-in-2026-27-436e)
-- [2027 Guide: Where and How to Buy Verified Airbnb accounts](https://dev.to/loraincardena6wkct/2027-guide-where-and-how-to-buy-verified-airbnb-accounts-31o)
-- [The Truth About Buying Verified Stripe Accounts](https://dev.to/loraincardena6wkct/the-truth-about-buying-verified-stripe-accounts-16dc)
-- [Caching Patterns That Scale](https://dev.to/aishwarya_br/caching-patterns-that-scale-18k)
+- [The Complete Guide to SPF, DKIM, and DMARC](https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6)
+- [How I Built a Self-Correcting Blog Pipeline &lpar;and it saved 15 hours/week&rpar;](https://dev.to/leejackson/how-i-built-a-self-correcting-blog-pipeline-and-it-saved-15-hoursweek-5028)
+- [Creating a storage account with high availability.](https://dev.to/zainab_oladimeji/creating-a-storage-account-with-high-availability-3jl7)
+- [Kubernetes: Should You Name Your Controller &quot;foo-bar&quot; or &quot;foobar&quot;? A Survey of 13 Open-Source Projects](https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c)
+- [Building Production LLM Pipelines in Go: Lessons From the Field](https://dev.to/arif/building-production-llm-pipelines-in-go-lessons-from-the-field-1f25)
+- [How ArgoCD Deploys Dev Staging Prod in Real Companies](https://dev.to/jumptotech/how-argocd-deploys-dev-staging-prod-in-real-companies-2hf0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
