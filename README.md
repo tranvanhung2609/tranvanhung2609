@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to SPF, DKIM, and DMARC](https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6)
-- [How I Built a Self-Correcting Blog Pipeline &lpar;and it saved 15 hours/week&rpar;](https://dev.to/leejackson/how-i-built-a-self-correcting-blog-pipeline-and-it-saved-15-hoursweek-5028)
-- [Creating a storage account with high availability.](https://dev.to/zainab_oladimeji/creating-a-storage-account-with-high-availability-3jl7)
-- [Kubernetes: Should You Name Your Controller &quot;foo-bar&quot; or &quot;foobar&quot;? A Survey of 13 Open-Source Projects](https://dev.to/suin/kubernetes-should-you-name-your-controller-foo-bar-or-foobar-a-survey-of-13-open-source-h1c)
-- [Building Production LLM Pipelines in Go: Lessons From the Field](https://dev.to/arif/building-production-llm-pipelines-in-go-lessons-from-the-field-1f25)
-- [How ArgoCD Deploys Dev Staging Prod in Real Companies](https://dev.to/jumptotech/how-argocd-deploys-dev-staging-prod-in-real-companies-2hf0)
+- [I Built a CLI Tool to Score Codebase Health -- Here&#39;s What I Learned](https://dev.to/glue_admin_3465093919ac6b/i-built-a-cli-tool-to-score-codebase-health-heres-what-i-learned-2noh)
+- [GraalVM and Native Java Applications](https://dev.to/gowtham_kalyan_a0f7df04c1/graalvm-and-native-java-applications-17ge)
+- [Java in Blockchain Development](https://dev.to/sharath_kumar_ec951693318/java-in-blockchain-development-38le)
+- [Docker &amp; Kubernetes for Java Applications](https://dev.to/aswin_arya_89918234fee18f/docker-kubernetes-for-java-applications-1489)
+- [Java Projects for Engineering Students | Takeoff Edu Group](https://dev.to/takeoffedugroup/java-projects-for-engineering-students-takeoff-edu-group-228p)
+- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
