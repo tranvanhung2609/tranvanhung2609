@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Bought RAM in October to dodge price spikes… now I have to return it because “year-end optics”](https://dev.to/techresolve/solved-bought-ram-in-october-to-dodge-price-spikes-now-i-have-to-return-it-because-year-end-2kpi)
-- [Why Your AI Agent Needs a Quality Gate &lpar;Not Just Tests&rpar;](https://dev.to/yurukusa/why-your-ai-agent-needs-a-quality-gate-not-just-tests-42eo)
-- [Solved: Best and easiest way to get free traffic for affiliate offers?](https://dev.to/techresolve/solved-best-and-easiest-way-to-get-free-traffic-for-affiliate-offers-kf4)
-- [Helm Charts for Kubernetes: Design Patterns That Prevent Deployment Chaos](https://dev.to/atmosly/helm-charts-for-kubernetes-design-patterns-that-prevent-deployment-chaos-8fl)
-- [Solved: What agents are you building? 👀](https://dev.to/techresolve/solved-what-agents-are-you-building-37n7)
-- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-4p08)
+- [Provide private storage for internal company documents](https://dev.to/rahimah_dev/provide-private-storage-for-internal-company-documents-4idd)
+- [Mastering MongoDB: Export, Filter, and CRUD Operations with Hands-on Queries](https://dev.to/labex/mastering-mongodb-export-filter-and-crud-operations-with-hands-on-queries-of5)
+- [Create a Virtual Machine](https://dev.to/rahimah_dev/create-a-virtual-machine-4f42)
+- [Peeling the layers of the Python onion](https://dev.to/krun_pro/peeling-the-layers-of-the-python-onion-3plb)
+- [💣 Stop Fighting Your State File: A Deep Dive into the Stateless Revolution](https://dev.to/mechcloud_academy/stop-fighting-your-state-file-a-deep-dive-into-the-stateless-revolution-lek)
+- [Day-41 Back to the Keyboard: Re-rooting My Career in the Clouds](https://dev.to/jayanth_dasari_7/day-41-back-to-the-keyboard-re-rooting-my-career-in-the-clouds-4ldk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
