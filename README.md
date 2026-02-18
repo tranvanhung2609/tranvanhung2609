@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CLI Tool to Score Codebase Health -- Here&#39;s What I Learned](https://dev.to/glue_admin_3465093919ac6b/i-built-a-cli-tool-to-score-codebase-health-heres-what-i-learned-2noh)
-- [GraalVM and Native Java Applications](https://dev.to/gowtham_kalyan_a0f7df04c1/graalvm-and-native-java-applications-17ge)
-- [Java in Blockchain Development](https://dev.to/sharath_kumar_ec951693318/java-in-blockchain-development-38le)
-- [Docker &amp; Kubernetes for Java Applications](https://dev.to/aswin_arya_89918234fee18f/docker-kubernetes-for-java-applications-1489)
-- [Java Projects for Engineering Students | Takeoff Edu Group](https://dev.to/takeoffedugroup/java-projects-for-engineering-students-takeoff-edu-group-228p)
-- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4)
+- [Solved: Bought RAM in October to dodge price spikes… now I have to return it because “year-end optics”](https://dev.to/techresolve/solved-bought-ram-in-october-to-dodge-price-spikes-now-i-have-to-return-it-because-year-end-2kpi)
+- [Why Your AI Agent Needs a Quality Gate &lpar;Not Just Tests&rpar;](https://dev.to/yurukusa/why-your-ai-agent-needs-a-quality-gate-not-just-tests-42eo)
+- [Solved: Best and easiest way to get free traffic for affiliate offers?](https://dev.to/techresolve/solved-best-and-easiest-way-to-get-free-traffic-for-affiliate-offers-kf4)
+- [Helm Charts for Kubernetes: Design Patterns That Prevent Deployment Chaos](https://dev.to/atmosly/helm-charts-for-kubernetes-design-patterns-that-prevent-deployment-chaos-8fl)
+- [Solved: What agents are you building? 👀](https://dev.to/techresolve/solved-what-agents-are-you-building-37n7)
+- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-4p08)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
