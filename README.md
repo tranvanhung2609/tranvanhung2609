@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose Secrets: How to Stop Hardcoding Passwords in Your docker-compose.yml](https://dev.to/fedya_serafiev/docker-compose-secrets-how-to-stop-hardcoding-passwords-in-your-docker-composeyml-13fb)
-- [What is Abstraction in Java and How is it Achieved?](https://dev.to/aswin_arya_89918234fee18f/what-is-abstraction-in-java-and-how-is-it-achieved-2jd6)
-- [3 Best sites to Buy Telegram Accounts &lpar;PVA &amp; Aged&rpar;](https://dev.to/mudasir12/3-best-sites-to-buy-telegram-accounts-pva-aged-57nk)
-- [The Ultimate Guide to- Buying- Old- Yahoo accounts ...](https://dev.to/mudasir12/the-ultimate-guide-to-buying-old-yahoo-accounts--4gi5)
-- [Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a)
-- [Agent Failure &amp; Recovery Systems in Production GenAI Architectures](https://dev.to/shreekansha97/agent-failure-recovery-systems-in-production-genai-architectures-3g95)
+- [Jenkins Pipeline Debugging Techniques](https://dev.to/aicontentlab/jenkins-pipeline-debugging-techniques-2gmd)
+- [Stop Paying Full Price: Spot VMs Can Cut Your GCP Compute Bill by 91% 💰](https://dev.to/suhas_mallesh/stop-paying-full-price-spot-vms-can-cut-your-gcp-compute-bill-by-91-3hk7)
+- [Authentication That Actually Passes Security Audits](https://dev.to/vapmail16/authentication-that-actually-passes-security-audits-2bl6)
+- [How I Started My IT Career Without Strong Coding Skills](https://dev.to/sandhya_rani_techie/how-i-started-my-it-career-without-strong-coding-skills-59oo)
+- [**Java Virtual Threads and Structured Concurrency: 5 Game-Changing Techniques for Modern Development**](https://dev.to/nithinbharathwaj/java-virtual-threads-and-structured-concurrency-5-game-changing-techniques-for-modern-dgd)
+- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
