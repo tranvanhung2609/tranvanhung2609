@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated My Entire Dev Workflow with a Single AI Agent on a Mac Mini](https://dev.to/maxxmini/how-i-automated-my-entire-dev-workflow-with-a-single-ai-agent-on-a-mac-mini-41a8)
-- [Build High-Performance REST APIs with Bun in 2026](https://dev.to/1xapi/build-high-performance-rest-apis-with-bun-in-2026-5391)
-- [How I Built a Self-Running Dev.to Pipeline &lpar;and You Can Too&rpar; — 30-Day Results](https://dev.to/leejackson/how-i-built-a-self-running-devto-pipeline-and-you-can-too-30-day-results-2mk5)
-- [Create a storage account and configure high availability.](https://dev.to/zainab_oladimeji/create-a-storage-account-and-configure-high-availability-lkn)
-- [Kubernetes Configuration Management: Mastering Helm Values Files for Multi-Environment Deployments](https://dev.to/shingaiz/kubernetes-configuration-management-mastering-helm-values-files-for-multi-environment-deployments-303f)
-- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
+- [Docker Compose Secrets: How to Stop Hardcoding Passwords in Your docker-compose.yml](https://dev.to/fedya_serafiev/docker-compose-secrets-how-to-stop-hardcoding-passwords-in-your-docker-composeyml-13fb)
+- [What is Abstraction in Java and How is it Achieved?](https://dev.to/aswin_arya_89918234fee18f/what-is-abstraction-in-java-and-how-is-it-achieved-2jd6)
+- [3 Best sites to Buy Telegram Accounts &lpar;PVA &amp; Aged&rpar;](https://dev.to/mudasir12/3-best-sites-to-buy-telegram-accounts-pva-aged-57nk)
+- [The Ultimate Guide to- Buying- Old- Yahoo accounts ...](https://dev.to/mudasir12/the-ultimate-guide-to-buying-old-yahoo-accounts--4gi5)
+- [Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a)
+- [Agent Failure &amp; Recovery Systems in Production GenAI Architectures](https://dev.to/shreekansha97/agent-failure-recovery-systems-in-production-genai-architectures-3g95)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
