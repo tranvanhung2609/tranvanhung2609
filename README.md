@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins Pipeline Debugging Techniques](https://dev.to/aicontentlab/jenkins-pipeline-debugging-techniques-2gmd)
-- [Stop Paying Full Price: Spot VMs Can Cut Your GCP Compute Bill by 91% 💰](https://dev.to/suhas_mallesh/stop-paying-full-price-spot-vms-can-cut-your-gcp-compute-bill-by-91-3hk7)
-- [Authentication That Actually Passes Security Audits](https://dev.to/vapmail16/authentication-that-actually-passes-security-audits-2bl6)
-- [How I Started My IT Career Without Strong Coding Skills](https://dev.to/sandhya_rani_techie/how-i-started-my-it-career-without-strong-coding-skills-59oo)
-- [**Java Virtual Threads and Structured Concurrency: 5 Game-Changing Techniques for Modern Development**](https://dev.to/nithinbharathwaj/java-virtual-threads-and-structured-concurrency-5-game-changing-techniques-for-modern-dgd)
-- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b)
+- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
+- [GitHub Agentic Workflows: The Future of Repository Automation](https://dev.to/damogallagher/github-agentic-workflows-the-future-of-repository-automation-afl)
+- [How I&#39;ve Been Using Nix Flakes &lpar;And What You Can Do With Them&rpar;](https://dev.to/therobustroast/how-ive-been-using-nix-flakes-and-what-you-can-do-with-them-3g8h)
+- [What Java and Advanced Java Training is Really Like](https://dev.to/rakseo009/what-java-and-advanced-java-training-is-really-like-47i5)
+- [Designing Scalable Microservices Architecture Without Overengineering](https://dev.to/millietechinsights/designing-scalable-microservices-architecture-without-overengineering-14n6)
+- [Kafka Eager vs Cooperative Rebalancing Explained &lpar;Why Consumers Pause During Deployments&rpar;](https://dev.to/rajeev_a954661bb78eb9797f/kafka-eager-vs-cooperative-rebalancing-explained-why-consumers-pause-during-deployments-4dn9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
