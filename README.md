@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Provide private storage for internal company documents](https://dev.to/rahimah_dev/provide-private-storage-for-internal-company-documents-4idd)
-- [Mastering MongoDB: Export, Filter, and CRUD Operations with Hands-on Queries](https://dev.to/labex/mastering-mongodb-export-filter-and-crud-operations-with-hands-on-queries-of5)
-- [Create a Virtual Machine](https://dev.to/rahimah_dev/create-a-virtual-machine-4f42)
-- [Peeling the layers of the Python onion](https://dev.to/krun_pro/peeling-the-layers-of-the-python-onion-3plb)
-- [💣 Stop Fighting Your State File: A Deep Dive into the Stateless Revolution](https://dev.to/mechcloud_academy/stop-fighting-your-state-file-a-deep-dive-into-the-stateless-revolution-lek)
-- [Day-41 Back to the Keyboard: Re-rooting My Career in the Clouds](https://dev.to/jayanth_dasari_7/day-41-back-to-the-keyboard-re-rooting-my-career-in-the-clouds-4ldk)
+- [How I Automated My Entire Dev Workflow with a Single AI Agent on a Mac Mini](https://dev.to/maxxmini/how-i-automated-my-entire-dev-workflow-with-a-single-ai-agent-on-a-mac-mini-41a8)
+- [Build High-Performance REST APIs with Bun in 2026](https://dev.to/1xapi/build-high-performance-rest-apis-with-bun-in-2026-5391)
+- [How I Built a Self-Running Dev.to Pipeline &lpar;and You Can Too&rpar; — 30-Day Results](https://dev.to/leejackson/how-i-built-a-self-running-devto-pipeline-and-you-can-too-30-day-results-2mk5)
+- [Create a storage account and configure high availability.](https://dev.to/zainab_oladimeji/create-a-storage-account-and-configure-high-availability-lkn)
+- [Kubernetes Configuration Management: Mastering Helm Values Files for Multi-Environment Deployments](https://dev.to/shingaiz/kubernetes-configuration-management-mastering-helm-values-files-for-multi-environment-deployments-303f)
+- [Best Alternatives to Mastra AI and Why Calljmp Stands Out](https://dev.to/anna_chaykovskaya_9ad7aea/best-alternatives-to-mastra-ai-and-why-calljmp-stands-out-1j7p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
