@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between List, Set, and Map in Java](https://dev.to/gowtham_kalyan_a0f7df04c1/difference-between-list-set-and-map-in-java-4hp)
-- [Difference Between Array and ArrayList in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-array-and-arraylist-in-java-2cim)
-- [What Every CTO Should Know About Secure CI/CD At Enterprise Scale](https://dev.to/anshul_kichara/what-every-cto-should-know-about-secure-cicd-at-enterprise-scale-1h8j)
-- [[Boost]](https://dev.to/tirtht/-32ge)
-- [How to Build a Scalable Crypto Exchange with the Right Tech Stack](https://dev.to/riley_quinn_8e58a0a96d107/how-to-build-a-scalable-crypto-exchange-with-the-right-tech-stack-1e92)
-- [Your Complete Guide to DevOps Engineer Certification Success](https://dev.to/monika2631/your-complete-guide-to-devops-engineer-certification-success-e7l)
+- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
+- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
+- [Web Developer Travis McCracken on Hard Lessons from Scaling a Rust API](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-hard-lessons-from-scaling-a-rust-api-e9k)
+- [Precision Data Access in Spring Data JPA: A Guide to Projections](https://dev.to/nunosilva/precision-data-access-in-spring-data-jpa-a-guide-to-projections-5449)
+- [Laravel Notifications in Practice: Mail, Database, Queues, and Clean Testing](https://dev.to/blamsa0mine/laravel-notifications-le-guide-pratique-mail-database-et-performance-18hm)
+- [Solved: Syncing WooCommerce Products to Facebook Catalog via API](https://dev.to/techresolve/solved-syncing-woocommerce-products-to-facebook-catalog-via-api-5en3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
