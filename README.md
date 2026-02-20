@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
-- [Spring Boot 4.0 Migration Guide for Production Teams: What Actually Breaks and How to Upgrade Safely](https://dev.to/aytronn/spring-boot-40-migration-guide-for-production-teams-what-actually-breaks-and-how-to-upgrade-safely-22me)
-- [Web Developer Travis McCracken on Hard Lessons from Scaling a Rust API](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-hard-lessons-from-scaling-a-rust-api-e9k)
-- [Precision Data Access in Spring Data JPA: A Guide to Projections](https://dev.to/nunosilva/precision-data-access-in-spring-data-jpa-a-guide-to-projections-5449)
-- [Laravel Notifications in Practice: Mail, Database, Queues, and Clean Testing](https://dev.to/blamsa0mine/laravel-notifications-le-guide-pratique-mail-database-et-performance-18hm)
-- [Solved: Syncing WooCommerce Products to Facebook Catalog via API](https://dev.to/techresolve/solved-syncing-woocommerce-products-to-facebook-catalog-via-api-5en3)
+- [Building a Production-Grade DevOps Homelab on 4GB Ram HP Stream PC](https://dev.to/bayo_ogundele_b3f16b3c436/building-a-production-grade-devops-homelab-on-4gb-ram-hp-stream-pc-1k2h)
+- [The Complete Guide: Deploying a Static Site on AWS using Nginx and User Data: Completely Automated](https://dev.to/goodnessoj/the-complete-guide-deploying-a-static-site-on-aws-using-nginx-and-user-data-fbj)
+- [5 Dangerous Patterns in CLAUDE.md Configs &lpar;and a Free Browser Scanner to Detect Them&rpar;](https://dev.to/yurukusa/5-dangerous-patterns-in-claudemd-configs-and-a-free-browser-scanner-to-detect-them-1ahh)
+- [When Systems Don’t Scale: Fixing Backend Bottlenecks Before They Break Your Product](https://dev.to/millietechinsights/when-systems-dont-scale-fixing-backend-bottlenecks-before-they-break-your-product-18b0)
+- [Building AgentSecrets: Secrets Manager for the AI Era](https://dev.to/the_seventeen/building-agentsecrets-secrets-manager-for-the-ai-era-4hc0)
+- [Restarting Automation Again: From Twitter + Selenium to Reddit API](https://dev.to/bharath_kumar_30_vog/restarting-automation-again-from-twitter-selenium-to-reddit-api-4703)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
