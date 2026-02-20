@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Failures Are Distributed Systems Failures. Here&#39;s the Complete Mapping.](https://dev.to/arif/ai-agent-failures-are-distributed-systems-failures-heres-the-complete-mapping-216k)
-- [Stop the &quot;It Works on My Machine&quot; Madness: A Visual Comparison of Debugging Workflows](https://dev.to/tly_plane_fda7286469c791e/stop-the-it-works-on-my-machine-madness-a-visual-comparison-of-debugging-workflows-2f34)
-- [Blog Ops #2: I Broke My Content Pipeline 11 Times — Here&#39;s What I Learned](https://dev.to/leejackson/blog-ops-2-i-broke-my-content-pipeline-11-times-heres-what-i-learned-39g9)
-- [I Read EU AI Act Article 6 So You Don&#39;t Have To — Here&#39;s the Risk Checklist](https://dev.to/arkforge-ceo/i-read-eu-ai-act-article-6-so-you-dont-have-to-heres-the-risk-checklist-58jc)
-- [Securing Corporate Data: Azure Storage Private Access &amp; Lifecycle Management](https://dev.to/louis_oodo_a59b230b894609/securing-corporate-data-azure-storage-private-access-lifecycle-management-4dpg)
-- [Agentforce 2025 vs 2026: What Actually Changed in Salesforce](https://dev.to/tanvi_kulkarni_5b3effa2e3/agentforce-2025-vs-2026-what-actually-changed-in-salesforce-o76)
+- [Difference Between List, Set, and Map in Java](https://dev.to/gowtham_kalyan_a0f7df04c1/difference-between-list-set-and-map-in-java-4hp)
+- [Difference Between Array and ArrayList in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-array-and-arraylist-in-java-2cim)
+- [What Every CTO Should Know About Secure CI/CD At Enterprise Scale](https://dev.to/anshul_kichara/what-every-cto-should-know-about-secure-cicd-at-enterprise-scale-1h8j)
+- [[Boost]](https://dev.to/tirtht/-32ge)
+- [How to Build a Scalable Crypto Exchange with the Right Tech Stack](https://dev.to/riley_quinn_8e58a0a96d107/how-to-build-a-scalable-crypto-exchange-with-the-right-tech-stack-1e92)
+- [Your Complete Guide to DevOps Engineer Certification Success](https://dev.to/monika2631/your-complete-guide-to-devops-engineer-certification-success-e7l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
