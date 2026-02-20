@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
-- [GitHub Agentic Workflows: The Future of Repository Automation](https://dev.to/damogallagher/github-agentic-workflows-the-future-of-repository-automation-afl)
-- [How I&#39;ve Been Using Nix Flakes &lpar;And What You Can Do With Them&rpar;](https://dev.to/therobustroast/how-ive-been-using-nix-flakes-and-what-you-can-do-with-them-3g8h)
-- [What Java and Advanced Java Training is Really Like](https://dev.to/rakseo009/what-java-and-advanced-java-training-is-really-like-47i5)
-- [Designing Scalable Microservices Architecture Without Overengineering](https://dev.to/millietechinsights/designing-scalable-microservices-architecture-without-overengineering-14n6)
-- [Kafka Eager vs Cooperative Rebalancing Explained &lpar;Why Consumers Pause During Deployments&rpar;](https://dev.to/rajeev_a954661bb78eb9797f/kafka-eager-vs-cooperative-rebalancing-explained-why-consumers-pause-during-deployments-4dn9)
+- [AI Agent Failures Are Distributed Systems Failures. Here&#39;s the Complete Mapping.](https://dev.to/arif/ai-agent-failures-are-distributed-systems-failures-heres-the-complete-mapping-216k)
+- [Stop the &quot;It Works on My Machine&quot; Madness: A Visual Comparison of Debugging Workflows](https://dev.to/tly_plane_fda7286469c791e/stop-the-it-works-on-my-machine-madness-a-visual-comparison-of-debugging-workflows-2f34)
+- [Blog Ops #2: I Broke My Content Pipeline 11 Times — Here&#39;s What I Learned](https://dev.to/leejackson/blog-ops-2-i-broke-my-content-pipeline-11-times-heres-what-i-learned-39g9)
+- [I Read EU AI Act Article 6 So You Don&#39;t Have To — Here&#39;s the Risk Checklist](https://dev.to/arkforge-ceo/i-read-eu-ai-act-article-6-so-you-dont-have-to-heres-the-risk-checklist-58jc)
+- [Securing Corporate Data: Azure Storage Private Access &amp; Lifecycle Management](https://dev.to/louis_oodo_a59b230b894609/securing-corporate-data-azure-storage-private-access-lifecycle-management-4dpg)
+- [Agentforce 2025 vs 2026: What Actually Changed in Salesforce](https://dev.to/tanvi_kulkarni_5b3effa2e3/agentforce-2025-vs-2026-what-actually-changed-in-salesforce-o76)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
