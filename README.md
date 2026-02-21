@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Test Enforcement Architecture for AI Agents: When You Make the AI Build Its Own Guardrails](https://dev.to/htekdev/test-enforcement-architecture-for-ai-agents-when-you-make-the-ai-build-its-own-guardrails-52c5)
-- [Building Cryptographic Approval Gates for AI Agents](https://dev.to/htekdev/building-cryptographic-approval-gates-for-ai-agents-15oi)
-- [Agentic DevOps: Building Agent-Proof Architecture That Lets You Sleep at Night](https://dev.to/htekdev/agentic-devops-building-agent-proof-architecture-that-lets-you-sleep-at-night-2b40)
-- [Agent Hooks: The Secret to Controlling AI Agents in Your Codebase](https://dev.to/htekdev/agent-hooks-the-secret-to-controlling-ai-agents-in-your-codebase-6a8)
-- [Implementing Per-Seat Team Billing with Stripe](https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5f43)
-- [Blog Ops #2: I Analyzed 30 Days of My Content Pipeline — Here&#39;s What the Data Actually Said](https://dev.to/leejackson/blog-ops-2-i-analyzed-30-days-of-my-content-pipeline-heres-what-the-data-actually-said-2g8a)
+- [We Turned Off Dependabot. Our Codebase Is Healthier Than Ever.](https://dev.to/matthewhou/we-turned-off-dependabot-our-codebase-is-healthier-than-ever-4e64)
+- [12 Simple Steps to Buy,, Verified KuCoin Accounts In 2026](https://dev.to/summani/12-simple-steps-to-buy-verified-kucoin-accounts-in-2026-1f4f)
+- [From 10-Minute Blocking APIs to Async Pipelines: A Production Backend Redesign](https://dev.to/phantom_adnan/from-10-minute-blocking-apis-to-async-pipelines-a-production-backend-redesign-114c)
+- [Drift Detection in Air-Gapped Workloads: What Nobody Tells You](https://dev.to/mateenali66/drift-detection-in-air-gapped-workloads-what-nobody-tells-you-3eb9)
+- [OpenClaw for SRE: Self-Hosted AI Agents That Actually Respond to Incidents](https://dev.to/mateenali66/openclaw-for-sre-self-hosted-ai-agents-that-actually-respond-to-incidents-5279)
+- [Best Picks 15 Reliable Sites to Buy Verified GCash accounts](https://dev.to/summani/best-picks-15-reliable-sites-to-buy-verified-gcash-accounts-4fdm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
