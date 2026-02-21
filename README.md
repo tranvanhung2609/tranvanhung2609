@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade DevOps Homelab on 4GB Ram HP Stream PC](https://dev.to/bayo_ogundele_b3f16b3c436/building-a-production-grade-devops-homelab-on-4gb-ram-hp-stream-pc-1k2h)
-- [The Complete Guide: Deploying a Static Site on AWS using Nginx and User Data: Completely Automated](https://dev.to/goodnessoj/the-complete-guide-deploying-a-static-site-on-aws-using-nginx-and-user-data-fbj)
-- [5 Dangerous Patterns in CLAUDE.md Configs &lpar;and a Free Browser Scanner to Detect Them&rpar;](https://dev.to/yurukusa/5-dangerous-patterns-in-claudemd-configs-and-a-free-browser-scanner-to-detect-them-1ahh)
-- [When Systems Don’t Scale: Fixing Backend Bottlenecks Before They Break Your Product](https://dev.to/millietechinsights/when-systems-dont-scale-fixing-backend-bottlenecks-before-they-break-your-product-18b0)
-- [Building AgentSecrets: Secrets Manager for the AI Era](https://dev.to/the_seventeen/building-agentsecrets-secrets-manager-for-the-ai-era-4hc0)
-- [Restarting Automation Again: From Twitter + Selenium to Reddit API](https://dev.to/bharath_kumar_30_vog/restarting-automation-again-from-twitter-selenium-to-reddit-api-4703)
+- [Test Enforcement Architecture for AI Agents: When You Make the AI Build Its Own Guardrails](https://dev.to/htekdev/test-enforcement-architecture-for-ai-agents-when-you-make-the-ai-build-its-own-guardrails-52c5)
+- [Building Cryptographic Approval Gates for AI Agents](https://dev.to/htekdev/building-cryptographic-approval-gates-for-ai-agents-15oi)
+- [Agentic DevOps: Building Agent-Proof Architecture That Lets You Sleep at Night](https://dev.to/htekdev/agentic-devops-building-agent-proof-architecture-that-lets-you-sleep-at-night-2b40)
+- [Agent Hooks: The Secret to Controlling AI Agents in Your Codebase](https://dev.to/htekdev/agent-hooks-the-secret-to-controlling-ai-agents-in-your-codebase-6a8)
+- [Implementing Per-Seat Team Billing with Stripe](https://dev.to/anand_rathnas_d5b608cc3de/implementing-per-seat-team-billing-with-stripe-5f43)
+- [Blog Ops #2: I Analyzed 30 Days of My Content Pipeline — Here&#39;s What the Data Actually Said](https://dev.to/leejackson/blog-ops-2-i-analyzed-30-days-of-my-content-pipeline-heres-what-the-data-actually-said-2g8a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
