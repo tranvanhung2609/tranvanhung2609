@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Turned Off Dependabot. Our Codebase Is Healthier Than Ever.](https://dev.to/matthewhou/we-turned-off-dependabot-our-codebase-is-healthier-than-ever-4e64)
-- [12 Simple Steps to Buy,, Verified KuCoin Accounts In 2026](https://dev.to/summani/12-simple-steps-to-buy-verified-kucoin-accounts-in-2026-1f4f)
-- [From 10-Minute Blocking APIs to Async Pipelines: A Production Backend Redesign](https://dev.to/phantom_adnan/from-10-minute-blocking-apis-to-async-pipelines-a-production-backend-redesign-114c)
-- [Drift Detection in Air-Gapped Workloads: What Nobody Tells You](https://dev.to/mateenali66/drift-detection-in-air-gapped-workloads-what-nobody-tells-you-3eb9)
-- [OpenClaw for SRE: Self-Hosted AI Agents That Actually Respond to Incidents](https://dev.to/mateenali66/openclaw-for-sre-self-hosted-ai-agents-that-actually-respond-to-incidents-5279)
-- [Best Picks 15 Reliable Sites to Buy Verified GCash accounts](https://dev.to/summani/best-picks-15-reliable-sites-to-buy-verified-gcash-accounts-4fdm)
+- [Web Developer Travis McCracken on Secrets Management in Modern Web Stacks](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-secrets-management-in-modern-web-stacks-1op)
+- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6)
+- [From Local to Live: A Complete Strapi v5 Deployment Roadmap &lpar;Part 0&rpar;](https://dev.to/tmkamal/from-local-to-live-a-complete-strapi-v5-deployment-roadmap-part-0-42kn)
+- [Dockerizing Applications for CI/CD](https://dev.to/techgirli/dockerizing-applications-for-cicd-22pf)
+- [Part 1 can be found here : https://dev.to/leriaetnasta/complete-microservices-architecture-with-spring-boot-spring-cloud-eureka-gateway-and-openfeign-5a2m](https://dev.to/leriaetnasta/part-1-can-be-found-here--bj8)
+- [5 HTTP Edge Cases That Break APIs &lpar;And How to Fix Them&rpar;](https://dev.to/1xapi/5-http-edge-cases-that-break-apis-and-how-to-fix-them-5a84)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
