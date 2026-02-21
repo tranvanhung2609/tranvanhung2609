@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Secrets Management in Modern Web Stacks](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-secrets-management-in-modern-web-stacks-1op)
-- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6)
-- [From Local to Live: A Complete Strapi v5 Deployment Roadmap &lpar;Part 0&rpar;](https://dev.to/tmkamal/from-local-to-live-a-complete-strapi-v5-deployment-roadmap-part-0-42kn)
-- [Dockerizing Applications for CI/CD](https://dev.to/techgirli/dockerizing-applications-for-cicd-22pf)
-- [Part 1 can be found here : https://dev.to/leriaetnasta/complete-microservices-architecture-with-spring-boot-spring-cloud-eureka-gateway-and-openfeign-5a2m](https://dev.to/leriaetnasta/part-1-can-be-found-here--bj8)
-- [5 HTTP Edge Cases That Break APIs &lpar;And How to Fix Them&rpar;](https://dev.to/1xapi/5-http-edge-cases-that-break-apis-and-how-to-fix-them-5a84)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
+- [Official Preview Announcement](https://dev.to/emmanuel_fagite_02ac19307/official-preview-announcement-2lk3)
+- [Tech With Tim: How I&#39;m Using AI Agents in 2026](https://dev.to/vibe_youtube/tech-with-tim-how-im-using-ai-agents-in-2026-3pbl)
+- [Top Place To Buy Old Gmail Accounts](https://dev.to/pvaseoshop0030/top-place-to-buy-old-gmail-accounts-2026)
+- [Solved: Can Zapier connects GSC &amp; G4A to GPT](https://dev.to/techresolve/solved-can-zapier-connects-gsc-g4a-to-gpt-14i3)
+- [Top Place To Buy LinkedIn Accounts](https://dev.to/pvaseoshop0030/top-place-to-buy-linkedin-accounts-2jpb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
