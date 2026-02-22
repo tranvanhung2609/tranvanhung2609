@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Code Review Agent in GitHub Actions &lpar;That Actually Reduces Incidents](https://dev.to/ravi_teja_8b63d9205dc7a13/build-an-ai-code-review-agent-in-github-actions-that-actually-reduces-incidents-439)
-- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
-- [How to Build Idempotent APIs in Node.js &lpar;With Real Examples&rpar;](https://dev.to/1xapi/how-to-build-idempotent-apis-in-nodejs-with-real-examples-1cp4)
-- [I Ran a 24/7 AI Content Pipeline for 7 Days — Here&#39;s the Real Data &lpar;Blog Ops #2&rpar;](https://dev.to/leejackson/i-ran-a-247-ai-content-pipeline-for-7-days-heres-the-real-data-blog-ops-2-2gl0)
-- [ClawMoat vs CrowdStrike Falcon vs Cisco AI Defense vs Doing Nothing](https://dev.to/darbogach/clawmoat-vs-crowdstrike-falcon-vs-cisco-ai-defense-vs-doing-nothing-4igp)
-- [I Gave My AI Agent Shell Access. Here&#39;s Every Command It Ran](https://dev.to/darbogach/i-gave-my-ai-agent-shell-access-heres-every-command-it-ran-4k8e)
+- [I Migrated My AI Agent from VPS to Mac Mini — 43 Cron Jobs Broke](https://dev.to/anicca_301094325e/i-migrated-my-ai-agent-from-vps-to-mac-mini-43-cron-jobs-broke-1j41)
+- [Run a Local AI Coding Agent for Free: Ollama + qwen2.5 Setup Guide](https://dev.to/satstack/run-a-local-ai-coding-agent-for-free-ollama-qwen25-setup-guide-3bf2)
+- [Spec-Driven Development: Why MCP Is the Missing Integration Layer for Enterprise AI](https://dev.to/jefe_cool/spec-driven-development-why-mcp-is-the-missing-integration-layer-for-enterprise-ai-37jl)
+- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
+- [基于角色的细分重要吗？](https://dev.to/latestdatabase0/ji-yu-jiao-se-de-xi-fen-zhong-yao-ma--p7c)
+- [Why I Route 80% of My AI Workload to a Free Local Model &lpar;And Only Pay for the Last 20%&rpar;](https://dev.to/rayne_robinson_e479bf0f26/why-i-route-80-of-my-ai-workload-to-a-free-local-model-and-only-pay-for-the-last-20-1d9c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
