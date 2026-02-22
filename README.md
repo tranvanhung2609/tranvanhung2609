@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Migrated My AI Agent from VPS to Mac Mini — 43 Cron Jobs Broke](https://dev.to/anicca_301094325e/i-migrated-my-ai-agent-from-vps-to-mac-mini-43-cron-jobs-broke-1j41)
-- [Run a Local AI Coding Agent for Free: Ollama + qwen2.5 Setup Guide](https://dev.to/satstack/run-a-local-ai-coding-agent-for-free-ollama-qwen25-setup-guide-3bf2)
-- [Spec-Driven Development: Why MCP Is the Missing Integration Layer for Enterprise AI](https://dev.to/jefe_cool/spec-driven-development-why-mcp-is-the-missing-integration-layer-for-enterprise-ai-37jl)
-- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
-- [基于角色的细分重要吗？](https://dev.to/latestdatabase0/ji-yu-jiao-se-de-xi-fen-zhong-yao-ma--p7c)
-- [Why I Route 80% of My AI Workload to a Free Local Model &lpar;And Only Pay for the Last 20%&rpar;](https://dev.to/rayne_robinson_e479bf0f26/why-i-route-80-of-my-ai-workload-to-a-free-local-model-and-only-pay-for-the-last-20-1d9c)
+- [Breathing Soul into AI: How to Implement a Self-Reflecting Long-Term Memory System in Java AI](https://dev.to/noear/breathing-soul-into-ai-how-to-implement-a-self-reflecting-long-term-memory-system-in-java-ai-19lh)
+- [Created OpenSource SNMP dev/testing tool for devs, please checkout and help improving it.](https://dev.to/tosumitdhaka/created-opensource-snmp-devtesting-tool-for-devs-please-checkout-and-help-improving-it-4mjh)
+- [I Built a Free, Self-Hosted SNMP Toolkit That Replaces $500+ Tools — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-that-replaces-500-tools-now-with-real-time-websocket-38p6)
+- [Rashed Devx Website](https://dev.to/rasheddevx/rashed-devx-website-al1)
+- [Web Developer Travis McCracken on Rust for Replacing Legacy Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-for-replacing-legacy-backend-systems-3je5)
+- [MD Files Connector — Stop Losing Track of Your Markdown Docs](https://dev.to/maneesh_thakur_d16c2852fa/md-files-connector-stop-losing-track-of-your-markdown-docs-ba7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
