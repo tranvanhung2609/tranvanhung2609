@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Breathing Soul into AI: How to Implement a Self-Reflecting Long-Term Memory System in Java AI](https://dev.to/noear/breathing-soul-into-ai-how-to-implement-a-self-reflecting-long-term-memory-system-in-java-ai-19lh)
-- [Created OpenSource SNMP dev/testing tool for devs, please checkout and help improving it.](https://dev.to/tosumitdhaka/created-opensource-snmp-devtesting-tool-for-devs-please-checkout-and-help-improving-it-4mjh)
-- [I Built a Free, Self-Hosted SNMP Toolkit That Replaces $500+ Tools — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-that-replaces-500-tools-now-with-real-time-websocket-38p6)
-- [Rashed Devx Website](https://dev.to/rasheddevx/rashed-devx-website-al1)
-- [Web Developer Travis McCracken on Rust for Replacing Legacy Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-for-replacing-legacy-backend-systems-3je5)
-- [MD Files Connector — Stop Losing Track of Your Markdown Docs](https://dev.to/maneesh_thakur_d16c2852fa/md-files-connector-stop-losing-track-of-your-markdown-docs-ba7)
+- [Concurrency patterns on Golang: Pipeline](https://dev.to/silver_dev/concurrency-patterns-on-golang-pipeline-16mb)
+- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
+- [CLI VS GUI](https://dev.to/dadesigns41/cli-vs-gui-1p8m)
+- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
+- [A Boring Error Format Is a Feature: Building a Consistent Error Envelope in Spring Boot](https://dev.to/thellu/a-boring-error-format-is-a-feature-building-a-consistent-error-envelope-in-spring-boot-1doc)
+- [JSON to Java Class Converter: Generate POJOs from JSON Data](https://dev.to/arenasbob2024cell/json-to-java-class-converter-generate-pojos-from-json-data-3n1b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
