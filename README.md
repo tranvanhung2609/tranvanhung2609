@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
-- [Official Preview Announcement](https://dev.to/emmanuel_fagite_02ac19307/official-preview-announcement-2lk3)
-- [Tech With Tim: How I&#39;m Using AI Agents in 2026](https://dev.to/vibe_youtube/tech-with-tim-how-im-using-ai-agents-in-2026-3pbl)
-- [Top Place To Buy Old Gmail Accounts](https://dev.to/pvaseoshop0030/top-place-to-buy-old-gmail-accounts-2026)
-- [Solved: Can Zapier connects GSC &amp; G4A to GPT](https://dev.to/techresolve/solved-can-zapier-connects-gsc-g4a-to-gpt-14i3)
-- [Top Place To Buy LinkedIn Accounts](https://dev.to/pvaseoshop0030/top-place-to-buy-linkedin-accounts-2jpb)
+- [Build an AI Code Review Agent in GitHub Actions &lpar;That Actually Reduces Incidents](https://dev.to/ravi_teja_8b63d9205dc7a13/build-an-ai-code-review-agent-in-github-actions-that-actually-reduces-incidents-439)
+- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
+- [How to Build Idempotent APIs in Node.js &lpar;With Real Examples&rpar;](https://dev.to/1xapi/how-to-build-idempotent-apis-in-nodejs-with-real-examples-1cp4)
+- [I Ran a 24/7 AI Content Pipeline for 7 Days — Here&#39;s the Real Data &lpar;Blog Ops #2&rpar;](https://dev.to/leejackson/i-ran-a-247-ai-content-pipeline-for-7-days-heres-the-real-data-blog-ops-2-2gl0)
+- [ClawMoat vs CrowdStrike Falcon vs Cisco AI Defense vs Doing Nothing](https://dev.to/darbogach/clawmoat-vs-crowdstrike-falcon-vs-cisco-ai-defense-vs-doing-nothing-4igp)
+- [I Gave My AI Agent Shell Access. Here&#39;s Every Command It Ran](https://dev.to/darbogach/i-gave-my-ai-agent-shell-access-heres-every-command-it-ran-4k8e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
