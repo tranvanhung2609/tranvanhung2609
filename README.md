@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Building Blocks of Code: Lexical Structure and Grammars in Java SE 25](https://dev.to/michele_gallotti/the-building-blocks-of-code-lexical-structure-and-grammars-in-java-se-25-5bpo)
-- [I Implemented Amazon&#39;s Dynamo Paper in Go](https://dev.to/pixperk/i-implemented-amazons-dynamo-paper-in-go-146e)
-- [Certified DevOps Professional Certification: Preparation Guide &amp; Real Learning Roadmap](https://dev.to/monika2631/certified-devops-professional-certification-preparation-guide-real-learning-roadmap-5d3e)
-- [PHP Tips for Website Development: Expert Guide to Build Better Websites](https://dev.to/amorio_technologies_88377/php-tips-for-website-development-expert-guide-to-build-better-websites-2k3k)
-- [#Top 01 SItes to Buy Verified Redotpay Accounts ok...](https://dev.to/piyevef448/top-01-sites-to-buy-verified-redotpay-accounts-ok-3j0o)
-- [Best Way to Purchase Old Gmail Accounts Safely in 20](https://dev.to/jfornshell/best-way-to-purchase-old-gmail-accounts-safely-in-20-1g5f)
+- [Fix GitHub Actions Workflow Failures](https://dev.to/aicontentlab/fix-github-actions-workflow-failures-4mh8)
+- [Does Your App Reveal Its Server Header? You Might Be Helping Attackers](https://dev.to/smartscanner/does-your-app-reveal-its-server-header-you-might-be-helping-attackers-2b8i)
+- [Is DevSecOps Becoming Just a Buzzword?](https://dev.to/sandhya_rani_techie/is-devsecops-becoming-just-a-buzzword-501f)
+- [Loading a View Inside Another View in CodeBehind &lpar;SSR vs CSR&rpar;](https://dev.to/elanatframework/loading-a-view-inside-another-view-in-codebehind-ssr-vs-csr-baf)
+- [Web Developer Travis McCracken on Distributed Caching with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-distributed-caching-with-rust-l3m)
+- [12 Autonomous Daemons Running 24/7 on a Single MacBook](https://dev.to/naption/12-autonomous-daemons-running-247-on-a-single-macbook-1l9m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
