@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fix GitHub Actions Workflow Failures](https://dev.to/aicontentlab/fix-github-actions-workflow-failures-4mh8)
-- [Does Your App Reveal Its Server Header? You Might Be Helping Attackers](https://dev.to/smartscanner/does-your-app-reveal-its-server-header-you-might-be-helping-attackers-2b8i)
-- [Is DevSecOps Becoming Just a Buzzword?](https://dev.to/sandhya_rani_techie/is-devsecops-becoming-just-a-buzzword-501f)
-- [Loading a View Inside Another View in CodeBehind &lpar;SSR vs CSR&rpar;](https://dev.to/elanatframework/loading-a-view-inside-another-view-in-codebehind-ssr-vs-csr-baf)
-- [Web Developer Travis McCracken on Distributed Caching with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-distributed-caching-with-rust-l3m)
-- [12 Autonomous Daemons Running 24/7 on a Single MacBook](https://dev.to/naption/12-autonomous-daemons-running-247-on-a-single-macbook-1l9m)
+- [LLMOps vs MLOps: What’s Different, What’s the Same, and How to Run Both in Production](https://dev.to/apprecode/llmops-vs-mlops-whats-different-whats-the-same-and-how-to-run-both-in-production-2o52)
+- [Collaboration](https://dev.to/passionmuse16/collaboration-56m4)
+- [Solved: Docker compose single file or multiple yaml files?](https://dev.to/techresolve/solved-docker-compose-single-file-or-multiple-yaml-files-95i)
+- [Solved: If not Next.js, then what frontend for a self-hosted?](https://dev.to/techresolve/solved-if-not-nextjs-then-what-frontend-for-a-self-hosted-45g6)
+- [I Built a Content Repurposing System That Saved Me 15 Hours/Week &lpar;Here&#39;s How&rpar;](https://dev.to/jackbuilds/i-built-a-content-repurposing-system-that-saved-me-15-hoursweek-heres-how-207j)
+- [O problema N+1: Um vilão na performance do Backend](https://dev.to/ewertoncodes/o-problema-n1-um-vilao-na-performance-do-backend-3co4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
