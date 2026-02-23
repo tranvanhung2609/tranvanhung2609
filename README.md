@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months &lpar;You&#39;re Paying 16x Too Much&rpar; 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3)
-- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7)
-- [How to Implement API Versioning Strategies in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-versioning-strategies-in-nodejs-2026-guide-58cc)
-- [Lab: Multi-Environment GitOps Platform](https://dev.to/jumptotech/lab-multi-environment-gitops-platform-1hen)
-- [PROJECT: “DevOps Pulse” – Enterprise GitOps Deployment on EKS](https://dev.to/jumptotech/project-devops-pulse-enterprise-gitops-deployment-on-eks-2dgd)
-- [Day 21 of #100DaysOfCode — Introduction to Backend Development](https://dev.to/m_saad_ahmad/day-21-of-100daysofcode-introduction-to-backend-development-90p)
+- [The Building Blocks of Code: Lexical Structure and Grammars in Java SE 25](https://dev.to/michele_gallotti/the-building-blocks-of-code-lexical-structure-and-grammars-in-java-se-25-5bpo)
+- [I Implemented Amazon&#39;s Dynamo Paper in Go](https://dev.to/pixperk/i-implemented-amazons-dynamo-paper-in-go-146e)
+- [Certified DevOps Professional Certification: Preparation Guide &amp; Real Learning Roadmap](https://dev.to/monika2631/certified-devops-professional-certification-preparation-guide-real-learning-roadmap-5d3e)
+- [PHP Tips for Website Development: Expert Guide to Build Better Websites](https://dev.to/amorio_technologies_88377/php-tips-for-website-development-expert-guide-to-build-better-websites-2k3k)
+- [#Top 01 SItes to Buy Verified Redotpay Accounts ok...](https://dev.to/piyevef448/top-01-sites-to-buy-verified-redotpay-accounts-ok-3j0o)
+- [Best Way to Purchase Old Gmail Accounts Safely in 20](https://dev.to/jfornshell/best-way-to-purchase-old-gmail-accounts-safely-in-20-1g5f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
