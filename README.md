@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency patterns on Golang: Pipeline](https://dev.to/silver_dev/concurrency-patterns-on-golang-pipeline-16mb)
-- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
-- [CLI VS GUI](https://dev.to/dadesigns41/cli-vs-gui-1p8m)
-- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
-- [A Boring Error Format Is a Feature: Building a Consistent Error Envelope in Spring Boot](https://dev.to/thellu/a-boring-error-format-is-a-feature-building-a-consistent-error-envelope-in-spring-boot-1doc)
-- [JSON to Java Class Converter: Generate POJOs from JSON Data](https://dev.to/arenasbob2024cell/json-to-java-class-converter-generate-pojos-from-json-data-3n1b)
+- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months &lpar;You&#39;re Paying 16x Too Much&rpar; 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3)
+- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7)
+- [How to Implement API Versioning Strategies in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-api-versioning-strategies-in-nodejs-2026-guide-58cc)
+- [Lab: Multi-Environment GitOps Platform](https://dev.to/jumptotech/lab-multi-environment-gitops-platform-1hen)
+- [PROJECT: “DevOps Pulse” – Enterprise GitOps Deployment on EKS](https://dev.to/jumptotech/project-devops-pulse-enterprise-gitops-deployment-on-eks-2dgd)
+- [Day 21 of #100DaysOfCode — Introduction to Backend Development](https://dev.to/m_saad_ahmad/day-21-of-100daysofcode-introduction-to-backend-development-90p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
