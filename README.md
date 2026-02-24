@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Week in Security: Feb 17–23, 2026](https://dev.to/dendrite_soup/week-in-security-feb-17-23-2026-3pmk)
-- [Certified DevOps Architect: Your Roadmap to Technical Leadership](https://dev.to/sneha0420/certified-devops-architect-your-roadmap-to-technical-leadership-dbi)
-- [Complete Backend Developer Roadmap &lpar;2026&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/complete-backend-developer-roadmap-2026-602)
-- [From CRDs to Controllers: Building a Kubernetes Custom Controller from Scratch](https://dev.to/ankrsinha/from-crds-to-controllers-building-a-kubernetes-custom-controller-from-scratch-3ibk)
-- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
-- [Certified DevOps Architect: A Complete Career Guide for IT Professionals](https://dev.to/monika2631/certified-devops-architect-a-complete-career-guide-for-it-professionals-1okf)
+- [60TB for €1? Beating AWS &amp; Vercel Egress Fees with Hetzner &amp; Cloudflare](https://dev.to/saqibshahdev/httpswwwdevmorphdevblogsoptimizing-egress-hidden-killer-of-cloud-bills-2026-142l)
+- [Struggling without proper roadmap and &quot;guidance &quot;](https://dev.to/vaishnavikn12/struggling-without-proper-roadmap-and-guidance--54dl)
+- [Performance issues are harder than outages](https://dev.to/nirankari/performance-issues-are-harder-than-outages-29dl)
+- [🧱 Two Structural Principles behind Clprolf](https://dev.to/charles_koffler_bcabc582b/two-structural-principles-behind-clprolf-1kg5)
+- [Mastering Control Flow in JavaScript: If, Else, Switch &amp; Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn)
+- [Web Developer Travis McCracken on Rust Error Handling: The Right Way](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-error-handling-the-right-way-3a0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
