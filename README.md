@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [60TB for €1? Beating AWS &amp; Vercel Egress Fees with Hetzner &amp; Cloudflare](https://dev.to/saqibshahdev/httpswwwdevmorphdevblogsoptimizing-egress-hidden-killer-of-cloud-bills-2026-142l)
-- [Struggling without proper roadmap and &quot;guidance &quot;](https://dev.to/vaishnavikn12/struggling-without-proper-roadmap-and-guidance--54dl)
-- [Performance issues are harder than outages](https://dev.to/nirankari/performance-issues-are-harder-than-outages-29dl)
-- [🧱 Two Structural Principles behind Clprolf](https://dev.to/charles_koffler_bcabc582b/two-structural-principles-behind-clprolf-1kg5)
-- [Mastering Control Flow in JavaScript: If, Else, Switch &amp; Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn)
-- [Web Developer Travis McCracken on Rust Error Handling: The Right Way](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-error-handling-the-right-way-3a0)
+- [Provide shared file storage for the company offices](https://dev.to/big_namz/provide-shared-file-storage-for-the-company-offices-2n76)
+- [Stop Building &quot;Lazy&quot; Backends: Why the Future is Agentic FaaS and MDL.](https://dev.to/sifatmusfique/stop-building-lazy-backends-why-the-future-is-agentic-faas-and-mdl-2b2o)
+- [No-SDK LLM Cost Spike Detection in Production &lpar;Endpoint + User + PromptVersion&rpar;](https://dev.to/opsmeter_io/no-sdk-llm-cost-spike-detection-in-production-endpoint-user-promptversion-370m)
+- [Auto-Backup Your Git Repo on Every Commit](https://dev.to/izawa/auto-backup-your-git-repo-on-every-commit-3iab)
+- [🚀 Building an AI-Powered CI/CD Copilot with Jenkins and AWS Lambda](https://dev.to/aws-builders/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l)
+- [Review of EliteClouds.com | from a 60 year old grizzled coder who still loves shiny boxes](https://dev.to/robert_lawrence/review-of-elitecloudscom-from-a-60-year-old-grizzled-coder-who-still-loves-shiny-boxes-1e5m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
