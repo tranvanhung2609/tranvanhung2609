@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [LLMOps vs MLOps: What’s Different, What’s the Same, and How to Run Both in Production](https://dev.to/apprecode/llmops-vs-mlops-whats-different-whats-the-same-and-how-to-run-both-in-production-2o52)
-- [Collaboration](https://dev.to/passionmuse16/collaboration-56m4)
-- [Solved: Docker compose single file or multiple yaml files?](https://dev.to/techresolve/solved-docker-compose-single-file-or-multiple-yaml-files-95i)
-- [Solved: If not Next.js, then what frontend for a self-hosted?](https://dev.to/techresolve/solved-if-not-nextjs-then-what-frontend-for-a-self-hosted-45g6)
-- [I Built a Content Repurposing System That Saved Me 15 Hours/Week &lpar;Here&#39;s How&rpar;](https://dev.to/jackbuilds/i-built-a-content-repurposing-system-that-saved-me-15-hoursweek-heres-how-207j)
-- [O problema N+1: Um vilão na performance do Backend](https://dev.to/ewertoncodes/o-problema-n1-um-vilao-na-performance-do-backend-3co4)
+- [Why Your @Async Method Ignores @Transactional &lpar;And Leaks Internal Errors&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-your-async-method-ignores-transactional-and-leaks-internal-errors-25ea)
+- [The Most Used Java Frameworks Nowadays &lpar;2026&rpar;](https://dev.to/polymorphicguy/the-most-used-java-frameworks-nowadays-2026-1g44)
+- [Automate Node.js Version Bumps with GitHub Actions &lpar;No Manual PRs Needed&rpar;](https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8)
+- [How to Send Discord Webhook Alerts in Java &lpar;Spring Boot Example&rpar;](https://dev.to/shahidfoy/how-to-send-discord-webhook-alerts-in-java-spring-boot-example-h51)
+- [I built an open-source CI/CD pipeline security scanner in Go](https://dev.to/yassine_hakkache_5a647ac7/pipeguard-an-open-source-fast-cli-tool-11ie)
+- [Dispatch From the Other Side: Designing for Leverage](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-designing-for-leverage-4c62)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
