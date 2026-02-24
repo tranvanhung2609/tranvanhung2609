@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your @Async Method Ignores @Transactional &lpar;And Leaks Internal Errors&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-your-async-method-ignores-transactional-and-leaks-internal-errors-25ea)
-- [The Most Used Java Frameworks Nowadays &lpar;2026&rpar;](https://dev.to/polymorphicguy/the-most-used-java-frameworks-nowadays-2026-1g44)
-- [Automate Node.js Version Bumps with GitHub Actions &lpar;No Manual PRs Needed&rpar;](https://dev.to/hansel/automate-nodejs-version-bumps-with-github-actions-no-manual-prs-needed-ol8)
-- [How to Send Discord Webhook Alerts in Java &lpar;Spring Boot Example&rpar;](https://dev.to/shahidfoy/how-to-send-discord-webhook-alerts-in-java-spring-boot-example-h51)
-- [I built an open-source CI/CD pipeline security scanner in Go](https://dev.to/yassine_hakkache_5a647ac7/pipeguard-an-open-source-fast-cli-tool-11ie)
-- [Dispatch From the Other Side: Designing for Leverage](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-designing-for-leverage-4c62)
+- [Week in Security: Feb 17–23, 2026](https://dev.to/dendrite_soup/week-in-security-feb-17-23-2026-3pmk)
+- [Certified DevOps Architect: Your Roadmap to Technical Leadership](https://dev.to/sneha0420/certified-devops-architect-your-roadmap-to-technical-leadership-dbi)
+- [Complete Backend Developer Roadmap &lpar;2026&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/complete-backend-developer-roadmap-2026-602)
+- [From CRDs to Controllers: Building a Kubernetes Custom Controller from Scratch](https://dev.to/ankrsinha/from-crds-to-controllers-building-a-kubernetes-custom-controller-from-scratch-3ibk)
+- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
+- [Certified DevOps Architect: A Complete Career Guide for IT Professionals](https://dev.to/monika2631/certified-devops-architect-a-complete-career-guide-for-it-professionals-1okf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
