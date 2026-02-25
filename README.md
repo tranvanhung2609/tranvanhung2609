@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Post-Mortem Analysis Best Practices for SRE](https://dev.to/aicontentlab/post-mortem-analysis-best-practices-for-sre-44of)
-- [Precisa mesmo containerizar tudo?](https://dev.to/lukasdesouza/precisa-mesmo-containerizar-tudo-5b88)
-- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-di)
-- [Laravel Collections: Why I Use Them for Business Logic &lpar;Not Just Convenience&rpar;](https://dev.to/blamsa0mine/laravel-collections-why-i-use-them-for-business-logic-not-just-convenience-1n4n)
-- [Provisioning AWS Infrastructure with Terraform](https://dev.to/techgirli/provisioning-aws-infrastructure-with-terraform-a1c)
-- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-383c)
+- [Buy Old Gmail Accounts - 100% Safe Number Verified Accounts](https://dev.to/prime_bizs_54/buy-old-gmail-accounts-100-safe-number-verified-accounts-h16)
+- [Kubernetes Operators: A Deep Dive into the Internals](https://dev.to/piyushjajoo/kubernetes-operators-a-deep-dive-into-the-internals-221m)
+- [Why We Banned LLMs from Runtime — And What We Do Instead](https://dev.to/fasciarun/why-we-banned-llms-from-runtime-and-what-we-do-instead-7ck)
+- [Dealing with Long-Running Kafka Consumers and Message Backlogs](https://dev.to/fathma/dealing-with-long-running-kafka-consumers-and-message-backlogs-522h)
+- [Solved: EC2 Cost Optimization](https://dev.to/techresolve/solved-ec2-cost-optimization-43lf)
+- [Solved: Next-Level Airtable-Slack Sync: 2-Way Data, Custom Actions, and Thread Replies](https://dev.to/techresolve/solved-next-level-airtable-slack-sync-2-way-data-custom-actions-and-thread-replies-3627)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
