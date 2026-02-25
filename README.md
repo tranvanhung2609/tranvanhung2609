@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8)
-- [Auth0 Kullanarak Hızlı Auth Entegrasyonu](https://dev.to/turkcoode/auth0-kullanarak-hizli-auth-entegrasyonu-35e2)
-- [Day 23 of #100DaysOfCode — Introduction to Express.js](https://dev.to/m_saad_ahmad/day-23-of-100daysofcode-introduction-to-expressjs-1g3j)
-- [Build: DDEV CI Acceleration Playbook with WarpBuild for Drupal Pipelines](https://dev.to/victorstackai/build-ddev-ci-acceleration-playbook-with-warpbuild-for-drupal-pipelines-2lcb)
-- [Your AI Agent Has Root Access to Your Laptop. Here&#39;s How to Fix That.](https://dev.to/darbogach/your-ai-agent-has-root-access-to-your-laptop-heres-how-to-fix-that-2o86)
-- [Will Claude Code Be Dead by Summer?](https://dev.to/jefe_cool/will-claude-code-be-dead-by-summer-2po5)
+- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008)
+- [Direct Hardware Control](https://dev.to/ts_tgd_4b427b1919946bd5ab/direct-hardware-control-49aj)
+- [What is object cloning in Java?](https://dev.to/gowtham_kalyan_a0f7df04c1/what-is-object-cloning-in-java-3ian)
+- [Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?](https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi)
+- [Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF](https://dev.to/techresolve/solved-broadcom-doubles-down-on-open-source-donates-kubernetes-tool-to-cncf-3db3)
+- [Difference Between `final`, `finally`, and `finalize&lpar;&rpar;` in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-final-finally-and-finalize-in-java-11ad)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
