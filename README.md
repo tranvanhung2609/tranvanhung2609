@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Provide shared file storage for the company offices](https://dev.to/big_namz/provide-shared-file-storage-for-the-company-offices-2n76)
-- [Stop Building &quot;Lazy&quot; Backends: Why the Future is Agentic FaaS and MDL.](https://dev.to/sifatmusfique/stop-building-lazy-backends-why-the-future-is-agentic-faas-and-mdl-2b2o)
-- [No-SDK LLM Cost Spike Detection in Production &lpar;Endpoint + User + PromptVersion&rpar;](https://dev.to/opsmeter_io/no-sdk-llm-cost-spike-detection-in-production-endpoint-user-promptversion-370m)
-- [Auto-Backup Your Git Repo on Every Commit](https://dev.to/izawa/auto-backup-your-git-repo-on-every-commit-3iab)
-- [🚀 Building an AI-Powered CI/CD Copilot with Jenkins and AWS Lambda](https://dev.to/aws-builders/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l)
-- [Review of EliteClouds.com | from a 60 year old grizzled coder who still loves shiny boxes](https://dev.to/robert_lawrence/review-of-elitecloudscom-from-a-60-year-old-grizzled-coder-who-still-loves-shiny-boxes-1e5m)
+- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8)
+- [Auth0 Kullanarak Hızlı Auth Entegrasyonu](https://dev.to/turkcoode/auth0-kullanarak-hizli-auth-entegrasyonu-35e2)
+- [Day 23 of #100DaysOfCode — Introduction to Express.js](https://dev.to/m_saad_ahmad/day-23-of-100daysofcode-introduction-to-expressjs-1g3j)
+- [Build: DDEV CI Acceleration Playbook with WarpBuild for Drupal Pipelines](https://dev.to/victorstackai/build-ddev-ci-acceleration-playbook-with-warpbuild-for-drupal-pipelines-2lcb)
+- [Your AI Agent Has Root Access to Your Laptop. Here&#39;s How to Fix That.](https://dev.to/darbogach/your-ai-agent-has-root-access-to-your-laptop-heres-how-to-fix-that-2o86)
+- [Will Claude Code Be Dead by Summer?](https://dev.to/jefe_cool/will-claude-code-be-dead-by-summer-2po5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
