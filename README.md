@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008)
-- [Direct Hardware Control](https://dev.to/ts_tgd_4b427b1919946bd5ab/direct-hardware-control-49aj)
-- [What is object cloning in Java?](https://dev.to/gowtham_kalyan_a0f7df04c1/what-is-object-cloning-in-java-3ian)
-- [Solved: Anyone noticing shifts in Azure best practices around scaling, monitoring, or automation?](https://dev.to/techresolve/solved-anyone-noticing-shifts-in-azure-best-practices-around-scaling-monitoring-or-automation-44oi)
-- [Solved: Broadcom ‘Doubles Down’ on Open Source, Donates Kubernetes Tool to CNCF](https://dev.to/techresolve/solved-broadcom-doubles-down-on-open-source-donates-kubernetes-tool-to-cncf-3db3)
-- [Difference Between `final`, `finally`, and `finalize&lpar;&rpar;` in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-final-finally-and-finalize-in-java-11ad)
+- [Post-Mortem Analysis Best Practices for SRE](https://dev.to/aicontentlab/post-mortem-analysis-best-practices-for-sre-44of)
+- [Precisa mesmo containerizar tudo?](https://dev.to/lukasdesouza/precisa-mesmo-containerizar-tudo-5b88)
+- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-di)
+- [Laravel Collections: Why I Use Them for Business Logic &lpar;Not Just Convenience&rpar;](https://dev.to/blamsa0mine/laravel-collections-why-i-use-them-for-business-logic-not-just-convenience-1n4n)
+- [Provisioning AWS Infrastructure with Terraform](https://dev.to/techgirli/provisioning-aws-infrastructure-with-terraform-a1c)
+- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-383c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
