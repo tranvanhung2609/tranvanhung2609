@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
-- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
-- [Choosing the Right Cloud Service Provider in 2026 &lpar;From a Developer’s Lens&rpar;](https://dev.to/techcompass/choosing-the-right-cloud-service-provider-in-2026-from-a-developers-lens-48ji)
-- [We Scanned 20 Top MCP Servers for Vulnerabilities — The Results Will Shock You](https://dev.to/ecap0/we-scanned-20-top-mcp-servers-for-vulnerabilities-the-results-will-shock-you-21c5)
-- [Web Developer Travis McCracken on Streaming APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-streaming-apis-with-go-206d)
-- [Freshping Shutting Down? Here Are Your Best Free Alternatives &lpar;March 2026&rpar;](https://dev.to/daviddaadams/freshping-shutting-down-here-are-your-best-free-alternatives-march-2026-1jf3)
+- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
+- [How CaaS Could Turn Major Brands into Digital Powerhouses](https://dev.to/dan_keller/how-caas-could-turn-major-brands-into-digital-powerhouses-112c)
+- [JSON vs YAML: When to Use Each and How to Convert](https://dev.to/arenasbob2024cell/json-vs-yaml-when-to-use-each-and-how-to-convert-1fmo)
+- [🚀 Day 7 of My Automation Journey – Default Values &amp; Constructors in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-7-of-my-automation-journey-default-values-constructors-in-java-299p)
+- [Cron Expressions: Complete Guide for DevOps and Backend Developers](https://dev.to/arenasbob2024cell/cron-expressions-complete-guide-for-devops-and-backend-developers-137k)
+- [How SageMaker Actually Bills: A Breakdown for Engineers](https://dev.to/cloudwiseteam/how-sagemaker-actually-bills-a-breakdown-for-engineers-1cb7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
