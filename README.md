@@ -103,12 +103,14 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [lab part 5: legacy system production-grade Terraform modules + GitLab](https://dev.to/jumptotech/lab-part-4-legacy-system-production-grade-terraform-modules-gitlab-1fd1)
-- [Your AI Wrote the Backend. Who Owns the Breach?](https://dev.to/narnaiezzsshaa/your-ai-wrote-the-backend-who-owns-the-breach-2o73)
-- [lab part 4: legacy system production-grade Terraform modules + GitLab](https://dev.to/jumptotech/lab-part-3-legacy-system-production-grade-terraform-modules-gitlab-166e)
-- [QualityHub v1.2.0 — Your CI now posts quality reports directly on your MRs](https://dev.to/younes_bentlili_9480340f/qualityhub-v120-your-ci-now-posts-quality-reports-directly-on-your-mrs-296)
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
-- [The Hard Way to Learn AI Agents Need a Constitution &lpar;Not Prompts&rpar;](https://dev.to/oguzhanatalay/the-hard-way-to-learn-ai-agents-need-a-constitution-not-prompts-2hdm)
+- [Microsoft Says Don&#39;t Run OpenClaw on Your Workstation. Here&#39;s How to Do It Safely.](https://dev.to/darbogach/microsoft-says-dont-run-openclaw-on-your-workstation-heres-how-to-do-it-safely-1ki9)
+- [🚀 Scalable Architecture for Startups: How to Design Systems That Grow With Your Company](https://dev.to/okoye_ndidiamaka_5e3b7d30/scalable-architecture-for-startups-how-to-design-systems-that-grow-with-your-company-4b42)
+- [The 15 minutes after deploy used to wreck my focus — so I built a “decision window”](https://dev.to/lazypl82/the-15-minutes-after-deploy-used-to-wreck-my-focus-so-i-built-a-decision-window-2cpp)
+- [Elevate Your Career: The DevOps Certified Professional Guide](https://dev.to/manshi2026/elevate-your-career-the-devops-certified-professional-guide-360b)
+- [Most webhook tutorials focus on getting things working. Parse the JSON, handle the event, return 200. 
+
+But a webhook endpoint in production is an attack surface. Without proper security, it&#39;s an open door.](https://dev.to/digital_trubador/most-webhook-tutorials-focus-on-getting-things-working-parse-the-json-handle-the-event-return-hh9)
+- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
