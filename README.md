@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Buy Old Gmail Accounts - 100% Safe Number Verified Accounts](https://dev.to/prime_bizs_54/buy-old-gmail-accounts-100-safe-number-verified-accounts-h16)
-- [Kubernetes Operators: A Deep Dive into the Internals](https://dev.to/piyushjajoo/kubernetes-operators-a-deep-dive-into-the-internals-221m)
-- [Why We Banned LLMs from Runtime — And What We Do Instead](https://dev.to/fasciarun/why-we-banned-llms-from-runtime-and-what-we-do-instead-7ck)
-- [Dealing with Long-Running Kafka Consumers and Message Backlogs](https://dev.to/fathma/dealing-with-long-running-kafka-consumers-and-message-backlogs-522h)
-- [Solved: EC2 Cost Optimization](https://dev.to/techresolve/solved-ec2-cost-optimization-43lf)
-- [Solved: Next-Level Airtable-Slack Sync: 2-Way Data, Custom Actions, and Thread Replies](https://dev.to/techresolve/solved-next-level-airtable-slack-sync-2-way-data-custom-actions-and-thread-replies-3627)
+- [lab part 5: legacy system production-grade Terraform modules + GitLab](https://dev.to/jumptotech/lab-part-4-legacy-system-production-grade-terraform-modules-gitlab-1fd1)
+- [Your AI Wrote the Backend. Who Owns the Breach?](https://dev.to/narnaiezzsshaa/your-ai-wrote-the-backend-who-owns-the-breach-2o73)
+- [lab part 4: legacy system production-grade Terraform modules + GitLab](https://dev.to/jumptotech/lab-part-3-legacy-system-production-grade-terraform-modules-gitlab-166e)
+- [QualityHub v1.2.0 — Your CI now posts quality reports directly on your MRs](https://dev.to/younes_bentlili_9480340f/qualityhub-v120-your-ci-now-posts-quality-reports-directly-on-your-mrs-296)
+- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
+- [The Hard Way to Learn AI Agents Need a Constitution &lpar;Not Prompts&rpar;](https://dev.to/oguzhanatalay/the-hard-way-to-learn-ai-agents-need-a-constitution-not-prompts-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
