@@ -103,14 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Says Don&#39;t Run OpenClaw on Your Workstation. Here&#39;s How to Do It Safely.](https://dev.to/darbogach/microsoft-says-dont-run-openclaw-on-your-workstation-heres-how-to-do-it-safely-1ki9)
-- [🚀 Scalable Architecture for Startups: How to Design Systems That Grow With Your Company](https://dev.to/okoye_ndidiamaka_5e3b7d30/scalable-architecture-for-startups-how-to-design-systems-that-grow-with-your-company-4b42)
-- [The 15 minutes after deploy used to wreck my focus — so I built a “decision window”](https://dev.to/lazypl82/the-15-minutes-after-deploy-used-to-wreck-my-focus-so-i-built-a-decision-window-2cpp)
-- [Elevate Your Career: The DevOps Certified Professional Guide](https://dev.to/manshi2026/elevate-your-career-the-devops-certified-professional-guide-360b)
-- [Most webhook tutorials focus on getting things working. Parse the JSON, handle the event, return 200. 
-
-But a webhook endpoint in production is an attack surface. Without proper security, it&#39;s an open door.](https://dev.to/digital_trubador/most-webhook-tutorials-focus-on-getting-things-working-parse-the-json-handle-the-event-return-hh9)
-- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n)
+- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
+- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
+- [Choosing the Right Cloud Service Provider in 2026 &lpar;From a Developer’s Lens&rpar;](https://dev.to/techcompass/choosing-the-right-cloud-service-provider-in-2026-from-a-developers-lens-48ji)
+- [We Scanned 20 Top MCP Servers for Vulnerabilities — The Results Will Shock You](https://dev.to/ecap0/we-scanned-20-top-mcp-servers-for-vulnerabilities-the-results-will-shock-you-21c5)
+- [Web Developer Travis McCracken on Streaming APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-streaming-apis-with-go-206d)
+- [Freshping Shutting Down? Here Are Your Best Free Alternatives &lpar;March 2026&rpar;](https://dev.to/daviddaadams/freshping-shutting-down-here-are-your-best-free-alternatives-march-2026-1jf3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
