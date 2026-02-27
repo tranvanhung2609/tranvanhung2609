@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Spaghetti APIs: A Practical Guide to Clean REST API Design](https://dev.to/teguh_coding/stop-writing-spaghetti-apis-a-practical-guide-to-clean-rest-api-design-5ekh)
-- [JSON to PHP Class: Complete Guide with Constructor Promotion and Typed Properties](https://dev.to/arenasbob2024cell/json-to-php-class-complete-guide-with-constructor-promotion-and-typed-properties-2edl)
-- [💡 Beginner-Friendly Guide &#39;Minimum Operations to Equalize Binary String&#39; - Problem 3666 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)
-- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg)
-- [JSON to Python: Complete Guide to Dataclasses, Pydantic, and JSON Parsing](https://dev.to/arenasbob2024cell/json-to-python-complete-guide-to-dataclasses-pydantic-and-json-parsing-24db)
-- [JSON to C# Class: Complete Guide with System.Text.Json and Json.NET](https://dev.to/arenasbob2024cell/json-to-c-class-complete-guide-with-systemtextjson-and-jsonnet-1lng)
+- [Office Design Trends in Coimbatore: How Ideaa Spaace Is Redefining Modern Workspaces](https://dev.to/ideaaspaace/office-design-trends-in-coimbatore-how-ideaa-spaace-is-redefining-modern-workspaces-ckf)
+- [How to Choose the Best Bruiloft Catering Friesland in 2026?](https://dev.to/bruiloftcateringfriesland/how-to-choose-the-best-bruiloft-catering-friesland-in-2026-5fe9)
+- [Concurrency and Data Consistency: Managing Multiple Users Without Losing Control](https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1)
+- [Hosted control plane: when it simplifies operations and when it adds complexity](https://dev.to/daya-shankar/hosted-control-plane-when-it-simplifies-operations-and-when-it-adds-complexity-33oc)
+- [📬 SMTP Configuration Explained](https://dev.to/arjun_computer_geek/smtp-configuration-explained-4d86)
+- [The Rise of AI-Powered DDoS in 2026: Why Your Current Hosting Won&#39;t Survive](https://dev.to/bytesrack/the-rise-of-ai-powered-ddos-in-2026-why-your-current-hosting-wont-survive-39ji)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
