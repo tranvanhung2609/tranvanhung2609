@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
-- [How CaaS Could Turn Major Brands into Digital Powerhouses](https://dev.to/dan_keller/how-caas-could-turn-major-brands-into-digital-powerhouses-112c)
-- [JSON vs YAML: When to Use Each and How to Convert](https://dev.to/arenasbob2024cell/json-vs-yaml-when-to-use-each-and-how-to-convert-1fmo)
-- [🚀 Day 7 of My Automation Journey – Default Values &amp; Constructors in Java](https://dev.to/bala_dkaveri_443d4beb9c8/day-7-of-my-automation-journey-default-values-constructors-in-java-299p)
-- [Cron Expressions: Complete Guide for DevOps and Backend Developers](https://dev.to/arenasbob2024cell/cron-expressions-complete-guide-for-devops-and-backend-developers-137k)
-- [How SageMaker Actually Bills: A Breakdown for Engineers](https://dev.to/cloudwiseteam/how-sagemaker-actually-bills-a-breakdown-for-engineers-1cb7)
+- [Stop Writing Spaghetti APIs: A Practical Guide to Clean REST API Design](https://dev.to/teguh_coding/stop-writing-spaghetti-apis-a-practical-guide-to-clean-rest-api-design-5ekh)
+- [JSON to PHP Class: Complete Guide with Constructor Promotion and Typed Properties](https://dev.to/arenasbob2024cell/json-to-php-class-complete-guide-with-constructor-promotion-and-typed-properties-2edl)
+- [💡 Beginner-Friendly Guide &#39;Minimum Operations to Equalize Binary String&#39; - Problem 3666 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)
+- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg)
+- [JSON to Python: Complete Guide to Dataclasses, Pydantic, and JSON Parsing](https://dev.to/arenasbob2024cell/json-to-python-complete-guide-to-dataclasses-pydantic-and-json-parsing-24db)
+- [JSON to C# Class: Complete Guide with System.Text.Json and Json.NET](https://dev.to/arenasbob2024cell/json-to-c-class-complete-guide-with-systemtextjson-and-jsonnet-1lng)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
