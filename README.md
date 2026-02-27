@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Unofficial Guide to Reconstructing a Cloud Breach in Minutes](https://dev.to/aws-builders/the-unofficial-guide-to-reconstructing-a-cloud-breach-in-minutes-194g)
-- [Deploying Scalable Virtual Machines on AWS Using Amazon EC2: A Beginner’s Guide.](https://dev.to/ifeoma_nwafor/deploying-scalable-virtual-machines-on-aws-using-amazon-ec2-a-beginners-guide-3jic)
-- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-5422)
-- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
-- [Being a Fresher Developer Is Harder Than It Looks](https://dev.to/andrea-sunny/being-a-fresher-developer-is-harder-than-it-looks-5d9a)
-- [OpenTelemetry: the one instrumentation standard to rule them all](https://dev.to/justin_joseph_8d3e739d502/opentelemetry-the-one-instrumentation-standard-to-rule-them-all-2m60)
+- [I Built a Health Check CLI for Claude Code. My Setup Scored 63 on the First Run.](https://dev.to/yurukusa/i-built-a-health-check-cli-for-claude-code-my-setup-scored-63-on-the-first-run-2glb)
+- [Check Nginx Configuration: Manual &amp; Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)
+- [LLMs, LangChain, and CrewAI: the clearest path to turning AI into a useful, reliable solution](https://dev.to/claudio_santos/llms-langchain-and-crewai-the-clearest-path-to-turning-ai-into-a-useful-reliable-solution-31og)
+- [10 Git Commands That Will Make Your Team Think You Are a Wizard](https://dev.to/teguh_coding/10-git-commands-that-will-make-your-team-think-you-are-a-wizard-1lce)
+- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
+- [Microsoft All Product Keys – Get Cheap Software Keys at Chepaestkeys.com](https://dev.to/cheapestkeys1/microsoft-all-product-keys-get-cheap-software-keys-at-chepaestkeyscom-3n2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
