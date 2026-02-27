@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Office Design Trends in Coimbatore: How Ideaa Spaace Is Redefining Modern Workspaces](https://dev.to/ideaaspaace/office-design-trends-in-coimbatore-how-ideaa-spaace-is-redefining-modern-workspaces-ckf)
-- [How to Choose the Best Bruiloft Catering Friesland in 2026?](https://dev.to/bruiloftcateringfriesland/how-to-choose-the-best-bruiloft-catering-friesland-in-2026-5fe9)
-- [Concurrency and Data Consistency: Managing Multiple Users Without Losing Control](https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1)
-- [Hosted control plane: when it simplifies operations and when it adds complexity](https://dev.to/daya-shankar/hosted-control-plane-when-it-simplifies-operations-and-when-it-adds-complexity-33oc)
-- [📬 SMTP Configuration Explained](https://dev.to/arjun_computer_geek/smtp-configuration-explained-4d86)
-- [The Rise of AI-Powered DDoS in 2026: Why Your Current Hosting Won&#39;t Survive](https://dev.to/bytesrack/the-rise-of-ai-powered-ddos-in-2026-why-your-current-hosting-wont-survive-39ji)
+- [The Unofficial Guide to Reconstructing a Cloud Breach in Minutes](https://dev.to/aws-builders/the-unofficial-guide-to-reconstructing-a-cloud-breach-in-minutes-194g)
+- [Deploying Scalable Virtual Machines on AWS Using Amazon EC2: A Beginner’s Guide.](https://dev.to/ifeoma_nwafor/deploying-scalable-virtual-machines-on-aws-using-amazon-ec2-a-beginners-guide-3jic)
+- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-5422)
+- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
+- [Being a Fresher Developer Is Harder Than It Looks](https://dev.to/andrea-sunny/being-a-fresher-developer-is-harder-than-it-looks-5d9a)
+- [OpenTelemetry: the one instrumentation standard to rule them all](https://dev.to/justin_joseph_8d3e739d502/opentelemetry-the-one-instrumentation-standard-to-rule-them-all-2m60)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
