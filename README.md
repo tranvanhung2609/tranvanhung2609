@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Health Check CLI for Claude Code. My Setup Scored 63 on the First Run.](https://dev.to/yurukusa/i-built-a-health-check-cli-for-claude-code-my-setup-scored-63-on-the-first-run-2glb)
-- [Check Nginx Configuration: Manual &amp; Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)
-- [LLMs, LangChain, and CrewAI: the clearest path to turning AI into a useful, reliable solution](https://dev.to/claudio_santos/llms-langchain-and-crewai-the-clearest-path-to-turning-ai-into-a-useful-reliable-solution-31og)
-- [10 Git Commands That Will Make Your Team Think You Are a Wizard](https://dev.to/teguh_coding/10-git-commands-that-will-make-your-team-think-you-are-a-wizard-1lce)
-- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
-- [Microsoft All Product Keys – Get Cheap Software Keys at Chepaestkeys.com](https://dev.to/cheapestkeys1/microsoft-all-product-keys-get-cheap-software-keys-at-chepaestkeyscom-3n2)
+- [#5 Known is a Drop! Operators in JAVA](https://dev.to/deepikandas/5-known-is-a-drop-operators-in-java-3cai)
+- [Stop Exposing Port 18789: How I Secure OpenClaw on AWS EC2 with Nginx and SSL](https://dev.to/asim07/stop-exposing-port-18789-how-i-secure-openclaw-on-aws-ec2-with-nginx-and-ssl-do9)
+- [Taking Control of 0x0.st Uploads: Token Management for Reliable Image Hosting](https://dev.to/retrorom/taking-control-of-0x0st-uploads-token-management-for-reliable-image-hosting-2jkh)
+- [5 Ways Your Cron Jobs Are Failing Silently &lpar;and How to Catch Them&rpar;](https://dev.to/deadping/5-ways-your-cron-jobs-are-failing-silently-and-how-to-catch-them-2njp)
+- [5 Ways Your Cron Jobs Are Failing Silently &lpar;and How to Catch Them&rpar;](https://dev.to/deadping/5-ways-your-cron-jobs-are-failing-silently-and-how-to-catch-them-2njp)
+- [Express vs Fastify: The Numbers Behind the Hype](https://dev.to/royce_fabbd83cb268312e928/express-vs-fastify-the-numbers-behind-the-hype-4he2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
