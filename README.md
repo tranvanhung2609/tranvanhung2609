@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Parallel-Safe Enterprise Automation Framework with Playwright and JUnit 5](https://dev.to/chukwuma1976/designing-a-parallel-safe-enterprise-automation-framework-with-playwright-and-junit-5-a99)
-- [-&gt;&gt; Day-25 Terraform Import In AWS](https://dev.to/amit_kumar_7db8e36a64dd45/-day-25-terraform-import-in-aws-fim)
-- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-2hb4)
-- [Building a Disaster Recovery Shadow Bot with OpenClaw](https://dev.to/linou518/building-a-disaster-recovery-shadow-bot-with-openclaw-2jn1)
-- [The Morgan Stanley Pivot: Why a New US Bank Charter Changes the Game for XRP and the Crypto Market](https://dev.to/around_you_1972e9144aa7f3/the-morgan-stanley-pivot-why-a-new-us-bank-charter-changes-the-game-for-xrp-and-the-crypto-market-4p30)
-- [Top Crypto Recovery Company: Go To ZEUS CRYPTO RECOVERY SERVICES](https://dev.to/murphy_aguero_01b36448a55/top-crypto-recovery-company-go-to-zeus-crypto-recovery-services-3405)
+- [Solved: Business Owners, are you hosting an employee holiday party this year?](https://dev.to/techresolve/solved-business-owners-are-you-hosting-an-employee-holiday-party-this-year-2hf9)
+- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj)
+- [TS-first library to standardize your API responses and errors](https://dev.to/matteoteodori/ts-first-library-to-standardize-your-api-responses-and-errors-cli)
+- [Top 11 Mobile App Development Companies in USA &lpar;2026&rpar;](https://dev.to/jimsmith/top-11-mobile-app-development-companies-in-usa-2026-2kj1)
+- [How I Built a Production-Grade Kubernetes RBAC Setup — And Broke It On Purpose](https://dev.to/adil-khan-723/how-i-built-a-production-grade-kubernetes-rbac-setup-and-broke-it-on-purpose-98a)
+- [7 Business Processes You Should Automate First &lpar;and Why&rpar;](https://dev.to/manager_sharconai_f6fb3b0/7-business-processes-you-should-automate-first-and-why-189k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
