@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Is Having Its Maker Movement Moment](https://dev.to/vainkop/vibe-coding-is-having-its-maker-movement-moment-3cj6)
-- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0)
-- [How I Built a Centralized Monitoring System for 600–700 Servers — Using Open Source Tools](https://dev.to/dnyaneshwarshekade/how-i-built-a-centralized-monitoring-system-for-600-700-servers-using-open-source-tools-1430)
-- [Phase 3 - Deploying a Custom App to Azure Kubernetes Service Using Azure Container Registry](https://dev.to/pilgrim2go/phase-3-deploying-a-custom-app-to-azure-kubernetes-service-using-azure-container-registry-12mk)
-- [Phase 5 - AKS with Azure DNS + NGINX Ingress + cert-manager](https://dev.to/pilgrim2go/phase-4-aks-with-azure-dns-nginx-ingress-cert-manager-i9)
-- [Phase 4 - Exposing Multiple Services on AKS Using NGINX Ingress](https://dev.to/pilgrim2go/phase-3-exposing-multiple-services-on-aks-using-nginx-ingress-141o)
+- [WireGuard vs OpenVPN in 2026: Which VPN Protocol Should Developers Care About?](https://dev.to/lemon_tern_7f5cfc06e451fe/wireguard-vs-openvpn-in-2026-which-vpn-protocol-should-developers-care-about-j86)
+- [A Lightweight Linux Firewall with Integrated Auto-Ban &lpar;nftables-primary backend&rpar;](https://dev.to/jwillberg/a-lightweight-linux-firewall-with-integrated-auto-ban-nftables-primary-backend-443a)
+- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk)
+- [Web Developer Travis McCracken on Go’s Standard Library is a Hidden Gem](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-standard-library-is-a-hidden-gem-3amk)
+- [Trust Is an Engineering Output: How Teams Earn Credibility When Systems Break](https://dev.to/sonia_bobrik_1939cdddd79d/trust-is-an-engineering-output-how-teams-earn-credibility-when-systems-break-1k4f)
+- [How We Migrated 20+ AI Agents from Telegram to Slack in a Single Day](https://dev.to/linou518/how-we-migrated-20-ai-agents-from-telegram-to-slack-in-a-single-day-c8g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
