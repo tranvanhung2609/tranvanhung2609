@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [WireGuard vs OpenVPN in 2026: Which VPN Protocol Should Developers Care About?](https://dev.to/lemon_tern_7f5cfc06e451fe/wireguard-vs-openvpn-in-2026-which-vpn-protocol-should-developers-care-about-j86)
-- [A Lightweight Linux Firewall with Integrated Auto-Ban &lpar;nftables-primary backend&rpar;](https://dev.to/jwillberg/a-lightweight-linux-firewall-with-integrated-auto-ban-nftables-primary-backend-443a)
-- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk)
-- [Web Developer Travis McCracken on Go’s Standard Library is a Hidden Gem](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-standard-library-is-a-hidden-gem-3amk)
-- [Trust Is an Engineering Output: How Teams Earn Credibility When Systems Break](https://dev.to/sonia_bobrik_1939cdddd79d/trust-is-an-engineering-output-how-teams-earn-credibility-when-systems-break-1k4f)
-- [How We Migrated 20+ AI Agents from Telegram to Slack in a Single Day](https://dev.to/linou518/how-we-migrated-20-ai-agents-from-telegram-to-slack-in-a-single-day-c8g)
+- [UoPeople Smart Academic Planner](https://dev.to/osazuwa_john_1580bf90e07f/uopeople-smart-academic-planner-509e)
+- [Boost App Speed: Master Redis Data Structures, Pub/Sub, and Performance Monitoring](https://dev.to/labex/boost-app-speed-master-redis-data-structures-pubsub-and-performance-monitoring-31l8)
+- [How to Design a DevOps Monitoring Strategy That Actually Works](https://dev.to/yash_step2dev/how-to-design-a-devops-monitoring-strategy-that-actually-works-1kl1)
+- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
+- [Addressing Single Point of Failure Concerns](https://dev.to/shongkor_talukdar/addressing-single-point-of-failure-concerns-3g0g)
+- [Addressing Single Point of Failure Concerns](https://dev.to/shongkor_talukdar/addressing-single-point-of-failure-concerns-3g0g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
