@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated My Entire Business with OpenClaw Multi-Agent Architecture](https://dev.to/mfs_corp/how-i-automated-my-entire-business-with-openclaw-multi-agent-architecture-3dd)
-- [PORT VS SOCKET](https://dev.to/mohideen_sahib_79f5f9e8de/port-vs-socket-a8h)
-- [How a silent cron job failure made me build my own monitoring tool](https://dev.to/cronbeats/how-a-silent-cron-job-failure-made-me-build-my-own-monitoring-tool-5gh1)
-- [Understanding the Thundering Herd Problem](https://dev.to/hiral/understanding-the-thundering-herd-problem-26o9)
-- [&quot;Just Enough&quot; Platform Engineering: Replacing Terraform with Kubernetes APIs](https://dev.to/kirponik/just-enough-platform-engineering-replacing-terraform-with-kubernetes-apis-53d0)
-- [89 critical vulnerabilities and nothing is on fire](https://dev.to/haitmg/89-critical-vulnerabilities-and-nothing-is-on-fire-7c7)
+- [Vibe Coding Is Having Its Maker Movement Moment](https://dev.to/vainkop/vibe-coding-is-having-its-maker-movement-moment-3cj6)
+- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0)
+- [How I Built a Centralized Monitoring System for 600–700 Servers — Using Open Source Tools](https://dev.to/dnyaneshwarshekade/how-i-built-a-centralized-monitoring-system-for-600-700-servers-using-open-source-tools-1430)
+- [Phase 3 - Deploying a Custom App to Azure Kubernetes Service Using Azure Container Registry](https://dev.to/pilgrim2go/phase-3-deploying-a-custom-app-to-azure-kubernetes-service-using-azure-container-registry-12mk)
+- [Phase 5 - AKS with Azure DNS + NGINX Ingress + cert-manager](https://dev.to/pilgrim2go/phase-4-aks-with-azure-dns-nginx-ingress-cert-manager-i9)
+- [Phase 4 - Exposing Multiple Services on AKS Using NGINX Ingress](https://dev.to/pilgrim2go/phase-3-exposing-multiple-services-on-aks-using-nginx-ingress-141o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
