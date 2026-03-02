@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [UoPeople Smart Academic Planner](https://dev.to/osazuwa_john_1580bf90e07f/uopeople-smart-academic-planner-509e)
-- [Boost App Speed: Master Redis Data Structures, Pub/Sub, and Performance Monitoring](https://dev.to/labex/boost-app-speed-master-redis-data-structures-pubsub-and-performance-monitoring-31l8)
-- [How to Design a DevOps Monitoring Strategy That Actually Works](https://dev.to/yash_step2dev/how-to-design-a-devops-monitoring-strategy-that-actually-works-1kl1)
-- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
-- [Addressing Single Point of Failure Concerns](https://dev.to/shongkor_talukdar/addressing-single-point-of-failure-concerns-3g0g)
-- [Addressing Single Point of Failure Concerns](https://dev.to/shongkor_talukdar/addressing-single-point-of-failure-concerns-3g0g)
+- [How We Solved the Producer-Consumer Problem &lpar;For Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-we-solved-the-producer-consumer-problem-for-blog-posts-5dl8)
+- [Freshping Dies in 5 Days — Your Complete Migration Checklist &lpar;March 2026&rpar;](https://dev.to/daviddaadams/freshping-dies-in-5-days-your-complete-migration-checklist-march-2026-3clk)
+- [From Zero to Production: How I Deployed My App on a VPS Without Losing My Mind](https://dev.to/developerbarak/from-zero-to-production-how-i-deployed-my-app-on-a-vps-without-losing-my-mind-58bi)
+- [Quick Tip: Terraform vs Bicep: Azure IaC comparison](https://dev.to/karleeov/quick-tip-terraform-vs-bicep-azure-iac-comparison-n6a)
+- [My Experience: Azure Stack HCI architecture patterns](https://dev.to/karleeov/my-experience-azure-stack-hci-architecture-patterns-5c21)
+- [Azure Arc for hybrid resource management - Complete Guide](https://dev.to/karleeov/azure-arc-for-hybrid-resource-management-complete-guide-170k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
