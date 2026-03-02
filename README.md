@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Scaling Down: Backend Minimalism](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-10o4)
-- [How to Schedule Python Scripts to Run Automatically](https://dev.to/n3x1s/how-to-schedule-python-scripts-to-run-automatically-2j4k)
-- [Solved: What are the best CPA affiliates you have worked with?](https://dev.to/techresolve/solved-what-are-the-best-cpa-affiliates-you-have-worked-with-mha)
-- [Solved: Fresher self-studying Linux/DevOps, feeling stuck even after lots of effort need guidance](https://dev.to/techresolve/solved-fresher-self-studying-linuxdevops-feeling-stuck-even-after-lots-of-effort-need-guidance-282j)
-- [-&gt;&gt; Provisioning an AWS S3 Bucket using HCP Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-provisioning-an-aws-s3-bucket-using-hcp-terraform-1mjc)
-- [Why Your Backup Strategy Might Be a $100 Million Gamble](https://dev.to/doogal/why-your-backup-strategy-might-be-a-100-million-gamble-552g)
+- [Cloud modernization without a reason is just expensive busywork](https://dev.to/yeisoncruz16/cloud-modernization-without-a-reason-is-just-expensive-busywork-2ln2)
+- [Alert Fatigue is Breaking DevOps: Here is the Math](https://dev.to/pavan_madduri/alert-fatigue-is-breaking-devops-here-is-the-math-24eg)
+- [[Boost]](https://dev.to/rakeshv675/-39o0)
+- [Buy Verified Coinbase Accounts](https://dev.to/prime_bizs_54/buy-verified-coinbase-accounts-4k58)
+- [What is an AI Agent? &lpar;And Why SREs Need Them&rpar;](https://dev.to/pavan_madduri/what-is-an-ai-agent-and-why-sres-need-them-3ec2)
+- [Building Proactive AI Agent Governance: Policy Engines in the Request Pipeline](https://dev.to/alexgardenmnemom/building-proactive-ai-agent-governance-policy-engines-in-the-request-pipeline-16if)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
