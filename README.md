@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing AI Policy Engines &amp; Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)
-- [built a free DevOps error search engine — here&#39;s why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)
-- [5 Things I Learned About Website monitoring best practices](https://dev.to/daviddaadams/5-things-i-learned-about-website-monitoring-best-practices-4h8)
-- [I Built a Production-Ready Express.js Backend Scaffolder and It Reached 1,500 Downloads in 2 Days](https://dev.to/aasif_ashraf_750c64acf5b4/i-built-a-production-ready-expressjs-backend-scaffolder-and-it-reached-1500-downloads-in-2-days-416o)
-- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
-- [Express.js Cheat Sheet for Beginners &lpar;Complete Backend Quick Guide&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/expressjs-cheat-sheet-for-beginners-complete-backend-quick-guide-2578)
+- [Web Developer Travis McCracken on Scaling Down: Backend Minimalism](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-10o4)
+- [How to Schedule Python Scripts to Run Automatically](https://dev.to/n3x1s/how-to-schedule-python-scripts-to-run-automatically-2j4k)
+- [Solved: What are the best CPA affiliates you have worked with?](https://dev.to/techresolve/solved-what-are-the-best-cpa-affiliates-you-have-worked-with-mha)
+- [Solved: Fresher self-studying Linux/DevOps, feeling stuck even after lots of effort need guidance](https://dev.to/techresolve/solved-fresher-self-studying-linuxdevops-feeling-stuck-even-after-lots-of-effort-need-guidance-282j)
+- [-&gt;&gt; Provisioning an AWS S3 Bucket using HCP Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-provisioning-an-aws-s3-bucket-using-hcp-terraform-1mjc)
+- [Why Your Backup Strategy Might Be a $100 Million Gamble](https://dev.to/doogal/why-your-backup-strategy-might-be-a-100-million-gamble-552g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
