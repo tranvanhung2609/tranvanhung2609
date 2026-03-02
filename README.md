@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How We Solved the Producer-Consumer Problem &lpar;For Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/how-we-solved-the-producer-consumer-problem-for-blog-posts-5dl8)
-- [Freshping Dies in 5 Days — Your Complete Migration Checklist &lpar;March 2026&rpar;](https://dev.to/daviddaadams/freshping-dies-in-5-days-your-complete-migration-checklist-march-2026-3clk)
-- [From Zero to Production: How I Deployed My App on a VPS Without Losing My Mind](https://dev.to/developerbarak/from-zero-to-production-how-i-deployed-my-app-on-a-vps-without-losing-my-mind-58bi)
-- [Quick Tip: Terraform vs Bicep: Azure IaC comparison](https://dev.to/karleeov/quick-tip-terraform-vs-bicep-azure-iac-comparison-n6a)
-- [My Experience: Azure Stack HCI architecture patterns](https://dev.to/karleeov/my-experience-azure-stack-hci-architecture-patterns-5c21)
-- [Azure Arc for hybrid resource management - Complete Guide](https://dev.to/karleeov/azure-arc-for-hybrid-resource-management-complete-guide-170k)
+- [Designing AI Policy Engines &amp; Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)
+- [built a free DevOps error search engine — here&#39;s why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)
+- [5 Things I Learned About Website monitoring best practices](https://dev.to/daviddaadams/5-things-i-learned-about-website-monitoring-best-practices-4h8)
+- [I Built a Production-Ready Express.js Backend Scaffolder and It Reached 1,500 Downloads in 2 Days](https://dev.to/aasif_ashraf_750c64acf5b4/i-built-a-production-ready-expressjs-backend-scaffolder-and-it-reached-1500-downloads-in-2-days-416o)
+- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
+- [Express.js Cheat Sheet for Beginners &lpar;Complete Backend Quick Guide&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/expressjs-cheat-sheet-for-beginners-complete-backend-quick-guide-2578)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
