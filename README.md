@@ -103,16 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Go’s Context Package Explained Simply](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-context-package-explained-simply-1940)
-- [The Backend Setup Every Developer Should Follow](https://dev.to/naweli_verma/the-backend-setup-every-developer-should-follow-3d03)
-- [Still paying 4 years for a tech career](https://dev.to/arifusa/still-paying-4-years-for-a-tech-career-o6p)
-- [Track Trending CVEs in Real Time: A Free Vulnerability Intelligence Dashboard](https://dev.to/sayaanalam/track-trending-cves-in-real-time-a-free-vulnerability-intelligence-dashboard-13p2)
-- [Stop building a new microservice for every problem.
-I almost built another backend just to handle personalization logic in my workout app.
-Instead, I used AI as a controlled decision layer.
-AI doesn’t replace architecture.
-It becomes part of it.](https://dev.to/jairo-dev-jr/stop-building-a-new-microservice-for-every-problem-i-almost-built-another-backend-just-to-handle-1j2i)
-- [How to Store API Keys for AI Agents Securely](https://dev.to/the_seventeen/how-to-store-api-keys-for-ai-agents-securely-11kg)
+- [AI Prompt Engineering Mastery with PLR](https://dev.to/saba_shaikh_ca5b8d42c774c/ai-prompt-engineering-mastery-with-plr-37ab)
+- [Running a Free Domain Infrastructure Serving 400,000 Users](https://dev.to/edwardhsing/running-a-free-domain-infrastructure-serving-400000-users-2ok3)
+- [Docs-as-Code: The Complete CI/CD Workflow &lpar;From Git to Production&rpar;](https://dev.to/bipin_rimal314/docs-as-code-the-complete-cicd-workflow-from-git-to-production-89b)
+- [Docker Volumes Explained: Stop Losing Data Every Time You Restart a Container](https://dev.to/teguh_coding/docker-volumes-explained-stop-losing-data-every-time-you-restart-a-container-254g)
+- [The Most Expensive Kubernetes Mistake: Memory Limits](https://dev.to/kubeha_18/the-most-expensive-kubernetes-mistake-memory-limits-5402)
+- [The Role of AI in Art and Creativity](https://dev.to/sahil_kandwal/the-role-of-ai-in-art-and-creativity-37pn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
