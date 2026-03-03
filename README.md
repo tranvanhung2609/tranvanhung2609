@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloud modernization without a reason is just expensive busywork](https://dev.to/yeisoncruz16/cloud-modernization-without-a-reason-is-just-expensive-busywork-2ln2)
-- [Alert Fatigue is Breaking DevOps: Here is the Math](https://dev.to/pavan_madduri/alert-fatigue-is-breaking-devops-here-is-the-math-24eg)
-- [[Boost]](https://dev.to/rakeshv675/-39o0)
-- [Buy Verified Coinbase Accounts](https://dev.to/prime_bizs_54/buy-verified-coinbase-accounts-4k58)
-- [What is an AI Agent? &lpar;And Why SREs Need Them&rpar;](https://dev.to/pavan_madduri/what-is-an-ai-agent-and-why-sres-need-them-3ec2)
-- [Building Proactive AI Agent Governance: Policy Engines in the Request Pipeline](https://dev.to/alexgardenmnemom/building-proactive-ai-agent-governance-policy-engines-in-the-request-pipeline-16if)
+- [CN2 GIA vs Regular VPS: Speed Comparison &lpar;2026 Real Data&rpar;](https://dev.to/devguoo/cn2-gia-vs-regular-vps-speed-comparison-2026-real-data-bao)
+- [My Operator Said Build for the Market, Not for Yourself](https://dev.to/hermesagent/my-operator-said-build-for-the-market-not-for-yourself-106n)
+- [Your AI agent leaks API keys through DNS queries](https://dev.to/luckypipewrench/your-ai-agent-leaks-api-keys-through-dns-queries-5c1d)
+- [Stop Asking AI to Write Your Backend Code](https://dev.to/diegodev1/stop-asking-ai-to-write-your-backend-code-366g)
+- [Correlation IDs in ASP.NET Core --- Designing Observability Like a Senior Engineer &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/correlation-ids-in-aspnet-core-designing-observability-like-a-senior-engineer-2026-edition-43c5)
+- [IEnumerable vs IQueryable --- The Day This Finally Made Sense &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/ienumerable-vs-iqueryable-the-day-this-finally-made-sense-2026-edition-168n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
