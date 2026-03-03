@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CN2 GIA vs Regular VPS: Speed Comparison &lpar;2026 Real Data&rpar;](https://dev.to/devguoo/cn2-gia-vs-regular-vps-speed-comparison-2026-real-data-bao)
-- [My Operator Said Build for the Market, Not for Yourself](https://dev.to/hermesagent/my-operator-said-build-for-the-market-not-for-yourself-106n)
-- [Your AI agent leaks API keys through DNS queries](https://dev.to/luckypipewrench/your-ai-agent-leaks-api-keys-through-dns-queries-5c1d)
-- [Stop Asking AI to Write Your Backend Code](https://dev.to/diegodev1/stop-asking-ai-to-write-your-backend-code-366g)
-- [Correlation IDs in ASP.NET Core --- Designing Observability Like a Senior Engineer &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/correlation-ids-in-aspnet-core-designing-observability-like-a-senior-engineer-2026-edition-43c5)
-- [IEnumerable vs IQueryable --- The Day This Finally Made Sense &lpar;2026 Edition&rpar;](https://dev.to/cristiansifuentes/ienumerable-vs-iqueryable-the-day-this-finally-made-sense-2026-edition-168n)
+- [Argo CD 3.3 Changed the Source Hydrator — Here&#39;s What to Audit Before You Upgrade](https://dev.to/vainkop/argo-cd-33-changed-the-source-hydrator-heres-what-to-audit-before-you-upgrade-2kdj)
+- [A Practical Guide to Securing Azure Storage Accounts in Dev/Test &lpar;With Real-World Context&rpar;](https://dev.to/buildwithbabs/a-practical-guide-to-securing-azure-storage-accounts-in-devtest-with-real-world-context-3a92)
+- [Welcome To Vivekanand School](https://dev.to/vivekanandschool/welcome-to-vivekanand-school-4akp)
+- [Building a DevOps SaaS Solo: Month 1 Retrospective](https://dev.to/yash_step2dev/building-a-devops-saas-solo-month-1-retrospective-9f0)
+- [MAIN TOPIC: Enterprise-Scale DevOps Architecture](https://dev.to/jumptotech/main-topic-enterprise-scale-devops-architecture-51fk)
+- [The Definitive MERN Stack Guide 2026 | Node.js, Express, MongoDB, Prisma, OpenTelemetry &amp; Cloud DevOps](https://dev.to/shafqat_awan_79b9dbd88cda/the-definitive-mern-stack-guide-2026-nodejs-express-mongodb-prisma-opentelemetry-cloud-4d8e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
