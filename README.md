@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Prompt Engineering Mastery with PLR](https://dev.to/saba_shaikh_ca5b8d42c774c/ai-prompt-engineering-mastery-with-plr-37ab)
-- [Running a Free Domain Infrastructure Serving 400,000 Users](https://dev.to/edwardhsing/running-a-free-domain-infrastructure-serving-400000-users-2ok3)
-- [Docs-as-Code: The Complete CI/CD Workflow &lpar;From Git to Production&rpar;](https://dev.to/bipin_rimal314/docs-as-code-the-complete-cicd-workflow-from-git-to-production-89b)
-- [Docker Volumes Explained: Stop Losing Data Every Time You Restart a Container](https://dev.to/teguh_coding/docker-volumes-explained-stop-losing-data-every-time-you-restart-a-container-254g)
-- [The Most Expensive Kubernetes Mistake: Memory Limits](https://dev.to/kubeha_18/the-most-expensive-kubernetes-mistake-memory-limits-5402)
-- [The Role of AI in Art and Creativity](https://dev.to/sahil_kandwal/the-role-of-ai-in-art-and-creativity-37pn)
+- [How to Install Docker Rootless on Ubuntu &lpar;2026 Guide&rpar;](https://dev.to/davidtio/how-to-install-docker-rootless-on-ubuntu-2026-guide-3am8)
+- [Bulletproof Data Pipelines: Adding Schema Validation to Nike Scrapers](https://dev.to/withatte/bulletproof-data-pipelines-adding-schema-validation-to-nike-scrapers-3p10)
+- [The Stripe CLI Stores Your API Key in Plaintext. Here&#39;s the Fix.](https://dev.to/the_seventeen/the-stripe-cli-stores-your-api-key-in-plaintext-heres-the-fix-3imi)
+- [Why Cloud Platforms Fail: It&#39;s the Sequence, Not the Tools](https://dev.to/buoyantcloudinc/why-cloud-platforms-fail-its-the-sequence-not-the-tools-5f5f)
+- [Lab: Create Kubernetes Cluster in Azure &lpar;AKS&rpar;](https://dev.to/jumptotech/lab-create-kubernetes-cluster-in-azure-aks-5cbh)
+- [The Magic of lvh.me: Testing Rails Subdomains in Development](https://dev.to/zilton7/the-magic-of-lvhme-testing-rails-subdomains-in-development-4bbc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
