@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Waitlist of 300+ for a DevOps SaaS With Zero Ad Spend](https://dev.to/yash_step2dev/how-i-built-a-waitlist-of-300-for-a-devops-saas-with-zero-ad-spend-10i3)
-- [Mastering the Future of Work: A Comprehensive Guide to Implementing AI Automation in Business Processes](https://dev.to/ai_auto_lab/mastering-the-future-of-work-a-comprehensive-guide-to-implementing-ai-automation-in-business-535j)
-- [The Importance of TDD](https://dev.to/patmandee/the-importance-of-tdd-g46)
-- [Docker Security Hardening: 10 Practices That Will Protect Your Containers in Production](https://dev.to/teguh_coding/docker-security-hardening-10-practices-that-will-protect-your-containers-in-production-4ahe)
-- [Firestore&#39;s New Query Engine](https://dev.to/shieldstring/firestores-new-query-engine-2di)
-- [Beginner KVM Networking Lab with Alpine Linux &lpar;Step-by-Step&rpar;](https://dev.to/pilgrim2go/beginner-kvm-networking-lab-with-alpine-linux-step-by-step-4i1e)
+- [How I Built a Plugin That Turns Claude Code Into a Complete SaaS Factory](https://dev.to/nagi_sanzenin_cd7d9c98eaa/how-i-built-a-plugin-that-turns-claude-code-into-a-complete-saas-factory-50co)
+- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-1lnk)
+- [Meet WatchClaw: One Command to Harden a Linux Server](https://dev.to/kashifeqbal/meet-watchclaw-one-command-to-harden-a-linux-server-50kl)
+- [The Kubernetes Performance Challenge, Join to the contest!](https://dev.to/mhmxs/the-kubernetes-performance-challenge-join-to-the-contest-h9p)
+- [Why Mobile SSH Fails and How AI-Powered Mirroring is the Solution](https://dev.to/tacit_71799acf6d056b5155c/why-mobile-ssh-fails-and-how-ai-powered-mirroring-is-the-solution-24kl)
+- [Solved: One of the best AI UGC video tools I’ve found so far &lpar;which does more than AI UGC&rpar;.](https://dev.to/techresolve/solved-one-of-the-best-ai-ugc-video-tools-ive-found-so-far-which-does-more-than-ai-ugc-4loj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
