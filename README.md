@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Plugin That Turns Claude Code Into a Complete SaaS Factory](https://dev.to/nagi_sanzenin_cd7d9c98eaa/how-i-built-a-plugin-that-turns-claude-code-into-a-complete-saas-factory-50co)
-- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-1lnk)
-- [Meet WatchClaw: One Command to Harden a Linux Server](https://dev.to/kashifeqbal/meet-watchclaw-one-command-to-harden-a-linux-server-50kl)
-- [The Kubernetes Performance Challenge, Join to the contest!](https://dev.to/mhmxs/the-kubernetes-performance-challenge-join-to-the-contest-h9p)
-- [Why Mobile SSH Fails and How AI-Powered Mirroring is the Solution](https://dev.to/tacit_71799acf6d056b5155c/why-mobile-ssh-fails-and-how-ai-powered-mirroring-is-the-solution-24kl)
-- [Solved: One of the best AI UGC video tools I’ve found so far &lpar;which does more than AI UGC&rpar;.](https://dev.to/techresolve/solved-one-of-the-best-ai-ugc-video-tools-ive-found-so-far-which-does-more-than-ai-ugc-4loj)
+- [Launch Lightning‑Fast Serverless GraphQL on Deno Deploy in 2026](https://dev.to/myroslavmokhammadabd/launch-lightning-fast-serverless-graphql-on-deno-deploy-in-2026-4dj7)
+- [Docker Compose for Local Development: The Setup That Makes Your Team Hate Excuses](https://dev.to/teguh_coding/docker-compose-for-local-development-the-setup-that-makes-your-team-hate-excuses-3mjg)
+- [How I Deploy My Backend to a VPS &lpar;Zero Downtime + Instant Rollbacks,Guide Included&rpar;](https://dev.to/vishw-patel/how-i-deploy-my-backend-to-a-vps-zero-downtime-instant-rollbacksguide-included-4h46)
+- [Java 25 After the Hype: 5 Features That Actually Matter](https://dev.to/felipestanzani/java-25-after-the-hype-5-features-that-actually-matter-43gf)
+- [Cloud-Native AI Deployment Using Kubernetes: A Real-World Portfolio Implementation](https://dev.to/harish_05/portfolio-seamless-deployment-through-kuberns-ai-e72)
+- [Solved: Shiprocket Alternative for India](https://dev.to/techresolve/solved-shiprocket-alternative-for-india-3ccf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
