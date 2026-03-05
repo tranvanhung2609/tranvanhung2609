@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [YOU WON&#39;T BELIEVE THE #1 STACK THAT&#39;LL DOMINATE THE SOFTWARE INDUSTRY FOREVER](https://dev.to/shafqat_awan_79b9dbd88cda/you-wont-believe-the-1-stack-thatll-dominate-the-software-industry-forever-3be4)
-- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
-- [Refactoring the Nike Scraper: Replacing In-Memory Deduplication with SQLite](https://dev.to/sommic/refactoring-the-nike-scraper-replacing-in-memory-deduplication-with-sqlite-h3o)
-- [How My &quot;Illegal&quot; Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)
-- [How My AI Business Fixes Its Own Bugs at 3am](https://dev.to/agentforgeagi/how-my-ai-business-fixes-its-own-bugs-at-3am-23hh)
-- [[Boost]](https://dev.to/hannyu/-223o)
+- [Solving Async Race Conditions in JavaScript with a 500B Library](https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m)
+- [DevOps for Backend Developers: A No-Nonsense Starting Guide](https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p)
+- [DevOps for Backend Developers: A No-Nonsense Starting Guide](https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p)
+- [Docker Compose for Local Development: The Setup That Makes Your Team Actually Enjoy Onboarding](https://dev.to/teguh_coding/docker-compose-for-local-development-the-setup-that-makes-your-team-actually-enjoy-onboarding-19k0)
+- [Why I Moved My Backend Development From C++ to Flask](https://dev.to/goodluckdev/why-i-moved-my-backend-development-from-c-to-flask-1a2i)
+- [Debugging Playwright failures in CI is harder than it should be](https://dev.to/sentinelqa/debugging-playwright-failures-in-ci-is-harder-than-it-should-be-42bc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
