@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solving Async Race Conditions in JavaScript with a 500B Library](https://dev.to/denycode/solving-async-race-conditions-in-javascript-with-a-500b-library-9m)
-- [DevOps for Backend Developers: A No-Nonsense Starting Guide](https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p)
-- [DevOps for Backend Developers: A No-Nonsense Starting Guide](https://dev.to/yash_step2dev/devops-for-backend-developers-a-no-nonsense-starting-guide-4c0p)
-- [Docker Compose for Local Development: The Setup That Makes Your Team Actually Enjoy Onboarding](https://dev.to/teguh_coding/docker-compose-for-local-development-the-setup-that-makes-your-team-actually-enjoy-onboarding-19k0)
-- [Why I Moved My Backend Development From C++ to Flask](https://dev.to/goodluckdev/why-i-moved-my-backend-development-from-c-to-flask-1a2i)
-- [Debugging Playwright failures in CI is harder than it should be](https://dev.to/sentinelqa/debugging-playwright-failures-in-ci-is-harder-than-it-should-be-42bc)
+- [The DevOps Engineer&#39;s Guide to Building a Portfolio That Actually Gets You Hired 🎯](https://dev.to/sanjaysundarmurthy/the-devops-engineers-guide-to-building-a-portfolio-that-actually-gets-you-hired-17jg)
+- [Efficient Parallelism in Python: A Practical Guide to concurrent.futures package](https://dev.to/akshaya-dev/efficient-parallelism-in-python-a-practical-guide-to-concurrentfutures-package-i2a)
+- [The security gap between &quot;it works locally&quot; and &quot;it&#39;s live&quot;](https://dev.to/doureios39/the-security-gap-between-it-works-locally-and-its-live-4b9f)
+- [Agent Swarms Are Here. Who&#39;s Controlling the Spend?](https://dev.to/mattdeangit/agent-swarms-are-here-whos-controlling-the-spend-31in)
+- [Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h)
+- [Anyone hates writing code?](https://dev.to/huskar_bad1e71f26b873d5bf/looking-for-a-interviewer-paid-position-3117)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
