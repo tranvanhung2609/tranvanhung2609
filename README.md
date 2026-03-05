@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The DevOps Engineer&#39;s Guide to Building a Portfolio That Actually Gets You Hired 🎯](https://dev.to/sanjaysundarmurthy/the-devops-engineers-guide-to-building-a-portfolio-that-actually-gets-you-hired-17jg)
-- [Efficient Parallelism in Python: A Practical Guide to concurrent.futures package](https://dev.to/akshaya-dev/efficient-parallelism-in-python-a-practical-guide-to-concurrentfutures-package-i2a)
-- [The security gap between &quot;it works locally&quot; and &quot;it&#39;s live&quot;](https://dev.to/doureios39/the-security-gap-between-it-works-locally-and-its-live-4b9f)
-- [Agent Swarms Are Here. Who&#39;s Controlling the Spend?](https://dev.to/mattdeangit/agent-swarms-are-here-whos-controlling-the-spend-31in)
-- [Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h)
-- [Anyone hates writing code?](https://dev.to/huskar_bad1e71f26b873d5bf/looking-for-a-interviewer-paid-position-3117)
+- [Why Most Teams Overestimate Their AI Readiness &lpar;It’s an Architecture Problem&rpar;](https://dev.to/dbrown/why-most-teams-overestimate-their-ai-readiness-its-an-architecture-problem-40g1)
+- [I&#39;m building an AI agent that fixes broken CI pipelines automatically — here&#39;s what I&#39;ve learned](https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e)
+- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-19ie)
+- [CrashLoopBackOff Is Not the Root Cause. It’s a Signal.](https://dev.to/kubeha_18/crashloopbackoff-is-not-the-root-cause-its-a-signal-5hil)
+- [The Rise of Digital Supply Chains](https://dev.to/joshlily007/the-rise-of-digital-supply-chains-n4j)
+- [429: TOO MANY REQUESTS](https://dev.to/_a_m_a_n_pandey/429-too-many-requests-53nh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
