@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Launch Lightning‑Fast Serverless GraphQL on Deno Deploy in 2026](https://dev.to/myroslavmokhammadabd/launch-lightning-fast-serverless-graphql-on-deno-deploy-in-2026-4dj7)
-- [Docker Compose for Local Development: The Setup That Makes Your Team Hate Excuses](https://dev.to/teguh_coding/docker-compose-for-local-development-the-setup-that-makes-your-team-hate-excuses-3mjg)
-- [How I Deploy My Backend to a VPS &lpar;Zero Downtime + Instant Rollbacks,Guide Included&rpar;](https://dev.to/vishw-patel/how-i-deploy-my-backend-to-a-vps-zero-downtime-instant-rollbacksguide-included-4h46)
-- [Java 25 After the Hype: 5 Features That Actually Matter](https://dev.to/felipestanzani/java-25-after-the-hype-5-features-that-actually-matter-43gf)
-- [Cloud-Native AI Deployment Using Kubernetes: A Real-World Portfolio Implementation](https://dev.to/harish_05/portfolio-seamless-deployment-through-kuberns-ai-e72)
-- [Solved: Shiprocket Alternative for India](https://dev.to/techresolve/solved-shiprocket-alternative-for-india-3ccf)
+- [YOU WON&#39;T BELIEVE THE #1 STACK THAT&#39;LL DOMINATE THE SOFTWARE INDUSTRY FOREVER](https://dev.to/shafqat_awan_79b9dbd88cda/you-wont-believe-the-1-stack-thatll-dominate-the-software-industry-forever-3be4)
+- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
+- [Refactoring the Nike Scraper: Replacing In-Memory Deduplication with SQLite](https://dev.to/sommic/refactoring-the-nike-scraper-replacing-in-memory-deduplication-with-sqlite-h3o)
+- [How My &quot;Illegal&quot; Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)
+- [How My AI Business Fixes Its Own Bugs at 3am](https://dev.to/agentforgeagi/how-my-ai-business-fixes-its-own-bugs-at-3am-23hh)
+- [[Boost]](https://dev.to/hannyu/-223o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
