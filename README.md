@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Boost Any Java AI App with Rust: Offload CPU-Bound Core Logic](https://dev.to/sourabh_nazarkar_216a2688/boost-any-java-ai-app-with-rust-offload-cpu-bound-core-logic-473p)
-- [Building a Multi-Cloud Infrastructure with Terraform &lpar;AWS + Azure&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/building-a-multi-cloud-infrastructure-with-terraform-aws-azure-3efa)
-- [Why Passing Eloquent Models to Queued Jobs Can Be Problematic](https://dev.to/andreluizlunelli/why-passing-eloquent-models-to-queued-jobs-can-be-problematic-26m7)
-- [I Run 46 Microservices on a Single $20 VPS — Here&#39;s the Architecture](https://dev.to/robocular/i-run-46-microservices-on-a-single-20-vps-heres-the-architecture-259e)
-- [How a GitHub Issue Title Hijacked 4,000 Developer Machines](https://dev.to/adioof/how-a-github-issue-title-hijacked-4000-developer-machines-3c6)
-- [Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023](https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2)
+- [What Is DevSecOps? A Complete Guide To Secure Software Delivery](https://dev.to/anshul_kichara/what-is-devsecops-a-complete-guide-to-secure-software-delivery-34o8)
+- [Enhance Your Website Security with IP Whitelisting and Blacklisting](https://dev.to/serveravatar/enhance-your-website-security-with-ip-whitelisting-and-blacklisting-4cf2)
+- [Top Sources to Buy Old GitHub Accounts &lpar;2025–2026&rpar;](https://dev.to/jscott0611/top-sources-to-buy-old-github-accounts-2025-2026-1db4)
+- [Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Analysis](https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i)
+- [How to Measure ROI from Data Initiatives](https://dev.to/nitor_infotech_805eae4879/how-to-measure-roi-from-data-initiatives-4i72)
+- [Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
