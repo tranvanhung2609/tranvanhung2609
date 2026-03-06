@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Teams Overestimate Their AI Readiness &lpar;It’s an Architecture Problem&rpar;](https://dev.to/dbrown/why-most-teams-overestimate-their-ai-readiness-its-an-architecture-problem-40g1)
-- [I&#39;m building an AI agent that fixes broken CI pipelines automatically — here&#39;s what I&#39;ve learned](https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e)
-- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-19ie)
-- [CrashLoopBackOff Is Not the Root Cause. It’s a Signal.](https://dev.to/kubeha_18/crashloopbackoff-is-not-the-root-cause-its-a-signal-5hil)
-- [The Rise of Digital Supply Chains](https://dev.to/joshlily007/the-rise-of-digital-supply-chains-n4j)
-- [429: TOO MANY REQUESTS](https://dev.to/_a_m_a_n_pandey/429-too-many-requests-53nh)
+- [Boost Any Java AI App with Rust: Offload CPU-Bound Core Logic](https://dev.to/sourabh_nazarkar_216a2688/boost-any-java-ai-app-with-rust-offload-cpu-bound-core-logic-473p)
+- [Building a Multi-Cloud Infrastructure with Terraform &lpar;AWS + Azure&rpar;](https://dev.to/isaiah_izibili_7a39b7d627/building-a-multi-cloud-infrastructure-with-terraform-aws-azure-3efa)
+- [Why Passing Eloquent Models to Queued Jobs Can Be Problematic](https://dev.to/andreluizlunelli/why-passing-eloquent-models-to-queued-jobs-can-be-problematic-26m7)
+- [I Run 46 Microservices on a Single $20 VPS — Here&#39;s the Architecture](https://dev.to/robocular/i-run-46-microservices-on-a-single-20-vps-heres-the-architecture-259e)
+- [How a GitHub Issue Title Hijacked 4,000 Developer Machines](https://dev.to/adioof/how-a-github-issue-title-hijacked-4000-developer-machines-3c6)
+- [Scaling AI/ML Workloads: 3 Architecture Lessons from HashiConf 2023](https://dev.to/agastya_kommanamanchi_d4f/scaling-aiml-workloads-3-architecture-lessons-from-hashiconf-2023-35p2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
