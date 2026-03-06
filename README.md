@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Chaos Experiments Are Probably Wasting Time &lpar;and How to Fix It&rpar;](https://dev.to/medinz01/why-your-chaos-experiments-are-probably-wasting-time-and-how-to-fix-it-420b)
-- [How to Add Watermarks to Word Documents with Java: A Comprehensive Guide](https://dev.to/leondavis1991/how-to-add-watermarks-to-word-documents-with-java-a-comprehensive-guide-4nhk)
-- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-1lh4)
-- [I Built a Procurement Quotation Comparator API &lpar;Node.js + TypeScript&rpar;](https://dev.to/fluffyfi3/i-built-a-procurement-quotation-comparator-api-nodejs-typescript-3khb)
-- [Go for Backend Development — Why We Bet on It](https://dev.to/matthiasbruns/go-for-backend-development-why-we-bet-on-it-506i)
-- [How to do Regression Testing for MCP Servers](https://dev.to/vmokrousov/how-to-do-regression-testing-for-mcp-servers-394e)
+- [Why I Banned ThreadLocal from the Exeris Kernel &lpar;And What Replaced It&rpar;](https://dev.to/arkstack/why-i-banned-threadlocal-from-the-exeris-kernel-and-what-replaced-it-5aa)
+- [The Pros and Cons of Buying Old GitHub Accounts](https://dev.to/reikoorrq7hkq/the-pros-and-cons-of-buying-old-github-accounts-375p)
+- [[Boost]](https://dev.to/savi_saluwadana/-gjn)
+- [Welcome to Arkstack — JVM Performance, Off-heap Memory &amp; Low-Latency Architecture](https://dev.to/arkstack/welcome-to-arkstack-jvm-performance-off-heap-memory-low-latency-architecture-2ege)
+- [Buy GitHub Accounts for Bulk Purchase to Best 15 Sites](https://dev.to/reikoorrq7hkq/buy-github-accounts-for-bulk-purchase-to-best-15-sites-4ko7)
+- [Buy GitHub Accounts for Bulk Purchase to Best 15 Sites](https://dev.to/reikoorrq7hkq/buy-github-accounts-for-bulk-purchase-to-best-15-sites-4ko7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
