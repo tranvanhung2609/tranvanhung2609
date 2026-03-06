@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Is DevSecOps? A Complete Guide To Secure Software Delivery](https://dev.to/anshul_kichara/what-is-devsecops-a-complete-guide-to-secure-software-delivery-34o8)
-- [Enhance Your Website Security with IP Whitelisting and Blacklisting](https://dev.to/serveravatar/enhance-your-website-security-with-ip-whitelisting-and-blacklisting-4cf2)
-- [Top Sources to Buy Old GitHub Accounts &lpar;2025–2026&rpar;](https://dev.to/jscott0611/top-sources-to-buy-old-github-accounts-2025-2026-1db4)
-- [Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Analysis](https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i)
-- [How to Measure ROI from Data Initiatives](https://dev.to/nitor_infotech_805eae4879/how-to-measure-roi-from-data-initiatives-4i72)
-- [Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf)
+- [Why Your Chaos Experiments Are Probably Wasting Time &lpar;and How to Fix It&rpar;](https://dev.to/medinz01/why-your-chaos-experiments-are-probably-wasting-time-and-how-to-fix-it-420b)
+- [How to Add Watermarks to Word Documents with Java: A Comprehensive Guide](https://dev.to/leondavis1991/how-to-add-watermarks-to-word-documents-with-java-a-comprehensive-guide-4nhk)
+- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-1lh4)
+- [I Built a Procurement Quotation Comparator API &lpar;Node.js + TypeScript&rpar;](https://dev.to/fluffyfi3/i-built-a-procurement-quotation-comparator-api-nodejs-typescript-3khb)
+- [Go for Backend Development — Why We Bet on It](https://dev.to/matthiasbruns/go-for-backend-development-why-we-bet-on-it-506i)
+- [How to do Regression Testing for MCP Servers](https://dev.to/vmokrousov/how-to-do-regression-testing-for-mcp-servers-394e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
