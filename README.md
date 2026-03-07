@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why I Banned ThreadLocal from the Exeris Kernel &lpar;And What Replaced It&rpar;](https://dev.to/arkstack/why-i-banned-threadlocal-from-the-exeris-kernel-and-what-replaced-it-5aa)
-- [The Pros and Cons of Buying Old GitHub Accounts](https://dev.to/reikoorrq7hkq/the-pros-and-cons-of-buying-old-github-accounts-375p)
-- [[Boost]](https://dev.to/savi_saluwadana/-gjn)
-- [Welcome to Arkstack — JVM Performance, Off-heap Memory &amp; Low-Latency Architecture](https://dev.to/arkstack/welcome-to-arkstack-jvm-performance-off-heap-memory-low-latency-architecture-2ege)
-- [Buy GitHub Accounts for Bulk Purchase to Best 15 Sites](https://dev.to/reikoorrq7hkq/buy-github-accounts-for-bulk-purchase-to-best-15-sites-4ko7)
-- [Buy GitHub Accounts for Bulk Purchase to Best 15 Sites](https://dev.to/reikoorrq7hkq/buy-github-accounts-for-bulk-purchase-to-best-15-sites-4ko7)
+- [I Built a Production-Ready Rust Web API Starter Kit &lpar;axum-starter&rpar;](https://dev.to/thomijasir/i-built-a-production-ready-rust-web-api-starter-kit-axum-starter-f43)
+- [Netflix Clone DevSecOps: CI/CD Pipeline with Jenkins, Docker, Kubernetes &amp; Security](https://dev.to/anilkumar_n/netflix-clone-devsecops-cicd-pipeline-with-jenkins-docker-kubernetes-security-2p1p)
+- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8)
+- [We shipped a unified Activity feed API for AI agent teams — here&#39;s why visibility matters more than velocity](https://dev.to/seakai/we-shipped-a-unified-activity-feed-api-for-ai-agent-teams-heres-why-visibility-matters-more-than-kf9)
+- [I built flash-pkg — fix slow pip/npm installs on slow internet](https://dev.to/yogeshxcode/i-built-flash-pkg-fix-slow-pipnpm-installs-on-slow-internet-43gg)
+- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/_gian__c01de657218cfba0ea/a-evolucao-do-modelo-relacional-para-objeto-relacional-4jhd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
