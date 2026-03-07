@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Production-Ready Rust Web API Starter Kit &lpar;axum-starter&rpar;](https://dev.to/thomijasir/i-built-a-production-ready-rust-web-api-starter-kit-axum-starter-f43)
-- [Netflix Clone DevSecOps: CI/CD Pipeline with Jenkins, Docker, Kubernetes &amp; Security](https://dev.to/anilkumar_n/netflix-clone-devsecops-cicd-pipeline-with-jenkins-docker-kubernetes-security-2p1p)
-- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8)
-- [We shipped a unified Activity feed API for AI agent teams — here&#39;s why visibility matters more than velocity](https://dev.to/seakai/we-shipped-a-unified-activity-feed-api-for-ai-agent-teams-heres-why-visibility-matters-more-than-kf9)
-- [I built flash-pkg — fix slow pip/npm installs on slow internet](https://dev.to/yogeshxcode/i-built-flash-pkg-fix-slow-pipnpm-installs-on-slow-internet-43gg)
-- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/_gian__c01de657218cfba0ea/a-evolucao-do-modelo-relacional-para-objeto-relacional-4jhd)
+- [Learn Online French Language Course](https://dev.to/rakhi_digital_c3d5b0c7f4a/learn-online-french-language-course-232p)
+- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
+- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
+- [Stop Writing Bad Dockerfiles: Production-Ready Best Practices That Actually Work](https://dev.to/teguh_coding/stop-writing-bad-dockerfiles-production-ready-best-practices-that-actually-work-4419)
+- [The Solo Developer AI Automation Stack: Code Once, Automate Everything](https://dev.to/ji_ai/the-solo-developer-ai-automation-stack-code-once-automate-everything-36bo)
+- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
