@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Learn Online French Language Course](https://dev.to/rakhi_digital_c3d5b0c7f4a/learn-online-french-language-course-232p)
-- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
-- [Reducing the time between a production crash and a fix](https://dev.to/zakaria_hili_686648600332/reducing-the-time-between-a-production-crash-and-a-fix-21pe)
-- [Stop Writing Bad Dockerfiles: Production-Ready Best Practices That Actually Work](https://dev.to/teguh_coding/stop-writing-bad-dockerfiles-production-ready-best-practices-that-actually-work-4419)
-- [The Solo Developer AI Automation Stack: Code Once, Automate Everything](https://dev.to/ji_ai/the-solo-developer-ai-automation-stack-code-once-automate-everything-36bo)
-- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
+- [Web Developer Travis McCracken on Modular Monoliths: Backend Architecture That Works](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-modular-monoliths-backend-architecture-that-works-cnj)
+- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk)
+- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji)
+- [Throw a Prompt at your IDE and see it get done!](https://dev.to/js402/throw-a-prompt-at-your-ide-and-see-it-get-done-2e5m)
+- [OpenTofu vs Terraform in 2026: Is the Fork Finally Worth It?](https://dev.to/mechcloud_academy/opentofu-vs-terraform-in-2026-is-the-fork-finally-worth-it-3nd1)
+- [Still paying 4-year tuition for AI skills](https://dev.to/uzair_official/still-paying-4-year-tuition-for-ai-skills-134a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
