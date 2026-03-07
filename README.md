@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on Modular Monoliths: Backend Architecture That Works](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-modular-monoliths-backend-architecture-that-works-cnj)
-- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk)
-- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji)
-- [Throw a Prompt at your IDE and see it get done!](https://dev.to/js402/throw-a-prompt-at-your-ide-and-see-it-get-done-2e5m)
-- [OpenTofu vs Terraform in 2026: Is the Fork Finally Worth It?](https://dev.to/mechcloud_academy/opentofu-vs-terraform-in-2026-is-the-fork-finally-worth-it-3nd1)
-- [Still paying 4-year tuition for AI skills](https://dev.to/uzair_official/still-paying-4-year-tuition-for-ai-skills-134a)
+- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l)
+- [5 AI agent failures that will kill your production deployment &lpar;and how I fixed them&rpar;](https://dev.to/askpatrick/5-ai-agent-failures-that-will-kill-your-production-deployment-and-how-i-fixed-them-4hkb)
+- [Your AI Agent Has Root Access. Now What?](https://dev.to/darbogach/your-ai-agent-has-root-access-now-what-510e)
+- [Docker Networking Explained: From Zero to Hero with Real Examples](https://dev.to/teguh_coding/docker-networking-explained-from-zero-to-hero-with-real-examples-1799)
+- [Building a Complete PDF Toolkit for the Web &lpar;Free Tools for Everyday Document Task](https://dev.to/bella_era_02a7f9c8ee449d3/building-a-complete-pdf-toolkit-for-the-web-free-tools-for-everyday-document-task-1pgj)
+- [I Built an Autonomous Cloud Engineer That Actually Fixes Your Infrastructure](https://dev.to/leonardesere/i-built-an-autonomous-cloud-engineer-that-actually-fixes-your-infrastructure-4fig)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
