@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l)
-- [5 AI agent failures that will kill your production deployment &lpar;and how I fixed them&rpar;](https://dev.to/askpatrick/5-ai-agent-failures-that-will-kill-your-production-deployment-and-how-i-fixed-them-4hkb)
-- [Your AI Agent Has Root Access. Now What?](https://dev.to/darbogach/your-ai-agent-has-root-access-now-what-510e)
-- [Docker Networking Explained: From Zero to Hero with Real Examples](https://dev.to/teguh_coding/docker-networking-explained-from-zero-to-hero-with-real-examples-1799)
-- [Building a Complete PDF Toolkit for the Web &lpar;Free Tools for Everyday Document Task](https://dev.to/bella_era_02a7f9c8ee449d3/building-a-complete-pdf-toolkit-for-the-web-free-tools-for-everyday-document-task-1pgj)
-- [I Built an Autonomous Cloud Engineer That Actually Fixes Your Infrastructure](https://dev.to/leonardesere/i-built-an-autonomous-cloud-engineer-that-actually-fixes-your-infrastructure-4fig)
+- [The 5 Edge Cases That Broke Our Dev.to Auto-Crossposting &lpar;And How We Fixed Them&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/the-5-edge-cases-that-broke-our-devto-auto-crossposting-and-how-we-fixed-them-81p)
+- [Ollama vs LocalAI: Which Should You Self-Host?](https://dev.to/selfhostingsh/ollama-vs-localai-which-should-you-self-host-3ibm)
+- [I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure](https://dev.to/dmitryrechkin/i-stopped-clicking-around-wp-admin-and-treated-wordpress-media-offload-like-infrastructure-1kae)
+- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
+- [🚀 Building My First Backend Project: Expense Tracker API](https://dev.to/charleychinedu/building-my-first-backend-project-expense-tracker-api-4j36)
+- [How to Debug Multi-Agent AI Systems: Session Replay for LLM Workflows](https://dev.to/gonewx/how-to-debug-multi-agent-ai-systems-session-replay-for-llm-workflows-20ad)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
