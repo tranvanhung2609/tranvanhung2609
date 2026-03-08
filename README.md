@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Internal IT Automation Stack: How Growing SaaS Companies Use n8n to Scale Without Hiring](https://dev.to/mychelgarzon/the-internal-it-automation-stack-how-growing-saas-companies-use-n8n-to-scale-without-hiring-43aj)
-- [The Staging Environment Mistake: Why AI Agents Need a Test Harness Before Production](https://dev.to/askpatrick/the-staging-environment-mistake-why-ai-agents-need-a-test-harness-before-production-1g7f)
-- [article 5 ways to cut Kubernetes costs by 50%](https://dev.to/edwinasnl/article-5-ways-to-cut-kubernetes-costs-by-50-3h5c)
-- [Web Developer Travis McCracken on Go’s Error Handling is Underrated](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-error-handling-is-underrated-237i)
-- [I Built a Log Analyzer That Replaced My $200/Month Splunk Subscription](https://dev.to/devadatta_baireddy/i-built-a-log-analyzer-that-replaced-my-200month-splunk-subscription-240e)
-- [How DevOps Engineers Build a CI/CD Pipeline Using Docker, Jenkins and Kubernetes](https://dev.to/naveen_kumar_60514a494e10/how-devops-engineers-build-a-cicd-pipeline-using-docker-jenkins-and-kubernetes-4pgg)
+- [How I Built a Lightweight Cron Job Health Monitor with Bash and Docker](https://dev.to/alanvarghese-dev/how-i-built-a-lightweight-cron-job-health-monitor-with-bash-and-docker-16mh)
+- [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc)
+- [The Ultimate Guide To Buying Old Yahoo Accounts USA](https://dev.to/kimmyrollinsseijn/the-ultimate-guide-to-buying-old-yahoo-accounts-usa-364n)
+- [Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-1-architecture-58b9)
+- [How I Built a Resilient Idempotency Engine for Financial Transactions &lpar;Vanilla Java&rpar;](https://dev.to/kauan_dias_dcb9e0566058a5/how-i-built-a-resilient-idempotency-engine-for-financial-transactions-vanilla-java-4ieo)
+- [How I Built a Resilient Idempotency Engine for Financial Transactions &lpar;Vanilla Java&rpar;](https://dev.to/kauan_dias_dcb9e0566058a5/how-i-built-a-resilient-idempotency-engine-for-financial-transactions-vanilla-java-4ieo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
