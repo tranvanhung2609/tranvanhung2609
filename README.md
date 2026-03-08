@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Edge Cases That Broke Our Dev.to Auto-Crossposting &lpar;And How We Fixed Them&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/the-5-edge-cases-that-broke-our-devto-auto-crossposting-and-how-we-fixed-them-81p)
-- [Ollama vs LocalAI: Which Should You Self-Host?](https://dev.to/selfhostingsh/ollama-vs-localai-which-should-you-self-host-3ibm)
-- [I Stopped Clicking Around wp-admin and Treated WordPress Media Offload Like Infrastructure](https://dev.to/dmitryrechkin/i-stopped-clicking-around-wp-admin-and-treated-wordpress-media-offload-like-infrastructure-1kae)
-- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
-- [🚀 Building My First Backend Project: Expense Tracker API](https://dev.to/charleychinedu/building-my-first-backend-project-expense-tracker-api-4j36)
-- [How to Debug Multi-Agent AI Systems: Session Replay for LLM Workflows](https://dev.to/gonewx/how-to-debug-multi-agent-ai-systems-session-replay-for-llm-workflows-20ad)
+- [How to Add Visual Monitoring to Your API Health Checks in 10 Minutes](https://dev.to/opspawn/how-to-add-visual-monitoring-to-your-api-health-checks-in-10-minutes-3fhi)
+- [I Migrated a Real Production Codebase from Terraform to OpenTofu &lpar;Here&#39;s What Broke&rpar;](https://dev.to/mateenali66/i-migrated-a-real-production-codebase-from-terraform-to-opentofu-heres-what-broke-4j1b)
+- [How to Automate Screenshot Testing in Your CI/CD Pipeline &lpar;Without Puppeteer Headaches&rpar;](https://dev.to/opspawn/how-to-automate-screenshot-testing-in-your-cicd-pipeline-without-puppeteer-headaches-1m06)
+- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j)
+- [Terraform Saved Me Hours Every Week — Here&#39;s What It Actually Does](https://dev.to/manikanta_yarramsetti_7bc/terraform-saved-me-hours-every-week-heres-what-it-actually-does-4o9f)
+- [Docker for Trading Applications: A Practical Setup Guide](https://dev.to/propfirmkey/docker-for-trading-applications-a-practical-setup-guide-1n41)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
