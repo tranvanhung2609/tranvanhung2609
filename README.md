@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Visual Monitoring to Your API Health Checks in 10 Minutes](https://dev.to/opspawn/how-to-add-visual-monitoring-to-your-api-health-checks-in-10-minutes-3fhi)
-- [I Migrated a Real Production Codebase from Terraform to OpenTofu &lpar;Here&#39;s What Broke&rpar;](https://dev.to/mateenali66/i-migrated-a-real-production-codebase-from-terraform-to-opentofu-heres-what-broke-4j1b)
-- [How to Automate Screenshot Testing in Your CI/CD Pipeline &lpar;Without Puppeteer Headaches&rpar;](https://dev.to/opspawn/how-to-automate-screenshot-testing-in-your-cicd-pipeline-without-puppeteer-headaches-1m06)
-- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j)
-- [Terraform Saved Me Hours Every Week — Here&#39;s What It Actually Does](https://dev.to/manikanta_yarramsetti_7bc/terraform-saved-me-hours-every-week-heres-what-it-actually-does-4o9f)
-- [Docker for Trading Applications: A Practical Setup Guide](https://dev.to/propfirmkey/docker-for-trading-applications-a-practical-setup-guide-1n41)
+- [The Internal IT Automation Stack: How Growing SaaS Companies Use n8n to Scale Without Hiring](https://dev.to/mychelgarzon/the-internal-it-automation-stack-how-growing-saas-companies-use-n8n-to-scale-without-hiring-43aj)
+- [The Staging Environment Mistake: Why AI Agents Need a Test Harness Before Production](https://dev.to/askpatrick/the-staging-environment-mistake-why-ai-agents-need-a-test-harness-before-production-1g7f)
+- [article 5 ways to cut Kubernetes costs by 50%](https://dev.to/edwinasnl/article-5-ways-to-cut-kubernetes-costs-by-50-3h5c)
+- [Web Developer Travis McCracken on Go’s Error Handling is Underrated](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-error-handling-is-underrated-237i)
+- [I Built a Log Analyzer That Replaced My $200/Month Splunk Subscription](https://dev.to/devadatta_baireddy/i-built-a-log-analyzer-that-replaced-my-200month-splunk-subscription-240e)
+- [How DevOps Engineers Build a CI/CD Pipeline Using Docker, Jenkins and Kubernetes](https://dev.to/naveen_kumar_60514a494e10/how-devops-engineers-build-a-cicd-pipeline-using-docker-jenkins-and-kubernetes-4pgg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
