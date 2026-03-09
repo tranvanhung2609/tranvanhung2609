@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [IAM role assumption across AWS accounts: the right way &lpar;with working Terraform&rpar;](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe)
-- [Why I Built My Own Mobile SSH Client &lpar;And Why You Should Care About Your Keys&rpar;](https://dev.to/fatihkurtl/why-i-built-my-own-mobile-ssh-client-and-why-you-should-care-about-your-keys-4n0b)
-- [Dockerizing a FastAPI App: Eliminating &quot;It Works on My Machine&quot;](https://dev.to/ghost_script/dockerizing-a-fastapi-app-eliminating-it-works-on-my-machine-2ifm)
-- [Data Science Course in Thane: Fees, Duration, Syllabus, Placement &amp; Career Guide &lpar;2026&rpar;](https://dev.to/quastech/data-science-course-in-thane-fees-duration-syllabus-placement-career-guide-2026-1664)
-- [How to Deploy PHP Applications to Multiple LiteSpeed Servers](https://dev.to/ahmet_gedik778845/how-to-deploy-php-applications-to-multiple-litespeed-servers-ci9)
-- [Graceful Degradation for AI Agents: Design the Failure Path, Not Just the Happy Path](https://dev.to/askpatrick/graceful-degradation-for-ai-agents-design-the-failure-path-not-just-the-happy-path-3fid)
+- [Kubernetes Operator Development Guide](https://dev.to/aicontentlab/kubernetes-operator-development-guide-52oo)
+- [Debug Linux Memory Issues](https://dev.to/aicontentlab/debug-linux-memory-issues-4jao)
+- [Your AI Agent&#39;s Quietest Morning Is Where the Real Bugs Hide](https://dev.to/arthur_liao_8a/your-ai-agents-quietest-morning-is-where-the-real-bugs-hide-4nc6)
+- [Why Your AI Agent Is Inconsistent &lpar;It&#39;s a Loading Order Problem&rpar;](https://dev.to/askpatrick/why-your-ai-agent-is-inconsistent-its-a-loading-order-problem-oej)
+- [4 Patterns From Space Life Support That Will Save Your Backend](https://dev.to/klement_gunndu/4-patterns-from-space-life-support-that-will-save-your-backend-2o0p)
+- [Web Developer Travis McCracken on Favorite Linters for Go and Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-favorite-linters-for-go-and-rust-jje)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
