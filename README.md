@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Operator Development Guide](https://dev.to/aicontentlab/kubernetes-operator-development-guide-52oo)
-- [Debug Linux Memory Issues](https://dev.to/aicontentlab/debug-linux-memory-issues-4jao)
-- [Your AI Agent&#39;s Quietest Morning Is Where the Real Bugs Hide](https://dev.to/arthur_liao_8a/your-ai-agents-quietest-morning-is-where-the-real-bugs-hide-4nc6)
-- [Why Your AI Agent Is Inconsistent &lpar;It&#39;s a Loading Order Problem&rpar;](https://dev.to/askpatrick/why-your-ai-agent-is-inconsistent-its-a-loading-order-problem-oej)
-- [4 Patterns From Space Life Support That Will Save Your Backend](https://dev.to/klement_gunndu/4-patterns-from-space-life-support-that-will-save-your-backend-2o0p)
-- [Web Developer Travis McCracken on Favorite Linters for Go and Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-favorite-linters-for-go-and-rust-jje)
+- [The Insider&#39;s Guide to Buying and Reviving Old GitHub accounts.](https://dev.to/gusellaclarkee6rv/the-insiders-guide-to-buying-and-reviving-old-github-accounts-40bm)
+- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l)
+- [The Token Budget Pattern: How to Stop AI Agent Overspending Before It Starts](https://dev.to/askpatrick/the-token-budget-pattern-how-to-stop-ai-agent-overspending-before-it-starts-445g)
+- [Docker Compose vs Kubernetes en 2026: Cuándo Usar Cuál &lpar;Y Cuándo te Estás Complicando la Vida&rpar;](https://dev.to/synsun/docker-compose-vs-kubernetes-en-2026-cuando-usar-cual-y-cuando-te-estas-complicando-la-vida-2p4k)
+- [Deno 2.0 en Producción 2026: Migración desde Node.js y Qué Cambió Realmente](https://dev.to/synsun/deno-20-en-produccion-2026-migracion-desde-nodejs-y-que-cambio-realmente-52kf)
+- [Docker Compose vs Kubernetes: What I Actually Learned Running Both in Production](https://dev.to/synsun/docker-compose-vs-kubernetes-what-i-actually-learned-running-both-in-production-18me)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
