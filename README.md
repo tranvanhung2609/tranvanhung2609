@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent&#39;s Best Day Is When It Has Nothing to Do](https://dev.to/arthur_liao_8a/your-ai-agents-best-day-is-when-it-has-nothing-to-do-3051)
-- [Designing a Platform Engineering Lab for Enterprise Cloud Architectures](https://dev.to/vandana_platform/designing-a-platform-engineering-lab-for-enterprise-cloud-architectures-4gig)
-- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj)
-- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
-- [The Cold Start Problem: How to Deploy AI Agents With Context From Day One](https://dev.to/askpatrick/the-cold-start-problem-how-to-deploy-ai-agents-with-context-from-day-one-h92)
-- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-3j95)
+- [IAM role assumption across AWS accounts: the right way &lpar;with working Terraform&rpar;](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe)
+- [Why I Built My Own Mobile SSH Client &lpar;And Why You Should Care About Your Keys&rpar;](https://dev.to/fatihkurtl/why-i-built-my-own-mobile-ssh-client-and-why-you-should-care-about-your-keys-4n0b)
+- [Dockerizing a FastAPI App: Eliminating &quot;It Works on My Machine&quot;](https://dev.to/ghost_script/dockerizing-a-fastapi-app-eliminating-it-works-on-my-machine-2ifm)
+- [Data Science Course in Thane: Fees, Duration, Syllabus, Placement &amp; Career Guide &lpar;2026&rpar;](https://dev.to/quastech/data-science-course-in-thane-fees-duration-syllabus-placement-career-guide-2026-1664)
+- [How to Deploy PHP Applications to Multiple LiteSpeed Servers](https://dev.to/ahmet_gedik778845/how-to-deploy-php-applications-to-multiple-litespeed-servers-ci9)
+- [Graceful Degradation for AI Agents: Design the Failure Path, Not Just the Happy Path](https://dev.to/askpatrick/graceful-degradation-for-ai-agents-design-the-failure-path-not-just-the-happy-path-3fid)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
