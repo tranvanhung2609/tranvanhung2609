@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Lightweight Cron Job Health Monitor with Bash and Docker](https://dev.to/alanvarghese-dev/how-i-built-a-lightweight-cron-job-health-monitor-with-bash-and-docker-16mh)
-- [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc)
-- [The Ultimate Guide To Buying Old Yahoo Accounts USA](https://dev.to/kimmyrollinsseijn/the-ultimate-guide-to-buying-old-yahoo-accounts-usa-364n)
-- [Building a Semantic Search API with Spring Boot and pgvector - Part 1: Architecture](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-1-architecture-58b9)
-- [How I Built a Resilient Idempotency Engine for Financial Transactions &lpar;Vanilla Java&rpar;](https://dev.to/kauan_dias_dcb9e0566058a5/how-i-built-a-resilient-idempotency-engine-for-financial-transactions-vanilla-java-4ieo)
-- [How I Built a Resilient Idempotency Engine for Financial Transactions &lpar;Vanilla Java&rpar;](https://dev.to/kauan_dias_dcb9e0566058a5/how-i-built-a-resilient-idempotency-engine-for-financial-transactions-vanilla-java-4ieo)
+- [Your AI Agent&#39;s Best Day Is When It Has Nothing to Do](https://dev.to/arthur_liao_8a/your-ai-agents-best-day-is-when-it-has-nothing-to-do-3051)
+- [Designing a Platform Engineering Lab for Enterprise Cloud Architectures](https://dev.to/vandana_platform/designing-a-platform-engineering-lab-for-enterprise-cloud-architectures-4gig)
+- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj)
+- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
+- [The Cold Start Problem: How to Deploy AI Agents With Context From Day One](https://dev.to/askpatrick/the-cold-start-problem-how-to-deploy-ai-agents-with-context-from-day-one-h92)
+- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-3j95)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
