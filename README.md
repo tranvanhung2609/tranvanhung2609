@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [iOS App Development Tools Every Mobile Developer Should Know](https://dev.to/rajinder_kumar/ios-app-development-tools-every-mobile-developer-should-know-5254)
-- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)
-- [Top 5 Studios Building Metaverse Schools in 2026](https://dev.to/jyothika_nair_a476973a8eb/top-5-studios-building-metaverse-schools-in-2026-48hd)
-- [DigitalOcean Review 2026: Is It Still the Best Cloud for Developers?](https://dev.to/devguoo/digitalocean-review-2026-is-it-still-the-best-cloud-for-developers-1jfg)
-- [[Boost]](https://dev.to/hamza_2315/-2mgm)
-- [On-Call Burnout: What Incident Data Doesn’t Show](https://dev.to/hamza_2315/on-call-burnout-what-incident-data-doesnt-show-2kap)
+- [[Boost]](https://dev.to/aashmawy/-ak0)
+- [How I Test an AI Support Agent: A Practical Testing Pyramid](https://dev.to/aashmawy/how-i-test-an-ai-support-agent-a-practical-testing-pyramid-3iik)
+- [Why Your Microsoft Copilot ROI Is Terrible &lpar;And How to Fix It&rpar;](https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-how-to-fix-it-1k2p)
+- [How to Evaluate AI Coding Tools Without Wasting 3 Months](https://dev.to/klement_gunndu/how-to-evaluate-ai-coding-tools-without-wasting-3-months-d1g)
+- [Web Developer Travis McCracken on API Docs That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-docs-that-dont-suck-4lg0)
+- [Docker Compose + tmpfs: Armazenamento efêmero que sua aplicação](https://dev.to/rflpazini/docker-compose-tmpfs-armazenamento-efemero-que-sua-aplicacao-3afi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
