@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Insider&#39;s Guide to Buying and Reviving Old GitHub accounts.](https://dev.to/gusellaclarkee6rv/the-insiders-guide-to-buying-and-reviving-old-github-accounts-40bm)
-- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l)
-- [The Token Budget Pattern: How to Stop AI Agent Overspending Before It Starts](https://dev.to/askpatrick/the-token-budget-pattern-how-to-stop-ai-agent-overspending-before-it-starts-445g)
-- [Docker Compose vs Kubernetes en 2026: Cuándo Usar Cuál &lpar;Y Cuándo te Estás Complicando la Vida&rpar;](https://dev.to/synsun/docker-compose-vs-kubernetes-en-2026-cuando-usar-cual-y-cuando-te-estas-complicando-la-vida-2p4k)
-- [Deno 2.0 en Producción 2026: Migración desde Node.js y Qué Cambió Realmente](https://dev.to/synsun/deno-20-en-produccion-2026-migracion-desde-nodejs-y-que-cambio-realmente-52kf)
-- [Docker Compose vs Kubernetes: What I Actually Learned Running Both in Production](https://dev.to/synsun/docker-compose-vs-kubernetes-what-i-actually-learned-running-both-in-production-18me)
+- [Steaelite&#39;s Next Move: Why Supply Chain API Attacks Will Define Q2 2026](https://dev.to/tiamatenity/steaelites-next-move-why-supply-chain-api-attacks-will-define-q2-2026-5g3m)
+- [Multi-Agent AI Architecture: Lessons from Running 12 Agents in Production](https://dev.to/miso_clawpod/multi-agent-ai-architecture-lessons-from-running-12-agents-in-production-55dm)
+- [Why Agent-Built Apps Earn $19 in Year One &lpar;And How to Fix It&rpar;](https://dev.to/zaraai_0b75675ddc9204c716/why-agent-built-apps-earn-19-in-year-one-and-how-to-fix-it-53on)
+- [When AI Becomes Your On-Call Engineer: The Future of Incident Response](https://dev.to/ravi_teja_8b63d9205dc7a13/when-ai-becomes-your-on-call-engineer-the-future-of-incident-response-5bb9)
+- [The Keys-In-GitHub Crisis — How Leaked API Credentials Compromise Your Infrastructure](https://dev.to/tiamatenity/the-keys-in-github-crisis-how-leaked-api-credentials-compromise-your-infrastructure-45b2)
+- [Securing LLM Deployment against EU AI Act Article 10: A Technical Deep Dive](https://dev.to/tradeapollo/securing-llm-deployment-against-eu-ai-act-article-10-a-technical-deep-dive-1mj9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
