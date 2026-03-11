@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Databases: The Backbone of Modern Applications](https://dev.to/lealonwolfe/databases-the-backbone-of-modern-applications-120c)
-- [Lessons I Learned Building AI Features That Real Users Depend On](https://dev.to/aman_ai35/lessons-i-learned-building-ai-features-that-real-users-depend-on-4jag)
-- [Rate Limiting: How to Stop Your API From Drowning in Requests](https://dev.to/jairo-dev-jr/rate-limiting-how-to-stop-your-api-from-drowning-in-requests-31mm)
-- [Docker Under the Hood: Architecture and Storage Essentials](https://dev.to/anusha_kuppili/docker-under-the-hood-architecture-and-storage-essentials-31oi)
-- [Why Your Microsoft Copilot ROI Is Terrible &lpar;And It&#39;s Not the Tool&#39;s Fault&rpar;](https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-its-not-the-tools-fault-eja)
-- [Why Your Microsoft Copilot ROI Is Terrible &lpar;And It&#39;s Not the Tool&#39;s Fault&rpar;](https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-its-not-the-tools-fault-3gf6)
+- [Your Company Paid $1.4M for Copilot. 47 People Used It.](https://dev.to/askpatrick/your-company-paid-14m-for-copilot-47-people-used-it-2glk)
+- [Switching from PowerShell to Bash: Setting Up WSL and Running Azure CLI in Visual Studio Code](https://dev.to/pirrezz/switching-from-powershell-to-bash-setting-up-wsl-and-running-azure-cli-in-visual-studio-code-1823)
+- [Why Your Microsoft Copilot ROI Is Terrible &lpar;And It&#39;s Not the Tool&#39;s Fault&rpar;](https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-its-not-the-tools-fault-5ce)
+- [Git Workflow for Trading Strategy Version Control](https://dev.to/propfirmkey/git-workflow-for-trading-strategy-version-control-492c)
+- [How I Used an AI Agent to &quot;Enforce&quot; 70% Unit Test Coverage for 3,000 Users](https://dev.to/paudang/how-i-used-an-ai-agent-to-enforce-70-unit-test-coverage-for-3000-users-2aeb)
+- [Docker Containerization for Trading Bots: Best Practices](https://dev.to/propfirmkey/docker-containerization-for-trading-bots-best-practices-1gd6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
