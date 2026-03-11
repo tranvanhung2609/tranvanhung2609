@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Company Paid $1.4M for Copilot. 47 People Used It.](https://dev.to/askpatrick/your-company-paid-14m-for-copilot-47-people-used-it-2glk)
-- [Switching from PowerShell to Bash: Setting Up WSL and Running Azure CLI in Visual Studio Code](https://dev.to/pirrezz/switching-from-powershell-to-bash-setting-up-wsl-and-running-azure-cli-in-visual-studio-code-1823)
-- [Why Your Microsoft Copilot ROI Is Terrible &lpar;And It&#39;s Not the Tool&#39;s Fault&rpar;](https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-its-not-the-tools-fault-5ce)
-- [Git Workflow for Trading Strategy Version Control](https://dev.to/propfirmkey/git-workflow-for-trading-strategy-version-control-492c)
-- [How I Used an AI Agent to &quot;Enforce&quot; 70% Unit Test Coverage for 3,000 Users](https://dev.to/paudang/how-i-used-an-ai-agent-to-enforce-70-unit-test-coverage-for-3000-users-2aeb)
-- [Docker Containerization for Trading Bots: Best Practices](https://dev.to/propfirmkey/docker-containerization-for-trading-bots-best-practices-1gd6)
+- [Claude CodeでゼロダウンタイムDBマイグレーションを設計する：Expand-Contract・後方互換](https://dev.to/myougatheaxo/claude-codedezerodauntaimudbmaiguresiyonwoshe-ji-suruexpand-contracthou-fang-hu-huan-3ndj)
+- [Claude CodeでPRプレビュー環境を自動構築する：K8s Namespace・自動URLコメント・クリーンアップ](https://dev.to/myougatheaxo/claude-codedeprpurebiyuhuan-jing-wozi-dong-gou-zhu-suruk8s-namespacezi-dong-urlkomentokurinatupu-1mhd)
+- [Claude CodeでArgoCD GitOpsを設計する：自動デプロイ・差分検知・ロールバック](https://dev.to/myougatheaxo/claude-codedeargocd-gitopswoshe-ji-suruzi-dong-depuroichai-fen-jian-zhi-rorubatuku-3m2a)
+- [Claude CodeでHelmチャートを設計する：values.yaml・External Secrets・staging/prod差分管理](https://dev.to/myougatheaxo/claude-codedehelmtiyatowoshe-ji-suruvaluesyamlexternal-secretsstagingprodchai-fen-guan-li-47f2)
+- [Claude Codeで依存関係更新を自動化する：Renovate・自動マージ・セキュリティPR優先](https://dev.to/myougatheaxo/claude-codedeyi-cun-guan-xi-geng-xin-wozi-dong-hua-sururenovatezi-dong-mazisekiyuriteipryou-xian-2mh3)
+- [System Integration Testing &lpar;SIT&rpar; in Software Testing: Complete Guide](https://dev.to/subham_jha_7b468f2de09618/system-integration-testing-sit-in-software-testing-complete-guide-32kd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
