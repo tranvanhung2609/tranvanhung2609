@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Claude CodeでゼロダウンタイムDBマイグレーションを設計する：Expand-Contract・後方互換](https://dev.to/myougatheaxo/claude-codedezerodauntaimudbmaiguresiyonwoshe-ji-suruexpand-contracthou-fang-hu-huan-3ndj)
-- [Claude CodeでPRプレビュー環境を自動構築する：K8s Namespace・自動URLコメント・クリーンアップ](https://dev.to/myougatheaxo/claude-codedeprpurebiyuhuan-jing-wozi-dong-gou-zhu-suruk8s-namespacezi-dong-urlkomentokurinatupu-1mhd)
-- [Claude CodeでArgoCD GitOpsを設計する：自動デプロイ・差分検知・ロールバック](https://dev.to/myougatheaxo/claude-codedeargocd-gitopswoshe-ji-suruzi-dong-depuroichai-fen-jian-zhi-rorubatuku-3m2a)
-- [Claude CodeでHelmチャートを設計する：values.yaml・External Secrets・staging/prod差分管理](https://dev.to/myougatheaxo/claude-codedehelmtiyatowoshe-ji-suruvaluesyamlexternal-secretsstagingprodchai-fen-guan-li-47f2)
-- [Claude Codeで依存関係更新を自動化する：Renovate・自動マージ・セキュリティPR優先](https://dev.to/myougatheaxo/claude-codedeyi-cun-guan-xi-geng-xin-wozi-dong-hua-sururenovatezi-dong-mazisekiyuriteipryou-xian-2mh3)
-- [System Integration Testing &lpar;SIT&rpar; in Software Testing: Complete Guide](https://dev.to/subham_jha_7b468f2de09618/system-integration-testing-sit-in-software-testing-complete-guide-32kd)
+- [How to Reduce Technical Debt in a Legacy Salesforce Org: A Practical Audit Guide](https://dev.to/sumeetsrivastava/how-to-reduce-technical-debt-in-a-legacy-salesforce-org-a-practical-audit-guide-11e3)
+- [Learn DevOps Step-by-Step with Real Use Cases](https://dev.to/grras_solution_011/learn-devops-step-by-step-with-real-use-cases-31ej)
+- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-2kn1)
+- [Why AI Agents Fail in Production &lpar;And It Is Not the Model&rpar;](https://dev.to/zaraai_0b75675ddc9204c716/why-ai-agents-fail-in-production-and-it-is-not-the-model-4peo)
+- [SnapDeploy Bug Bounty: Get Rewarded for Reporting Any Bug — Not Just Security Issues](https://dev.to/snapdeploy/snapdeploy-bug-bounty-get-rewarded-for-reporting-any-bug-not-just-security-issues-hcb)
+- [Systemd Timers: Replace Cron with Modern Scheduling](https://dev.to/lumin-playstar/systemd-timers-replace-cron-with-modern-scheduling-4maj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
