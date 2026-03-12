@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Desktop App That Sends Bulk Personalized Gmail Emails](https://dev.to/ahnix_soft_ecb044d93b3f90/i-built-a-desktop-app-that-sends-bulk-personalized-gmail-emails-mk0)
-- [Building Real-Time Collaboration: A Simple Guide to Operational Transformation in Go](https://dev.to/bwanachairman/building-real-time-collaboration-a-simple-guide-to-operational-transformation-in-go-2pdj)
-- [Guía Completa de Gitops con flux y argocd](https://dev.to/devopsfreelance_pro/guia-completa-de-gitops-con-flux-y-argocd-3aj8)
-- [Session Bloat Detector v3: Auto-Clear Without CLI Dependency](https://dev.to/adam_cipher/session-bloat-detector-v3-auto-clear-without-cli-dependency-38h6)
-- [Platform Engineering: Qué Es, Por Qué Importa y Cómo Implementarlo [Guía 2026]](https://dev.to/devopsfreelance_pro/platform-engineering-que-es-por-que-importa-y-como-implementarlo-guia-2026-1nmf)
-- [Estrategias de Despliegue en Kubernetes: Rolling, Blue-Green, Canary y A/B](https://dev.to/devopsfreelance_pro/estrategias-de-despliegue-en-kubernetes-rolling-blue-green-canary-y-ab-2b7g)
+- [Optimizando costos y rendimiento en Clawdbot](https://dev.to/ctala/optimizando-costos-y-rendimiento-en-clawdbot-453i)
+- [The Day I Realized Most Microservices Should Have Been a Cron Job](https://dev.to/tanisha_saxena_6ee4977663/the-day-i-realized-most-microservices-should-have-been-a-cron-job-162c)
+- [INTERFACES VS. ABSTRACT CLASSES: A REAL-WORLD JAVA EXAMPLE](https://dev.to/xh1m/interfaces-vs-abstract-classes-a-real-world-java-example-3f34)
+- [When AI Joins Your Team, Where Should You Focus Your Resources?](https://dev.to/suruseas/when-ai-joins-your-team-where-should-you-focus-your-resources-3p23)
+- [OAuth in Voiden](https://dev.to/dhruv2038/oauth-in-voiden-7ck)
+- [Stop Sharing Grafana Links: How to Send k6 Load Test Results Directly to Jira](https://dev.to/orbit-a-devteam/stop-sharing-grafana-links-how-to-send-k6-load-test-results-directly-to-jira-fh6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
