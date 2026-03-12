@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Optimizando costos y rendimiento en Clawdbot](https://dev.to/ctala/optimizando-costos-y-rendimiento-en-clawdbot-453i)
-- [The Day I Realized Most Microservices Should Have Been a Cron Job](https://dev.to/tanisha_saxena_6ee4977663/the-day-i-realized-most-microservices-should-have-been-a-cron-job-162c)
-- [INTERFACES VS. ABSTRACT CLASSES: A REAL-WORLD JAVA EXAMPLE](https://dev.to/xh1m/interfaces-vs-abstract-classes-a-real-world-java-example-3f34)
-- [When AI Joins Your Team, Where Should You Focus Your Resources?](https://dev.to/suruseas/when-ai-joins-your-team-where-should-you-focus-your-resources-3p23)
-- [OAuth in Voiden](https://dev.to/dhruv2038/oauth-in-voiden-7ck)
-- [Stop Sharing Grafana Links: How to Send k6 Load Test Results Directly to Jira](https://dev.to/orbit-a-devteam/stop-sharing-grafana-links-how-to-send-k6-load-test-results-directly-to-jira-fh6)
+- [JADEx: A New Practical Null-Safety Solution for Java](https://dev.to/jadex/jadex-a-new-practical-null-safety-solution-for-java-5514)
+- [Advanced Postman Concepts for Efficient API Testing](https://dev.to/dedawit/advanced-postman-concepts-for-efficient-api-testing-6kh)
+- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
+- [Securing LLM Deployment against Data Exfiltration: The Ultimate Guide](https://dev.to/tradeapollo/securing-llm-deployment-against-data-exfiltration-the-ultimate-guide-5em)
+- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
+- [GitLab SE behind Cloudflare Zero Trust: Private CI Runner](https://dev.to/iuri_covaliov/gitlab-se-behind-cloudflare-zero-trust-part-3-private-ci-runner-4a6b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
