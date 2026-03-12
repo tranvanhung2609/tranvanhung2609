@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Policy-as-Code vs. LLM Agents: A Benchmark You Need to See](https://dev.to/zaxionhq/policy-as-code-vs-llm-agents-a-benchmark-you-need-to-see-1m8e)
-- [Your SKILL.md Works in Claude Code but Silently Fails in VS Code](https://dev.to/moonrunnerkc/your-skillmd-works-in-claude-code-but-silently-fails-in-vs-code-k9b)
-- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp)
-- [Deploy a Solana Trading Bot 24/7 for Free on Oracle Cloud](https://dev.to/tatelyman/deploy-a-solana-trading-bot-247-for-free-on-oracle-cloud-37ho)
-- [One request looks clean. Five requests leak your AWS key.](https://dev.to/luckypipewrench/one-request-looks-clean-five-requests-leak-your-aws-key-54ka)
-- [Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform](https://dev.to/fernandoandrade/do-commit-ao-deploy-cicd-de-uma-api-na-aws-usando-github-actions-ecs-e-terraform-433g)
+- [I Built a Desktop App That Sends Bulk Personalized Gmail Emails](https://dev.to/ahnix_soft_ecb044d93b3f90/i-built-a-desktop-app-that-sends-bulk-personalized-gmail-emails-mk0)
+- [Building Real-Time Collaboration: A Simple Guide to Operational Transformation in Go](https://dev.to/bwanachairman/building-real-time-collaboration-a-simple-guide-to-operational-transformation-in-go-2pdj)
+- [Guía Completa de Gitops con flux y argocd](https://dev.to/devopsfreelance_pro/guia-completa-de-gitops-con-flux-y-argocd-3aj8)
+- [Session Bloat Detector v3: Auto-Clear Without CLI Dependency](https://dev.to/adam_cipher/session-bloat-detector-v3-auto-clear-without-cli-dependency-38h6)
+- [Platform Engineering: Qué Es, Por Qué Importa y Cómo Implementarlo [Guía 2026]](https://dev.to/devopsfreelance_pro/platform-engineering-que-es-por-que-importa-y-como-implementarlo-guia-2026-1nmf)
+- [Estrategias de Despliegue en Kubernetes: Rolling, Blue-Green, Canary y A/B](https://dev.to/devopsfreelance_pro/estrategias-de-despliegue-en-kubernetes-rolling-blue-green-canary-y-ab-2b7g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
