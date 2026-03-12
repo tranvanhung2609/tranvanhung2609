@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core Request Pipeline Explained: What Happens When an API Receives a Request](https://dev.to/alinabi19/aspnet-core-request-pipeline-explained-what-happens-when-an-api-receives-a-request-7p1)
-- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j)
-- [Securing OpenAI API Wrappers against Data Exfiltration: A DevSecOps Architect&#39;s Guide](https://dev.to/tradeapollo/securing-openai-api-wrappers-against-data-exfiltration-a-devsecops-architects-guide-dpo)
-- [GitHub Actions vs GitLab CI: Cache Speed at 2.1s vs 8.4s](https://dev.to/tildalice/github-actions-vs-gitlab-ci-cache-speed-at-21s-vs-84s-4eo3)
-- [BIM Modeling Services: The Digital Crystal Ball That’s Quietly Saving Contractors From Million-Dollar Meltdowns](https://dev.to/designestimationllc/bim-modeling-services-the-digital-crystal-ball-thats-quietly-saving-contractors-from-13c8)
-- [Unlock Machine Learning Mastery: 30 Days to AI-Powered Success](https://dev.to/valrex/unlock-machine-learning-mastery-30-days-to-ai-powered-success-4dol)
+- [Policy-as-Code vs. LLM Agents: A Benchmark You Need to See](https://dev.to/zaxionhq/policy-as-code-vs-llm-agents-a-benchmark-you-need-to-see-1m8e)
+- [Your SKILL.md Works in Claude Code but Silently Fails in VS Code](https://dev.to/moonrunnerkc/your-skillmd-works-in-claude-code-but-silently-fails-in-vs-code-k9b)
+- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp)
+- [Deploy a Solana Trading Bot 24/7 for Free on Oracle Cloud](https://dev.to/tatelyman/deploy-a-solana-trading-bot-247-for-free-on-oracle-cloud-37ho)
+- [One request looks clean. Five requests leak your AWS key.](https://dev.to/luckypipewrench/one-request-looks-clean-five-requests-leak-your-aws-key-54ka)
+- [Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform](https://dev.to/fernandoandrade/do-commit-ao-deploy-cicd-de-uma-api-na-aws-usando-github-actions-ecs-e-terraform-433g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
