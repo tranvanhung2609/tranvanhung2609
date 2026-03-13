@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Managing AI Agents in Production the Kubernetes Way](https://dev.to/rdmnl/managing-ai-agents-in-production-the-kubernetes-way-3ah6)
-- [Introducing Agntable: The Easiest Way to Host Open‑Source AI Agents in Minutes](https://dev.to/farrukh_tariq_b2d419a76cf/introducing-agntable-the-easiest-way-to-host-open-source-ai-agents-in-minutes-9na)
-- [The Robotics Data Struggle is Real: A Look at the Dev Tools Market](https://dev.to/solvicode/the-robotics-data-struggle-is-real-a-look-at-the-dev-tools-market-5daj)
-- [&lpar;WHATSAPP: +44 7347 936963&rpar; Buy 5Cl-ADB In Germany](https://dev.to/k2_spice_312400b525d8f8de/whatsapp-44-7347-936963-buy-5cl-adb-in-germany-14eb)
-- [Web Developer Travis McCracken on Hard Lessons from Scaling a Rust API](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-hard-lessons-from-scaling-a-rust-api-1a7g)
-- [Camunda Incident Handling Explained: Failed Jobs, Retries and Recovery](https://dev.to/nirankari/camunda-incident-handling-explained-failed-jobs-retries-and-recovery-2ga4)
+- [Cloud Server vs VPS Hosting: Comparação de Preços &lpar;2026&rpar; — Qual Provedor Oferece o Melhor Custo-Benefício?](https://dev.to/letscloud/cloud-server-vs-vps-hosting-comparacao-de-precos-2026-qual-provedor-oferece-o-melhor-409c)
+- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar;](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start-3c9l)
+- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-2ca7)
+- [Why Building AI Chat Apps Is Still Hard in 2026](https://dev.to/kyeremehs/why-building-ai-chat-apps-is-still-hard-in-2026-2918)
+- [AWS IAM + S3 Demystified: Map Every S3 CLI Command to Its Required Permission](https://dev.to/brunohsouza/aws-iam-s3-demystified-map-every-s3-cli-command-to-its-required-permission-5bmd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
