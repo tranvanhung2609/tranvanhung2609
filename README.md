@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [JADEx: A New Practical Null-Safety Solution for Java](https://dev.to/jadex/jadex-a-new-practical-null-safety-solution-for-java-5514)
-- [Advanced Postman Concepts for Efficient API Testing](https://dev.to/dedawit/advanced-postman-concepts-for-efficient-api-testing-6kh)
-- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
-- [Securing LLM Deployment against Data Exfiltration: The Ultimate Guide](https://dev.to/tradeapollo/securing-llm-deployment-against-data-exfiltration-the-ultimate-guide-5em)
-- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
-- [GitLab SE behind Cloudflare Zero Trust: Private CI Runner](https://dev.to/iuri_covaliov/gitlab-se-behind-cloudflare-zero-trust-part-3-private-ci-runner-4a6b)
+- [Snack4-JsonPath v4.0.36 Released &lpar;IETF RFC 9535 Standard Support&rpar;](https://dev.to/noear/snack4-jsonpath-v4036-released-ietf-rfc-9535-standard-support-2402)
+- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy &lpar;2026 Comparison&rpar;](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm)
+- [Movie-API](https://dev.to/rajvircodes22/movie-api-2ja4)
+- [Share Your Repo and I&#39;ll Show You What Would Break If You Enforced Code Standards](https://dev.to/zaxionhq/share-your-repo-and-ill-show-you-what-would-break-if-you-enforced-code-standards-52j1)
+- [Anthropic Built a 300K-Query Behavioral Auditing Tool Because Model Behavior Changes. Here&#39;s the Production Version.](https://dev.to/clawgenesis/anthropic-built-a-300k-query-behavioral-auditing-tool-because-model-behavior-changes-heres-the-1ao3)
+- [Hands-On IAM with WSO2 Asgardeo: Configuring SSO, MFA, and Adaptive Authentication](https://dev.to/theenuka_bandara/hands-on-iam-with-wso2-asgardeo-configuring-sso-mfa-and-adaptive-authentication-421d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
