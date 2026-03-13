@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week](https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji)
-- [What Are OAuth 2.0 Scopes and How Do They Work?](https://dev.to/apilover/what-are-oauth-20-scopes-and-how-do-they-work-3ih)
-- [What Changed in OpenAPI 3.2 vs 3.1 vs 3.0?](https://dev.to/apilover/what-changed-in-openapi-32-vs-31-vs-30-3n31)
-- [Building an MCP Server for Java Performance Profiling](https://dev.to/thesharque/building-an-mcp-server-for-java-performance-profiling-133h)
-- [What Is Kubernetes? A Simple Explanation for DevOps Beginners](https://dev.to/sandhya_rani_techie/what-is-kubernetes-a-simple-explanation-for-devops-beginners-1734)
-- [How to Reset the PostgreSQL `postgres` Password &lpar;Forgot Password Fix&rpar;](https://dev.to/digvijay_singhrajput/how-to-reset-the-postgresql-postgres-password-forgot-password-fix-3hd)
+- [Managing AI Agents in Production the Kubernetes Way](https://dev.to/rdmnl/managing-ai-agents-in-production-the-kubernetes-way-3ah6)
+- [Introducing Agntable: The Easiest Way to Host Open‑Source AI Agents in Minutes](https://dev.to/farrukh_tariq_b2d419a76cf/introducing-agntable-the-easiest-way-to-host-open-source-ai-agents-in-minutes-9na)
+- [The Robotics Data Struggle is Real: A Look at the Dev Tools Market](https://dev.to/solvicode/the-robotics-data-struggle-is-real-a-look-at-the-dev-tools-market-5daj)
+- [&lpar;WHATSAPP: +44 7347 936963&rpar; Buy 5Cl-ADB In Germany](https://dev.to/k2_spice_312400b525d8f8de/whatsapp-44-7347-936963-buy-5cl-adb-in-germany-14eb)
+- [Web Developer Travis McCracken on Hard Lessons from Scaling a Rust API](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-hard-lessons-from-scaling-a-rust-api-1a7g)
+- [Camunda Incident Handling Explained: Failed Jobs, Retries and Recovery](https://dev.to/nirankari/camunda-incident-handling-explained-failed-jobs-retries-and-recovery-2ga4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
