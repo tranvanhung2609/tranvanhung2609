@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Snack4-JsonPath v4.0.36 Released &lpar;IETF RFC 9535 Standard Support&rpar;](https://dev.to/noear/snack4-jsonpath-v4036-released-ietf-rfc-9535-standard-support-2402)
-- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy &lpar;2026 Comparison&rpar;](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm)
-- [Movie-API](https://dev.to/rajvircodes22/movie-api-2ja4)
-- [Share Your Repo and I&#39;ll Show You What Would Break If You Enforced Code Standards](https://dev.to/zaxionhq/share-your-repo-and-ill-show-you-what-would-break-if-you-enforced-code-standards-52j1)
-- [Anthropic Built a 300K-Query Behavioral Auditing Tool Because Model Behavior Changes. Here&#39;s the Production Version.](https://dev.to/clawgenesis/anthropic-built-a-300k-query-behavioral-auditing-tool-because-model-behavior-changes-heres-the-1ao3)
-- [Hands-On IAM with WSO2 Asgardeo: Configuring SSO, MFA, and Adaptive Authentication](https://dev.to/theenuka_bandara/hands-on-iam-with-wso2-asgardeo-configuring-sso-mfa-and-adaptive-authentication-421d)
+- [Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week](https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji)
+- [What Are OAuth 2.0 Scopes and How Do They Work?](https://dev.to/apilover/what-are-oauth-20-scopes-and-how-do-they-work-3ih)
+- [What Changed in OpenAPI 3.2 vs 3.1 vs 3.0?](https://dev.to/apilover/what-changed-in-openapi-32-vs-31-vs-30-3n31)
+- [Building an MCP Server for Java Performance Profiling](https://dev.to/thesharque/building-an-mcp-server-for-java-performance-profiling-133h)
+- [What Is Kubernetes? A Simple Explanation for DevOps Beginners](https://dev.to/sandhya_rani_techie/what-is-kubernetes-a-simple-explanation-for-devops-beginners-1734)
+- [How to Reset the PostgreSQL `postgres` Password &lpar;Forgot Password Fix&rpar;](https://dev.to/digvijay_singhrajput/how-to-reset-the-postgresql-postgres-password-forgot-password-fix-3hd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
