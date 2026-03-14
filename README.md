@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What ERP Projects Teach Developers About Software Architecture](https://dev.to/sagardv/what-erp-projects-teach-developers-about-software-architecture-4l9e)
-- [The Silent Threat of Phishing Lures](https://dev.to/harsh_hak/the-silent-threat-of-phishing-lures-3e02)
-- [What Is Media Relations? A Simple Guide for Brands](https://dev.to/juliahoffman/what-is-media-relations-a-simple-guide-for-brands-461)
-- [Turn Your Ideas into a Powerful Business Website](https://dev.to/jidhun_ap_bc5d40103b8daba/turn-your-ideas-into-a-powerful-business-website-kip)
-- [Key Concepts Covered in MLOps Certified Professional MLOCP](https://dev.to/mamali_prusty/key-concepts-covered-in-mlops-certified-professional-mlocp-4mia)
-- [🔑 Unmasking Supply Chain Trust Failures](https://dev.to/harsh_hak/unmasking-supply-chain-trust-failures-3f23)
+- [How I Built a Production-Grade DevOps Project From Scratch](https://dev.to/filbert_nanablessing_1ae/how-i-built-a-production-grade-devops-project-from-scratch-obg)
+- [You Can&#39;t Fix What You Can&#39;t See: The AI Agent Observability Crisis](https://dev.to/ai_agent_digest/you-cant-fix-what-you-cant-see-the-ai-agent-observability-crisis-2adl)
+- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
+- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
+- [Web Developer Travis McCracken on Zero Downtime Deploys in Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-zero-downtime-deploys-in-kubernetes-2jbj)
+- [Kubernetes as the VMware Exit Ramp: How Platform Teams Are Reducing VMware Dependence](https://dev.to/ntctech/kubernetes-as-the-vmware-exit-ramp-how-platform-teams-are-reducing-vmware-dependence-3m8g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
