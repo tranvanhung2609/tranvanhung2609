@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Server vs VPS Hosting: Comparação de Preços &lpar;2026&rpar; — Qual Provedor Oferece o Melhor Custo-Benefício?](https://dev.to/letscloud/cloud-server-vs-vps-hosting-comparacao-de-precos-2026-qual-provedor-oferece-o-melhor-409c)
-- [Why Every Developer Should Learn Terraform in 2026 &lpar;And How to Start&rpar;](https://dev.to/aws-builders/why-every-developer-should-learn-terraform-in-2026-and-how-to-start-3c9l)
-- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-2ca7)
-- [Why Building AI Chat Apps Is Still Hard in 2026](https://dev.to/kyeremehs/why-building-ai-chat-apps-is-still-hard-in-2026-2918)
-- [AWS IAM + S3 Demystified: Map Every S3 CLI Command to Its Required Permission](https://dev.to/brunohsouza/aws-iam-s3-demystified-map-every-s3-cli-command-to-its-required-permission-5bmd)
+- [Building a Microservices Ecosystem: Stock Brokerage Simulator &lpar;My Broker B3&rpar;](https://dev.to/rvneto/building-a-microservices-ecosystem-stock-brokerage-simulator-my-broker-b3-45bj)
+- [Automating Video Generation with Remotion and VOICEVOX: From Environment Setup to Performance Optimization](https://dev.to/soytuber/automating-video-generation-with-remotion-and-voicevox-from-environment-setup-to-performance-4kbh)
+- [Cloudflare Tunnel Practical Guide: Securely Exposing a Home AI Server Without Port Forwarding](https://dev.to/soytuber/cloudflare-tunnel-practical-guide-securely-exposing-a-home-ai-server-without-port-forwarding-4mec)
+- [Automated Google Drive Backup with Rclone: Headless OAuth Authentication and systemd Configuration](https://dev.to/soytuber/automated-google-drive-backup-with-rclone-headless-oauth-authentication-and-systemd-configuration-1lp8)
+- [Running the Full Agentic Deployment Pipeline: Scaffold to Live CloudFront](https://dev.to/vivian_okose/running-the-full-agentic-deployment-pipeline-scaffold-to-live-cloudfront-1lh8)
+- [Improving my MVCC Transactional Map](https://dev.to/kusoroadeolu/improving-my-mvcc-transactional-map-2f7j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
