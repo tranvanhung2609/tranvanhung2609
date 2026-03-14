@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Microservices Ecosystem: Stock Brokerage Simulator &lpar;My Broker B3&rpar;](https://dev.to/rvneto/building-a-microservices-ecosystem-stock-brokerage-simulator-my-broker-b3-45bj)
-- [Automating Video Generation with Remotion and VOICEVOX: From Environment Setup to Performance Optimization](https://dev.to/soytuber/automating-video-generation-with-remotion-and-voicevox-from-environment-setup-to-performance-4kbh)
-- [Cloudflare Tunnel Practical Guide: Securely Exposing a Home AI Server Without Port Forwarding](https://dev.to/soytuber/cloudflare-tunnel-practical-guide-securely-exposing-a-home-ai-server-without-port-forwarding-4mec)
-- [Automated Google Drive Backup with Rclone: Headless OAuth Authentication and systemd Configuration](https://dev.to/soytuber/automated-google-drive-backup-with-rclone-headless-oauth-authentication-and-systemd-configuration-1lp8)
-- [Running the Full Agentic Deployment Pipeline: Scaffold to Live CloudFront](https://dev.to/vivian_okose/running-the-full-agentic-deployment-pipeline-scaffold-to-live-cloudfront-1lh8)
-- [Improving my MVCC Transactional Map](https://dev.to/kusoroadeolu/improving-my-mvcc-transactional-map-2f7j)
+- [What ERP Projects Teach Developers About Software Architecture](https://dev.to/sagardv/what-erp-projects-teach-developers-about-software-architecture-4l9e)
+- [The Silent Threat of Phishing Lures](https://dev.to/harsh_hak/the-silent-threat-of-phishing-lures-3e02)
+- [What Is Media Relations? A Simple Guide for Brands](https://dev.to/juliahoffman/what-is-media-relations-a-simple-guide-for-brands-461)
+- [Turn Your Ideas into a Powerful Business Website](https://dev.to/jidhun_ap_bc5d40103b8daba/turn-your-ideas-into-a-powerful-business-website-kip)
+- [Key Concepts Covered in MLOps Certified Professional MLOCP](https://dev.to/mamali_prusty/key-concepts-covered-in-mlops-certified-professional-mlocp-4mia)
+- [🔑 Unmasking Supply Chain Trust Failures](https://dev.to/harsh_hak/unmasking-supply-chain-trust-failures-3f23)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
