@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Production-Grade DevOps Project From Scratch](https://dev.to/filbert_nanablessing_1ae/how-i-built-a-production-grade-devops-project-from-scratch-obg)
-- [You Can&#39;t Fix What You Can&#39;t See: The AI Agent Observability Crisis](https://dev.to/ai_agent_digest/you-cant-fix-what-you-cant-see-the-ai-agent-observability-crisis-2adl)
-- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
-- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
-- [Web Developer Travis McCracken on Zero Downtime Deploys in Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-zero-downtime-deploys-in-kubernetes-2jbj)
-- [Kubernetes as the VMware Exit Ramp: How Platform Teams Are Reducing VMware Dependence](https://dev.to/ntctech/kubernetes-as-the-vmware-exit-ramp-how-platform-teams-are-reducing-vmware-dependence-3m8g)
+- [To The Moon Terraform Ep.1](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep1-2h4n)
+- [To The Moon Terraform Ep.4](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep4-43l6)
+- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf)
+- [Why I&#39;m Building an API Monitoring Tool That Tells You Why Things Broke - Not Just That They Did](https://dev.to/riyon_sebastian/why-im-building-an-api-monitoring-tool-that-tells-you-why-things-broke-not-just-that-they-did-2akl)
+- [Socket.IO Explained: Why It Exists, How It Works Internally, and How It Scales to Millions](https://dev.to/munna_thakur_2019444f0351/socketio-explained-why-it-exists-how-it-works-internally-and-how-it-scales-to-millions-1ekj)
+- [BAPIG: Backend API Generator for Node.js and MongoDB with 40+ Built-in Features](https://dev.to/hekimapro/bapig-backend-api-generator-for-nodejs-and-mongodb-with-40-built-in-features-452n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
