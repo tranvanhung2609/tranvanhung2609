@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
-- [Four shell scripts beat a graph database](https://dev.to/max-ai-dev/four-shell-scripts-beat-a-graph-database-544c)
-- [How We Built a Code Quality Pipeline That Roasts Bad PRs Before Humans Have To](https://dev.to/keshav422/how-we-built-a-code-quality-pipeline-that-roasts-bad-prs-before-humans-have-to-24oo)
-- [Notes on FSRS-6: A Small Experiment in Residual Calibration](https://dev.to/monruho/notes-on-fsrs-6-a-small-experiment-in-residual-calibration-5971)
-- [Web Reveal](https://dev.to/jared_gifford_269623c827e/web-reveal-4f3a)
-- [Myths About AI Agents in DevOps: Why “They’ll Replace Engineers” Is the Wrong Mental Model](https://dev.to/kowshik_jallipalli_a7e0a5/myths-about-ai-agents-in-devops-why-theyll-replace-engineers-is-the-wrong-mental-model-3l5c)
+- [easy-query: The Most Powerful ORM for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-for-java-2738)
+- [easy-query: The Most Powerful ORM for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-for-java-2738)
+- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-4pbj)
+- [Building Semantic Search with Spring Boot, PostgreSQL, and pgvector &lpar;RAG Retrieval&rpar;](https://dev.to/allan_roberto_3c86dab9d94/building-semantic-search-with-spring-boot-postgresql-and-pgvector-rag-retrieval-297d)
+- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)
+- [Terraform That Survives Production](https://dev.to/huzefaaa2/terraform-that-survives-production-1pfp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
