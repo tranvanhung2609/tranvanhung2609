@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [To The Moon Terraform Ep.1](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep1-2h4n)
-- [To The Moon Terraform Ep.4](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep4-43l6)
-- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf)
-- [Why I&#39;m Building an API Monitoring Tool That Tells You Why Things Broke - Not Just That They Did](https://dev.to/riyon_sebastian/why-im-building-an-api-monitoring-tool-that-tells-you-why-things-broke-not-just-that-they-did-2akl)
-- [Socket.IO Explained: Why It Exists, How It Works Internally, and How It Scales to Millions](https://dev.to/munna_thakur_2019444f0351/socketio-explained-why-it-exists-how-it-works-internally-and-how-it-scales-to-millions-1ekj)
-- [BAPIG: Backend API Generator for Node.js and MongoDB with 40+ Built-in Features](https://dev.to/hekimapro/bapig-backend-api-generator-for-nodejs-and-mongodb-with-40-built-in-features-452n)
+- [# How I Built an AI That Controls Cloudflare WAF via Plain English](https://dev.to/firewshafi/-how-i-built-an-ai-that-controls-cloudflare-waf-via-plain-english-m6a)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1ie)
+- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
+- [Unlock the Power of Docker Container Management with PulseDeck](https://dev.to/pulsedeck/unlock-the-power-of-docker-container-management-with-pulsedeck-1p7)
+- [Why Simple Code Is Better Than Complex Code](https://dev.to/akelabhai/why-simple-code-is-better-than-complex-code-1e7j)
+- [How I Added AI Code Quality Checks to My CI Pipeline in 5 Minutes &lpar;And Found 47 Bugs on Day One&rpar;](https://dev.to/raye_deng_622ab98e19a2147/how-i-added-ai-code-quality-checks-to-my-ci-pipeline-in-5-minutes-and-found-47-bugs-on-day-one-5d96)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
