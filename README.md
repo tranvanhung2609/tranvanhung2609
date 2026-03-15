@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [# How I Built an AI That Controls Cloudflare WAF via Plain English](https://dev.to/firewshafi/-how-i-built-an-ai-that-controls-cloudflare-waf-via-plain-english-m6a)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1ie)
-- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
-- [Unlock the Power of Docker Container Management with PulseDeck](https://dev.to/pulsedeck/unlock-the-power-of-docker-container-management-with-pulsedeck-1p7)
-- [Why Simple Code Is Better Than Complex Code](https://dev.to/akelabhai/why-simple-code-is-better-than-complex-code-1e7j)
-- [How I Added AI Code Quality Checks to My CI Pipeline in 5 Minutes &lpar;And Found 47 Bugs on Day One&rpar;](https://dev.to/raye_deng_622ab98e19a2147/how-i-added-ai-code-quality-checks-to-my-ci-pipeline-in-5-minutes-and-found-47-bugs-on-day-one-5d96)
+- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
+- [Four shell scripts beat a graph database](https://dev.to/max-ai-dev/four-shell-scripts-beat-a-graph-database-544c)
+- [How We Built a Code Quality Pipeline That Roasts Bad PRs Before Humans Have To](https://dev.to/keshav422/how-we-built-a-code-quality-pipeline-that-roasts-bad-prs-before-humans-have-to-24oo)
+- [Notes on FSRS-6: A Small Experiment in Residual Calibration](https://dev.to/monruho/notes-on-fsrs-6-a-small-experiment-in-residual-calibration-5971)
+- [Web Reveal](https://dev.to/jared_gifford_269623c827e/web-reveal-4f3a)
+- [Myths About AI Agents in DevOps: Why “They’ll Replace Engineers” Is the Wrong Mental Model](https://dev.to/kowshik_jallipalli_a7e0a5/myths-about-ai-agents-in-devops-why-theyll-replace-engineers-is-the-wrong-mental-model-3l5c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
