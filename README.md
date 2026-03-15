@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [easy-query: The Most Powerful ORM for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-for-java-2738)
-- [easy-query: The Most Powerful ORM for Java](https://dev.to/dev-jack/easy-query-the-most-powerful-orm-for-java-2738)
-- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-4pbj)
-- [Building Semantic Search with Spring Boot, PostgreSQL, and pgvector &lpar;RAG Retrieval&rpar;](https://dev.to/allan_roberto_3c86dab9d94/building-semantic-search-with-spring-boot-postgresql-and-pgvector-rag-retrieval-297d)
-- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)
-- [Terraform That Survives Production](https://dev.to/huzefaaa2/terraform-that-survives-production-1pfp)
+- [The 12-Factor App Blueprint: Why Modern Cloud-Native Systems Still Depend on These Principles](https://dev.to/anusha_kuppili/the-12-factor-app-blueprint-why-modern-cloud-native-systems-still-depend-on-these-principles-4dm1)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-2jnl)
+- [Data quality testing: how Bruin and dbt take different paths to the same goal](https://dev.to/terzioglub/data-quality-testing-how-bruin-and-dbt-take-different-paths-to-the-same-goal-3b5f)
+- [From AirDrop to Cloud Heist: How North Korea&#39;s UNC4899 Stole Millions From a Crypto Firm Through a Single Developer&#39;s Mistake](https://dev.to/ohmygod/from-airdrop-to-cloud-heist-how-north-koreas-unc4899-stole-millions-from-a-crypto-firm-through-a-2olb)
+- [Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)
+- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
