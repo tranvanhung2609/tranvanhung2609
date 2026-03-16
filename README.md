@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Securing RAG Pipelines against GDPR: A Technical Deep Dive](https://dev.to/tradeapollo/securing-rag-pipelines-against-gdpr-a-technical-deep-dive-42pj)
-- [Fix Ansible SSH Connection Errors](https://dev.to/aicontentlab/fix-ansible-ssh-connection-errors-cd8)
-- [Web Developer Travis McCracken on Rust vs Go in Production APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-vs-go-in-production-apis-1g1f)
-- [The briefing](https://dev.to/max-ai-dev/the-briefing-1onb)
-- [Adding Trust Score Checks to Your CI/CD Pipeline](https://dev.to/zarq-ai/adding-trust-score-checks-to-your-cicd-pipeline-334)
-- [Automated Dependency Trust Reports on Every PR](https://dev.to/zarq-ai/automated-dependency-trust-reports-on-every-pr-3hgd)
+- [Print Material Service](https://dev.to/realmacways/print-material-service-487d)
+- [A Practical Exploration of Transactional Map Implementations in Java](https://dev.to/kusoroadeolu/a-practical-exploration-of-transactional-map-implementations-in-java-3mjb)
+- [Claude on AWS Bedrock was throttling requests and the billing dashboard showed zero issues](https://dev.to/neeraja_khanapure_4a33a5f/claude-on-aws-bedrock-was-throttling-requests-and-the-billing-dashboard-showed-zero-issues-290g)
+- [Stop Fighting the Global Namespace: New S3 Bucket Naming Scope Explained](https://dev.to/aws-builders/stop-fighting-the-global-namespace-new-s3-bucket-naming-scope-explained-pc)
+- [What Is Homework?](https://dev.to/assignmentservice/what-is-homework-49g8)
+- [Docker Swarm vs. Kubernetes in 2026: The Case for Staying Simple](https://dev.to/eldara/docker-swarm-vs-kubernetes-in-2026-the-case-for-staying-simple-2one)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
