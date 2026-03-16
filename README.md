@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 12-Factor App Blueprint: Why Modern Cloud-Native Systems Still Depend on These Principles](https://dev.to/anusha_kuppili/the-12-factor-app-blueprint-why-modern-cloud-native-systems-still-depend-on-these-principles-4dm1)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-2jnl)
-- [Data quality testing: how Bruin and dbt take different paths to the same goal](https://dev.to/terzioglub/data-quality-testing-how-bruin-and-dbt-take-different-paths-to-the-same-goal-3b5f)
-- [From AirDrop to Cloud Heist: How North Korea&#39;s UNC4899 Stole Millions From a Crypto Firm Through a Single Developer&#39;s Mistake](https://dev.to/ohmygod/from-airdrop-to-cloud-heist-how-north-koreas-unc4899-stole-millions-from-a-crypto-firm-through-a-2olb)
-- [Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)
-- [#13 Known is a drop! Inheritance Tricky questions -Type of Inheritance JAVA](https://dev.to/deepikandas/13-known-is-a-drop-inheritance-tricky-questions-type-of-inheritance-java-3hlo)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a7i)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a7i)
+- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1n1j)
+- [Docker Container Management from Your Dashboard: Introducing PulseDeck](https://dev.to/pulsedeck/docker-container-management-from-your-dashboard-introducing-pulsedeck-2k41)
+- [[Boost]](https://dev.to/santiagopalma12/-1mfk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
