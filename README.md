@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a7i)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a7i)
-- [Designing Better Spring Boot Applications with Smart Dependency Injection](https://dev.to/manju_george_bca224c066e1/designing-better-spring-boot-applications-with-smart-dependency-injection-4o7m)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1n1j)
-- [Docker Container Management from Your Dashboard: Introducing PulseDeck](https://dev.to/pulsedeck/docker-container-management-from-your-dashboard-introducing-pulsedeck-2k41)
-- [[Boost]](https://dev.to/santiagopalma12/-1mfk)
+- [Still stuck in a 4-year degree dilemma](https://dev.to/uzair_official/still-stuck-in-a-4-year-degree-dilemma-b1l)
+- [Streamline Your Docker Container Management with PulseDeck](https://dev.to/pulsedeck/streamline-your-docker-container-management-with-pulsedeck-3fkm)
+- [The Ghostwriter, the House Builder, and the Missing Domain Model Walk Into a Bar](https://dev.to/leonpennings/the-ghostwriter-the-house-builder-and-the-missing-domain-model-walk-into-a-bar-1m9f)
+- [Securing Vector Databases against GDPR: A Technical Deep Dive](https://dev.to/tradeapollo/securing-vector-databases-against-gdpr-a-technical-deep-dive-1ca)
+- [Building a Knowledge Base using SharePoint and AI Search](https://dev.to/summiya_ali/building-a-knowledge-base-using-sharepoint-and-ai-search-3ae6)
+- [Angular Bootstrap](https://dev.to/bumbulik0/angular-bootstrap-29oc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
