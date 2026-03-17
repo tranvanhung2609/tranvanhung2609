@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Print Material Service](https://dev.to/realmacways/print-material-service-487d)
-- [A Practical Exploration of Transactional Map Implementations in Java](https://dev.to/kusoroadeolu/a-practical-exploration-of-transactional-map-implementations-in-java-3mjb)
-- [Claude on AWS Bedrock was throttling requests and the billing dashboard showed zero issues](https://dev.to/neeraja_khanapure_4a33a5f/claude-on-aws-bedrock-was-throttling-requests-and-the-billing-dashboard-showed-zero-issues-290g)
-- [Stop Fighting the Global Namespace: New S3 Bucket Naming Scope Explained](https://dev.to/aws-builders/stop-fighting-the-global-namespace-new-s3-bucket-naming-scope-explained-pc)
-- [What Is Homework?](https://dev.to/assignmentservice/what-is-homework-49g8)
-- [Docker Swarm vs. Kubernetes in 2026: The Case for Staying Simple](https://dev.to/eldara/docker-swarm-vs-kubernetes-in-2026-the-case-for-staying-simple-2one)
+- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
+- [Stop Writing if-checks: Refinement Types in Java 8+](https://dev.to/junggikim/stop-writing-if-checks-refinement-types-in-java-8-14ap)
+- [Microsoft and Palo Alto Are Defining Agent Security. Here&#39;s What&#39;s Still Missing.](https://dev.to/aguardic/microsoft-and-palo-alto-are-defining-agent-security-heres-whats-still-missing-1cn6)
+- [SurrealDB: Why JOINs are So 2010 and How Graphs Change Everything &lpar;Part 3&rpar;](https://dev.to/jakubb_ing/surrealdb-why-joins-are-so-2010-and-how-graphs-change-everything-part-3-24k3)
+- [Self-Taught Programmer Seeks Job Application Guidance for Back-End Development Roles](https://dev.to/denlava/self-taught-programmer-seeks-job-application-guidance-for-back-end-development-roles-12kb)
+- [Building a Production-Ready .NET 8 Banking API: Clean Architecture, PostgreSQL &amp; CI/CD on Render](https://dev.to/oluwatobiloba9/building-a-production-ready-net-8-banking-api-clean-architecture-postgresql-cicd-on-mhb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
