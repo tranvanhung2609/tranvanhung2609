@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on A Case Study in Backend Rewrite &lpar;in Rust&rpar;](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-a-case-study-in-backend-rewrite-in-rust-2j05)
-- [I built an open-source governance gate for AI agent deployments](https://dev.to/vamsisudhakaran1/i-built-an-open-source-governance-gate-for-ai-agent-deployments-3bea)
-- [5 Best Ansible Playbook Scanning Tools in 2026 for Secure and Scalable Automation](https://dev.to/xlab_steampunk/5-best-ansible-playbook-scanning-tools-in-2026-for-secure-and-scalable-automation-6im)
-- [How Are AI and Blockchain Working Together in Web3 Development?](https://dev.to/seo_rankmasteragency_86/how-are-ai-and-blockchain-working-together-in-web3-development-480c)
-- [Cómo desplegué un motor RAG en producción con Docker, Nginx y DigitalOcean](https://dev.to/martin_palopoli/como-desplegue-un-motor-rag-en-produccion-con-docker-nginx-y-digitalocean-35ak)
-- [Test Automation in Continuous Delivery: Ensuring Quality at Speed](https://dev.to/sophielane/test-automation-in-continuous-delivery-ensuring-quality-at-speed-15e0)
+- [Why Your CI Email Tests Are Flaky &lpar;And How to Fix Them&rpar;](https://dev.to/christian_potvin_73438f37/why-your-ci-email-tests-are-flaky-and-how-to-fix-them-41ej)
+- [GitHub Actions Screenshots: Auto-Capture Deploy Evidence &lpar;5-Minute Setup&rpar;](https://dev.to/custodiaadmin/github-actions-screenshots-auto-capture-deploy-evidence-5-minute-setup-37ff)
+- [RoCE vs InfiniBand: Why Ethernet Is Winning the AI Data Center Networking War](https://dev.to/firstpasslab/roce-vs-infiniband-why-ethernet-is-winning-the-ai-data-center-networking-war-20g7)
+- [The Tech Stack Behind a $0/Day AI Business &lpar;That Will Compound&rpar;](https://dev.to/talon8575/the-tech-stack-behind-a-0day-ai-business-that-will-compound-193i)
+- [Best Boilerplate with Docker: Enterprise Boilerplate vs Bedrock vs SaaSrock](https://dev.to/royce_fabbd83cb268312e928/best-boilerplate-with-docker-enterprise-boilerplate-vs-bedrock-vs-saasrock-gon)
+- [Exploring APIs for Bulk Messaging: My First Experience and Lessons Learned](https://dev.to/liam_caffery_d3dbb8a2b419/exploring-apis-for-bulk-messaging-my-first-experience-and-lessons-learned-3lf1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
