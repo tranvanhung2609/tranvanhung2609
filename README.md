@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [llama.cpp on Kubernetes: The Guide I Wish Existed](https://dev.to/defilan/llamacpp-on-kubernetes-the-guide-i-wish-existed-59nm)
-- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
-- [Spot Trading Crypto Exchange Development: A Step-by-Step Complete Guide for Startups](https://dev.to/michael_clarke_a5d5489c8b/spot-trading-crypto-exchange-development-a-step-by-step-complete-guide-for-startups-31n2)
-- [AWS SQS patterns for reliable background job processing](https://dev.to/yash_step2dev/aws-sqs-patterns-for-reliable-background-job-processing-4lh9)
-- [Web Scraping API Pricing Compared: What Does 1 Million Pages Actually Cost in 2026?](https://dev.to/agenthustler/web-scraping-api-pricing-compared-what-does-1-million-pages-actually-cost-in-2026-54h3)
-- [Best Astrologer, Love Marriage Problems, Vashikaran Mantra https://www.chandikaastrologer.com](https://dev.to/chandika65/best-astrologer-love-marriage-problems-vashikaran-mantra-httpswwwchandikaastrologercom-4bed)
+- [Web Developer Travis McCracken on A Case Study in Backend Rewrite &lpar;in Rust&rpar;](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-a-case-study-in-backend-rewrite-in-rust-2j05)
+- [I built an open-source governance gate for AI agent deployments](https://dev.to/vamsisudhakaran1/i-built-an-open-source-governance-gate-for-ai-agent-deployments-3bea)
+- [5 Best Ansible Playbook Scanning Tools in 2026 for Secure and Scalable Automation](https://dev.to/xlab_steampunk/5-best-ansible-playbook-scanning-tools-in-2026-for-secure-and-scalable-automation-6im)
+- [How Are AI and Blockchain Working Together in Web3 Development?](https://dev.to/seo_rankmasteragency_86/how-are-ai-and-blockchain-working-together-in-web3-development-480c)
+- [Cómo desplegué un motor RAG en producción con Docker, Nginx y DigitalOcean](https://dev.to/martin_palopoli/como-desplegue-un-motor-rag-en-produccion-con-docker-nginx-y-digitalocean-35ak)
+- [Test Automation in Continuous Delivery: Ensuring Quality at Speed](https://dev.to/sophielane/test-automation-in-continuous-delivery-ensuring-quality-at-speed-15e0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
