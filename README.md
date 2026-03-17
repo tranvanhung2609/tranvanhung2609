@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
-- [Stop Writing if-checks: Refinement Types in Java 8+](https://dev.to/junggikim/stop-writing-if-checks-refinement-types-in-java-8-14ap)
-- [Microsoft and Palo Alto Are Defining Agent Security. Here&#39;s What&#39;s Still Missing.](https://dev.to/aguardic/microsoft-and-palo-alto-are-defining-agent-security-heres-whats-still-missing-1cn6)
-- [SurrealDB: Why JOINs are So 2010 and How Graphs Change Everything &lpar;Part 3&rpar;](https://dev.to/jakubb_ing/surrealdb-why-joins-are-so-2010-and-how-graphs-change-everything-part-3-24k3)
-- [Self-Taught Programmer Seeks Job Application Guidance for Back-End Development Roles](https://dev.to/denlava/self-taught-programmer-seeks-job-application-guidance-for-back-end-development-roles-12kb)
-- [Building a Production-Ready .NET 8 Banking API: Clean Architecture, PostgreSQL &amp; CI/CD on Render](https://dev.to/oluwatobiloba9/building-a-production-ready-net-8-banking-api-clean-architecture-postgresql-cicd-on-mhb)
+- [llama.cpp on Kubernetes: The Guide I Wish Existed](https://dev.to/defilan/llamacpp-on-kubernetes-the-guide-i-wish-existed-59nm)
+- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
+- [Spot Trading Crypto Exchange Development: A Step-by-Step Complete Guide for Startups](https://dev.to/michael_clarke_a5d5489c8b/spot-trading-crypto-exchange-development-a-step-by-step-complete-guide-for-startups-31n2)
+- [AWS SQS patterns for reliable background job processing](https://dev.to/yash_step2dev/aws-sqs-patterns-for-reliable-background-job-processing-4lh9)
+- [Web Scraping API Pricing Compared: What Does 1 Million Pages Actually Cost in 2026?](https://dev.to/agenthustler/web-scraping-api-pricing-compared-what-does-1-million-pages-actually-cost-in-2026-54h3)
+- [Best Astrologer, Love Marriage Problems, Vashikaran Mantra https://www.chandikaastrologer.com](https://dev.to/chandika65/best-astrologer-love-marriage-problems-vashikaran-mantra-httpswwwchandikaastrologercom-4bed)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
