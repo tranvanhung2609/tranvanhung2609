@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
-- [Linux Command Line: The Complete Cheat Sheet](https://dev.to/apaksh/linux-command-line-the-complete-cheat-sheet-pii)
-- [Docker Demystified: The Only Cheat Sheet You Need](https://dev.to/apaksh/docker-demystified-the-only-cheat-sheet-you-need-22aj)
-- [Decision Stack](https://dev.to/mova/decision-stack-4dhe)
-- [AWS Security Hardening: The Checklist Your Cloud Needs](https://dev.to/apaksh/aws-security-hardening-the-checklist-your-cloud-needs-4d99)
-- [I got paranoid about online tools logging my secrets — so I built my own](https://dev.to/gauravtayade11/i-got-paranoid-about-online-tools-logging-my-secrets-so-i-built-my-own-1j6o)
+- [Moving Beyond Chatbots: Architecting a Sovereign AI Ecosystem with Java 25 &amp; NATS](https://dev.to/ebercruz/moving-beyond-chatbots-architecting-a-sovereign-ai-ecosystem-with-java-25-nats-591e)
+- [Más allá de los Chatbots: Construyendo un Ecosistema de IA Soberana con Java 25 y NATS](https://dev.to/ebercruz/mas-alla-de-los-chatbots-construyendo-un-ecosistema-de-ia-soberana-con-java-25-y-nats-3lma)
+- [Spring Boot Validation Groups](https://dev.to/dave_brown_46fcbc7803d26f/spring-boot-validation-groups-5ged)
+- [Start Your Online Betting Business with 1XBet Clone Script Today](https://dev.to/alan_james_35e491d20632c8/start-your-online-betting-business-with-1xbet-clone-script-today-1pdm)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-18ll)
+- [Rethinking Software Testing Basics for Modern Engineering Teams](https://dev.to/sophielane/rethinking-software-testing-basics-for-modern-engineering-teams-2960)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
