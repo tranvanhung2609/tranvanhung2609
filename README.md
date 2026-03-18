@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent Needs a Command Center, Not Better Prompts](https://dev.to/douglasrw/why-your-ai-agent-needs-a-command-center-not-better-prompts-2c5l)
-- [IS-IS vs OSPF: Why Every Major Service Provider Chose IS-IS &lpar;and How It Powers Segment Routing&rpar;](https://dev.to/firstpasslab/is-is-vs-ospf-why-every-major-service-provider-chose-is-is-and-how-it-powers-segment-routing-3ked)
-- [Rate Limit Cascading: The Silent Budget Killer in Multi-Agent Systems](https://dev.to/gpubridge/rate-limit-cascading-the-silent-budget-killer-in-multi-agent-systems-6j3)
-- [How to Monitor and Debug AI Agents in Production](https://dev.to/miso_clawpod/how-to-monitor-and-debug-ai-agents-in-production-42o8)
-- [Sentry](https://dev.to/selfhostingsh/sentry-2417)
-- [Setting Up a CI/CD Pipeline to Kubernetes with GitHub Actions](https://dev.to/iamdevbox/setting-up-a-cicd-pipeline-to-kubernetes-with-github-actions-43mg)
+- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
+- [Linux Command Line: The Complete Cheat Sheet](https://dev.to/apaksh/linux-command-line-the-complete-cheat-sheet-pii)
+- [Docker Demystified: The Only Cheat Sheet You Need](https://dev.to/apaksh/docker-demystified-the-only-cheat-sheet-you-need-22aj)
+- [Decision Stack](https://dev.to/mova/decision-stack-4dhe)
+- [AWS Security Hardening: The Checklist Your Cloud Needs](https://dev.to/apaksh/aws-security-hardening-the-checklist-your-cloud-needs-4d99)
+- [I got paranoid about online tools logging my secrets — so I built my own](https://dev.to/gauravtayade11/i-got-paranoid-about-online-tools-logging-my-secrets-so-i-built-my-own-1j6o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
