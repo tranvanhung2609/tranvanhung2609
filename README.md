@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your CI Email Tests Are Flaky &lpar;And How to Fix Them&rpar;](https://dev.to/christian_potvin_73438f37/why-your-ci-email-tests-are-flaky-and-how-to-fix-them-41ej)
-- [GitHub Actions Screenshots: Auto-Capture Deploy Evidence &lpar;5-Minute Setup&rpar;](https://dev.to/custodiaadmin/github-actions-screenshots-auto-capture-deploy-evidence-5-minute-setup-37ff)
-- [RoCE vs InfiniBand: Why Ethernet Is Winning the AI Data Center Networking War](https://dev.to/firstpasslab/roce-vs-infiniband-why-ethernet-is-winning-the-ai-data-center-networking-war-20g7)
-- [The Tech Stack Behind a $0/Day AI Business &lpar;That Will Compound&rpar;](https://dev.to/talon8575/the-tech-stack-behind-a-0day-ai-business-that-will-compound-193i)
-- [Best Boilerplate with Docker: Enterprise Boilerplate vs Bedrock vs SaaSrock](https://dev.to/royce_fabbd83cb268312e928/best-boilerplate-with-docker-enterprise-boilerplate-vs-bedrock-vs-saasrock-gon)
-- [Exploring APIs for Bulk Messaging: My First Experience and Lessons Learned](https://dev.to/liam_caffery_d3dbb8a2b419/exploring-apis-for-bulk-messaging-my-first-experience-and-lessons-learned-3lf1)
+- [Why Your AI Agent Needs a Command Center, Not Better Prompts](https://dev.to/douglasrw/why-your-ai-agent-needs-a-command-center-not-better-prompts-2c5l)
+- [IS-IS vs OSPF: Why Every Major Service Provider Chose IS-IS &lpar;and How It Powers Segment Routing&rpar;](https://dev.to/firstpasslab/is-is-vs-ospf-why-every-major-service-provider-chose-is-is-and-how-it-powers-segment-routing-3ked)
+- [Rate Limit Cascading: The Silent Budget Killer in Multi-Agent Systems](https://dev.to/gpubridge/rate-limit-cascading-the-silent-budget-killer-in-multi-agent-systems-6j3)
+- [How to Monitor and Debug AI Agents in Production](https://dev.to/miso_clawpod/how-to-monitor-and-debug-ai-agents-in-production-42o8)
+- [Sentry](https://dev.to/selfhostingsh/sentry-2417)
+- [Setting Up a CI/CD Pipeline to Kubernetes with GitHub Actions](https://dev.to/iamdevbox/setting-up-a-cicd-pipeline-to-kubernetes-with-github-actions-43mg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
