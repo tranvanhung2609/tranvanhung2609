@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Moving Beyond Chatbots: Architecting a Sovereign AI Ecosystem with Java 25 &amp; NATS](https://dev.to/ebercruz/moving-beyond-chatbots-architecting-a-sovereign-ai-ecosystem-with-java-25-nats-591e)
-- [Más allá de los Chatbots: Construyendo un Ecosistema de IA Soberana con Java 25 y NATS](https://dev.to/ebercruz/mas-alla-de-los-chatbots-construyendo-un-ecosistema-de-ia-soberana-con-java-25-y-nats-3lma)
-- [Spring Boot Validation Groups](https://dev.to/dave_brown_46fcbc7803d26f/spring-boot-validation-groups-5ged)
-- [Start Your Online Betting Business with 1XBet Clone Script Today](https://dev.to/alan_james_35e491d20632c8/start-your-online-betting-business-with-1xbet-clone-script-today-1pdm)
-- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-18ll)
-- [Rethinking Software Testing Basics for Modern Engineering Teams](https://dev.to/sophielane/rethinking-software-testing-basics-for-modern-engineering-teams-2960)
+- [Decoding the DevOps Pipeline](https://dev.to/anusha_kuppili/decoding-the-devops-pipeline-5hjp)
+- [Your Startup Doesn&#39;t Need Better Monitoring. It Needs Less of It.](https://dev.to/newtorob/your-startup-doesnt-need-better-monitoring-it-needs-less-of-it-nmf)
+- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
+- [The YAML janitor problem: why Kubernetes dev environments always drift and how to fix it](https://dev.to/dzhou121/the-yaml-janitor-problem-why-kubernetes-dev-environments-always-drift-and-how-to-fix-it-29j4)
+- [Handling Authentication with JWT the Right Way in Node.js &lpar;2026 Edition&rpar;](https://dev.to/akshaykurve/handling-authentication-with-jwt-the-right-way-in-nodejs-2026-edition-25na)
+- [PM2 has no web UI. Every open source alternative is dead. So I built one.](https://dev.to/orchidfiles/pm2-has-no-web-ui-every-open-source-alternative-is-dead-so-i-built-one-4ej3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
