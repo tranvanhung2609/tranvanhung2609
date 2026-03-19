@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Certified Kubernetes Administrator &lpar;CKA&rpar;](https://dev.to/monika2631/complete-guide-to-certified-kubernetes-administrator-cka-4ln4)
-- [Cara Membuat 5 AI Agent untuk Membangun API Lengkap &lpar;Dari Spesifikasi hingga Pengujian&rpar;](https://dev.to/walse/cara-membuat-5-ai-agent-untuk-membangun-api-lengkap-dari-spesifikasi-hingga-pengujian-4jfc)
-- [Making a Public Form Secure: Tokens, Idempotency &amp; Real-World Backend Design](https://dev.to/opprajwal/making-a-public-form-secure-tokens-idempotency-real-world-backend-design-4358)
-- [How to Set Up 5 AI Agents to Build a Complete API &lpar;From Spec to Test&rpar;](https://dev.to/apilover/how-to-set-up-5-ai-agents-to-build-a-complete-api-from-spec-to-test-71p)
-- [AI Code Checker: Importance, Benefits &amp; Best Tools Explained](https://dev.to/subham_jha_7b468f2de09618/ai-code-checker-importance-benefits-best-tools-explained-187j)
-- [DevOps for Startups, Setting Up CI/CD Without a Full DevOps Team](https://dev.to/waqarhabib/devops-for-startups-setting-up-cicd-without-a-full-devops-team-22fb)
+- [Terraform drift: vì sao hạ tầng lệch state và cách phòng tránh](https://dev.to/alexcarteruk/terraform-drift-vi-sao-ha-tang-lech-state-va-cach-phong-tranh-15gf)
+- [Using Ollama Locally to Save Money &lpar;and When to Switch to Cloud AI&rpar;](https://dev.to/allan_roberto_3c86dab9d94/using-ollama-locally-to-save-money-and-when-to-switch-to-cloud-ai-4jih)
+- [SAP Commerce Cloud Framework Update JDK 21 - issue with ANT gradle target](https://dev.to/mikolayek/sap-commerce-cloud-framework-update-jdk-21-issue-with-ant-gradle-target-2b1j)
+- [How to install RabbitMQ](https://dev.to/altairlage/how-to-install-rabbitmq-3k6b)
+- [After 3 Years of Heavy Use, Amazon RDS Blue/Green Deployments Just Got Even Better &lpar;Sub-5-Second Switchovers!&rpar;](https://dev.to/devops_descent/after-3-years-of-heavy-use-amazon-rds-bluegreen-deployments-just-got-even-better-sub-5-second-1mo)
+- [AI-Generated Code Is Building Tech Debt You Can&#39;t See](https://dev.to/klement_gunndu/ai-generated-code-is-building-tech-debt-you-cant-see-3p2n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
