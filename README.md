@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the DevOps Pipeline](https://dev.to/anusha_kuppili/decoding-the-devops-pipeline-5hjp)
-- [Your Startup Doesn&#39;t Need Better Monitoring. It Needs Less of It.](https://dev.to/newtorob/your-startup-doesnt-need-better-monitoring-it-needs-less-of-it-nmf)
-- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
-- [The YAML janitor problem: why Kubernetes dev environments always drift and how to fix it](https://dev.to/dzhou121/the-yaml-janitor-problem-why-kubernetes-dev-environments-always-drift-and-how-to-fix-it-29j4)
-- [Handling Authentication with JWT the Right Way in Node.js &lpar;2026 Edition&rpar;](https://dev.to/akshaykurve/handling-authentication-with-jwt-the-right-way-in-nodejs-2026-edition-25na)
-- [PM2 has no web UI. Every open source alternative is dead. So I built one.](https://dev.to/orchidfiles/pm2-has-no-web-ui-every-open-source-alternative-is-dead-so-i-built-one-4ej3)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-336k)
+- [Stop Asking LLMs “Does This Pass?” — Turn Policies Into Executable Rules Instead](https://dev.to/kanwaloswal/stop-asking-llms-does-this-pass-turn-policies-into-executable-rules-instead-16of)
+- [Taking the KCSA Exam on My Washing Machine &lpar;And Passing!&rpar;](https://dev.to/suzuki0430/taking-the-kcsa-exam-on-my-washing-machine-and-passing-4o66)
+- [Building a Filterable Resume Page with PDF Export and CI/CD for Astro](https://dev.to/bdigital00/building-a-filterable-resume-page-with-pdf-export-and-cicd-for-astro-4mkn)
+- [Day 45 of #100DaysOfCode — File Upload with Multer and Cloudinary](https://dev.to/m_saad_ahmad/day-45-of-100daysofcode-file-upload-with-multer-and-cloudinary-1345)
+- [Agentic Platform Engineering: How to Build an Agent Infrastructure That Scales From Your Laptop to the Enterprise](https://dev.to/sarony11/agentic-platform-engineering-how-to-build-an-agent-infrastructure-that-scales-from-your-laptop-to-11np)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
