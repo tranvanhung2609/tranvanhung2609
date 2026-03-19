@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-336k)
-- [Stop Asking LLMs “Does This Pass?” — Turn Policies Into Executable Rules Instead](https://dev.to/kanwaloswal/stop-asking-llms-does-this-pass-turn-policies-into-executable-rules-instead-16of)
-- [Taking the KCSA Exam on My Washing Machine &lpar;And Passing!&rpar;](https://dev.to/suzuki0430/taking-the-kcsa-exam-on-my-washing-machine-and-passing-4o66)
-- [Building a Filterable Resume Page with PDF Export and CI/CD for Astro](https://dev.to/bdigital00/building-a-filterable-resume-page-with-pdf-export-and-cicd-for-astro-4mkn)
-- [Day 45 of #100DaysOfCode — File Upload with Multer and Cloudinary](https://dev.to/m_saad_ahmad/day-45-of-100daysofcode-file-upload-with-multer-and-cloudinary-1345)
-- [Agentic Platform Engineering: How to Build an Agent Infrastructure That Scales From Your Laptop to the Enterprise](https://dev.to/sarony11/agentic-platform-engineering-how-to-build-an-agent-infrastructure-that-scales-from-your-laptop-to-11np)
+- [Complete Guide to Certified Kubernetes Administrator &lpar;CKA&rpar;](https://dev.to/monika2631/complete-guide-to-certified-kubernetes-administrator-cka-4ln4)
+- [Cara Membuat 5 AI Agent untuk Membangun API Lengkap &lpar;Dari Spesifikasi hingga Pengujian&rpar;](https://dev.to/walse/cara-membuat-5-ai-agent-untuk-membangun-api-lengkap-dari-spesifikasi-hingga-pengujian-4jfc)
+- [Making a Public Form Secure: Tokens, Idempotency &amp; Real-World Backend Design](https://dev.to/opprajwal/making-a-public-form-secure-tokens-idempotency-real-world-backend-design-4358)
+- [How to Set Up 5 AI Agents to Build a Complete API &lpar;From Spec to Test&rpar;](https://dev.to/apilover/how-to-set-up-5-ai-agents-to-build-a-complete-api-from-spec-to-test-71p)
+- [AI Code Checker: Importance, Benefits &amp; Best Tools Explained](https://dev.to/subham_jha_7b468f2de09618/ai-code-checker-importance-benefits-best-tools-explained-187j)
+- [DevOps for Startups, Setting Up CI/CD Without a Full DevOps Team](https://dev.to/waqarhabib/devops-for-startups-setting-up-cicd-without-a-full-devops-team-22fb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
