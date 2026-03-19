@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Terraform drift: vì sao hạ tầng lệch state và cách phòng tránh](https://dev.to/alexcarteruk/terraform-drift-vi-sao-ha-tang-lech-state-va-cach-phong-tranh-15gf)
-- [Using Ollama Locally to Save Money &lpar;and When to Switch to Cloud AI&rpar;](https://dev.to/allan_roberto_3c86dab9d94/using-ollama-locally-to-save-money-and-when-to-switch-to-cloud-ai-4jih)
-- [SAP Commerce Cloud Framework Update JDK 21 - issue with ANT gradle target](https://dev.to/mikolayek/sap-commerce-cloud-framework-update-jdk-21-issue-with-ant-gradle-target-2b1j)
-- [How to install RabbitMQ](https://dev.to/altairlage/how-to-install-rabbitmq-3k6b)
-- [After 3 Years of Heavy Use, Amazon RDS Blue/Green Deployments Just Got Even Better &lpar;Sub-5-Second Switchovers!&rpar;](https://dev.to/devops_descent/after-3-years-of-heavy-use-amazon-rds-bluegreen-deployments-just-got-even-better-sub-5-second-1mo)
-- [AI-Generated Code Is Building Tech Debt You Can&#39;t See](https://dev.to/klement_gunndu/ai-generated-code-is-building-tech-debt-you-cant-see-3p2n)
+- [Pulumi vs Coolify 2026: Which Infrastructure Tool Actually Ships Faster?](https://dev.to/theawesomeblog/pulumi-vs-coolify-2026-which-infrastructure-tool-actually-ships-faster-2j28)
+- [Java 26: Pattern Matching Finally Reaches Primitive Types](https://dev.to/felipestanzani/java-26-pattern-matching-finally-reaches-primitive-types-52gm)
+- [Print Material by Genius Creators](https://dev.to/geniuscreators/print-material-by-genius-creators-5e1g)
+- [AI Is Making Security More Agile: Highlights from ChiBrrCon 2026](https://dev.to/gitguardian/ai-is-making-security-more-agile-highlights-from-chibrrcon-2026-4hle)
+- [Factories Without Belts #2 - It Began as a Trickle](https://dev.to/graeme_fawcett_ed0cbe79de/it-began-as-a-trickle-opl)
+- [Factories Without Belts](https://dev.to/graeme_fawcett_ed0cbe79de/factories-without-belts-4c4e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
