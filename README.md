@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why We Chose Rust for a Deployment Platform](https://dev.to/david_viejo_4d48fdfa7cfff/why-we-chose-rust-for-a-deployment-platform-4gmf)
-- [How Git-Push Deployments Work Under the Hood](https://dev.to/david_viejo_4d48fdfa7cfff/how-git-push-deployments-work-under-the-hood-156i)
-- [How to Deploy a Next.js App to a VPS &lpar;The Manual Way&rpar;](https://dev.to/david_viejo_4d48fdfa7cfff/how-to-deploy-a-nextjs-app-to-a-vps-the-manual-way-2bjb)
-- [Linux Networking &amp; DNS Essentials: A Practical Connectivity Guide](https://dev.to/anusha_kuppili/linux-networking-dns-essentials-a-practical-connectivity-guide-4pnn)
-- [Reverse an Array-java](https://dev.to/mohith_001/reverse-an-array-java-2af3)
-- [When should you use SSE vs Polling vs WebSockets?](https://dev.to/saras_growth_space/when-should-you-use-sse-vs-polling-vs-websockets-i7g)
+- [Decoupling the Core: An Introduction to Hexagonal Architecture](https://dev.to/malkomich/decoupling-the-core-an-introduction-to-hexagonal-architecture-222l)
+- [CIDR Notation in 5 Minutes: The Only Networking Concept You Need](https://dev.to/michael_lip_52d5151c3e364/cidr-notation-in-5-minutes-the-only-networking-concept-you-need-hfp)
+- [New Relic vs Grafana Cloud 2026: Which One Should You Choose?](https://dev.to/theawesomeblog/new-relic-vs-grafana-cloud-2026-which-one-should-you-choose-24m1)
+- [Cockpit Project: The Linux Server Web GUI You Should Already Be Using [2026 Review]](https://dev.to/kunal_d6a8fea2309e1571ee7/cockpit-project-the-linux-server-web-gui-you-should-already-be-using-2026-review-ohb)
+- [Azure Solutions Architect Expert: Best Next Certifications and Career Growth](https://dev.to/manshi2026/azure-solutions-architect-expert-best-next-certifications-and-career-growth-ja4)
+- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
