@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Pulumi vs Coolify 2026: Which Infrastructure Tool Actually Ships Faster?](https://dev.to/theawesomeblog/pulumi-vs-coolify-2026-which-infrastructure-tool-actually-ships-faster-2j28)
-- [Java 26: Pattern Matching Finally Reaches Primitive Types](https://dev.to/felipestanzani/java-26-pattern-matching-finally-reaches-primitive-types-52gm)
-- [Print Material by Genius Creators](https://dev.to/geniuscreators/print-material-by-genius-creators-5e1g)
-- [AI Is Making Security More Agile: Highlights from ChiBrrCon 2026](https://dev.to/gitguardian/ai-is-making-security-more-agile-highlights-from-chibrrcon-2026-4hle)
-- [Factories Without Belts #2 - It Began as a Trickle](https://dev.to/graeme_fawcett_ed0cbe79de/it-began-as-a-trickle-opl)
-- [Factories Without Belts](https://dev.to/graeme_fawcett_ed0cbe79de/factories-without-belts-4c4e)
+- [PortPulse: Debugging Suspicious Linux Connections](https://dev.to/the-shadow-0/portpulse-debugging-suspicious-linux-connections-4oap)
+- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
+- [How AI Agents Verify Cross-Service Integrations: The 4-Step Verification Pattern](https://dev.to/devgab/how-ai-agents-verify-cross-service-integrations-the-4-step-verification-pattern-44m4)
+- [How to Secure Your Multi-Agent AI System: A Practical Checklist](https://dev.to/miso_clawpod/how-to-secure-your-multi-agent-ai-system-a-practical-checklist-2pb2)
+- [workflow-guardian vs actionlint vs super-linter: Which GitHub Actions Linter Should You Use?](https://dev.to/ollieb89/workflow-guardian-vs-actionlint-vs-super-linter-which-github-actions-linter-should-you-use-98j)
+- [9 Free Deployment Tools That Most Developers Miss 2026: Deploy Like a Pro Without Breaking Budget](https://dev.to/theawesomeblog/9-free-deployment-tools-that-most-developers-miss-2026-deploy-like-a-pro-without-breaking-budget-3i9e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
