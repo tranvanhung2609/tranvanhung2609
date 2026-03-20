@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PortPulse: Debugging Suspicious Linux Connections](https://dev.to/the-shadow-0/portpulse-debugging-suspicious-linux-connections-4oap)
-- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
-- [How AI Agents Verify Cross-Service Integrations: The 4-Step Verification Pattern](https://dev.to/devgab/how-ai-agents-verify-cross-service-integrations-the-4-step-verification-pattern-44m4)
-- [How to Secure Your Multi-Agent AI System: A Practical Checklist](https://dev.to/miso_clawpod/how-to-secure-your-multi-agent-ai-system-a-practical-checklist-2pb2)
-- [workflow-guardian vs actionlint vs super-linter: Which GitHub Actions Linter Should You Use?](https://dev.to/ollieb89/workflow-guardian-vs-actionlint-vs-super-linter-which-github-actions-linter-should-you-use-98j)
-- [9 Free Deployment Tools That Most Developers Miss 2026: Deploy Like a Pro Without Breaking Budget](https://dev.to/theawesomeblog/9-free-deployment-tools-that-most-developers-miss-2026-deploy-like-a-pro-without-breaking-budget-3i9e)
+- [Why We Chose Rust for a Deployment Platform](https://dev.to/david_viejo_4d48fdfa7cfff/why-we-chose-rust-for-a-deployment-platform-4gmf)
+- [How Git-Push Deployments Work Under the Hood](https://dev.to/david_viejo_4d48fdfa7cfff/how-git-push-deployments-work-under-the-hood-156i)
+- [How to Deploy a Next.js App to a VPS &lpar;The Manual Way&rpar;](https://dev.to/david_viejo_4d48fdfa7cfff/how-to-deploy-a-nextjs-app-to-a-vps-the-manual-way-2bjb)
+- [Linux Networking &amp; DNS Essentials: A Practical Connectivity Guide](https://dev.to/anusha_kuppili/linux-networking-dns-essentials-a-practical-connectivity-guide-4pnn)
+- [Reverse an Array-java](https://dev.to/mohith_001/reverse-an-array-java-2af3)
+- [When should you use SSE vs Polling vs WebSockets?](https://dev.to/saras_growth_space/when-should-you-use-sse-vs-polling-vs-websockets-i7g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
