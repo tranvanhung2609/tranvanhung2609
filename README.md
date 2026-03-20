@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling the Core: An Introduction to Hexagonal Architecture](https://dev.to/malkomich/decoupling-the-core-an-introduction-to-hexagonal-architecture-222l)
-- [CIDR Notation in 5 Minutes: The Only Networking Concept You Need](https://dev.to/michael_lip_52d5151c3e364/cidr-notation-in-5-minutes-the-only-networking-concept-you-need-hfp)
-- [New Relic vs Grafana Cloud 2026: Which One Should You Choose?](https://dev.to/theawesomeblog/new-relic-vs-grafana-cloud-2026-which-one-should-you-choose-24m1)
-- [Cockpit Project: The Linux Server Web GUI You Should Already Be Using [2026 Review]](https://dev.to/kunal_d6a8fea2309e1571ee7/cockpit-project-the-linux-server-web-gui-you-should-already-be-using-2026-review-ohb)
-- [Azure Solutions Architect Expert: Best Next Certifications and Career Growth](https://dev.to/manshi2026/azure-solutions-architect-expert-best-next-certifications-and-career-growth-ja4)
-- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1)
+- [Beyond CRUD: How easy-query Brings OLAP Superpowers to Your Java ORM](https://dev.to/dev-jack/beyond-crud-how-easy-query-brings-olap-superpowers-to-your-java-orm-4pn9)
+- [Full-Stack vs. Backend Development: Choosing the Right Path for Career Growth and Job Opportunities](https://dev.to/denlava/full-stack-vs-backend-development-choosing-the-right-path-for-career-growth-and-job-opportunities-15m9)
+- [Tuning AI compaction: from &quot;it crashed&quot; to &quot;it triggers early&quot;](https://dev.to/jmolinasoler/tuning-ai-compaction-from-it-crashed-to-it-triggers-early-3l5)
+- [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://dev.to/eresh_g_721f1d5ca1de0a5b9/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-4ikd)
+- [Docker works; until it doesn&#39;t. Why I started using Nix for dev environments](https://dev.to/charemma/docker-works-until-it-doesnt-why-i-started-using-nix-for-dev-environments-2280)
+- [Application Fundamentals for DevOps: From Code to Production Systems](https://dev.to/anusha_kuppili/application-fundamentals-for-devops-from-code-to-production-systems-4oa6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
