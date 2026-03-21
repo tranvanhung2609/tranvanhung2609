@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
-- [Quarkus Reactive Routes na prática: triagem de incidentes com fluxo reativo de verdade](https://dev.to/dellamas/quarkus-reactive-routes-na-pratica-triagem-de-incidentes-com-fluxo-reativo-de-verdade-2emd)
-- [Quarkus Reactive Routes na prática: triagem de incidentes com fluxo reativo de verdade](https://dev.to/dellamas/quarkus-reactive-routes-na-pratica-triagem-de-incidentes-com-fluxo-reativo-de-verdade-2emd)
-- [API网关设计模式与实践：构建高效API接口层](https://dev.to/tianxin/apiwang-guan-she-ji-mo-shi-yu-shi-jian-gou-jian-gao-xiao-apijie-kou-ceng-13n)
-- [Why CSPM Alone Won&#39;t Save Your Multi-Cloud Compliance in 2026](https://dev.to/conformscan/why-cspm-alone-wont-save-your-multi-cloud-compliance-in-2026-3afh)
-- [workflow-guardian vs actionlint: A Technical Deep Dive](https://dev.to/ollieb89/workflow-guardian-vs-actionlint-a-technical-deep-dive-5b21)
+- [Why Your &quot;Fail-Fast&quot; Strategy is Killing Your Distributed System &lpar;and How to Fix It&rpar;](https://dev.to/harrison_guo_e01b4c8793a0/why-your-fail-fast-strategy-is-killing-your-distributed-system-and-how-to-fix-it-elg)
+- [Designing Idempotent APIs: Why Your POST Endpoint Needs to Handle Duplicates](https://dev.to/young_gao/designing-idempotent-apis-why-your-post-endpoint-needs-to-handle-duplicates-4o3n)
+- [Exploring the Skills of an AWS DevOps Engineer – Professional](https://dev.to/mamali_prusty/exploring-the-skills-of-an-aws-devops-engineer-professional-49dl)
+- [I Built a Free GitHub Actions Cost Calculator Over a Weekend. Here&#39;s What 7 Days of Data Taught Me.](https://dev.to/shubhamoriginx/i-built-a-free-github-actions-cost-calculator-over-a-weekend-heres-what-7-days-of-data-taught-me-3od6)
+- [I launched 3 small products to make CI debugging less chaotic](https://dev.to/ollieb89/i-launched-3-small-products-to-make-ci-debugging-less-chaotic-bbg)
+- [Self-Evolving AI Agents Are Here. Your Harness Just Became the Product.](https://dev.to/max_quimby/self-evolving-ai-agents-are-here-your-harness-just-became-the-product-41o8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
