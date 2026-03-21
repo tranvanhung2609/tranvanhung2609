@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn)
-- [API Versioning: URL vs Header vs Query Parameter](https://dev.to/young_gao/api-versioning-url-vs-header-vs-query-parameter-4in2)
-- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)
-- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
-- [Feature Flags Without a Third-Party Service](https://dev.to/young_gao/feature-flags-without-a-third-party-service-170p)
-- [Web Developer Travis McCracken on Go’s Error Handling is Underrated](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-error-handling-is-underrated-5dn3)
+- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i)
+- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4)
+- [OpenTelemetry for Node.js: Distributed Tracing, Metrics, and Logs](https://dev.to/chengyixu/opentelemetry-for-nodejs-distributed-tracing-metrics-and-logs-1ci4)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-i4l)
+- [Kubernetes Pod Stuck in Pending? Here&#39;s How to Debug It Like a Pro](https://dev.to/benriemer/kubernetes-pod-stuck-in-pending-heres-how-to-debug-it-like-a-pro-1b5i)
+- [Building a REST API with Claude Code](https://dev.to/support371/building-a-rest-api-with-claude-code-3mcj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
