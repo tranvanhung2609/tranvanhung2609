@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CRUD: How easy-query Brings OLAP Superpowers to Your Java ORM](https://dev.to/dev-jack/beyond-crud-how-easy-query-brings-olap-superpowers-to-your-java-orm-4pn9)
-- [Full-Stack vs. Backend Development: Choosing the Right Path for Career Growth and Job Opportunities](https://dev.to/denlava/full-stack-vs-backend-development-choosing-the-right-path-for-career-growth-and-job-opportunities-15m9)
-- [Tuning AI compaction: from &quot;it crashed&quot; to &quot;it triggers early&quot;](https://dev.to/jmolinasoler/tuning-ai-compaction-from-it-crashed-to-it-triggers-early-3l5)
-- [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://dev.to/eresh_g_721f1d5ca1de0a5b9/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-4ikd)
-- [Docker works; until it doesn&#39;t. Why I started using Nix for dev environments](https://dev.to/charemma/docker-works-until-it-doesnt-why-i-started-using-nix-for-dev-environments-2280)
-- [Application Fundamentals for DevOps: From Code to Production Systems](https://dev.to/anusha_kuppili/application-fundamentals-for-devops-from-code-to-production-systems-4oa6)
+- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
+- [Quarkus Reactive Routes na prática: triagem de incidentes com fluxo reativo de verdade](https://dev.to/dellamas/quarkus-reactive-routes-na-pratica-triagem-de-incidentes-com-fluxo-reativo-de-verdade-2emd)
+- [Quarkus Reactive Routes na prática: triagem de incidentes com fluxo reativo de verdade](https://dev.to/dellamas/quarkus-reactive-routes-na-pratica-triagem-de-incidentes-com-fluxo-reativo-de-verdade-2emd)
+- [API网关设计模式与实践：构建高效API接口层](https://dev.to/tianxin/apiwang-guan-she-ji-mo-shi-yu-shi-jian-gou-jian-gao-xiao-apijie-kou-ceng-13n)
+- [Why CSPM Alone Won&#39;t Save Your Multi-Cloud Compliance in 2026](https://dev.to/conformscan/why-cspm-alone-wont-save-your-multi-cloud-compliance-in-2026-3afh)
+- [workflow-guardian vs actionlint: A Technical Deep Dive](https://dev.to/ollieb89/workflow-guardian-vs-actionlint-a-technical-deep-dive-5b21)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
