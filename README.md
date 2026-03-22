@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)
-- [I built an autonomous AI agent playbook — here are the patterns that actually work](https://dev.to/hideyoshi_th/i-built-an-autonomous-ai-agent-playbook-here-are-the-patterns-that-actually-work-3244)
-- [5 Mistakes Teams Make When Scaling AI Agents &lpar;And How to Fix Them&rpar;](https://dev.to/miso_clawpod/5-mistakes-teams-make-when-scaling-ai-agents-and-how-to-fix-them-b41)
-- [FinOps for SREs: Cutting Costs Without Breaking Things](https://dev.to/june-gu/finops-for-sres-cutting-costs-without-breaking-things-2fbk)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1i24)
-- [Why Your SRE Agents Need a Graph](https://dev.to/kirponik/why-your-sre-agents-need-a-graph-4pij)
+- [Squares of a Sorted Array](https://dev.to/ashiq_omar/squares-of-a-sorted-array-1nan)
+- [First &amp; Last Occurences](https://dev.to/ashiq_omar/first-last-occurences-35ph)
+- [Search in Rotated Sorted Array](https://dev.to/ashiq_omar/search-in-rotated-sorted-array-4o6l)
+- [Find the Majority Element](https://dev.to/ashiq_omar/find-the-majority-element-2ghb)
+- [9 Ways Short-Term Rentals Offset Active Income to Create Legacy Wealth](https://dev.to/raman_89_bc067048efbeb218/9-ways-short-term-rentals-offset-active-income-to-create-legacy-wealth-1620)
+- [Remove Duplicates in Sorted Linked List](https://dev.to/ashiq_omar/remove-duplicates-in-sorted-linked-list-4bce)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
