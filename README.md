@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Squares of a Sorted Array](https://dev.to/ashiq_omar/squares-of-a-sorted-array-1nan)
-- [First &amp; Last Occurences](https://dev.to/ashiq_omar/first-last-occurences-35ph)
-- [Search in Rotated Sorted Array](https://dev.to/ashiq_omar/search-in-rotated-sorted-array-4o6l)
-- [Find the Majority Element](https://dev.to/ashiq_omar/find-the-majority-element-2ghb)
-- [9 Ways Short-Term Rentals Offset Active Income to Create Legacy Wealth](https://dev.to/raman_89_bc067048efbeb218/9-ways-short-term-rentals-offset-active-income-to-create-legacy-wealth-1620)
-- [Remove Duplicates in Sorted Linked List](https://dev.to/ashiq_omar/remove-duplicates-in-sorted-linked-list-4bce)
+- [What to Check Before You Buy Verified PayPal Accounts In 2026](https://dev.to/gv_jhcy_d9e06c7bef02add7a/what-to-check-before-you-buy-verified-paypal-accounts-in-2026-22m0)
+- [Web Developer Travis McCracken on Rust Traits That Changed My Dev Style](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-traits-that-changed-my-dev-style-1ojb)
+- [TikTok Content Publishing API: Videos, Photo Carousels &amp; the Async Publishing Dance](https://dev.to/alex97po/tiktok-content-publishing-api-videos-photo-carousels-the-async-publishing-dance-12g3)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-149p)
+- [Why DevOps is a Culture, Not a Tool](https://dev.to/fabiosarmento/why-devops-is-a-culture-not-a-tool-2888)
+- [Automate Your Feedback Loops](https://dev.to/fabiosarmento/automate-your-feedback-loops-e7d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
