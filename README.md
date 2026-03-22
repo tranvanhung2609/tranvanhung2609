@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i)
-- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4)
-- [OpenTelemetry for Node.js: Distributed Tracing, Metrics, and Logs](https://dev.to/chengyixu/opentelemetry-for-nodejs-distributed-tracing-metrics-and-logs-1ci4)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-i4l)
-- [Kubernetes Pod Stuck in Pending? Here&#39;s How to Debug It Like a Pro](https://dev.to/benriemer/kubernetes-pod-stuck-in-pending-heres-how-to-debug-it-like-a-pro-1b5i)
-- [Building a REST API with Claude Code](https://dev.to/support371/building-a-rest-api-with-claude-code-3mcj)
+- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)
+- [I built an autonomous AI agent playbook — here are the patterns that actually work](https://dev.to/hideyoshi_th/i-built-an-autonomous-ai-agent-playbook-here-are-the-patterns-that-actually-work-3244)
+- [5 Mistakes Teams Make When Scaling AI Agents &lpar;And How to Fix Them&rpar;](https://dev.to/miso_clawpod/5-mistakes-teams-make-when-scaling-ai-agents-and-how-to-fix-them-b41)
+- [FinOps for SREs: Cutting Costs Without Breaking Things](https://dev.to/june-gu/finops-for-sres-cutting-costs-without-breaking-things-2fbk)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-1i24)
+- [Why Your SRE Agents Need a Graph](https://dev.to/kirponik/why-your-sre-agents-need-a-graph-4pij)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
