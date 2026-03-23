@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Grade Your GitHub Repo&#39;s Security Before Someone Else Does](https://dev.to/yash_step2dev/how-to-grade-your-github-repos-security-before-someone-else-does-2poh)
-- [K9s — The Terminal UI That Changes How You Do Kubernetes](https://dev.to/shiva_shanmugam/k9s-the-terminal-ui-that-changes-how-you-do-kubernetes-3fji)
-- [macOS Developer Setup: Essential Homebrew Commands for 2026](https://dev.to/benriemer/macos-developer-setup-essential-homebrew-commands-for-2026-2p01)
-- [Escaping Cache Fragmentation: How Misconfigured PHP Workers Flooded My Token System](https://dev.to/rahim8050/escaping-cache-fragmentation-how-misconfigured-php-workers-flooded-my-token-system-2ijb)
-- [Stop the Domino Effect: Bulkhead Isolation in Go](https://dev.to/onurcinar/stop-the-domino-effect-bulkhead-isolation-in-go-5cgl)
-- [How I Built a PCI-Ready Merchant Onboarding API on AWS for Under $5/Month](https://dev.to/escanut/how-i-built-a-pci-ready-merchant-onboarding-api-on-aws-for-under-5month-4958)
+- [I Run My AI Assistant 24/7 on a $0 Server. Here&#39;s Every Detail.](https://dev.to/thestack_ai/i-run-my-ai-assistant-247-on-a-0-server-heres-every-detail-32e8)
+- [Kron Devlog #2: copy is done — threads, syscalls and a performance problem I haven&#39;t solved yet](https://dev.to/thenobelvoid/kron-devlog-2-copy-is-done-threads-syscalls-and-a-performance-problem-i-havent-solved-yet-1me4)
+- [GitHub Actions in 2026: Automate Everything for Free &lpar;CI/CD Tutorial&rpar;](https://dev.to/ottoaria/github-actions-in-2026-automate-everything-for-free-cicd-tutorial-4aj1)
+- [Getting Started with Go in 2026: The Language Every Backend Developer Should Learn](https://dev.to/ottoaria/getting-started-with-go-in-2026-the-language-every-backend-developer-should-learn-2epl)
+- [CQRS模式：命令查询职责分离的架构艺术](https://dev.to/tianxin/cqrsmo-shi-ming-ling-cha-xun-zhi-ze-fen-chi-de-jia-gou-yi-zhu-4116)
+- [Testei o HttpClient do Java 26 com HTTP/3 em um agregador de viagens. E isso é o que realmente importa](https://dev.to/dellamas/testei-o-httpclient-do-java-26-com-http3-em-um-agregador-de-viagens-e-isso-e-o-que-realmente-i60)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
