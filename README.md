@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fix Docker Build Failures with Dockerfile Troubleshooting](https://dev.to/aicontentlab/fix-docker-build-failures-with-dockerfile-troubleshooting-22n4)
-- [How to Add LLM Drift Monitoring to Your CI/CD Pipeline in 10 Minutes](https://dev.to/clawgenesis/how-to-add-llm-drift-monitoring-to-your-cicd-pipeline-in-10-minutes-52lk)
-- [The AI Platform Wars 2026: Stop Asking Which AI Is Best - Ask This Instead](https://dev.to/pritamroy-devops/the-ai-platform-wars-2026-stop-asking-which-ai-is-best-ask-this-instead-2hc8)
-- [AI Won&#39;t Fix a Broken CI/CD Pipeline](https://dev.to/aprasevic/ai-wont-fix-a-broken-cicd-pipeline-8he)
-- [DevOps vs Agile vs CI/CD Explained](https://dev.to/pallavivemula/devops-vs-agile-vs-cicd-explained-38b7)
-- [The Hidden Complexity of Multi-Service Deployments &lpar;And How AI Agents Are Fixing It&rpar;](https://dev.to/htekdev/the-hidden-complexity-of-multi-service-deployments-and-how-ai-agents-are-fixing-it-4i13)
+- [Aurora vs Traditional Incident Management Tools: An Honest Comparison](https://dev.to/siddharth_singh_409bd5267/aurora-vs-traditional-incident-management-tools-an-honest-comparison-43ac)
+- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
+- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
+- [Access PST Files Without Microsoft Outlook: A Developer’s Guide](https://dev.to/alinagrant/access-pst-files-without-microsoft-outlook-a-developers-guide-4gf3)
+- [How to Monitor Your Website for Visual Changes &lpar;Without Building a Headless Browser&rpar;](https://dev.to/custodiaadmin/how-to-monitor-your-website-for-visual-changes-without-building-a-headless-browser-2c4k)
+- [Hindsight caught repeated AST traversal bugs](https://dev.to/alekhya_bonamukkala_/hindsight-caught-repeated-ast-traversal-bugs-4be6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
