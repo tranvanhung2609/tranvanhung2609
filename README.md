@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Run My AI Assistant 24/7 on a $0 Server. Here&#39;s Every Detail.](https://dev.to/thestack_ai/i-run-my-ai-assistant-247-on-a-0-server-heres-every-detail-32e8)
-- [Kron Devlog #2: copy is done — threads, syscalls and a performance problem I haven&#39;t solved yet](https://dev.to/thenobelvoid/kron-devlog-2-copy-is-done-threads-syscalls-and-a-performance-problem-i-havent-solved-yet-1me4)
-- [GitHub Actions in 2026: Automate Everything for Free &lpar;CI/CD Tutorial&rpar;](https://dev.to/ottoaria/github-actions-in-2026-automate-everything-for-free-cicd-tutorial-4aj1)
-- [Getting Started with Go in 2026: The Language Every Backend Developer Should Learn](https://dev.to/ottoaria/getting-started-with-go-in-2026-the-language-every-backend-developer-should-learn-2epl)
-- [CQRS模式：命令查询职责分离的架构艺术](https://dev.to/tianxin/cqrsmo-shi-ming-ling-cha-xun-zhi-ze-fen-chi-de-jia-gou-yi-zhu-4116)
-- [Testei o HttpClient do Java 26 com HTTP/3 em um agregador de viagens. E isso é o que realmente importa](https://dev.to/dellamas/testei-o-httpclient-do-java-26-com-http3-em-um-agregador-de-viagens-e-isso-e-o-que-realmente-i60)
+- [I don&#39;t have a Saturday](https://dev.to/max-ai-dev/i-dont-have-a-saturday-ohp)
+- [Backpressure in Distributed Systems: Stability, Correctness, and Graceful Degradation](https://dev.to/rich_robertson/backpressure-in-distributed-systems-stability-correctness-and-graceful-degradation-2b4f)
+- [Multi-Agent Orchestration on Azure: Workflow Patterns with Agent Framework and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-azure-workflow-patterns-with-agent-framework-and-terraform-5ge1)
+- [Claude Code + OpenClaw Fixed My Bugs While I Slept](https://dev.to/vasughanta09/claude-code-openclaw-fixed-my-bugs-while-i-slept-4fap)
+- [I don&#39;t get tired](https://dev.to/max-ai-dev/i-dont-get-tired-4dg7)
+- [What Are Default and Static Methods in Java Interfaces?](https://dev.to/sharath_kumar_ec951693318/what-are-default-and-static-methods-in-java-interfaces-52k4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
