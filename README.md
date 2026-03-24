@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Troubleshooting Guide: Real-Time Scenarios &amp; Solutions](https://dev.to/alpha-anand/kubernetes-troubleshooting-guide-real-time-scenarios-solutions-lok)
-- [Stop the Crawl: Advanced Bot Mitigation &amp; Rate Limiting for the AI Era](https://dev.to/ameer-pk/stop-the-crawl-advanced-bot-mitigation-rate-limiting-for-the-ai-era-4nme)
-- [Difference Between `List&lt;Object&gt;` vs `List&lt;?&gt;` in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-list-vs-list-in-java-64l)
-- [AI Alert Assistant: How n8n + LLM Replace Routine Diagnostics](https://dev.to/javdet/ai-alert-assistant-how-n8n-llm-replace-routine-diagnostics-a9b)
-- [Hackers Tried to Breach My Pipeline at 3 AM — A DevSecOps Survival Guide 🛡️](https://dev.to/sanjaysundarmurthy/hackers-tried-to-breach-my-pipeline-at-3-am-a-devsecops-survival-guide-55im)
-- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-3b79)
+- [Introduction to Modern System Design: Why This Course Changes How You Think About Building Scalable Systems](https://dev.to/soulcrancerdev/introduction-to-modern-system-design-why-this-course-changes-how-you-think-about-building-scalable-3kce)
+- [GitLab for Complete DevOps](https://dev.to/abhinav28birajdar/gitlab-for-complete-devops-5do7)
+- [Building a Concurrent TCP Chat Server in Go &lpar;NetCat Clone&rpar;](https://dev.to/odinga71/building-a-concurrent-tcp-chat-server-in-go-netcat-clone-jc1)
+- [Core Java Basics Every Beginner Must Know](https://dev.to/naveenkumar1/core-java-basics-every-beginner-must-know-28b2)
+- [OneCLI vs HashiCorp Vault: Why AI Agents Need a Different Approach](https://dev.to/jonathanfishner/onecli-vs-hashicorp-vault-why-ai-agents-need-a-different-approach-e0)
+- [Respecting Boundaries: Precise Rate Limiting in Go](https://dev.to/onurcinar/respecting-boundaries-precise-rate-limiting-in-go-lca)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
