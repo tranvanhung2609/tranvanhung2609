@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
-- [How to Get Your Own ASN and IPv6 Space from RIPE NCC in 2026: A Complete Technical Guide](https://dev.to/young_gao/how-to-get-your-own-asn-and-ipv6-space-from-ripe-ncc-in-2026-a-complete-technical-guide-1g0f)
-- [How to Validate Cards Properly with BIN Intelligence](https://dev.to/rabbitholeinphp/how-to-validate-cards-properly-with-bin-intelligence-3ien)
-- [服务网格Service Mesh：云原生时代的微服务通信基础设施](https://dev.to/tianxin/fu-wu-wang-ge-service-meshyun-yuan-sheng-shi-dai-de-wei-fu-wu-tong-xin-ji-chu-she-shi-21l4)
-- [How to Implement Feature Flags in Node.js APIs with OpenFeature &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-feature-flags-in-nodejs-apis-with-openfeature-2026-guide-l3a)
-- [I Analyzed 10 Major Open-Source Repos, and Every Single One Had Significant Drift](https://dev.to/codequal/i-analyzed-10-major-open-source-repos-and-every-single-one-had-significant-drift-15o5)
+- [Kubernetes Troubleshooting Guide: Real-Time Scenarios &amp; Solutions](https://dev.to/alpha-anand/kubernetes-troubleshooting-guide-real-time-scenarios-solutions-lok)
+- [Stop the Crawl: Advanced Bot Mitigation &amp; Rate Limiting for the AI Era](https://dev.to/ameer-pk/stop-the-crawl-advanced-bot-mitigation-rate-limiting-for-the-ai-era-4nme)
+- [Difference Between `List&lt;Object&gt;` vs `List&lt;?&gt;` in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-list-vs-list-in-java-64l)
+- [AI Alert Assistant: How n8n + LLM Replace Routine Diagnostics](https://dev.to/javdet/ai-alert-assistant-how-n8n-llm-replace-routine-diagnostics-a9b)
+- [Hackers Tried to Breach My Pipeline at 3 AM — A DevSecOps Survival Guide 🛡️](https://dev.to/sanjaysundarmurthy/hackers-tried-to-breach-my-pipeline-at-3-am-a-devsecops-survival-guide-55im)
+- [Krish Naik: AI Learning Path For 2026- Data Science, Generative and Agentic AI Roadmap](https://dev.to/vibe_youtube/krish-naik-ai-learning-path-for-2026-data-science-generative-and-agentic-ai-roadmap-3b79)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
