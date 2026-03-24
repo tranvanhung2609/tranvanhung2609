@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Modern System Design: Why This Course Changes How You Think About Building Scalable Systems](https://dev.to/soulcrancerdev/introduction-to-modern-system-design-why-this-course-changes-how-you-think-about-building-scalable-3kce)
-- [GitLab for Complete DevOps](https://dev.to/abhinav28birajdar/gitlab-for-complete-devops-5do7)
-- [Building a Concurrent TCP Chat Server in Go &lpar;NetCat Clone&rpar;](https://dev.to/odinga71/building-a-concurrent-tcp-chat-server-in-go-netcat-clone-jc1)
-- [Core Java Basics Every Beginner Must Know](https://dev.to/naveenkumar1/core-java-basics-every-beginner-must-know-28b2)
-- [OneCLI vs HashiCorp Vault: Why AI Agents Need a Different Approach](https://dev.to/jonathanfishner/onecli-vs-hashicorp-vault-why-ai-agents-need-a-different-approach-e0)
-- [Respecting Boundaries: Precise Rate Limiting in Go](https://dev.to/onurcinar/respecting-boundaries-precise-rate-limiting-in-go-lca)
+- [AI-Powered Accessibility Features Transform Design Component Creation](https://dev.to/brandikinard/ai-powered-accessibility-features-transform-design-component-creation-22f9)
+- [New AI-Powered Accessibility Suggestions Transform Design Components](https://dev.to/brandikinard/new-ai-powered-accessibility-suggestions-transform-design-components-59kc)
+- [GitLab MCP Servers — Built-In AI Access vs 100+ Tool Community Ecosystem](https://dev.to/grove_chatforest/gitlab-mcp-servers-built-in-ai-access-vs-100-tool-community-ecosystem-2llg)
+- [Learning Buffalo by Building a Small Helpdesk App in Go](https://dev.to/blamsa0mine/learning-buffalo-by-building-a-small-helpdesk-app-in-go-12do)
+- [8 questions I ask before depending on any self-hosted technology](https://dev.to/revenue7eng/8-questions-i-ask-before-depending-on-any-self-hosted-technology-270p)
+- [String_Methods](https://dev.to/ajayr18/stringmethods-125g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
