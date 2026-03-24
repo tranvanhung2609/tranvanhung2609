@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Aurora vs Traditional Incident Management Tools: An Honest Comparison](https://dev.to/siddharth_singh_409bd5267/aurora-vs-traditional-incident-management-tools-an-honest-comparison-43ac)
-- [The old works! &lpar;or the humble monolith&rpar;](https://dev.to/mbarcia/the-old-works-or-the-humble-monolith-5fdl)
-- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9)
-- [Access PST Files Without Microsoft Outlook: A Developer’s Guide](https://dev.to/alinagrant/access-pst-files-without-microsoft-outlook-a-developers-guide-4gf3)
-- [How to Monitor Your Website for Visual Changes &lpar;Without Building a Headless Browser&rpar;](https://dev.to/custodiaadmin/how-to-monitor-your-website-for-visual-changes-without-building-a-headless-browser-2c4k)
-- [Hindsight caught repeated AST traversal bugs](https://dev.to/alekhya_bonamukkala_/hindsight-caught-repeated-ast-traversal-bugs-4be6)
+- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
+- [How to Get Your Own ASN and IPv6 Space from RIPE NCC in 2026: A Complete Technical Guide](https://dev.to/young_gao/how-to-get-your-own-asn-and-ipv6-space-from-ripe-ncc-in-2026-a-complete-technical-guide-1g0f)
+- [How to Validate Cards Properly with BIN Intelligence](https://dev.to/rabbitholeinphp/how-to-validate-cards-properly-with-bin-intelligence-3ien)
+- [服务网格Service Mesh：云原生时代的微服务通信基础设施](https://dev.to/tianxin/fu-wu-wang-ge-service-meshyun-yuan-sheng-shi-dai-de-wei-fu-wu-tong-xin-ji-chu-she-shi-21l4)
+- [How to Implement Feature Flags in Node.js APIs with OpenFeature &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-implement-feature-flags-in-nodejs-apis-with-openfeature-2026-guide-l3a)
+- [I Analyzed 10 Major Open-Source Repos, and Every Single One Had Significant Drift](https://dev.to/codequal/i-analyzed-10-major-open-source-repos-and-every-single-one-had-significant-drift-15o5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
