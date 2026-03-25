@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using CI Scripts to Validate Jupyter Notebooks. Use a Kubernetes Operator Instead.](https://dev.to/tosin2013/stop-using-ci-scripts-to-validate-jupyter-notebooks-use-a-kubernetes-operator-instead-4h5k)
-- [Implement Circuit Breaker Pattern for Resilient Microservices](https://dev.to/aicontentlab/implement-circuit-breaker-pattern-for-resilient-microservices-5faj)
-- [Kubernetes Resource Quota Management](https://dev.to/aicontentlab/kubernetes-resource-quota-management-2gcn)
-- [InfiniBand Is Losing the Fabric War. Here&#39;s What That Changes for Your Architecture.](https://dev.to/ntctech/infiniband-is-losing-the-fabric-war-heres-what-that-changes-for-your-architecture-15em)
-- [The Future of DevOps and Microservices: Trends and Best Practices for 2026](https://dev.to/ellie73/the-future-of-devops-and-microservices-trends-and-best-practices-for-2026-2oh9)
-- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-4g1a)
+- [Track Your AI Costs Per Customer in One API Call](https://dev.to/kat_laszlo/track-your-ai-costs-per-customer-in-one-api-call-32c7)
+- [I Built an AI DevOps Engineer That Remembers Your Infrastructure](https://dev.to/yash_step2dev/i-built-an-ai-devops-engineer-that-remembers-your-infrastructure-3i3)
+- [I Built an AI Agent to Reduce My AWS, GCP and Azure Bills &lpar;MCP + FastAPI&rpar;](https://dev.to/moiz_ali_moomin_53/i-built-an-ai-agent-to-reduce-my-aws-gcp-and-azure-bills-mcp-fastapi-1m6p)
+- [Docker Compose Services Won&#39;t Start? Here&#39;s Your Debugging Playbook](https://dev.to/benriemer/docker-compose-services-wont-start-heres-your-debugging-playbook-5bap)
+- [New to the community! Looking for some advice.](https://dev.to/hannibalhd1/new-to-the-community-looking-for-some-advice-5cgp)
+- [SvelteKit Screenshot API: Capture Pages from Your Svelte Backend](https://dev.to/custodiaadmin/sveltekit-screenshot-api-capture-pages-from-your-svelte-backend-28g5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
