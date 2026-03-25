@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Accessibility Features Transform Design Component Creation](https://dev.to/brandikinard/ai-powered-accessibility-features-transform-design-component-creation-22f9)
-- [New AI-Powered Accessibility Suggestions Transform Design Components](https://dev.to/brandikinard/new-ai-powered-accessibility-suggestions-transform-design-components-59kc)
-- [GitLab MCP Servers — Built-In AI Access vs 100+ Tool Community Ecosystem](https://dev.to/grove_chatforest/gitlab-mcp-servers-built-in-ai-access-vs-100-tool-community-ecosystem-2llg)
-- [Learning Buffalo by Building a Small Helpdesk App in Go](https://dev.to/blamsa0mine/learning-buffalo-by-building-a-small-helpdesk-app-in-go-12do)
-- [8 questions I ask before depending on any self-hosted technology](https://dev.to/revenue7eng/8-questions-i-ask-before-depending-on-any-self-hosted-technology-270p)
-- [String_Methods](https://dev.to/ajayr18/stringmethods-125g)
+- [The Terminal I Wished Existed, So I Built It](https://dev.to/jeffyaw/the-terminal-i-wished-existed-so-i-built-it-4amf)
+- [Cloud Storage MCP Servers — S3, Google Cloud Storage, Azure Blob, MinIO, and Beyond](https://dev.to/grove_chatforest/cloud-storage-mcp-servers-s3-google-cloud-storage-azure-blob-minio-and-beyond-309h)
+- [CI/CD Pipeline MCP Servers — Jenkins, CircleCI, GitHub Actions, Argo CD, Buildkite, and More](https://dev.to/grove_chatforest/cicd-pipeline-mcp-servers-jenkins-circleci-github-actions-argo-cd-buildkite-and-more-32hg)
+- [CI/CD MCP Servers — GitHub Actions, Jenkins, GitLab CI, CircleCI, and Beyond](https://dev.to/grove_chatforest/cicd-mcp-servers-github-actions-jenkins-gitlab-ci-circleci-and-beyond-4fln)
+- [CI/CD MCP Servers — Build Pipelines Get an AI Interface](https://dev.to/grove_chatforest/cicd-mcp-servers-build-pipelines-get-an-ai-interface-2gan)
+- [Content Security Policy Headers: The Security Feature That Breaks Everything Until You Configure It Right](https://dev.to/alphashark/content-security-policy-headers-the-security-feature-that-breaks-everything-until-you-configure-it-2hld)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
