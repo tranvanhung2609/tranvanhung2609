@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Scanned 1,000 GitHub Actions Workflows — 40% Had Security Issues](https://dev.to/0012303/i-scanned-1000-github-actions-workflows-40-had-security-issues-1efm)
-- [What is an Object in Java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-an-object-in-java-2f81)
-- [What is an Object in Java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-an-object-in-java-2f81)
-- [Live cricket API Provider](https://dev.to/geetanjali_27929b4db1d70d/live-cricket-api-provider-1jfd)
-- [Building Production-Grade CI/CD: From Documentation Chaos to Automated Deployment](https://dev.to/jeremy_longshore/building-production-grade-cicd-from-documentation-chaos-to-automated-deployment-1n82)
-- [Serverless - DevOps Term Explained](https://dev.to/binary_brains_556431d9b99/serverless-devops-term-explained-550e)
+- [Stop Using CI Scripts to Validate Jupyter Notebooks. Use a Kubernetes Operator Instead.](https://dev.to/tosin2013/stop-using-ci-scripts-to-validate-jupyter-notebooks-use-a-kubernetes-operator-instead-4h5k)
+- [Implement Circuit Breaker Pattern for Resilient Microservices](https://dev.to/aicontentlab/implement-circuit-breaker-pattern-for-resilient-microservices-5faj)
+- [Kubernetes Resource Quota Management](https://dev.to/aicontentlab/kubernetes-resource-quota-management-2gcn)
+- [InfiniBand Is Losing the Fabric War. Here&#39;s What That Changes for Your Architecture.](https://dev.to/ntctech/infiniband-is-losing-the-fabric-war-heres-what-that-changes-for-your-architecture-15em)
+- [The Future of DevOps and Microservices: Trends and Best Practices for 2026](https://dev.to/ellie73/the-future-of-devops-and-microservices-trends-and-best-practices-for-2026-2oh9)
+- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-4g1a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
