@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Master Amazon SQS in One Page](https://dev.to/chisom_ejiba/master-amazon-sqs-in-one-page-2bc0)
-- [Ternary Operator,Prime Number,GCD](https://dev.to/keerthigap/ternary-operatorprime-numbergcd-1lb3)
-- [My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)
-- [Detailed Explanation of API Interfaces for Futures Tick-Level Data and Fund NAV Historical Data](https://dev.to/san_siwu_f08e7c406830469/detailed-explanation-of-api-interfaces-for-futures-tick-level-data-and-fund-nav-historical-data-2jle)
-- [Ternary Operator, GCD, Prime Numbers](https://dev.to/sasirekaarumugam/ternary-operator-gcd-prime-numbers-3kp0)
-- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-3lde)
+- [Beyond the Code: Introducing the Philosophy of Software Crafting](https://dev.to/ideepakrajput/beyond-the-code-introducing-the-philosophy-of-software-crafting-20kl)
+- [Backboard.io continues to astound me! What a journey! Memory tiers, Customizable Memory Orchestration? Like it works great out of the box but now its suuuuper configurable!](https://dev.to/chris_king_bcff3b9663e84a/backboardio-continues-to-astound-me-what-a-journey-memory-tiers-customizable-memory-10go)
+- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8)
+- [ChanSpy, Whisper, and Barge: The Agent Coaching Features Nobody Uses Right](https://dev.to/gamlin/chanspy-whisper-and-barge-the-agent-coaching-features-nobody-uses-right-2c1k)
+- [WORTH EXPLORING IF DATA PROTECTION MATTERS IN WHAT YOU ARE BUILDING.](https://dev.to/soulman_250/worth-exploring-if-data-protection-matters-in-what-you-are-building-4am2)
+- [VICIdial vs ReadyMode: Which Predictive Dialer Wins at Scale?](https://dev.to/gamlin/vicidial-vs-readymode-which-predictive-dialer-wins-at-scale-5203)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
