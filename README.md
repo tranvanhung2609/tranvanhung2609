@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Track Your AI Costs Per Customer in One API Call](https://dev.to/kat_laszlo/track-your-ai-costs-per-customer-in-one-api-call-32c7)
-- [I Built an AI DevOps Engineer That Remembers Your Infrastructure](https://dev.to/yash_step2dev/i-built-an-ai-devops-engineer-that-remembers-your-infrastructure-3i3)
-- [I Built an AI Agent to Reduce My AWS, GCP and Azure Bills &lpar;MCP + FastAPI&rpar;](https://dev.to/moiz_ali_moomin_53/i-built-an-ai-agent-to-reduce-my-aws-gcp-and-azure-bills-mcp-fastapi-1m6p)
-- [Docker Compose Services Won&#39;t Start? Here&#39;s Your Debugging Playbook](https://dev.to/benriemer/docker-compose-services-wont-start-heres-your-debugging-playbook-5bap)
-- [New to the community! Looking for some advice.](https://dev.to/hannibalhd1/new-to-the-community-looking-for-some-advice-5cgp)
-- [SvelteKit Screenshot API: Capture Pages from Your Svelte Backend](https://dev.to/custodiaadmin/sveltekit-screenshot-api-capture-pages-from-your-svelte-backend-28g5)
+- [Stop Overengineering: Docker Compose on a $5 VPS Handles More Than You Think](https://dev.to/0012303/stop-overengineering-docker-compose-on-a-5-vps-handles-more-than-you-think-37c4)
+- [GitLab Has a Free Container Registry, Package Registry, and API — Here&#39;s What GitHub Doesn&#39;t Tell You](https://dev.to/0012303/gitlab-has-a-free-container-registry-package-registry-and-api-heres-what-github-doesnt-tell-1co4)
+- [9 Docker Commands That Save Hours &lpar;But Nobody Teaches You&rpar;](https://dev.to/0012303/9-docker-commands-that-save-hours-but-nobody-teaches-you-525a)
+- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n)
+- [Cron Expression Explainer: Paste a Cron, Get English](https://dev.to/tatelyman/cron-expression-explainer-paste-a-cron-get-english-9e9)
+- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
