@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock Agent + Knowledge Base: Ground Your Agent in Real Data with Terraform 📚](https://dev.to/suhas_mallesh/bedrock-agent-knowledge-base-ground-your-agent-in-real-data-with-terraform-2cdg)
-- [🚀 DevOps Roadmap 2026](https://dev.to/devops_descent/devops-roadmap-2026-42ej)
-- [What is Gradle?](https://dev.to/aswin_arya_89918234fee18f/what-is-gradle-lb3)
-- [How I Built a Self-Healing Automation System That Runs 24/7 Without Me](https://dev.to/maxxmini/how-i-built-a-self-healing-automation-system-that-runs-247-without-me-1lio)
-- [AI Agents for Business: The Future of Intelligent Automation and Growth](https://dev.to/infoveave/ai-agents-for-business-the-future-of-intelligent-automation-and-growth-3no3)
-- [Frontend vs Backend vs Full Stack: What’s the Difference?](https://dev.to/wingsdesignstudio/frontend-vs-backend-vs-full-stack-whats-the-difference-19oj)
+- [Master Amazon SQS in One Page](https://dev.to/chisom_ejiba/master-amazon-sqs-in-one-page-2bc0)
+- [Ternary Operator,Prime Number,GCD](https://dev.to/keerthigap/ternary-operatorprime-numbergcd-1lb3)
+- [My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)
+- [Detailed Explanation of API Interfaces for Futures Tick-Level Data and Fund NAV Historical Data](https://dev.to/san_siwu_f08e7c406830469/detailed-explanation-of-api-interfaces-for-futures-tick-level-data-and-fund-nav-historical-data-2jle)
+- [Ternary Operator, GCD, Prime Numbers](https://dev.to/sasirekaarumugam/ternary-operator-gcd-prime-numbers-3kp0)
+- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-3lde)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
