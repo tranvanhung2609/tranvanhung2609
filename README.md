@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Overengineering: Docker Compose on a $5 VPS Handles More Than You Think](https://dev.to/0012303/stop-overengineering-docker-compose-on-a-5-vps-handles-more-than-you-think-37c4)
-- [GitLab Has a Free Container Registry, Package Registry, and API — Here&#39;s What GitHub Doesn&#39;t Tell You](https://dev.to/0012303/gitlab-has-a-free-container-registry-package-registry-and-api-heres-what-github-doesnt-tell-1co4)
-- [9 Docker Commands That Save Hours &lpar;But Nobody Teaches You&rpar;](https://dev.to/0012303/9-docker-commands-that-save-hours-but-nobody-teaches-you-525a)
-- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n)
-- [Cron Expression Explainer: Paste a Cron, Get English](https://dev.to/tatelyman/cron-expression-explainer-paste-a-cron-get-english-9e9)
-- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
+- [Bedrock Agent + Knowledge Base: Ground Your Agent in Real Data with Terraform 📚](https://dev.to/suhas_mallesh/bedrock-agent-knowledge-base-ground-your-agent-in-real-data-with-terraform-2cdg)
+- [🚀 DevOps Roadmap 2026](https://dev.to/devops_descent/devops-roadmap-2026-42ej)
+- [What is Gradle?](https://dev.to/aswin_arya_89918234fee18f/what-is-gradle-lb3)
+- [How I Built a Self-Healing Automation System That Runs 24/7 Without Me](https://dev.to/maxxmini/how-i-built-a-self-healing-automation-system-that-runs-247-without-me-1lio)
+- [AI Agents for Business: The Future of Intelligent Automation and Growth](https://dev.to/infoveave/ai-agents-for-business-the-future-of-intelligent-automation-and-growth-3no3)
+- [Frontend vs Backend vs Full Stack: What’s the Difference?](https://dev.to/wingsdesignstudio/frontend-vs-backend-vs-full-stack-whats-the-difference-19oj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
