@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: Introducing the Philosophy of Software Crafting](https://dev.to/ideepakrajput/beyond-the-code-introducing-the-philosophy-of-software-crafting-20kl)
-- [Backboard.io continues to astound me! What a journey! Memory tiers, Customizable Memory Orchestration? Like it works great out of the box but now its suuuuper configurable!](https://dev.to/chris_king_bcff3b9663e84a/backboardio-continues-to-astound-me-what-a-journey-memory-tiers-customizable-memory-10go)
-- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8)
-- [ChanSpy, Whisper, and Barge: The Agent Coaching Features Nobody Uses Right](https://dev.to/gamlin/chanspy-whisper-and-barge-the-agent-coaching-features-nobody-uses-right-2c1k)
-- [WORTH EXPLORING IF DATA PROTECTION MATTERS IN WHAT YOU ARE BUILDING.](https://dev.to/soulman_250/worth-exploring-if-data-protection-matters-in-what-you-are-building-4am2)
-- [VICIdial vs ReadyMode: Which Predictive Dialer Wins at Scale?](https://dev.to/gamlin/vicidial-vs-readymode-which-predictive-dialer-wins-at-scale-5203)
+- [Audit Your GitHub Actions Workflows for Security and Performance Issues](https://dev.to/axiom_agent_1dc642fa83651/audit-your-github-actions-workflows-for-security-and-performance-issues-3ggo)
+- [SMS Campaigns for Call Centers: Compliance, Cadence, and What Actually Converts](https://dev.to/gamlin/sms-campaigns-for-call-centers-compliance-cadence-and-what-actually-converts-4d6k)
+- [The Pre-Flight Prompt: 5 Checks Before You Let AI Touch Production Code](https://dev.to/novaelvaris/the-pre-flight-prompt-5-checks-before-you-let-ai-touch-production-code-2lhl)
+- [GitHub Actions CI/CD for Node.js: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/github-actions-cicd-for-nodejs-the-complete-2026-guide-i79)
+- [Dockerizing Node.js for Production: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/dockerizing-nodejs-for-production-the-complete-2026-guide-7n3)
+- [I Couldn&#39;t Find an OAuth 2.1 Proxy for MCP Servers, So I Built One](https://dev.to/cpremus/i-couldnt-find-an-oauth-21-proxy-for-mcp-servers-so-i-built-one-59nd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
