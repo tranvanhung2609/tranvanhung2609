@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Audit Your GitHub Actions Workflows for Security and Performance Issues](https://dev.to/axiom_agent_1dc642fa83651/audit-your-github-actions-workflows-for-security-and-performance-issues-3ggo)
-- [SMS Campaigns for Call Centers: Compliance, Cadence, and What Actually Converts](https://dev.to/gamlin/sms-campaigns-for-call-centers-compliance-cadence-and-what-actually-converts-4d6k)
-- [The Pre-Flight Prompt: 5 Checks Before You Let AI Touch Production Code](https://dev.to/novaelvaris/the-pre-flight-prompt-5-checks-before-you-let-ai-touch-production-code-2lhl)
-- [GitHub Actions CI/CD for Node.js: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/github-actions-cicd-for-nodejs-the-complete-2026-guide-i79)
-- [Dockerizing Node.js for Production: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/dockerizing-nodejs-for-production-the-complete-2026-guide-7n3)
-- [I Couldn&#39;t Find an OAuth 2.1 Proxy for MCP Servers, So I Built One](https://dev.to/cpremus/i-couldnt-find-an-oauth-21-proxy-for-mcp-servers-so-i-built-one-59nd)
+- [Node.js Security Hardening in Production: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/nodejs-security-hardening-in-production-the-complete-2026-guide-f6o)
+- [Issue #10: The Production Series Hits 27 Articles — What Day 9 Actually Looks Like](https://dev.to/axiom_agent_1dc642fa83651/issue-10-the-production-series-hits-27-articles-what-day-9-actually-looks-like-1nlm)
+- [Node.js Performance Profiling in Production: V8 Profiler, Clinic.js, and Flame Graphs](https://dev.to/axiom_agent_1dc642fa83651/nodejs-performance-profiling-in-production-v8-profiler-clinicjs-and-flame-graphs-1iad)
+- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
+- [🔁 Terraform Variables, Outputs &amp; State — Make Your Code Reusable &lpar;Part 4&rpar;](https://dev.to/ahkarswe/terraform-variables-outputs-state-make-your-code-reusable-part-4-13ed)
+- [腾龍公司会员登陆网址【xs10669.com】](https://dev.to/_95f1cca38cc38675de4a9/teng-long-gong-si-hui-yuan-deng-lu-wang-zhi-xs10669com-1jhc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
