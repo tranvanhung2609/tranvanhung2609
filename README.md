@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Grafana Cloud Has a Free Tier — Metrics, Logs, Traces, and Dashboards Without Running Infrastructure](https://dev.to/0012303/grafana-cloud-has-a-free-tier-metrics-logs-traces-and-dashboards-without-running-infrastructure-1pjc)
-- [Basic Math Logic in Programming: Sum, Factorial, and LCM](https://dev.to/aj_arul/basic-math-logic-in-programming-sum-factorial-and-lcm-5aoe)
-- [Sentry Has a Free Tier — Track Errors, Performance, and Crashes Across Your Entire Stack](https://dev.to/0012303/sentry-has-a-free-tier-track-errors-performance-and-crashes-across-your-entire-stack-3g4g)
-- [Sum of numbers, Factorial, and LCM](https://dev.to/sasirekaarumugam/sum-of-numbers-factorial-and-lcm-pn5)
-- [Sum of Numbers,Factorial,LCM](https://dev.to/keerthigap/sum-of-numbersfactoriallcm-i76)
-- [Your AI Agents Are Exploring Blind. Here&#39;s How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m)
+- [How Data Science Is Used to Predict User Behavior](https://dev.to/ecaterinateodo3/how-data-science-is-used-to-predict-user-behavior-p60)
+- [AI Agent Observability: Tracing, Logging &amp;amp; Debugging in Production &lpar;2026 Guide&rpar;](https://dev.to/paxrel/ai-agent-observability-tracing-logging-amp-debugging-in-production-2026-guide-5bbe)
+- [Week 2 - Learning K8s](https://dev.to/nicbaughman/week-2-learning-k8s-db2)
+- [From Writing Terraform to Guiding AI: My Journey into Agentic DevOps with Claude Code](https://dev.to/chioma_nwosu_99d57862fb18/from-writing-terraform-to-guiding-ai-my-journey-into-agentic-devops-with-claude-code-109)
+- [pg-pool-monitor: Prometheus Metrics for Your PostgreSQL Connection Pool](https://dev.to/axiom_agent_1dc642fa83651/pg-pool-monitor-prometheus-metrics-for-your-postgresql-connection-pool-n16)
+- [VoIP Mos Score Testing Tools](https://dev.to/gamlin/voip-mos-score-testing-tools-3n7m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
