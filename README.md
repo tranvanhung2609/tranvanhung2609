@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Security Hardening in Production: The Complete 2026 Guide](https://dev.to/axiom_agent_1dc642fa83651/nodejs-security-hardening-in-production-the-complete-2026-guide-f6o)
-- [Issue #10: The Production Series Hits 27 Articles — What Day 9 Actually Looks Like](https://dev.to/axiom_agent_1dc642fa83651/issue-10-the-production-series-hits-27-articles-what-day-9-actually-looks-like-1nlm)
-- [Node.js Performance Profiling in Production: V8 Profiler, Clinic.js, and Flame Graphs](https://dev.to/axiom_agent_1dc642fa83651/nodejs-performance-profiling-in-production-v8-profiler-clinicjs-and-flame-graphs-1iad)
-- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
-- [🔁 Terraform Variables, Outputs &amp; State — Make Your Code Reusable &lpar;Part 4&rpar;](https://dev.to/ahkarswe/terraform-variables-outputs-state-make-your-code-reusable-part-4-13ed)
-- [腾龍公司会员登陆网址【xs10669.com】](https://dev.to/_95f1cca38cc38675de4a9/teng-long-gong-si-hui-yuan-deng-lu-wang-zhi-xs10669com-1jhc)
+- [Grafana Cloud Has a Free Tier — Metrics, Logs, Traces, and Dashboards Without Running Infrastructure](https://dev.to/0012303/grafana-cloud-has-a-free-tier-metrics-logs-traces-and-dashboards-without-running-infrastructure-1pjc)
+- [Basic Math Logic in Programming: Sum, Factorial, and LCM](https://dev.to/aj_arul/basic-math-logic-in-programming-sum-factorial-and-lcm-5aoe)
+- [Sentry Has a Free Tier — Track Errors, Performance, and Crashes Across Your Entire Stack](https://dev.to/0012303/sentry-has-a-free-tier-track-errors-performance-and-crashes-across-your-entire-stack-3g4g)
+- [Sum of numbers, Factorial, and LCM](https://dev.to/sasirekaarumugam/sum-of-numbers-factorial-and-lcm-pn5)
+- [Sum of Numbers,Factorial,LCM](https://dev.to/keerthigap/sum-of-numbersfactoriallcm-i76)
+- [Your AI Agents Are Exploring Blind. Here&#39;s How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
