@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Bun Shell Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/bun-shell-has-a-free-api-youve-never-heard-of-4p3h)
-- [Coherence Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/coherence-has-a-free-api-youve-never-heard-of-52i0)
-- [How to Monitor Your WordPress wp-admin Login Page](https://dev.to/velprove/how-to-monitor-your-wordpress-wp-admin-login-page-5ll)
-- [Porter Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/porter-has-a-free-api-youve-never-heard-of-1jfh)
-- [Dokku Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/dokku-has-a-free-api-youve-never-heard-of-1hi7)
-- [I Built an AI-Powered AWS Cost Optimizer — Here&#39;s How It Works](https://dev.to/obsidianriver/i-built-an-ai-powered-aws-cost-optimizer-heres-how-it-works-41d4)
+- [Sovereign AI Agents Need Cryptographic Identity: Here&#39;s Why](https://dev.to/authora/sovereign-ai-agents-need-cryptographic-identity-heres-why-28gi)
+- [My AI Vice-CEO Ran 27 Autonomous Cycles While I Was AFK](https://dev.to/yedanyagamiaicmd/my-ai-vice-ceo-ran-27-autonomous-cycles-while-i-was-afk-1bog)
+- [Zero-Cost SEO Stack: Astro + Cloudflare Pages + GitHub Actions](https://dev.to/2gelbuy/almaty-travel-guide-mountains-food-and-culture-in-2026-3bbj)
+- [Cryptographic Identity: The Missing Layer in Autonomous AI Agent Accountability](https://dev.to/authora/cryptographic-identity-the-missing-layer-in-autonomous-ai-agent-accountability-4cig)
+- [Your Security Scanner Was the Weapon: Inside the Trivy Supply Chain Attack](https://dev.to/mateenali66/your-security-scanner-was-the-weapon-inside-the-trivy-supply-chain-attack-2gc)
+- [What&#39;s missing in your current JSON log filtering setup?](https://dev.to/saurabh228/whats-missing-in-your-current-json-log-filtering-setup-3i7b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
