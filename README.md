@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Execution Guard Pattern for AI Agents](https://dev.to/azender1/the-execution-guard-pattern-for-ai-agents-23m9)
-- [Why Team Visibility Is the Secret to Faster Shipping](https://dev.to/yuriy_ivashenyuk/why-team-visibility-is-the-secret-to-faster-shipping-4m2m)
-- [Supply Chain Security: How the Telnyx PyPI Compromise Happened and How to Protect Your Projects](https://dev.to/blake-donovan/supply-chain-security-how-the-telnyx-pypi-compromise-happened-and-how-to-protect-your-projects-dmn)
-- [Why Your Self-Hosted App Keeps Dying at 3 AM &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-self-hosted-app-keeps-dying-at-3-am-and-how-to-fix-it-5dba)
-- [How Much Does a DevOps Engineer Cost in 2026? Complete Breakdown](https://dev.to/instadevops/how-much-does-a-devops-engineer-cost-in-2026-complete-breakdown-1p7o)
-- [How to Set Up Windows 11 Without a Microsoft Account &lpar;2026 Edition&rpar;](https://dev.to/alanwest/how-to-set-up-windows-11-without-a-microsoft-account-2026-edition-4c7a)
+- [Railway Has a Free Trial — Deploy Backend Apps With Zero Config](https://dev.to/0012303/railway-has-a-free-trial-deploy-backend-apps-with-zero-config-15k6)
+- [Convex Has a Free Reactive Backend — Real-Time Data Without WebSockets Code](https://dev.to/0012303/convex-has-a-free-reactive-backend-real-time-data-without-websockets-code-5d6c)
+- [Trigger.dev Has Free Background Jobs — Run Long Tasks Without Infrastructure](https://dev.to/0012303/triggerdev-has-free-background-jobs-run-long-tasks-without-infrastructure-2md4)
+- [NestJS Has a Free Backend Framework — Enterprise Node.js Done Right](https://dev.to/0012303/nestjs-has-a-free-backend-framework-enterprise-nodejs-done-right-5ccl)
+- [OpenTofu Has a Free Infrastructure as Code Tool — The Open-Source Terraform Fork](https://dev.to/0012303/opentofu-has-a-free-infrastructure-as-code-tool-the-open-source-terraform-fork-1h01)
+- [GitHub Actions Has Free CI/CD — 2,000 Minutes/Month for Open Source](https://dev.to/0012303/github-actions-has-free-cicd-2000-minutesmonth-for-open-source-1nj0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
