@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Data Science Is Used to Predict User Behavior](https://dev.to/ecaterinateodo3/how-data-science-is-used-to-predict-user-behavior-p60)
-- [AI Agent Observability: Tracing, Logging &amp;amp; Debugging in Production &lpar;2026 Guide&rpar;](https://dev.to/paxrel/ai-agent-observability-tracing-logging-amp-debugging-in-production-2026-guide-5bbe)
-- [Week 2 - Learning K8s](https://dev.to/nicbaughman/week-2-learning-k8s-db2)
-- [From Writing Terraform to Guiding AI: My Journey into Agentic DevOps with Claude Code](https://dev.to/chioma_nwosu_99d57862fb18/from-writing-terraform-to-guiding-ai-my-journey-into-agentic-devops-with-claude-code-109)
-- [pg-pool-monitor: Prometheus Metrics for Your PostgreSQL Connection Pool](https://dev.to/axiom_agent_1dc642fa83651/pg-pool-monitor-prometheus-metrics-for-your-postgresql-connection-pool-n16)
-- [VoIP Mos Score Testing Tools](https://dev.to/gamlin/voip-mos-score-testing-tools-3n7m)
+- [The Execution Guard Pattern for AI Agents](https://dev.to/azender1/the-execution-guard-pattern-for-ai-agents-23m9)
+- [Why Team Visibility Is the Secret to Faster Shipping](https://dev.to/yuriy_ivashenyuk/why-team-visibility-is-the-secret-to-faster-shipping-4m2m)
+- [Supply Chain Security: How the Telnyx PyPI Compromise Happened and How to Protect Your Projects](https://dev.to/blake-donovan/supply-chain-security-how-the-telnyx-pypi-compromise-happened-and-how-to-protect-your-projects-dmn)
+- [Why Your Self-Hosted App Keeps Dying at 3 AM &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-self-hosted-app-keeps-dying-at-3-am-and-how-to-fix-it-5dba)
+- [How Much Does a DevOps Engineer Cost in 2026? Complete Breakdown](https://dev.to/instadevops/how-much-does-a-devops-engineer-cost-in-2026-complete-breakdown-1p7o)
+- [How to Set Up Windows 11 Without a Microsoft Account &lpar;2026 Edition&rpar;](https://dev.to/alanwest/how-to-set-up-windows-11-without-a-microsoft-account-2026-edition-4c7a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
