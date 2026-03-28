@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Railway Has a Free Trial — Deploy Backend Apps With Zero Config](https://dev.to/0012303/railway-has-a-free-trial-deploy-backend-apps-with-zero-config-15k6)
-- [Convex Has a Free Reactive Backend — Real-Time Data Without WebSockets Code](https://dev.to/0012303/convex-has-a-free-reactive-backend-real-time-data-without-websockets-code-5d6c)
-- [Trigger.dev Has Free Background Jobs — Run Long Tasks Without Infrastructure](https://dev.to/0012303/triggerdev-has-free-background-jobs-run-long-tasks-without-infrastructure-2md4)
-- [NestJS Has a Free Backend Framework — Enterprise Node.js Done Right](https://dev.to/0012303/nestjs-has-a-free-backend-framework-enterprise-nodejs-done-right-5ccl)
-- [OpenTofu Has a Free Infrastructure as Code Tool — The Open-Source Terraform Fork](https://dev.to/0012303/opentofu-has-a-free-infrastructure-as-code-tool-the-open-source-terraform-fork-1h01)
-- [GitHub Actions Has Free CI/CD — 2,000 Minutes/Month for Open Source](https://dev.to/0012303/github-actions-has-free-cicd-2000-minutesmonth-for-open-source-1nj0)
+- [Bun Shell Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/bun-shell-has-a-free-api-youve-never-heard-of-4p3h)
+- [Coherence Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/coherence-has-a-free-api-youve-never-heard-of-52i0)
+- [How to Monitor Your WordPress wp-admin Login Page](https://dev.to/velprove/how-to-monitor-your-wordpress-wp-admin-login-page-5ll)
+- [Porter Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/porter-has-a-free-api-youve-never-heard-of-1jfh)
+- [Dokku Has a Free API You&#39;ve Never Heard Of](https://dev.to/0012303/dokku-has-a-free-api-youve-never-heard-of-1hi7)
+- [I Built an AI-Powered AWS Cost Optimizer — Here&#39;s How It Works](https://dev.to/obsidianriver/i-built-an-ai-powered-aws-cost-optimizer-heres-how-it-works-41d4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
