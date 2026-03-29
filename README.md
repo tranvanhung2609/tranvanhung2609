@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Idempotency Trap: Architecting Resilient Stripe Webhooks in Node.js](https://dev.to/ameer-pk/the-idempotency-trap-architecting-resilient-stripe-webhooks-in-nodejs-4k91)
-- [How to Monitor Docker Container Health and Auto-Restart on Failure](https://dev.to/yash_step2dev/how-to-monitor-docker-container-health-and-auto-restart-on-failure-46ep)
-- [COBOL Database Migration Tool - VSAM, DB2, CICS, IMS to 5 Modern SQL Databases With DAL Code in 6 Languages](https://dev.to/mecanik/cobol-database-migration-tool-vsam-db2-cics-ims-to-5-modern-sql-databases-with-dal-code-in-6-1omd)
-- [SELECT QUERIES FROM DVD RENTAL DATABASE](https://dev.to/ashiq_omar/select-queries-from-dvd-rental-database-5gnh)
-- [Appwrite Has a Free API — Here&#39;s How to Build a Full Backend in 10 Minutes](https://dev.to/0012303/appwrite-has-a-free-api-heres-how-to-build-a-full-backend-in-10-minutes-jma)
-- [InfluxDB Has a Free API — Here&#39;s How to Build Time-Series Dashboards in Minutes](https://dev.to/0012303/influxdb-has-a-free-api-heres-how-to-build-time-series-dashboards-in-minutes-2g8o)
+- [GPU-First LLM Inference: How I Cut API Costs to $0 With a Laptop GPU](https://dev.to/yedanyagamiaicmd/gpu-first-llm-inference-how-i-cut-api-costs-to-0-with-a-laptop-gpu-3057)
+- [Datadog vs New Relic vs Grafana Cloud for AI Agents &lpar;AN Score Comparison&rpar;](https://dev.to/supertrained/datadog-vs-new-relic-vs-grafana-cloud-for-ai-agents-an-score-comparison-59bn)
+- [OWASP Agentic AI 2026: The 10 Security Risks Every AI Developer Must Know](https://dev.to/yedanyagamiaicmd/owasp-agentic-ai-2026-the-10-security-risks-every-ai-developer-must-know-1idi)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp)
+- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min)
+- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
