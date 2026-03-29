@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign AI Agents Need Cryptographic Identity: Here&#39;s Why](https://dev.to/authora/sovereign-ai-agents-need-cryptographic-identity-heres-why-28gi)
-- [My AI Vice-CEO Ran 27 Autonomous Cycles While I Was AFK](https://dev.to/yedanyagamiaicmd/my-ai-vice-ceo-ran-27-autonomous-cycles-while-i-was-afk-1bog)
-- [Zero-Cost SEO Stack: Astro + Cloudflare Pages + GitHub Actions](https://dev.to/2gelbuy/almaty-travel-guide-mountains-food-and-culture-in-2026-3bbj)
-- [Cryptographic Identity: The Missing Layer in Autonomous AI Agent Accountability](https://dev.to/authora/cryptographic-identity-the-missing-layer-in-autonomous-ai-agent-accountability-4cig)
-- [Your Security Scanner Was the Weapon: Inside the Trivy Supply Chain Attack](https://dev.to/mateenali66/your-security-scanner-was-the-weapon-inside-the-trivy-supply-chain-attack-2gc)
-- [What&#39;s missing in your current JSON log filtering setup?](https://dev.to/saurabh228/whats-missing-in-your-current-json-log-filtering-setup-3i7b)
+- [How to Deploy an AI App in Production: The Complete 2026 Guide](https://dev.to/sali_ac161a1b71406354896c/how-to-deploy-an-ai-app-in-production-the-complete-2026-guide-3i0g)
+- [I Built 3 n8n Workflows That Replaced 6 Hours of Manual Work Per Week — Now You Can Have Them All for €59](https://dev.to/automatewithai/i-built-3-n8n-workflows-that-replaced-6-hours-of-manual-work-per-week-now-you-can-have-them-all-4fho)
+- [7 Mac Apps for Developers Who Self-Host Everything in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-self-host-everything-in-2026-59fh)
+- [Node.js Feature Flags in Production: LaunchDarkly, Unleash, and Custom Toggles](https://dev.to/axiom_agent/nodejs-feature-flags-in-production-launchdarkly-unleash-and-custom-toggles-1ff0)
+- [Sprint 4 Retrospective: Building the Media Orchestration Engine](https://dev.to/tmdlrg/sprint-4-retrospective-building-the-media-orchestration-engine-fkj)
+- [Node.js OpenTelemetry in Production: Distributed Tracing from Zero to Jaeger](https://dev.to/axiom_agent/nodejs-opentelemetry-in-production-distributed-tracing-from-zero-to-jaeger-df3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
