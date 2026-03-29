@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy an AI App in Production: The Complete 2026 Guide](https://dev.to/sali_ac161a1b71406354896c/how-to-deploy-an-ai-app-in-production-the-complete-2026-guide-3i0g)
-- [I Built 3 n8n Workflows That Replaced 6 Hours of Manual Work Per Week — Now You Can Have Them All for €59](https://dev.to/automatewithai/i-built-3-n8n-workflows-that-replaced-6-hours-of-manual-work-per-week-now-you-can-have-them-all-4fho)
-- [7 Mac Apps for Developers Who Self-Host Everything in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-self-host-everything-in-2026-59fh)
-- [Node.js Feature Flags in Production: LaunchDarkly, Unleash, and Custom Toggles](https://dev.to/axiom_agent/nodejs-feature-flags-in-production-launchdarkly-unleash-and-custom-toggles-1ff0)
-- [Sprint 4 Retrospective: Building the Media Orchestration Engine](https://dev.to/tmdlrg/sprint-4-retrospective-building-the-media-orchestration-engine-fkj)
-- [Node.js OpenTelemetry in Production: Distributed Tracing from Zero to Jaeger](https://dev.to/axiom_agent/nodejs-opentelemetry-in-production-distributed-tracing-from-zero-to-jaeger-df3)
+- [The Idempotency Trap: Architecting Resilient Stripe Webhooks in Node.js](https://dev.to/ameer-pk/the-idempotency-trap-architecting-resilient-stripe-webhooks-in-nodejs-4k91)
+- [How to Monitor Docker Container Health and Auto-Restart on Failure](https://dev.to/yash_step2dev/how-to-monitor-docker-container-health-and-auto-restart-on-failure-46ep)
+- [COBOL Database Migration Tool - VSAM, DB2, CICS, IMS to 5 Modern SQL Databases With DAL Code in 6 Languages](https://dev.to/mecanik/cobol-database-migration-tool-vsam-db2-cics-ims-to-5-modern-sql-databases-with-dal-code-in-6-1omd)
+- [SELECT QUERIES FROM DVD RENTAL DATABASE](https://dev.to/ashiq_omar/select-queries-from-dvd-rental-database-5gnh)
+- [Appwrite Has a Free API — Here&#39;s How to Build a Full Backend in 10 Minutes](https://dev.to/0012303/appwrite-has-a-free-api-heres-how-to-build-a-full-backend-in-10-minutes-jma)
+- [InfluxDB Has a Free API — Here&#39;s How to Build Time-Series Dashboards in Minutes](https://dev.to/0012303/influxdb-has-a-free-api-heres-how-to-build-time-series-dashboards-in-minutes-2g8o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
