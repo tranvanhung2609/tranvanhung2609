@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GPU-First LLM Inference: How I Cut API Costs to $0 With a Laptop GPU](https://dev.to/yedanyagamiaicmd/gpu-first-llm-inference-how-i-cut-api-costs-to-0-with-a-laptop-gpu-3057)
-- [Datadog vs New Relic vs Grafana Cloud for AI Agents &lpar;AN Score Comparison&rpar;](https://dev.to/supertrained/datadog-vs-new-relic-vs-grafana-cloud-for-ai-agents-an-score-comparison-59bn)
-- [OWASP Agentic AI 2026: The 10 Security Risks Every AI Developer Must Know](https://dev.to/yedanyagamiaicmd/owasp-agentic-ai-2026-the-10-security-risks-every-ai-developer-must-know-1idi)
-- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp)
-- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min)
-- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284)
+- [Understanding Recursion Through Pattern Programs](https://dev.to/harini_magesh_fa40041cf8d/understanding-recursion-through-pattern-programs-1m6l)
+- [Cryptographic Agent Identity: A Technical Solution to Bot Detection](https://dev.to/authora/cryptographic-agent-identity-a-technical-solution-to-bot-detection-5mb)
+- [Directus Has a Free Headless CMS That Wraps Any SQL Database](https://dev.to/0012303/directus-has-a-free-headless-cms-that-wraps-any-sql-database-4175)
+- [Supabase Has Free PostgreSQL Superpowers Most Developers Never Use](https://dev.to/0012303/supabase-has-free-postgresql-superpowers-most-developers-never-use-16ji)
+- [Appwrite Has a Free Self-Hosted Backend With Features That Rival Firebase](https://dev.to/0012303/appwrite-has-a-free-self-hosted-backend-with-features-that-rival-firebase-32el)
+- [PocketBase Has a Free Backend-in-a-File That Replaces Firebase](https://dev.to/0012303/pocketbase-has-a-free-backend-in-a-file-that-replaces-firebase-chj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
