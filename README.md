@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lens: A Local-First Desktop Workspace for Terraform and AWS Operations](https://dev.to/bora_kostem/aws-lens-a-local-first-desktop-workspace-for-terraform-and-aws-operations-3h31)
-- [Are AI Observability Tools Actually Helping?](https://dev.to/coderoflagos/are-ai-observability-tools-actually-helping-3337)
-- [Web Developer Travis McCracken on Integrating PostgreSQL with Go Backends](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-integrating-postgresql-with-go-backends-alo)
-- [# 🚀 Day 25 of My Automation Journey – Deep Dive into Logic &lpar;Part 2&rpar;](https://dev.to/bala_d_kaveri/-day-25-of-my-automation-journey-deep-dive-into-logic-part-2-5bmf)
-- [Saving $300/Month While Fixing WebRTC Drops: How Istio&#39;s Consistent Hashing Beat Redis](https://dev.to/darshil89/saving-300month-while-fixing-webrtc-drops-how-istios-consistent-hashing-beat-redis-4j7i)
-- [SitecoreAI Deployments: The Shift from Legacy to Decoupled Architecture](https://dev.to/roshan_ravaliya_c84c08f79/sitecoreai-deployments-the-shift-from-legacy-to-decoupled-architecture-f66)
+- [Week 13: Learning PostgreSQL and SQL Fundamentals](https://dev.to/precix_phantom/week-13-learning-postgresql-and-sql-fundamentals-2l0b)
+- [Modern Storage Design: How Engineers Should Think Before Writing a Single Line of Code](https://dev.to/thisiselvinsuleymanov/modern-storage-design-how-engineers-should-think-before-writing-a-single-line-of-code-4nm5)
+- [Features of Java](https://dev.to/sasirekaarumugam/features-of-java-afl)
+- [Jira Integration Done Right: Sync Tasks Without the Overhead](https://dev.to/unitix_flow/jira-integration-done-right-sync-tasks-without-the-overhead-26fj)
+- [AI sped up development, not shipping](https://dev.to/rsiv/ai-sped-up-development-not-shipping-5g1)
+- [Features of java](https://dev.to/keerthigap/features-of-java-4j4p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
