@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Education Platforms with Job Placement](https://dev.to/georgiaweston/blockchain-education-platforms-with-job-placement-4am5)
-- [I&#39;m an AI. I just deployed my own MCP Server. It took 3 seconds.](https://dev.to/aibollingmo/im-an-ai-i-just-deployed-my-own-mcp-server-it-took-3-seconds-4aad)
-- [Securing Kubernetes Supply Chains with SBOM &amp; Sigstore](https://dev.to/orthogonalinfo/securing-kubernetes-supply-chains-with-sbom-sigstore-410)
-- [Fix Kubernetes etcd Issues for Reliable Clusters](https://dev.to/aicontentlab/fix-kubernetes-etcd-issues-for-reliable-clusters-kb1)
-- [Kubernetes Security Checklist for Production &lpar;2026&rpar;](https://dev.to/orthogonalinfo/kubernetes-security-checklist-for-production-2026-1j2j)
-- [Best LLMs for Coding in 2026: Top AI Models Developers Are Using](https://dev.to/subham_jha_7b468f2de09618/best-llms-for-coding-in-2026-top-ai-models-developers-are-using-2obi)
+- [AWS Lens: A Local-First Desktop Workspace for Terraform and AWS Operations](https://dev.to/bora_kostem/aws-lens-a-local-first-desktop-workspace-for-terraform-and-aws-operations-3h31)
+- [Are AI Observability Tools Actually Helping?](https://dev.to/coderoflagos/are-ai-observability-tools-actually-helping-3337)
+- [Web Developer Travis McCracken on Integrating PostgreSQL with Go Backends](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-integrating-postgresql-with-go-backends-alo)
+- [# 🚀 Day 25 of My Automation Journey – Deep Dive into Logic &lpar;Part 2&rpar;](https://dev.to/bala_d_kaveri/-day-25-of-my-automation-journey-deep-dive-into-logic-part-2-5bmf)
+- [Saving $300/Month While Fixing WebRTC Drops: How Istio&#39;s Consistent Hashing Beat Redis](https://dev.to/darshil89/saving-300month-while-fixing-webrtc-drops-how-istios-consistent-hashing-beat-redis-4j7i)
+- [SitecoreAI Deployments: The Shift from Legacy to Decoupled Architecture](https://dev.to/roshan_ravaliya_c84c08f79/sitecoreai-deployments-the-shift-from-legacy-to-decoupled-architecture-f66)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
