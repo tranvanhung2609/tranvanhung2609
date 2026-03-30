@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Recursion Through Pattern Programs](https://dev.to/harini_magesh_fa40041cf8d/understanding-recursion-through-pattern-programs-1m6l)
-- [Cryptographic Agent Identity: A Technical Solution to Bot Detection](https://dev.to/authora/cryptographic-agent-identity-a-technical-solution-to-bot-detection-5mb)
-- [Directus Has a Free Headless CMS That Wraps Any SQL Database](https://dev.to/0012303/directus-has-a-free-headless-cms-that-wraps-any-sql-database-4175)
-- [Supabase Has Free PostgreSQL Superpowers Most Developers Never Use](https://dev.to/0012303/supabase-has-free-postgresql-superpowers-most-developers-never-use-16ji)
-- [Appwrite Has a Free Self-Hosted Backend With Features That Rival Firebase](https://dev.to/0012303/appwrite-has-a-free-self-hosted-backend-with-features-that-rival-firebase-32el)
-- [PocketBase Has a Free Backend-in-a-File That Replaces Firebase](https://dev.to/0012303/pocketbase-has-a-free-backend-in-a-file-that-replaces-firebase-chj)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-43d2)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-43d2)
+- [Mock What Prisma Returns, Not What Your API Returns](https://dev.to/rics_909/mock-what-prisma-returns-not-what-your-api-returns-41jc)
+- [Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation](https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m)
+- [Debugging Kubernetes Deployment Updates](https://dev.to/aicontentlab/debugging-kubernetes-deployment-updates-3ola)
+- [Sprint 9: The Infrastructure Sprint Nobody Wanted But Everyone Needed](https://dev.to/tmdlrg/sprint-9-the-infrastructure-sprint-nobody-wanted-but-everyone-needed-35bl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
