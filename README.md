@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Interface and Abstract Class in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-interface-and-abstract-class-in-java-21hn)
-- [Inventory Management Services for Smarter Supply Chain Control](https://dev.to/deepak_thakur_oodles/inventory-management-services-for-smarter-supply-chain-control-1hcn)
-- [Abstraction in Java with Real-Time Example](https://dev.to/sharath_kumar_ec951693318/abstraction-in-java-with-real-time-example-4noc)
-- [Stop Rewriting JWT Authentication in Spring Boot &lpar;Use This Instead&rpar;](https://dev.to/buildbasekit/stop-rewriting-jwt-authentication-in-spring-boot-use-this-instead-5465)
-- [Stop Rewriting JWT Authentication in Spring Boot &lpar;Use This Instead&rpar;](https://dev.to/buildbasekit/stop-rewriting-jwt-authentication-in-spring-boot-use-this-instead-5465)
-- [When LLMs struggle: Architecture, context, and hidden complexity](https://dev.to/polarsquad/when-llms-struggle-architecture-context-and-hidden-complexity-54be)
+- [How to Detect and Remove the Axios Malware from Your Project](https://dev.to/oler/how-to-detect-and-remove-the-axios-malware-from-your-project-acf)
+- [How to Protect JavaScript Projects Against Supply Chain Attacks](https://dev.to/oler/how-to-protect-javascript-projects-against-supply-chain-attacks-52o0)
+- [Why Hono + Bun Is a Strong Default for New JavaScript Backends](https://dev.to/oler/why-hono-bun-is-a-strong-default-for-new-javascript-backends-3gpl)
+- [7 Asterisk Development Mistakes That Only Show Up After You Go Live](https://dev.to/jackmorris10/7-asterisk-development-mistakes-that-only-show-up-after-you-go-live-54j5)
+- [Beyond the Pixel: Elevating AI Processing with Robust Image Pipelines for Superior Software Engineering Quality](https://dev.to/devactivity/beyond-the-pixel-elevating-ai-processing-with-robust-image-pipelines-for-superior-software-3lgk)
+- [AI Agent for DevOps: Automate Incident Response, Deployments &amp;amp; Monitoring &lpar;2026&rpar;](https://dev.to/paxrel/ai-agent-for-devops-automate-incident-response-deployments-amp-monitoring-2026-4k55)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
