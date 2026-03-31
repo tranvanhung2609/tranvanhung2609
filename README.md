@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Week 13: Learning PostgreSQL and SQL Fundamentals](https://dev.to/precix_phantom/week-13-learning-postgresql-and-sql-fundamentals-2l0b)
-- [Modern Storage Design: How Engineers Should Think Before Writing a Single Line of Code](https://dev.to/thisiselvinsuleymanov/modern-storage-design-how-engineers-should-think-before-writing-a-single-line-of-code-4nm5)
-- [Features of Java](https://dev.to/sasirekaarumugam/features-of-java-afl)
-- [Jira Integration Done Right: Sync Tasks Without the Overhead](https://dev.to/unitix_flow/jira-integration-done-right-sync-tasks-without-the-overhead-26fj)
-- [AI sped up development, not shipping](https://dev.to/rsiv/ai-sped-up-development-not-shipping-5g1)
-- [Features of java](https://dev.to/keerthigap/features-of-java-4j4p)
+- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-4gpj)
+- [We Gave AI Agents a Marketing Agency to Run. Here Is the Honest Postmortem.](https://dev.to/tmdlrg/we-gave-ai-agents-a-marketing-agency-to-run-here-is-the-honest-postmortem-17eh)
+- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-4ci6)
+- [What Actually Happens When You Call INSERT?](https://dev.to/priteshsurana/what-actually-happens-when-you-call-insert-a93)
+- [Arsitektur Low-Latency untuk Micro-Transaction API &lpar;DANA &amp; QRIS&rpar; di Indonesia](https://dev.to/wb79014cyber/arsitektur-low-latency-untuk-micro-transaction-api-dana-qris-di-indonesia-5d03)
+- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
