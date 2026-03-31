@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect and Remove the Axios Malware from Your Project](https://dev.to/oler/how-to-detect-and-remove-the-axios-malware-from-your-project-acf)
-- [How to Protect JavaScript Projects Against Supply Chain Attacks](https://dev.to/oler/how-to-protect-javascript-projects-against-supply-chain-attacks-52o0)
-- [Why Hono + Bun Is a Strong Default for New JavaScript Backends](https://dev.to/oler/why-hono-bun-is-a-strong-default-for-new-javascript-backends-3gpl)
-- [7 Asterisk Development Mistakes That Only Show Up After You Go Live](https://dev.to/jackmorris10/7-asterisk-development-mistakes-that-only-show-up-after-you-go-live-54j5)
-- [Beyond the Pixel: Elevating AI Processing with Robust Image Pipelines for Superior Software Engineering Quality](https://dev.to/devactivity/beyond-the-pixel-elevating-ai-processing-with-robust-image-pipelines-for-superior-software-3lgk)
-- [AI Agent for DevOps: Automate Incident Response, Deployments &amp;amp; Monitoring &lpar;2026&rpar;](https://dev.to/paxrel/ai-agent-for-devops-automate-incident-response-deployments-amp-monitoring-2026-4k55)
+- [Programmable routing vs programmable messaging: a Python SMS SDK you can actually test](https://dev.to/bridgexapi/programmable-routing-vs-programmable-messaging-a-python-sms-sdk-you-can-actually-test-54cb)
+- [Terragrunt Overhaul: Enhancing Usability, Scalability, and Maintainability After a Decade of Development](https://dev.to/maricode/terragrunt-overhaul-enhancing-usability-scalability-and-maintainability-after-a-decade-of-1pll)
+- [Custom Polygons vs. Uber&#39;s H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f)
+- [How Smart Building Technology is Reshaping the Future of Real Estate](https://dev.to/sanjana_c785976041/how-smart-building-technology-is-reshaping-the-future-of-real-estate-fkk)
+- [How to Pick the Right Public DNS Server &lpar;And Why It Matters&rpar;](https://dev.to/ciarn_doyle_32d63ba6797d/how-to-pick-the-right-public-dns-server-and-why-it-matters-4cp)
+- [Your Kubernetes Skills Don’t Matter If You Can’t Debug Under Pressure.](https://dev.to/kubeha_18/your-kubernetes-skills-dont-matter-if-you-cant-debug-under-pressure-49hh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
