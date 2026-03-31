@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-4gpj)
-- [We Gave AI Agents a Marketing Agency to Run. Here Is the Honest Postmortem.](https://dev.to/tmdlrg/we-gave-ai-agents-a-marketing-agency-to-run-here-is-the-honest-postmortem-17eh)
-- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-4ci6)
-- [What Actually Happens When You Call INSERT?](https://dev.to/priteshsurana/what-actually-happens-when-you-call-insert-a93)
-- [Arsitektur Low-Latency untuk Micro-Transaction API &lpar;DANA &amp; QRIS&rpar; di Indonesia](https://dev.to/wb79014cyber/arsitektur-low-latency-untuk-micro-transaction-api-dana-qris-di-indonesia-5d03)
-- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11)
+- [Difference Between Interface and Abstract Class in Java](https://dev.to/aswin_arya_89918234fee18f/difference-between-interface-and-abstract-class-in-java-21hn)
+- [Inventory Management Services for Smarter Supply Chain Control](https://dev.to/deepak_thakur_oodles/inventory-management-services-for-smarter-supply-chain-control-1hcn)
+- [Abstraction in Java with Real-Time Example](https://dev.to/sharath_kumar_ec951693318/abstraction-in-java-with-real-time-example-4noc)
+- [Stop Rewriting JWT Authentication in Spring Boot &lpar;Use This Instead&rpar;](https://dev.to/buildbasekit/stop-rewriting-jwt-authentication-in-spring-boot-use-this-instead-5465)
+- [Stop Rewriting JWT Authentication in Spring Boot &lpar;Use This Instead&rpar;](https://dev.to/buildbasekit/stop-rewriting-jwt-authentication-in-spring-boot-use-this-instead-5465)
+- [When LLMs struggle: Architecture, context, and hidden complexity](https://dev.to/polarsquad/when-llms-struggle-architecture-context-and-hidden-complexity-54be)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
