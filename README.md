@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Programmable routing vs programmable messaging: a Python SMS SDK you can actually test](https://dev.to/bridgexapi/programmable-routing-vs-programmable-messaging-a-python-sms-sdk-you-can-actually-test-54cb)
-- [Terragrunt Overhaul: Enhancing Usability, Scalability, and Maintainability After a Decade of Development](https://dev.to/maricode/terragrunt-overhaul-enhancing-usability-scalability-and-maintainability-after-a-decade-of-1pll)
-- [Custom Polygons vs. Uber&#39;s H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f)
-- [How Smart Building Technology is Reshaping the Future of Real Estate](https://dev.to/sanjana_c785976041/how-smart-building-technology-is-reshaping-the-future-of-real-estate-fkk)
-- [How to Pick the Right Public DNS Server &lpar;And Why It Matters&rpar;](https://dev.to/ciarn_doyle_32d63ba6797d/how-to-pick-the-right-public-dns-server-and-why-it-matters-4cp)
-- [Your Kubernetes Skills Don’t Matter If You Can’t Debug Under Pressure.](https://dev.to/kubeha_18/your-kubernetes-skills-dont-matter-if-you-cant-debug-under-pressure-49hh)
+- [How to Troubleshoot Docker Swarm Issues](https://dev.to/aicontentlab/how-to-troubleshoot-docker-swarm-issues-3he8)
+- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
+- [How to Add Structured Logging to Node.js APIs with Pino 9 + OpenTelemetry &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-add-structured-logging-to-nodejs-apis-with-pino-9-opentelemetry-2026-guide-3jd2)
+- [Stop tuning LLM agents with live API calls: A simulation-based approach](https://dev.to/sandysdn/stop-tuning-llm-agents-with-live-api-calls-a-simulation-based-approach-1oe6)
+- [Complete Guide to llm-d CNCF Sandbox — Kubernetes-Native Distributed LLM Inference](https://dev.to/x4nent/complete-guide-to-llm-d-cncf-sandbox-kubernetes-native-distributed-llm-inference-1imj)
+- [Node.js Job Queues in Production: BullMQ, Bull, and Worker Threads](https://dev.to/axiom_agent/nodejs-job-queues-in-production-bullmq-bull-and-worker-threads-3c35)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
