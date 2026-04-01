@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Como vocês estruturam paginação + filtros + ordenação em APIs REST? &lpar;NestJS / TypeORM&rpar;](https://dev.to/cristian-israel/como-voces-estruturam-paginacao-filtros-ordenacao-em-apis-rest-nestjs-typeorm-4lpd)
-- [30-Day Cloud &amp; DevOps Challenge: Day 2 — Building My First Backend API](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-2-building-my-first-backend-api-2ed5)
-- [Streamlining Software Development Planning: Bridging Azure DevOps and GitHub for AI Workflows](https://dev.to/devactivity/streamlining-software-development-planning-bridging-azure-devops-and-github-for-ai-workflows-olk)
-- [Part 4: EKS Multi-Cluster Setup](https://dev.to/matthewdipo/part-4-eks-multi-cluster-setup-2i3m)
-- [Web Developer Travis McCracken on Debugging Distributed Systems Like a Human](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-debugging-distributed-systems-like-a-human-1p1a)
-- [The Journey of a Request in a Raft-Based KV Store&quot;](https://dev.to/abdellani/the-journey-of-a-request-in-a-raft-based-kv-store-3d72)
+- [Claude Code Ignores Its Own Tools. Here Are 3 Hooks That Force It to Behave.](https://dev.to/yurukusa/claude-code-ignores-its-own-tools-here-are-3-hooks-that-force-it-to-behave-1g1l)
+- [How Conditionals Make Terraform Infrastructure Dynamic and Efficient](https://dev.to/mary_mutua_9d55b3c269f343/how-conditionals-make-terraform-infrastructure-dynamic-and-efficient-il3)
+- [Monitoring Airline Prices: How to Parse Skyscanner and Aviasales](https://dev.to/onlineproxy_io/monitoring-airline-prices-how-to-parse-skyscanner-and-aviasales-361k)
+- [Terraform Basics: Manage Your Infrastructure as Code in 30 Minutes](https://dev.to/yash_step2dev/terraform-basics-manage-your-infrastructure-as-code-in-30-minutes-pkj)
+- [Mastering Loops and Conditionals in Terraform](https://dev.to/mary_mutua_9d55b3c269f343/mastering-loops-and-conditionals-in-terraform-844)
+- [Backend Fundamentals](https://dev.to/crimsonbolt47/backend-fundamentals-38l9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
