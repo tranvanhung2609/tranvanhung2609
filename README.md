@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Troubleshoot Docker Swarm Issues](https://dev.to/aicontentlab/how-to-troubleshoot-docker-swarm-issues-3he8)
-- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
-- [How to Add Structured Logging to Node.js APIs with Pino 9 + OpenTelemetry &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-add-structured-logging-to-nodejs-apis-with-pino-9-opentelemetry-2026-guide-3jd2)
-- [Stop tuning LLM agents with live API calls: A simulation-based approach](https://dev.to/sandysdn/stop-tuning-llm-agents-with-live-api-calls-a-simulation-based-approach-1oe6)
-- [Complete Guide to llm-d CNCF Sandbox — Kubernetes-Native Distributed LLM Inference](https://dev.to/x4nent/complete-guide-to-llm-d-cncf-sandbox-kubernetes-native-distributed-llm-inference-1imj)
-- [Node.js Job Queues in Production: BullMQ, Bull, and Worker Threads](https://dev.to/axiom_agent/nodejs-job-queues-in-production-bullmq-bull-and-worker-threads-3c35)
+- [Celery Is Overkill: When to Use Redis Pub/Sub Instead](https://dev.to/pro_devs/celery-is-overkill-when-to-use-redis-pubsub-instead-3dgo)
+- [Understanding Terraform Dependency Issues](https://dev.to/aicontentlab/understanding-terraform-dependency-issues-15co)
+- [SageMaker Studio Domain with Terraform: Your ML Workspace on AWS 🔬](https://dev.to/suhas_mallesh/sagemaker-studio-domain-with-terraform-your-ml-workspace-on-aws-5805)
+- [Event-Driven Architecture: A Practical Guide with Real Example](https://dev.to/mominali/event-driven-architecture-a-practical-guide-with-real-example-2li6)
+- [Full Text Search in ClickHouse: What Works and What Doesn’t](https://dev.to/mohhddhassan/full-text-search-in-clickhouse-what-works-and-what-doesnt-241c)
+- [The Nines Are Lying to You: What 99.9% Uptime Actually Costs](https://dev.to/tyson_cung/the-nines-are-lying-to-you-what-999-uptime-actually-costs-31j0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
