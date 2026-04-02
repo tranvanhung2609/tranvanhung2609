@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 27 of My Automation Journey – Introduction to Selenium &amp; Maven Setup](https://dev.to/bala_d_kaveri/day-27-of-my-automation-journey-introduction-to-selenium-maven-setup-410p)
-- [The Hidden Costs of Non-Standard Git Workflows: Why Your Git Metrics Matter](https://dev.to/devactivity/the-hidden-costs-of-non-standard-git-workflows-why-your-git-metrics-matter-3kkf)
-- [Web Developer Travis McCracken on The Case Against Too Many Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-case-against-too-many-microservices-4hf0)
-- [AI Won’t Replace Developers. But It Will Change How We Deploy](https://dev.to/metanowhenri/ai-wont-replace-developers-but-it-will-change-how-we-deploy-2p24)
-- [Exponential cost traps in database architectures: how SurrealDB breaks the cycle](https://dev.to/surrealdb/exponential-cost-traps-in-database-architectures-how-surrealdb-breaks-the-cycle-4ane)
-- [We Scanned 12 Popular MCP Servers — Every Single One Had Security Findings](https://dev.to/piiiico/we-scanned-12-popular-mcp-servers-every-single-one-had-security-findings-4abg)
+- [Terraform / IaC: migration plan cho DNS propagation issues &lpar;cách debug nhanh&rpar;](https://dev.to/alexcarteruk/terraform-iac-migration-plan-cho-dns-propagation-issues-cach-debug-nhanh-603)
+- [The 2026 HIPAA Compliance Solutions Stack: Tools Every Healthcare Developer Should Know](https://dev.to/joegellatly/the-2026-hipaa-compliance-solutions-stack-tools-every-healthcare-developer-should-know-lo0)
+- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
+- [Java Exception Handling – Practical Scenarios Explained](https://dev.to/kirubagaran_k_438a86c991/java-exception-handling-practical-scenarios-explained-3128)
+- [Pattern-based Programs](https://dev.to/sasirekaarumugam/pattern-based-programs-574g)
+- [AI Agent Supply Chain Attacks: What the LiteLLM Breach Means for Your Stack](https://dev.to/max_quimby/ai-agent-supply-chain-attacks-what-the-litellm-breach-means-for-your-stack-3kcp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
