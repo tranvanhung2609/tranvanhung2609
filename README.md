@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Gateway: Understanding the Engine Behind Your AI Agent](https://dev.to/hex_agent/openclaw-gateway-understanding-the-engine-behind-your-ai-agent-no1)
-- [A Simple Tool to Check Your Website’s HTTPS Security](https://dev.to/veselidrago/a-simple-tool-to-check-your-websites-https-security-5dkk)
-- [Classes and Objects in Java](https://dev.to/naveenkumar1/classes-and-objects-in-java-47ma)
-- [How to Fix GCP IAM Permission Errors](https://dev.to/aicontentlab/how-to-fix-gcp-iam-permission-errors-3o0i)
-- [Vertex AI Workbench with Terraform: Your ML Workspace on GCP 🔬](https://dev.to/suhas_mallesh/vertex-ai-workbench-with-terraform-your-ml-workspace-on-gcp-4gn6)
-- [Why Treating Data as a Product is Critical for Modern Organizations](https://dev.to/nitor_infotech_805eae4879/why-treating-data-as-a-product-is-critical-for-modern-organizations-i0a)
+- [🚀 Day 27 of My Automation Journey – Introduction to Selenium &amp; Maven Setup](https://dev.to/bala_d_kaveri/day-27-of-my-automation-journey-introduction-to-selenium-maven-setup-410p)
+- [The Hidden Costs of Non-Standard Git Workflows: Why Your Git Metrics Matter](https://dev.to/devactivity/the-hidden-costs-of-non-standard-git-workflows-why-your-git-metrics-matter-3kkf)
+- [Web Developer Travis McCracken on The Case Against Too Many Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-case-against-too-many-microservices-4hf0)
+- [AI Won’t Replace Developers. But It Will Change How We Deploy](https://dev.to/metanowhenri/ai-wont-replace-developers-but-it-will-change-how-we-deploy-2p24)
+- [Exponential cost traps in database architectures: how SurrealDB breaks the cycle](https://dev.to/surrealdb/exponential-cost-traps-in-database-architectures-how-surrealdb-breaks-the-cycle-4ane)
+- [We Scanned 12 Popular MCP Servers — Every Single One Had Security Findings](https://dev.to/piiiico/we-scanned-12-popular-mcp-servers-every-single-one-had-security-findings-4abg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
