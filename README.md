@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Ignores Its Own Tools. Here Are 3 Hooks That Force It to Behave.](https://dev.to/yurukusa/claude-code-ignores-its-own-tools-here-are-3-hooks-that-force-it-to-behave-1g1l)
-- [How Conditionals Make Terraform Infrastructure Dynamic and Efficient](https://dev.to/mary_mutua_9d55b3c269f343/how-conditionals-make-terraform-infrastructure-dynamic-and-efficient-il3)
-- [Monitoring Airline Prices: How to Parse Skyscanner and Aviasales](https://dev.to/onlineproxy_io/monitoring-airline-prices-how-to-parse-skyscanner-and-aviasales-361k)
-- [Terraform Basics: Manage Your Infrastructure as Code in 30 Minutes](https://dev.to/yash_step2dev/terraform-basics-manage-your-infrastructure-as-code-in-30-minutes-pkj)
-- [Mastering Loops and Conditionals in Terraform](https://dev.to/mary_mutua_9d55b3c269f343/mastering-loops-and-conditionals-in-terraform-844)
-- [Backend Fundamentals](https://dev.to/crimsonbolt47/backend-fundamentals-38l9)
+- [Understanding Git Hooks for Automation](https://dev.to/aicontentlab/understanding-git-hooks-for-automation-1a7i)
+- [Covariate Forecasting: The Next Leap in Time-Series Database Capabilities](https://dev.to/timechodb/covariate-forecasting-the-next-leap-in-time-series-database-capabilities-28ip)
+- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-2dkh)
+- [Securing My AWS Portfolio Website with HTTPS and IAM](https://dev.to/punith_gp_942a758bec5510/securing-my-aws-portfolio-website-with-https-and-iam-31lc)
+- [Webhook vs Polling vs WebSocket: When to Use Each](https://dev.to/henry_hang/webhook-vs-polling-vs-websocket-when-to-use-each-4obh)
+- [Webhook Best Practices: Retry Logic, Idempotency, and Error Handling](https://dev.to/henry_hang/webhook-best-practices-retry-logic-idempotency-and-error-handling-27i3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
