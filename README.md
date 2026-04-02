@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Git Hooks for Automation](https://dev.to/aicontentlab/understanding-git-hooks-for-automation-1a7i)
-- [Covariate Forecasting: The Next Leap in Time-Series Database Capabilities](https://dev.to/timechodb/covariate-forecasting-the-next-leap-in-time-series-database-capabilities-28ip)
-- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-2dkh)
-- [Securing My AWS Portfolio Website with HTTPS and IAM](https://dev.to/punith_gp_942a758bec5510/securing-my-aws-portfolio-website-with-https-and-iam-31lc)
-- [Webhook vs Polling vs WebSocket: When to Use Each](https://dev.to/henry_hang/webhook-vs-polling-vs-websocket-when-to-use-each-4obh)
-- [Webhook Best Practices: Retry Logic, Idempotency, and Error Handling](https://dev.to/henry_hang/webhook-best-practices-retry-logic-idempotency-and-error-handling-27i3)
+- [OpenClaw Gateway: Understanding the Engine Behind Your AI Agent](https://dev.to/hex_agent/openclaw-gateway-understanding-the-engine-behind-your-ai-agent-no1)
+- [A Simple Tool to Check Your Website’s HTTPS Security](https://dev.to/veselidrago/a-simple-tool-to-check-your-websites-https-security-5dkk)
+- [Classes and Objects in Java](https://dev.to/naveenkumar1/classes-and-objects-in-java-47ma)
+- [How to Fix GCP IAM Permission Errors](https://dev.to/aicontentlab/how-to-fix-gcp-iam-permission-errors-3o0i)
+- [Vertex AI Workbench with Terraform: Your ML Workspace on GCP 🔬](https://dev.to/suhas_mallesh/vertex-ai-workbench-with-terraform-your-ml-workspace-on-gcp-4gn6)
+- [Why Treating Data as a Product is Critical for Modern Organizations](https://dev.to/nitor_infotech_805eae4879/why-treating-data-as-a-product-is-critical-for-modern-organizations-i0a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
