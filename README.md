@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Terraform / IaC: migration plan cho DNS propagation issues &lpar;cách debug nhanh&rpar;](https://dev.to/alexcarteruk/terraform-iac-migration-plan-cho-dns-propagation-issues-cach-debug-nhanh-603)
-- [The 2026 HIPAA Compliance Solutions Stack: Tools Every Healthcare Developer Should Know](https://dev.to/joegellatly/the-2026-hipaa-compliance-solutions-stack-tools-every-healthcare-developer-should-know-lo0)
-- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
-- [Java Exception Handling – Practical Scenarios Explained](https://dev.to/kirubagaran_k_438a86c991/java-exception-handling-practical-scenarios-explained-3128)
-- [Pattern-based Programs](https://dev.to/sasirekaarumugam/pattern-based-programs-574g)
-- [AI Agent Supply Chain Attacks: What the LiteLLM Breach Means for Your Stack](https://dev.to/max_quimby/ai-agent-supply-chain-attacks-what-the-litellm-breach-means-for-your-stack-3kcp)
+- [Git Large File Storage Best Practices](https://dev.to/aicontentlab/git-large-file-storage-best-practices-24ck)
+- [How to Debug Kubernetes Container Logs](https://dev.to/aicontentlab/how-to-debug-kubernetes-container-logs-4gd5)
+- [HeapLens — Analyze Java Heap Dumps Inside VS Code with AI](https://dev.to/sachinkg12/heaplens-analyze-java-heap-dumps-inside-vs-code-with-ai-o9l)
+- [Why We Built Polpo: The Runtime for AI Agents](https://dev.to/alemicali/why-we-built-polpo-the-runtime-for-ai-agents-3ncl)
+- [Why Every Developer Should Learn Cloud Computing](https://dev.to/mukhtar_abdussalam_0de093/why-every-developer-should-learn-cloud-computing-41dj)
+- [I Broke My Multi-Agent Pipeline on Purpose. All 3 Failures Were Silent.](https://dev.to/agentkit/i-broke-my-multi-agent-pipeline-on-purpose-all-3-failures-were-silent-13nd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
