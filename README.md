@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Developer Performance: Mastering Supabase Credential Management Across Environments](https://dev.to/devactivity/elevating-developer-performance-mastering-supabase-credential-management-across-environments-2l84)
-- [How I Architected a Real-Time Gaming Backend Supporting 3,000+ Concurrent Users with WebSockets](https://dev.to/olamilekan_lamidi_756e36d/how-i-architected-a-real-time-gaming-backend-supporting-3000-concurrent-users-with-websockets-4e4o)
-- [Feature Flags Pricing Comparison 2026: Stop Paying Per Seat](https://dev.to/domenico_giordano_e441224/feature-flags-pricing-comparison-2026-stop-paying-per-seat-212g)
-- [🚀 Kubernetes for Beginners: Deploying an Nginx–Node–Redis Application](https://dev.to/aws-builders/kubernetes-for-beginners-deploying-an-nginx-node-redis-application-1o7h)
-- [Feature Flags vs Feature Branches: When to Use Each](https://dev.to/domenico_giordano_e441224/feature-flags-vs-feature-branches-when-to-use-each-5gej)
-- [The Best LaunchDarkly Alternative in 2026: Rollgate vs the Rest](https://dev.to/domenico_giordano_e441224/the-best-launchdarkly-alternative-in-2026-rollgate-vs-the-rest-3l02)
+- [The 3 questions every new IT manager asks on day one &lpar;and why they&#39;re so hard to answer&rpar;](https://dev.to/mads_hansen_27b33ebfee4c9/the-3-questions-every-new-it-manager-asks-on-day-one-and-why-theyre-so-hard-to-answer-13nn)
+- [The patch that broke everything &lpar;and the spreadsheet that caused it&rpar;](https://dev.to/mads_hansen_27b33ebfee4c9/the-patch-that-broke-everything-and-the-spreadsheet-that-caused-it-4156)
+- [YubiKey SSH Authentication: Stop Trusting Key Files on Disk](https://dev.to/orthogonalinfo/yubikey-ssh-authentication-stop-trusting-key-files-on-disk-157o)
+- [Java 26: o que são Lazy Constants e por que elas aposentam o double-checked locking &lpar;JEP 526&rpar;](https://dev.to/dellamas/java-26-o-que-sao-lazy-constants-e-por-que-elas-aposentam-o-double-checked-locking-jep-526-4b8l)
+- [Java 26: o que são Lazy Constants e por que elas aposentam o double-checked locking &lpar;JEP 526&rpar;](https://dev.to/dellamas/java-26-o-que-sao-lazy-constants-e-por-que-elas-aposentam-o-double-checked-locking-jep-526-4b8l)
+- [Neon,Strong,Perfect Number coding](https://dev.to/abishek_44a09d1e1af19b4ca/neonstrongperfect-number-coding-2k5j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
