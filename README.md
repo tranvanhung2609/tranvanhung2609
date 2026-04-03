@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Strong DevOps Starts When Developers Feel the Pain of Release](https://dev.to/aleksei_aleinikov/strong-devops-starts-when-developers-feel-the-pain-of-release-47en)
-- [You Don’t Always Need Redis to Speed Up Data Access](https://dev.to/aleksei_aleinikov/you-dont-always-need-redis-to-speed-up-data-access-47p0)
-- [You Don’t Always Need Redis to Speed Up Data Access](https://dev.to/aleksei_aleinikov/you-dont-always-need-redis-to-speed-up-data-access-47p0)
-- [TLS Auto-Renewal Is Not the Same as TLS Safety](https://dev.to/aleksei_aleinikov/tls-auto-renewal-is-not-the-same-as-tls-safety-p48)
-- [How Kubernetes Services Actually Route Traffic](https://dev.to/pillaimanish/how-kubernetes-services-actually-route-traffic-2bja)
-- [PodDisruptionBudget Is What Stops Routine Kubernetes Maintenance from Breaking Production](https://dev.to/aleksei_aleinikov/poddisruptionbudget-is-what-stops-routine-kubernetes-maintenance-from-breaking-production-3b7)
+- [Elevating Developer Performance: Mastering Supabase Credential Management Across Environments](https://dev.to/devactivity/elevating-developer-performance-mastering-supabase-credential-management-across-environments-2l84)
+- [How I Architected a Real-Time Gaming Backend Supporting 3,000+ Concurrent Users with WebSockets](https://dev.to/olamilekan_lamidi_756e36d/how-i-architected-a-real-time-gaming-backend-supporting-3000-concurrent-users-with-websockets-4e4o)
+- [Feature Flags Pricing Comparison 2026: Stop Paying Per Seat](https://dev.to/domenico_giordano_e441224/feature-flags-pricing-comparison-2026-stop-paying-per-seat-212g)
+- [🚀 Kubernetes for Beginners: Deploying an Nginx–Node–Redis Application](https://dev.to/aws-builders/kubernetes-for-beginners-deploying-an-nginx-node-redis-application-1o7h)
+- [Feature Flags vs Feature Branches: When to Use Each](https://dev.to/domenico_giordano_e441224/feature-flags-vs-feature-branches-when-to-use-each-5gej)
+- [The Best LaunchDarkly Alternative in 2026: Rollgate vs the Rest](https://dev.to/domenico_giordano_e441224/the-best-launchdarkly-alternative-in-2026-rollgate-vs-the-rest-3l02)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
