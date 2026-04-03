@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Git Large File Storage Best Practices](https://dev.to/aicontentlab/git-large-file-storage-best-practices-24ck)
-- [How to Debug Kubernetes Container Logs](https://dev.to/aicontentlab/how-to-debug-kubernetes-container-logs-4gd5)
-- [HeapLens — Analyze Java Heap Dumps Inside VS Code with AI](https://dev.to/sachinkg12/heaplens-analyze-java-heap-dumps-inside-vs-code-with-ai-o9l)
-- [Why We Built Polpo: The Runtime for AI Agents](https://dev.to/alemicali/why-we-built-polpo-the-runtime-for-ai-agents-3ncl)
-- [Why Every Developer Should Learn Cloud Computing](https://dev.to/mukhtar_abdussalam_0de093/why-every-developer-should-learn-cloud-computing-41dj)
-- [I Broke My Multi-Agent Pipeline on Purpose. All 3 Failures Were Silent.](https://dev.to/agentkit/i-broke-my-multi-agent-pipeline-on-purpose-all-3-failures-were-silent-13nd)
+- [Strong DevOps Starts When Developers Feel the Pain of Release](https://dev.to/aleksei_aleinikov/strong-devops-starts-when-developers-feel-the-pain-of-release-47en)
+- [You Don’t Always Need Redis to Speed Up Data Access](https://dev.to/aleksei_aleinikov/you-dont-always-need-redis-to-speed-up-data-access-47p0)
+- [You Don’t Always Need Redis to Speed Up Data Access](https://dev.to/aleksei_aleinikov/you-dont-always-need-redis-to-speed-up-data-access-47p0)
+- [TLS Auto-Renewal Is Not the Same as TLS Safety](https://dev.to/aleksei_aleinikov/tls-auto-renewal-is-not-the-same-as-tls-safety-p48)
+- [How Kubernetes Services Actually Route Traffic](https://dev.to/pillaimanish/how-kubernetes-services-actually-route-traffic-2bja)
+- [PodDisruptionBudget Is What Stops Routine Kubernetes Maintenance from Breaking Production](https://dev.to/aleksei_aleinikov/poddisruptionbudget-is-what-stops-routine-kubernetes-maintenance-from-breaking-production-3b7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
