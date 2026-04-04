@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CQRS in Practice: Separating Reads and Writes Without the Hype](https://dev.to/dylan_dumont_266378d98367/cqrs-in-practice-separating-reads-and-writes-without-the-hype-fli)
-- [I Wrote a 306-Page Book About Everything Around the Code](https://dev.to/gabrielanhaia/i-wrote-a-306-page-book-about-everything-around-the-code-5bb2)
-- [Why your monitoring misses AI agent attacks &lpar;and how to fix it&rpar;](https://dev.to/authora/why-your-monitoring-misses-ai-agent-attacks-and-how-to-fix-it-1npk)
-- [4 Hosting Stacks at 4 Budgets: $0, $10, $50, $200/month for Startup Founders](https://dev.to/gabrielanhaia/4-hosting-stacks-at-4-budgets-0-10-50-200month-for-startup-founders-4mem)
-- [Web Developer Travis McCracken on Writing Middleware in Go for Fun &amp; Profit](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-writing-middleware-in-go-for-fun-profit-1jd2)
-- [Ingress-NGINX Deprecation: What to Do Next &lpar;Four Paths, Four Failure Modes&rpar;](https://dev.to/ntctech/ingress-nginx-deprecation-what-to-do-next-four-paths-four-failure-modes-1koe)
+- [We Had 100 Dead Alerts Firing for Services That No Longer Existed. So I Built a Kubernetes Operator.](https://dev.to/infra_tools_97d10de984ee0/we-had-100-dead-alerts-firing-for-services-that-no-longer-existed-so-i-built-a-kubernetes-operator-5e6d)
+- [Two Supply Chain Attacks in Two Weeks - Why Defense-in-Depth Saved Me](https://dev.to/felixortizdev/two-supply-chain-attacks-in-two-weeks-why-defense-in-depth-saved-me-2nd7)
+- [Building an Optimal MCP Server: Why You Only Need Five Core Endpoints](https://dev.to/mechcloud_academy/building-an-optimal-mcp-server-why-you-only-need-five-core-endpoints-45nj)
+- [Django + Celery + Redis Sentinel: A Real Failover Test &lpar;With Metrics&rpar;](https://dev.to/rahim8050/django-celery-redis-sentinel-a-real-failover-test-with-metrics-4ajn)
+- [Why I Built My Own Docker Dashboard Instead of Using Portainer](https://dev.to/alvarito1983/why-i-built-my-own-docker-dashboard-instead-of-using-portainer-341c)
+- [ghostdep - phantom dependency detector for 5 languages](https://dev.to/ojuschugh1/ghostdep-phantom-dependency-detector-for-5-languages-56o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
