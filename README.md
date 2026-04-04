@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Actually Hands Out IPs](https://dev.to/pillaimanish/how-kubernetes-actually-hands-out-ips-2bbe)
-- [Java variables and Objects.](https://dev.to/mohamed_ajmal_2/java-variables-and-objects-c9l)
-- [Why Your Code Gets Slower as Data Grows &lpar;Time Complexity Explained Simply&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/why-your-code-gets-slower-as-data-grows-time-complexity-explained-simply-1p2m)
-- [Best Practices &amp; Pitfalls](https://dev.to/priyankbhardwaj1199/best-practices-pitfalls-5bed)
-- [Common Runtime Exceptions in Java &lpar;With Examples &amp; Handling&rpar;](https://dev.to/jayashree_a84b6eff7bc414e/common-runtime-exceptions-in-java-with-examples-handling-250l)
-- [Difference Between Compile-Time Exception and Runtime Exception &lpar;Java&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/difference-between-compile-time-exception-and-runtime-exception-java-58cn)
+- [CQRS in Practice: Separating Reads and Writes Without the Hype](https://dev.to/dylan_dumont_266378d98367/cqrs-in-practice-separating-reads-and-writes-without-the-hype-fli)
+- [I Wrote a 306-Page Book About Everything Around the Code](https://dev.to/gabrielanhaia/i-wrote-a-306-page-book-about-everything-around-the-code-5bb2)
+- [Why your monitoring misses AI agent attacks &lpar;and how to fix it&rpar;](https://dev.to/authora/why-your-monitoring-misses-ai-agent-attacks-and-how-to-fix-it-1npk)
+- [4 Hosting Stacks at 4 Budgets: $0, $10, $50, $200/month for Startup Founders](https://dev.to/gabrielanhaia/4-hosting-stacks-at-4-budgets-0-10-50-200month-for-startup-founders-4mem)
+- [Web Developer Travis McCracken on Writing Middleware in Go for Fun &amp; Profit](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-writing-middleware-in-go-for-fun-profit-1jd2)
+- [Ingress-NGINX Deprecation: What to Do Next &lpar;Four Paths, Four Failure Modes&rpar;](https://dev.to/ntctech/ingress-nginx-deprecation-what-to-do-next-four-paths-four-failure-modes-1koe)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
