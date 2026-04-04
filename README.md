@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Kubernetes Certificate Errors](https://dev.to/aicontentlab/how-to-fix-kubernetes-certificate-errors-3gd7)
-- [How to Troubleshoot Kubernetes Helm Chart Deployments](https://dev.to/aicontentlab/how-to-troubleshoot-kubernetes-helm-chart-deployments-31nc)
-- [I Built a One-Command Speed Test for All 13 BandwagonHost Data Centers](https://dev.to/devguoo/i-built-a-one-command-speed-test-for-all-13-bandwagonhost-data-centers-1k58)
-- [How We Cut AI Infrastructure Costs by 80% for Enterprise Clients](https://dev.to/krunal_groovy/how-we-cut-ai-infrastructure-costs-by-80-for-enterprise-clients-24a7)
-- [How We Built AI Task Automation That Actually Works](https://dev.to/mitkotschimev/how-we-built-ai-task-automation-that-actually-works-1laf)
-- [MCP Credential Lifecycle: What Happens When Your Tokens Expire in Production](https://dev.to/supertrained/mcp-credential-lifecycle-what-happens-when-your-tokens-expire-in-production-2ob3)
+- [How Kubernetes Actually Hands Out IPs](https://dev.to/pillaimanish/how-kubernetes-actually-hands-out-ips-2bbe)
+- [Java variables and Objects.](https://dev.to/mohamed_ajmal_2/java-variables-and-objects-c9l)
+- [Why Your Code Gets Slower as Data Grows &lpar;Time Complexity Explained Simply&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/why-your-code-gets-slower-as-data-grows-time-complexity-explained-simply-1p2m)
+- [Best Practices &amp; Pitfalls](https://dev.to/priyankbhardwaj1199/best-practices-pitfalls-5bed)
+- [Common Runtime Exceptions in Java &lpar;With Examples &amp; Handling&rpar;](https://dev.to/jayashree_a84b6eff7bc414e/common-runtime-exceptions-in-java-with-examples-handling-250l)
+- [Difference Between Compile-Time Exception and Runtime Exception &lpar;Java&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/difference-between-compile-time-exception-and-runtime-exception-java-58cn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
