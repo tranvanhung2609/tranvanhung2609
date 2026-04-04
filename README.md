@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 3 questions every new IT manager asks on day one &lpar;and why they&#39;re so hard to answer&rpar;](https://dev.to/mads_hansen_27b33ebfee4c9/the-3-questions-every-new-it-manager-asks-on-day-one-and-why-theyre-so-hard-to-answer-13nn)
-- [The patch that broke everything &lpar;and the spreadsheet that caused it&rpar;](https://dev.to/mads_hansen_27b33ebfee4c9/the-patch-that-broke-everything-and-the-spreadsheet-that-caused-it-4156)
-- [YubiKey SSH Authentication: Stop Trusting Key Files on Disk](https://dev.to/orthogonalinfo/yubikey-ssh-authentication-stop-trusting-key-files-on-disk-157o)
-- [Java 26: o que são Lazy Constants e por que elas aposentam o double-checked locking &lpar;JEP 526&rpar;](https://dev.to/dellamas/java-26-o-que-sao-lazy-constants-e-por-que-elas-aposentam-o-double-checked-locking-jep-526-4b8l)
-- [Java 26: o que são Lazy Constants e por que elas aposentam o double-checked locking &lpar;JEP 526&rpar;](https://dev.to/dellamas/java-26-o-que-sao-lazy-constants-e-por-que-elas-aposentam-o-double-checked-locking-jep-526-4b8l)
-- [Neon,Strong,Perfect Number coding](https://dev.to/abishek_44a09d1e1af19b4ca/neonstrongperfect-number-coding-2k5j)
+- [How to Fix Kubernetes Certificate Errors](https://dev.to/aicontentlab/how-to-fix-kubernetes-certificate-errors-3gd7)
+- [How to Troubleshoot Kubernetes Helm Chart Deployments](https://dev.to/aicontentlab/how-to-troubleshoot-kubernetes-helm-chart-deployments-31nc)
+- [I Built a One-Command Speed Test for All 13 BandwagonHost Data Centers](https://dev.to/devguoo/i-built-a-one-command-speed-test-for-all-13-bandwagonhost-data-centers-1k58)
+- [How We Cut AI Infrastructure Costs by 80% for Enterprise Clients](https://dev.to/krunal_groovy/how-we-cut-ai-infrastructure-costs-by-80-for-enterprise-clients-24a7)
+- [How We Built AI Task Automation That Actually Works](https://dev.to/mitkotschimev/how-we-built-ai-task-automation-that-actually-works-1laf)
+- [MCP Credential Lifecycle: What Happens When Your Tokens Expire in Production](https://dev.to/supertrained/mcp-credential-lifecycle-what-happens-when-your-tokens-expire-in-production-2ob3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
