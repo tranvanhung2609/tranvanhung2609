@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Most SMS APIs hide routing. Here’s what actually happens after you hit send](https://dev.to/bridgexapi/most-sms-apis-hide-routing-heres-what-actually-happens-after-you-hit-send-37lh)
-- [How to Remove Sensitive Data from Your Git History &lpar;For Real This Time&rpar;](https://dev.to/alanwest/how-to-remove-sensitive-data-from-your-git-history-for-real-this-time-j93)
-- [How to Debug OAuth2 Authentication Issues](https://dev.to/aicontentlab/how-to-debug-oauth2-authentication-issues-516g)
-- [From Copilots to Coordination: Why Agentic AI Changes System Design](https://dev.to/rizwanul_islam_afraim/from-copilots-to-coordination-why-agentic-ai-changes-system-design-2mag)
-- [I Tested Every &#39;Memory&#39; Solution for AI Coding Assistants - Here&#39;s What Actually Works](https://dev.to/delimit/i-tested-every-memory-solution-for-ai-coding-assistants-heres-what-actually-works-31hc)
-- [135,000 OpenClaw Users Just Got a 50x Price Hike. Anthropic Says It&#39;s &#39;Unsustainable.&#39;](https://dev.to/skilaai/135000-openclaw-users-just-got-a-50x-price-hike-anthropic-says-its-unsustainable-np9)
+- [Why Most AWS-Based Developer Toolchains Fail After 6 Months &lpar;And What I Changed&rpar;](https://dev.to/harsh0369/why-most-aws-based-developer-toolchains-fail-after-6-months-and-what-i-changed-2j2g)
+- [What Self-Hosting OpenClaw Actually Costs &lpar;It&#39;s Not Just the VPS&rpar;](https://dev.to/mehul_bhardwaj_8a2d2aaecb/what-self-hosting-openclaw-actually-costs-its-not-just-the-vps-353o)
+- [Best Free Cron Monitoring Tools for Developers in 2026](https://dev.to/quietpulse-social/best-free-cron-monitoring-tools-for-developers-in-2026-64b)
+- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
+- [BuildWithAI: Architecting a Serverless DR Toolkit on AWS](https://dev.to/aws-builders/buildwithai-architecting-a-serverless-dr-toolkit-on-aws-123d)
+- [Why AI Systems Pass Audits and Still Fail in Production](https://dev.to/hollowhouse/why-ai-systems-pass-audits-and-still-fail-in-production-am9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
