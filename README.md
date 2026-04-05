@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Had 100 Dead Alerts Firing for Services That No Longer Existed. So I Built a Kubernetes Operator.](https://dev.to/infra_tools_97d10de984ee0/we-had-100-dead-alerts-firing-for-services-that-no-longer-existed-so-i-built-a-kubernetes-operator-5e6d)
-- [Two Supply Chain Attacks in Two Weeks - Why Defense-in-Depth Saved Me](https://dev.to/felixortizdev/two-supply-chain-attacks-in-two-weeks-why-defense-in-depth-saved-me-2nd7)
-- [Building an Optimal MCP Server: Why You Only Need Five Core Endpoints](https://dev.to/mechcloud_academy/building-an-optimal-mcp-server-why-you-only-need-five-core-endpoints-45nj)
-- [Django + Celery + Redis Sentinel: A Real Failover Test &lpar;With Metrics&rpar;](https://dev.to/rahim8050/django-celery-redis-sentinel-a-real-failover-test-with-metrics-4ajn)
-- [Why I Built My Own Docker Dashboard Instead of Using Portainer](https://dev.to/alvarito1983/why-i-built-my-own-docker-dashboard-instead-of-using-portainer-341c)
-- [ghostdep - phantom dependency detector for 5 languages](https://dev.to/ojuschugh1/ghostdep-phantom-dependency-detector-for-5-languages-56o)
+- [Most SMS APIs hide routing. Here’s what actually happens after you hit send](https://dev.to/bridgexapi/most-sms-apis-hide-routing-heres-what-actually-happens-after-you-hit-send-37lh)
+- [How to Remove Sensitive Data from Your Git History &lpar;For Real This Time&rpar;](https://dev.to/alanwest/how-to-remove-sensitive-data-from-your-git-history-for-real-this-time-j93)
+- [How to Debug OAuth2 Authentication Issues](https://dev.to/aicontentlab/how-to-debug-oauth2-authentication-issues-516g)
+- [From Copilots to Coordination: Why Agentic AI Changes System Design](https://dev.to/rizwanul_islam_afraim/from-copilots-to-coordination-why-agentic-ai-changes-system-design-2mag)
+- [I Tested Every &#39;Memory&#39; Solution for AI Coding Assistants - Here&#39;s What Actually Works](https://dev.to/delimit/i-tested-every-memory-solution-for-ai-coding-assistants-heres-what-actually-works-31hc)
+- [135,000 OpenClaw Users Just Got a 50x Price Hike. Anthropic Says It&#39;s &#39;Unsustainable.&#39;](https://dev.to/skilaai/135000-openclaw-users-just-got-a-50x-price-hike-anthropic-says-its-unsustainable-np9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
