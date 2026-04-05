@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java Forex Data API Tutorial: Real-Time Quotes, Historical Candles &amp; WebSocket Push](https://dev.to/san_siwu_f08e7c406830469/java-forex-data-api-tutorial-real-time-quotes-historical-candles-websocket-push-3f8p)
-- [How to Set Up JWT Authentication in Spring Boot &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/nirmalravidas/how-to-set-up-jwt-authentication-in-spring-boot-complete-step-by-step-guide-3ina)
-- [Distributed Tracing From Scratch: Propagating Trace Context Across Services](https://dev.to/dylan_dumont_266378d98367/distributed-tracing-from-scratch-propagating-trace-context-across-services-21cp)
-- [Distributed Tracing From Scratch: Propagating Trace Context Across Services](https://dev.to/dylan_dumont_266378d98367/distributed-tracing-from-scratch-propagating-trace-context-across-services-21cp)
-- [Java 接入外汇数据 API 完整教程：实时报价、历史 K 线与 WebSocket 推送](https://dev.to/san_siwu_f08e7c406830469/java-jie-ru-wai-hui-shu-ju-api-wan-zheng-jiao-cheng-shi-shi-bao-jie-li-shi-k-xian-yu-websocket-tui-song-4aeh)
-- [[e2e audit test 1775392654] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775392654-devops-start-audit-probe-delete-me-15bo)
+- [How I Used Swarm Intelligence to Catch a Race Condition Before It Hit Production](https://dev.to/geekpreet4u/how-i-used-swarm-intelligence-to-catch-a-race-condition-before-it-hit-production-43ja)
+- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-43ed)
+- [What is Function and it&#39;s types?](https://dev.to/praveenkumarpraveen/what-is-function-and-its-types-5ego)
+- [From Redis to Valkey: pre-migration Reconnaissance — detect all apps &amp; connections in realtime](https://dev.to/tsypuk/from-redis-to-valkey-pre-migration-reconnaissance-detect-all-apps-connections-in-realtime-39nj)
+- [Muri: The Root Cause of Overburden](https://dev.to/mash_dev/muri-the-root-cause-of-overburden-1fl1)
+- [Mura: The Source of Uneven Flow](https://dev.to/mash_dev/mura-the-source-of-uneven-flow-56fh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
