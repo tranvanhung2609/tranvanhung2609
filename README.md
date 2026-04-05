@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AWS-Based Developer Toolchains Fail After 6 Months &lpar;And What I Changed&rpar;](https://dev.to/harsh0369/why-most-aws-based-developer-toolchains-fail-after-6-months-and-what-i-changed-2j2g)
-- [What Self-Hosting OpenClaw Actually Costs &lpar;It&#39;s Not Just the VPS&rpar;](https://dev.to/mehul_bhardwaj_8a2d2aaecb/what-self-hosting-openclaw-actually-costs-its-not-just-the-vps-353o)
-- [Best Free Cron Monitoring Tools for Developers in 2026](https://dev.to/quietpulse-social/best-free-cron-monitoring-tools-for-developers-in-2026-64b)
-- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
-- [BuildWithAI: Architecting a Serverless DR Toolkit on AWS](https://dev.to/aws-builders/buildwithai-architecting-a-serverless-dr-toolkit-on-aws-123d)
-- [Why AI Systems Pass Audits and Still Fail in Production](https://dev.to/hollowhouse/why-ai-systems-pass-audits-and-still-fail-in-production-am9)
+- [Java Forex Data API Tutorial: Real-Time Quotes, Historical Candles &amp; WebSocket Push](https://dev.to/san_siwu_f08e7c406830469/java-forex-data-api-tutorial-real-time-quotes-historical-candles-websocket-push-3f8p)
+- [How to Set Up JWT Authentication in Spring Boot &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/nirmalravidas/how-to-set-up-jwt-authentication-in-spring-boot-complete-step-by-step-guide-3ina)
+- [Distributed Tracing From Scratch: Propagating Trace Context Across Services](https://dev.to/dylan_dumont_266378d98367/distributed-tracing-from-scratch-propagating-trace-context-across-services-21cp)
+- [Distributed Tracing From Scratch: Propagating Trace Context Across Services](https://dev.to/dylan_dumont_266378d98367/distributed-tracing-from-scratch-propagating-trace-context-across-services-21cp)
+- [Java 接入外汇数据 API 完整教程：实时报价、历史 K 线与 WebSocket 推送](https://dev.to/san_siwu_f08e7c406830469/java-jie-ru-wai-hui-shu-ju-api-wan-zheng-jiao-cheng-shi-shi-bao-jie-li-shi-k-xian-yu-websocket-tui-song-4aeh)
+- [[e2e audit test 1775392654] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775392654-devops-start-audit-probe-delete-me-15bo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
