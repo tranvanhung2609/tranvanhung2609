@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Swarm Intelligence to Catch a Race Condition Before It Hit Production](https://dev.to/geekpreet4u/how-i-used-swarm-intelligence-to-catch-a-race-condition-before-it-hit-production-43ja)
-- [We Got Called Out for Writing AI Success Theatre — Here&#39;s What We&#39;re Changing](https://dev.to/tmdlrg/we-got-called-out-for-writing-ai-success-theatre-heres-what-were-changing-43ed)
-- [What is Function and it&#39;s types?](https://dev.to/praveenkumarpraveen/what-is-function-and-its-types-5ego)
-- [From Redis to Valkey: pre-migration Reconnaissance — detect all apps &amp; connections in realtime](https://dev.to/tsypuk/from-redis-to-valkey-pre-migration-reconnaissance-detect-all-apps-connections-in-realtime-39nj)
-- [Muri: The Root Cause of Overburden](https://dev.to/mash_dev/muri-the-root-cause-of-overburden-1fl1)
-- [Mura: The Source of Uneven Flow](https://dev.to/mash_dev/mura-the-source-of-uneven-flow-56fh)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1pdh)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1pdh)
+- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
+- [Deploying Backstage on Kubernetes with the Helm Chart: The Infrastructure-First Guide](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-the-infrastructure-first-guide-mf3)
+- [How to Build Kubernetes Admission Controllers](https://dev.to/aicontentlab/how-to-build-kubernetes-admission-controllers-49l9)
+- [How to Debug Docker Compose Issues](https://dev.to/aicontentlab/how-to-debug-docker-compose-issues-48l8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
