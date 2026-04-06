@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Scripting vs Programming Languages - What Actually Matters?](https://dev.to/aj_arul/scripting-vs-programming-languages-what-actually-matters-1oa4)
-- [The Importance of Manual Testing in Terraform](https://dev.to/stephanie_makori_845bb2c0/the-importance-of-manual-testing-in-terraform-pn6)
-- [How Secure Code Review Boosts App Security and Speed — With Real Data](https://dev.to/jhavtech/how-secure-code-review-boosts-app-security-and-speed-with-real-data-10m2)
-- [Java File Handling ?](https://dev.to/aj_arul/java-file-handling--k4b)
-- [What is Abstraction in Java? with Real Use Cases](https://dev.to/naveenkumar1/what-is-abstraction-in-java-with-real-use-cases-1kn9)
-- [Learning Fullstack Observability: Metrics](https://dev.to/davidgrath/learning-fullstack-observability-metrics-3n44)
+- [Clean Architecture in NestJS — A Practical Guide](https://dev.to/kubabuilds/clean-architecture-in-nestjs-a-practical-guide-101p)
+- [You can Explore the app](https://dev.to/techgirli/you-can-explore-the-app-55i8)
+- [How New Crypto Exchanges Are Scaling Fast and Driving High Profits in 2026](https://dev.to/alan_james_35e491d20632c8/how-new-crypto-exchanges-are-scaling-fast-and-driving-high-profits-in-2026-15h9)
+- [eSparkBiz Recognized Among Top AWS Partners in India by Clutch](https://dev.to/rajesh_patel_68e5dd6c9a4f/esparkbiz-recognized-among-top-aws-partners-in-india-by-clutch-525a)
+- [Why I Build Everything From My Phone &lpar;And You Probably Can Too&rpar;](https://dev.to/domoniqueluchin/why-i-build-everything-from-my-phone-and-you-probably-can-too-42h)
+- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
