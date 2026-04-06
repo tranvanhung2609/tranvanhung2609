@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1pdh)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1pdh)
-- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
-- [Deploying Backstage on Kubernetes with the Helm Chart: The Infrastructure-First Guide](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-the-infrastructure-first-guide-mf3)
-- [How to Build Kubernetes Admission Controllers](https://dev.to/aicontentlab/how-to-build-kubernetes-admission-controllers-49l9)
-- [How to Debug Docker Compose Issues](https://dev.to/aicontentlab/how-to-debug-docker-compose-issues-48l8)
+- [Scripting vs Programming Languages - What Actually Matters?](https://dev.to/aj_arul/scripting-vs-programming-languages-what-actually-matters-1oa4)
+- [The Importance of Manual Testing in Terraform](https://dev.to/stephanie_makori_845bb2c0/the-importance-of-manual-testing-in-terraform-pn6)
+- [How Secure Code Review Boosts App Security and Speed — With Real Data](https://dev.to/jhavtech/how-secure-code-review-boosts-app-security-and-speed-with-real-data-10m2)
+- [Java File Handling ?](https://dev.to/aj_arul/java-file-handling--k4b)
+- [What is Abstraction in Java? with Real Use Cases](https://dev.to/naveenkumar1/what-is-abstraction-in-java-with-real-use-cases-1kn9)
+- [Learning Fullstack Observability: Metrics](https://dev.to/davidgrath/learning-fullstack-observability-metrics-3n44)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
