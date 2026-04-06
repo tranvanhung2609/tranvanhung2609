@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in NestJS — A Practical Guide](https://dev.to/kubabuilds/clean-architecture-in-nestjs-a-practical-guide-101p)
-- [You can Explore the app](https://dev.to/techgirli/you-can-explore-the-app-55i8)
-- [How New Crypto Exchanges Are Scaling Fast and Driving High Profits in 2026](https://dev.to/alan_james_35e491d20632c8/how-new-crypto-exchanges-are-scaling-fast-and-driving-high-profits-in-2026-15h9)
-- [eSparkBiz Recognized Among Top AWS Partners in India by Clutch](https://dev.to/rajesh_patel_68e5dd6c9a4f/esparkbiz-recognized-among-top-aws-partners-in-india-by-clutch-525a)
-- [Why I Build Everything From My Phone &lpar;And You Probably Can Too&rpar;](https://dev.to/domoniqueluchin/why-i-build-everything-from-my-phone-and-you-probably-can-too-42h)
-- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap)
+- [npm install worked. CI passed. Production was empty.](https://dev.to/nicodev__/npm-install-worked-ci-passed-production-was-empty-b4f)
+- [Journey into Back-end Development: An Introduction](https://dev.to/abderrahmane_lamari/journey-into-back-end-development-an-introduction-3bcn)
+- [AWS Step Functions: 1M ejecuciones/segundo y novedades de la semana](https://dev.to/matias_martinez_185d9e0ee/aws-step-functions-1m-ejecucionessegundo-y-novedades-de-la-semana-105o)
+- [AI agent governance tools compared - 2026 landscape](https://dev.to/jagmarques/ai-agent-governance-tools-compared-2026-landscape-53hm)
+- [How I Earn $150-$250 Per Pull Request Building Dashboard Templates](https://dev.to/manja316/how-i-earn-150-250-per-pull-request-building-dashboard-templates-157m)
+- [How I Audited My Infra After the LiteLLM Supply Chain Attack &lpar;And What I&#39;m Doing Differently Now&rpar;](https://dev.to/jay_singh_e5b5ee6be59c0e0/how-i-audited-my-infra-after-the-litellm-supply-chain-attack-and-what-im-doing-differently-now-39ma)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
