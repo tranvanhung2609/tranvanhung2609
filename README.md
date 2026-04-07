@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Encapsulation, Inheritance, and Polymorphism in Java](https://dev.to/naveenkumar1/encapsulation-inheritance-and-polymorphism-in-java-4504)
-- [Docker for Next.js: Production-Ready Dockerfile, Compose, and CI/CD Pipeline](https://dev.to/whoffagents/docker-for-nextjs-production-ready-dockerfile-compose-and-cicd-pipeline-51il)
-- [Secrets Management Best Practices for DevOps](https://dev.to/aicontentlab/secrets-management-best-practices-for-devops-23fa)
-- [Linux Process Debugging with strace](https://dev.to/aicontentlab/linux-process-debugging-with-strace-p7f)
-- [Self-Hosting LLMs vs Cloud APIs: Cost, Performance &amp; Privacy Compared &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/self-hosting-llms-vs-cloud-apis-cost-performance-privacy-compared-2026-1k09)
-- [Step-by-Step Guide to WordPress User Roles and Permissions Management](https://dev.to/serveravatar/step-by-step-guide-to-wordpress-user-roles-and-permissions-management-2ene)
+- [🚀 NestJS Microservices with RabbitMQ, Retries &amp; DLQ — Production Setup That Actually Scales.](https://dev.to/pulkit5ingh/nestjs-microservices-with-rabbitmq-retries-dlq-production-setup-that-actually-scales-55eh)
+- [Integrating LLMs into a Go service without losing your mind &lpar;or adding 550ms latency&rpar;](https://dev.to/james_whitfield/integrating-llms-into-a-go-service-without-losing-your-mind-or-adding-550ms-latency-2955)
+- [FinOps for AI: Balancing Innovation and Budget in AI Development](https://dev.to/datta_kharad_3fd1383b5036/finops-for-ai-balancing-innovation-and-budget-in-ai-development-1ba2)
+- [Don&#39;t Miss a Beat: Why Reliable GitHub Notifications Are Key to Development Analytics](https://dev.to/devactivity/dont-miss-a-beat-why-reliable-github-notifications-are-key-to-development-analytics-55f9)
+- [Web Developer Travis McCracken on When to Use GraphQL vs REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-to-use-graphql-vs-rest-5dh4)
+- [A 2 AM Integration Failure That Changed How I Design Systems Forever](https://dev.to/integration-maestro/a-2-am-integration-failure-that-changed-how-i-design-systems-forever-275p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
