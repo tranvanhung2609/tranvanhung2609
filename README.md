@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Billing Alerts and Monitoring Setup](https://dev.to/aicontentlab/cloud-billing-alerts-and-monitoring-setup-7pa)
-- [#26 Tricky questions in Arrays-JAVA](https://dev.to/deepikandas/26-tricky-questions-in-arrays-java-9gf)
-- [Java + AI: Beyond APIs: into runtime, performance, and system design](https://dev.to/regoanac/java-ai-beyond-apis-into-runtime-performance-and-system-design-2h9m)
-- [#25 Known is a drop! Arrays in Java](https://dev.to/deepikandas/25-known-is-a-drop-arrays-in-java-3nh3)
-- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
-- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
+- [Encapsulation, Inheritance, and Polymorphism in Java](https://dev.to/naveenkumar1/encapsulation-inheritance-and-polymorphism-in-java-4504)
+- [Docker for Next.js: Production-Ready Dockerfile, Compose, and CI/CD Pipeline](https://dev.to/whoffagents/docker-for-nextjs-production-ready-dockerfile-compose-and-cicd-pipeline-51il)
+- [Secrets Management Best Practices for DevOps](https://dev.to/aicontentlab/secrets-management-best-practices-for-devops-23fa)
+- [Linux Process Debugging with strace](https://dev.to/aicontentlab/linux-process-debugging-with-strace-p7f)
+- [Self-Hosting LLMs vs Cloud APIs: Cost, Performance &amp; Privacy Compared &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/self-hosting-llms-vs-cloud-apis-cost-performance-privacy-compared-2026-1k09)
+- [Step-by-Step Guide to WordPress User Roles and Permissions Management](https://dev.to/serveravatar/step-by-step-guide-to-wordpress-user-roles-and-permissions-management-2ene)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
