@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [npm install worked. CI passed. Production was empty.](https://dev.to/nicodev__/npm-install-worked-ci-passed-production-was-empty-b4f)
-- [Journey into Back-end Development: An Introduction](https://dev.to/abderrahmane_lamari/journey-into-back-end-development-an-introduction-3bcn)
-- [AWS Step Functions: 1M ejecuciones/segundo y novedades de la semana](https://dev.to/matias_martinez_185d9e0ee/aws-step-functions-1m-ejecucionessegundo-y-novedades-de-la-semana-105o)
-- [AI agent governance tools compared - 2026 landscape](https://dev.to/jagmarques/ai-agent-governance-tools-compared-2026-landscape-53hm)
-- [How I Earn $150-$250 Per Pull Request Building Dashboard Templates](https://dev.to/manja316/how-i-earn-150-250-per-pull-request-building-dashboard-templates-157m)
-- [How I Audited My Infra After the LiteLLM Supply Chain Attack &lpar;And What I&#39;m Doing Differently Now&rpar;](https://dev.to/jay_singh_e5b5ee6be59c0e0/how-i-audited-my-infra-after-the-litellm-supply-chain-attack-and-what-im-doing-differently-now-39ma)
+- [Cloud Billing Alerts and Monitoring Setup](https://dev.to/aicontentlab/cloud-billing-alerts-and-monitoring-setup-7pa)
+- [#26 Tricky questions in Arrays-JAVA](https://dev.to/deepikandas/26-tricky-questions-in-arrays-java-9gf)
+- [Java + AI: Beyond APIs: into runtime, performance, and system design](https://dev.to/regoanac/java-ai-beyond-apis-into-runtime-performance-and-system-design-2h9m)
+- [#25 Known is a drop! Arrays in Java](https://dev.to/deepikandas/25-known-is-a-drop-arrays-in-java-3nh3)
+- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
+- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
