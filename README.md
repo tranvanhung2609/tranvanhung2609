@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🚀 NestJS Microservices with RabbitMQ, Retries &amp; DLQ — Production Setup That Actually Scales.](https://dev.to/pulkit5ingh/nestjs-microservices-with-rabbitmq-retries-dlq-production-setup-that-actually-scales-55eh)
-- [Integrating LLMs into a Go service without losing your mind &lpar;or adding 550ms latency&rpar;](https://dev.to/james_whitfield/integrating-llms-into-a-go-service-without-losing-your-mind-or-adding-550ms-latency-2955)
-- [FinOps for AI: Balancing Innovation and Budget in AI Development](https://dev.to/datta_kharad_3fd1383b5036/finops-for-ai-balancing-innovation-and-budget-in-ai-development-1ba2)
-- [Don&#39;t Miss a Beat: Why Reliable GitHub Notifications Are Key to Development Analytics](https://dev.to/devactivity/dont-miss-a-beat-why-reliable-github-notifications-are-key-to-development-analytics-55f9)
-- [Web Developer Travis McCracken on When to Use GraphQL vs REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-to-use-graphql-vs-rest-5dh4)
-- [A 2 AM Integration Failure That Changed How I Design Systems Forever](https://dev.to/integration-maestro/a-2-am-integration-failure-that-changed-how-i-design-systems-forever-275p)
+- [Creating Production-Grade Infrastructure with Terraform](https://dev.to/mary_mutua_9d55b3c269f343/creating-production-grade-infrastructure-with-terraform-255)
+- [How we made Step Functions call any AWS service locally](https://dev.to/nahuel990/how-we-made-step-functions-call-any-aws-service-locally-2m44)
+- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
+- [[e2e audit test 1775586705] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775586705-devops-start-audit-probe-delete-me-1njk)
+- [CML vs GNS3 vs INE: How Network Engineers Should Build Labs in 2026](https://dev.to/firstpasslab/cml-vs-gns3-vs-ine-how-network-engineers-should-build-labs-in-2026-2hdg)
+- [ingress-nginx Is Dead: How I Migrated to Gateway API Before It Became a Liability](https://dev.to/mateenali66/ingress-nginx-is-dead-how-i-migrated-to-gateway-api-before-it-became-a-liability-2815)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
