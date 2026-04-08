@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ESM vs CJS — Why Your import Still Breaks in 2026 and How to Finally Fix It](https://dev.to/sandeepbansod/esm-vs-cjs-why-your-import-still-breaks-in-2026-and-how-to-finally-fix-it-5doh)
-- [Adding Hybrid Search to Your Application &lpar;In Diagrams&rpar;](https://dev.to/kvasserman/adding-hybrid-search-to-your-application-in-diagrams-527)
-- [From O&lpar;n log n&rpar; to O&lpar;log p&rpar;: Rebuilding the Order Book for Performance](https://dev.to/iwtxokhtd83/from-on-log-n-to-olog-p-rebuilding-the-order-book-for-performance-211)
-- [I Broke Prod 3 Times — Here&#39;s How Proper Retesting Would Have Saved Us](https://dev.to/michael_burry_00/i-broke-prod-3-times-heres-how-proper-retesting-would-have-saved-us-hk9)
-- [How to Block Internet Access for Any Linux App &lpar;While Keeping LAN&rpar;](https://dev.to/khadirullah/how-to-block-internet-access-for-any-linux-app-while-keeping-lan-5g17)
-- [Web Developer Travis McCracken on Why Rust Is Worth the Steep Learning Curve](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-rust-is-worth-the-steep-learning-curve-234m)
+- [Fleet Management with Ansible — The AutoBot Approach](https://dev.to/mrveiss/fleet-management-with-ansible-the-autobot-approach-3kh5)
+- [Free HD Stream Highlanders vs Brumbies 2026 – Start Watching Now!](https://dev.to/esportsworldcups/free-hd-stream-highlanders-vs-brumbies-2026-start-watching-now-3f3d)
+- [🚀 Deploy KubeHA your way - without compromises](https://dev.to/kubeha_18/deploy-kubeha-your-way-without-compromises-ff5)
+- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
+- [How to Safely Buy USA Yahoo Accounts in 2026](https://dev.to/mamepickardzwt8c/how-to-safely-buy-usa-yahoo-accounts-in-2026-39mi)
+- [How I Learned to Love Terraform &lpar;And Why You Should Too&rpar;](https://dev.to/lumosityfan/how-i-learned-to-love-terraform-and-why-you-should-too-l9b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
