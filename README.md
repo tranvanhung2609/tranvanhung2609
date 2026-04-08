@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Creating Production-Grade Infrastructure with Terraform](https://dev.to/mary_mutua_9d55b3c269f343/creating-production-grade-infrastructure-with-terraform-255)
-- [How we made Step Functions call any AWS service locally](https://dev.to/nahuel990/how-we-made-step-functions-call-any-aws-service-locally-2m44)
-- [Part 2 - Connecting AI Agents to Microservices with MCP](https://dev.to/pedrop3/part-2-connecting-ai-agents-to-microservices-with-mcp-16m4)
-- [[e2e audit test 1775586705] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775586705-devops-start-audit-probe-delete-me-1njk)
-- [CML vs GNS3 vs INE: How Network Engineers Should Build Labs in 2026](https://dev.to/firstpasslab/cml-vs-gns3-vs-ine-how-network-engineers-should-build-labs-in-2026-2hdg)
-- [ingress-nginx Is Dead: How I Migrated to Gateway API Before It Became a Liability](https://dev.to/mateenali66/ingress-nginx-is-dead-how-i-migrated-to-gateway-api-before-it-became-a-liability-2815)
+- [Bringing Time-Series Forecasting into Apache IoTDB Database](https://dev.to/timechodb/bringing-time-series-forecasting-into-apache-iotdb-database-207h)
+- [The Essential Guide to Application Logging: From Basics to Production](https://dev.to/niraj_maharjan/the-essential-guide-to-application-logging-from-basics-to-production-5c2o)
+- [Understanding Kubernetes OOMKilled Errors and How to Fix Them](https://dev.to/aicontentlab/understanding-kubernetes-oomkilled-errors-and-how-to-fix-them-17mf)
+- [Understanding Prometheus PromQL Queries](https://dev.to/aicontentlab/understanding-prometheus-promql-queries-56k5)
+- [Clean Architecture in NestJS — Enforcing the Controller-Service-Repository Pattern with Static Analysis](https://dev.to/franciscuo/clean-architecture-in-nestjs-enforcing-the-controller-service-repository-pattern-with-static-4ejc)
+- [分布式事务完全指南：CAP定理与可靠消息的深度实践](https://dev.to/tianxin/fen-bu-shi-shi-wu-wan-quan-zhi-nan-capding-li-yu-ke-kao-xiao-xi-de-shen-du-shi-jian-31hk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
