@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Time-Series Forecasting into Apache IoTDB Database](https://dev.to/timechodb/bringing-time-series-forecasting-into-apache-iotdb-database-207h)
-- [The Essential Guide to Application Logging: From Basics to Production](https://dev.to/niraj_maharjan/the-essential-guide-to-application-logging-from-basics-to-production-5c2o)
-- [Understanding Kubernetes OOMKilled Errors and How to Fix Them](https://dev.to/aicontentlab/understanding-kubernetes-oomkilled-errors-and-how-to-fix-them-17mf)
-- [Understanding Prometheus PromQL Queries](https://dev.to/aicontentlab/understanding-prometheus-promql-queries-56k5)
-- [Clean Architecture in NestJS — Enforcing the Controller-Service-Repository Pattern with Static Analysis](https://dev.to/franciscuo/clean-architecture-in-nestjs-enforcing-the-controller-service-repository-pattern-with-static-4ejc)
-- [分布式事务完全指南：CAP定理与可靠消息的深度实践](https://dev.to/tianxin/fen-bu-shi-shi-wu-wan-quan-zhi-nan-capding-li-yu-ke-kao-xiao-xi-de-shen-du-shi-jian-31hk)
+- [Bitpanda Capital Markets’ Global Expansion Strategy: Rebuilding the Digital Capital Landscape from the U.S.](https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-global-expansion-strategy-rebuilding-the-digital-capital-landscape-from-6n)
+- [How to Debug Azure Networking Issues](https://dev.to/aicontentlab/how-to-debug-azure-networking-issues-53d6)
+- [Complete Guide to Certified Kubernetes Administrator CKA Certification](https://dev.to/mamali_prusty/complete-guide-to-certified-kubernetes-administrator-cka-certification-5ck)
+- [How to Add Token Swaps to Java Spring Boot](https://dev.to/moonsoon69/how-to-add-token-swaps-to-java-spring-boot-3a71)
+- [New Technical Guides Published](https://dev.to/nirankari/new-technical-guides-published-5gg0)
+- [Why White Label Crypto Exchange Software Is the Smartest Choice for Startups](https://dev.to/michael_clarke_a5d5489c8b/why-white-label-crypto-exchange-software-is-the-smartest-choice-for-startups-563n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
