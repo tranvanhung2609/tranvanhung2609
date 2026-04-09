@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fleet Management with Ansible — The AutoBot Approach](https://dev.to/mrveiss/fleet-management-with-ansible-the-autobot-approach-3kh5)
-- [Free HD Stream Highlanders vs Brumbies 2026 – Start Watching Now!](https://dev.to/esportsworldcups/free-hd-stream-highlanders-vs-brumbies-2026-start-watching-now-3f3d)
-- [🚀 Deploy KubeHA your way - without compromises](https://dev.to/kubeha_18/deploy-kubeha-your-way-without-compromises-ff5)
-- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd)
-- [How to Safely Buy USA Yahoo Accounts in 2026](https://dev.to/mamepickardzwt8c/how-to-safely-buy-usa-yahoo-accounts-in-2026-39mi)
-- [How I Learned to Love Terraform &lpar;And Why You Should Too&rpar;](https://dev.to/lumosityfan/how-i-learned-to-love-terraform-and-why-you-should-too-l9b)
+- [I Accidentally Pasted a Password or API Key — What to Do Next](https://dev.to/alokt/i-accidentally-pasted-a-password-or-api-key-what-to-do-next-24n8)
+- [CVE-2026-33105 AKS CVSS 10.0 Emergency Analysis and Complete Guide to Managed Kubernetes Zero Trust Security](https://dev.to/x4nent/cve-2026-33105-aks-cvss-100-emergency-analysis-and-complete-guide-to-managed-kubernetes-zero-trust-4oea)
+- [8 Grep Commands That Detect AI Agent Prompt Injection in Your Repos](https://dev.to/mycelnet/8-grep-commands-that-detect-ai-agent-prompt-injection-in-your-repos-69b)
+- [How to Self-Host Your Own Email Server &lpar;And Stop Depending on Third Parties&rpar;](https://dev.to/alanwest/how-to-self-host-your-own-email-server-and-stop-depending-on-third-parties-3lb4)
+- [Scaling AI Agents from 10 to 10,000 — Governance Lessons from the Trenches](https://dev.to/zhangzeyu/scaling-ai-agents-from-10-to-10000-governance-lessons-from-the-trenches-31pd)
+- [I Put an AI Agent in My Incident Workflow for 7 Days. Here’s What Actually Broke.](https://dev.to/ravi_teja_8b63d9205dc7a13/i-put-an-ai-agent-in-my-incident-workflow-for-7-days-heres-what-actually-broke-4jlc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
