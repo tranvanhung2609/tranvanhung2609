@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Accidentally Pasted a Password or API Key — What to Do Next](https://dev.to/alokt/i-accidentally-pasted-a-password-or-api-key-what-to-do-next-24n8)
-- [CVE-2026-33105 AKS CVSS 10.0 Emergency Analysis and Complete Guide to Managed Kubernetes Zero Trust Security](https://dev.to/x4nent/cve-2026-33105-aks-cvss-100-emergency-analysis-and-complete-guide-to-managed-kubernetes-zero-trust-4oea)
-- [8 Grep Commands That Detect AI Agent Prompt Injection in Your Repos](https://dev.to/mycelnet/8-grep-commands-that-detect-ai-agent-prompt-injection-in-your-repos-69b)
-- [How to Self-Host Your Own Email Server &lpar;And Stop Depending on Third Parties&rpar;](https://dev.to/alanwest/how-to-self-host-your-own-email-server-and-stop-depending-on-third-parties-3lb4)
-- [Scaling AI Agents from 10 to 10,000 — Governance Lessons from the Trenches](https://dev.to/zhangzeyu/scaling-ai-agents-from-10-to-10000-governance-lessons-from-the-trenches-31pd)
-- [I Put an AI Agent in My Incident Workflow for 7 Days. Here’s What Actually Broke.](https://dev.to/ravi_teja_8b63d9205dc7a13/i-put-an-ai-agent-in-my-incident-workflow-for-7-days-heres-what-actually-broke-4jlc)
+- [Free Rugby World Cup Live Streams 2026 – Safe &amp; Legal Methods](https://dev.to/turbosportstv1/free-rugby-world-cup-live-streams-2026-safe-legal-methods-21mk)
+- [How to Debug gRPC Services](https://dev.to/aicontentlab/how-to-debug-grpc-services-32km)
+- [How to Debug Go Applications in Kubernetes](https://dev.to/aicontentlab/how-to-debug-go-applications-in-kubernetes-3jdf)
+- [Azure Project Setup : Resource Group, VNet, VM &amp; Storage](https://dev.to/faynessa/azure-project-setup-resource-group-vnet-vm-storage-1pk4)
+- [LLM Cost Monitoring with OpenTelemetry](https://dev.to/uptrace/llm-cost-monitoring-with-opentelemetry-4ab5)
+- [How Do QR Codes Actually Work? &lpar;I Tried Explaining It Simply&rpar;](https://dev.to/bitorsic/how-do-qr-codes-actually-work-i-tried-explaining-it-simply-649)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
