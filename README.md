@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Master Azure DevOps Engineer Expert AZ-400 Certification for Cloud Careers](https://dev.to/zainab_1201/master-azure-devops-engineer-expert-az-400-certification-for-cloud-careers-1lmg)
-- [From Crash Loops to Self-Healing Infrastructure](https://dev.to/levelsofself/from-crash-loops-to-self-healing-infrastructure-4hoo)
-- [How Architecture Leaves Fingerprints in Latency Data](https://dev.to/michau_b_0e5872eab4faeda2/how-architecture-leaves-fingerprints-in-latency-data-o7l)
-- [Distributed Systems: Where Physics, Murphy&#39;s Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)
-- [DORA Report Takeaways + Build Your Own DORA Metrics Dashboard with MCP!](https://dev.to/pavanbelagatti/dora-report-takeaways-build-your-own-dora-metrics-dashboard-with-mcp-421o)
-- [Terraform vs OpenTofu &lpar;2026&rpar;: Should You Switch After the BSL Change?](https://dev.to/ntctech/terraform-vs-opentofu-2026-should-you-switch-after-the-bsl-change-3lo3)
+- [Your AI Linter Has Amnesia — Here&#39;s How We Fixed It with Vector Memory](https://dev.to/nihan_nihuu/your-ai-linter-has-amnesia-heres-how-we-fixed-it-with-vector-memory-344)
+- [[e2e audit test 1775759776] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775759776-devops-start-audit-probe-delete-me-5ed1)
+- [[e2e audit test 1775759676] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775759676-devops-start-audit-probe-delete-me-58kf)
+- [Advanced Web and Application Architecture on Google Cloud](https://dev.to/shehzad_aa295a34ed36ff9bd/advanced-web-and-application-architecture-on-google-cloud-1hce)
+- [4 Kubernetes Hands-on Labs: Pods, Dashboard, Versioning, and Resource Limits](https://dev.to/labex/4-kubernetes-hands-on-labs-pods-dashboard-versioning-and-resource-limits-5ai7)
+- [Conditional Cancellation in Java 21: When Sibling Work Should Stop](https://dev.to/salgotraja/conditional-cancellation-in-java-21-when-sibling-work-should-stop-2pkj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
