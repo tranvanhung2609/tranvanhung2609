@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Free Rugby World Cup Live Streams 2026 – Safe &amp; Legal Methods](https://dev.to/turbosportstv1/free-rugby-world-cup-live-streams-2026-safe-legal-methods-21mk)
-- [How to Debug gRPC Services](https://dev.to/aicontentlab/how-to-debug-grpc-services-32km)
-- [How to Debug Go Applications in Kubernetes](https://dev.to/aicontentlab/how-to-debug-go-applications-in-kubernetes-3jdf)
-- [Azure Project Setup : Resource Group, VNet, VM &amp; Storage](https://dev.to/faynessa/azure-project-setup-resource-group-vnet-vm-storage-1pk4)
-- [LLM Cost Monitoring with OpenTelemetry](https://dev.to/uptrace/llm-cost-monitoring-with-opentelemetry-4ab5)
-- [How Do QR Codes Actually Work? &lpar;I Tried Explaining It Simply&rpar;](https://dev.to/bitorsic/how-do-qr-codes-actually-work-i-tried-explaining-it-simply-649)
+- [Master Azure DevOps Engineer Expert AZ-400 Certification for Cloud Careers](https://dev.to/zainab_1201/master-azure-devops-engineer-expert-az-400-certification-for-cloud-careers-1lmg)
+- [From Crash Loops to Self-Healing Infrastructure](https://dev.to/levelsofself/from-crash-loops-to-self-healing-infrastructure-4hoo)
+- [How Architecture Leaves Fingerprints in Latency Data](https://dev.to/michau_b_0e5872eab4faeda2/how-architecture-leaves-fingerprints-in-latency-data-o7l)
+- [Distributed Systems: Where Physics, Murphy&#39;s Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)
+- [DORA Report Takeaways + Build Your Own DORA Metrics Dashboard with MCP!](https://dev.to/pavanbelagatti/dora-report-takeaways-build-your-own-dora-metrics-dashboard-with-mcp-421o)
+- [Terraform vs OpenTofu &lpar;2026&rpar;: Should You Switch After the BSL Change?](https://dev.to/ntctech/terraform-vs-opentofu-2026-should-you-switch-after-the-bsl-change-3lo3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
