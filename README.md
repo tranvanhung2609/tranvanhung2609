@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Linter Has Amnesia — Here&#39;s How We Fixed It with Vector Memory](https://dev.to/nihan_nihuu/your-ai-linter-has-amnesia-heres-how-we-fixed-it-with-vector-memory-344)
-- [[e2e audit test 1775759776] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775759776-devops-start-audit-probe-delete-me-5ed1)
-- [[e2e audit test 1775759676] DevOps Start Audit Probe — Delete Me](https://dev.to/devopsstart/e2e-audit-test-1775759676-devops-start-audit-probe-delete-me-58kf)
-- [Advanced Web and Application Architecture on Google Cloud](https://dev.to/shehzad_aa295a34ed36ff9bd/advanced-web-and-application-architecture-on-google-cloud-1hce)
-- [4 Kubernetes Hands-on Labs: Pods, Dashboard, Versioning, and Resource Limits](https://dev.to/labex/4-kubernetes-hands-on-labs-pods-dashboard-versioning-and-resource-limits-5ai7)
-- [Conditional Cancellation in Java 21: When Sibling Work Should Stop](https://dev.to/salgotraja/conditional-cancellation-in-java-21-when-sibling-work-should-stop-2pkj)
+- [Darren Chaker on Red Teaming and Offensive Security](https://dev.to/darrenchaker/darren-chaker-on-red-teaming-and-offensive-security-2nk8)
+- [Building a Zero-Trust Golang Backend &lpar;Part 2&rpar;: CI/CD, Dependency Drift &amp; GCP IAM ⚙️🔒](https://dev.to/mohammadanang/building-a-zero-trust-golang-backend-part-2-cicd-dependency-drift-gcp-iam-2jkh)
+- [Preparing for Automation Engineer Interviews: Focus on Technical and Collaborative Skills](https://dev.to/maricode/preparing-for-automation-engineer-interviews-focus-on-technical-and-collaborative-skills-1a4b)
+- [NEXT LEVEL LAB — DevOps API Testing &lpar;AWS + Auth + CI/CD mindset&rpar;](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57)
+- [Project Experience 2021-2023](https://dev.to/prasanna_kumar/project-experience-2021-2023-3869)
+- [Build a Task Manager with Django MongoDB Backend](https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
