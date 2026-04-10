@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Agent AI Systems in 2026: A2A, Observability, and Verifiable Execution](https://dev.to/chunxiaoxx/building-multi-agent-ai-systems-in-2026-a2a-observability-and-verifiable-execution-4392)
-- [How I Set Up a Self-Hosted Azure DevOps Agent on Ubuntu &lpar;And What I Learned the Hard Way&rpar;](https://dev.to/vivian_okose/how-i-set-up-a-self-hosted-azure-devops-agent-on-ubuntu-and-what-i-learned-the-hard-way-i30)
-- [Velero Going CNCF Isn&#39;t About Backup. It&#39;s About Control.](https://dev.to/ntctech/velero-going-cncf-isnt-about-backup-its-about-control-3lp7)
-- [Azure Kubernetes Security: Checklist and Best Practices](https://dev.to/mohamed_amine_hlali/azure-kubernetes-security-checklist-and-best-practices-3e89)
-- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-5268)
-- [Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)
+- [The Cron Job That Lied to You](https://dev.to/ramon_galego/the-cron-job-that-lied-to-you-26nh)
+- [The Cron Job That Lied to You](https://dev.to/ramon_galego/the-cron-job-that-lied-to-you-26nh)
+- [I got cryptomined 5 times in 10 days. Here&#39;s my story 🧵](https://dev.to/dd_aa_abaee26be1a34448721/i-got-cryptomined-5-times-in-10-days-heres-my-story-48ab)
+- [HIPAA Security for FQHCs: What IT Teams at Community Health Centers Need to Know](https://dev.to/joegellatly/hipaa-security-for-fqhcs-what-it-teams-at-community-health-centers-need-to-know-1n50)
+- [Secure TrueNAS Plex Setup for Your Homelab](https://dev.to/orthogonalinfo/secure-truenas-plex-setup-for-your-homelab-42i3)
+- [Looking for feedback on my own programming language &lpar;Siyo&rpar;](https://dev.to/urunsiyabend/looking-for-feedback-on-my-own-programming-language-siyo-22d3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
