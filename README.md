@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Certified DevOps Architect: A Practical Guide for Growth into Architecture Roles](https://dev.to/kritikacotocus/certified-devops-architect-a-practical-guide-for-growth-into-architecture-roles-4nj)
-- [Beyond the Desk: Setting Up a Resilient Remote Dev Environment in 2026](https://dev.to/yuki_wu_1f2d9adc998a1ef41/beyond-the-desk-setting-up-a-resilient-remote-dev-environment-in-2026-2e1f)
-- [Notification Rules Engine Patterns and Tradeoffs](https://dev.to/beefedai/notification-rules-engine-patterns-and-tradeoffs-57c2)
-- [IPI-Scanner: Detecting Indirect Prompt Injection Attacks Before Your LLM Reads Them](https://dev.to/xamitgupta/ipi-scanner-detecting-indirect-prompt-injection-attacks-before-your-llm-reads-them-2jba)
-- [Mastering Kubernetes CRDs for Custom Resources](https://dev.to/aicontentlab/mastering-kubernetes-crds-for-custom-resources-2moi)
-- [Stop Assuming API Testing is Only for Large Apps - Boost Qua](https://dev.to/pratik_kasbe/stop-assuming-api-testing-is-only-for-large-apps-boost-qua-1292)
+- [Building Multi-Agent AI Systems in 2026: A2A, Observability, and Verifiable Execution](https://dev.to/chunxiaoxx/building-multi-agent-ai-systems-in-2026-a2a-observability-and-verifiable-execution-4392)
+- [How I Set Up a Self-Hosted Azure DevOps Agent on Ubuntu &lpar;And What I Learned the Hard Way&rpar;](https://dev.to/vivian_okose/how-i-set-up-a-self-hosted-azure-devops-agent-on-ubuntu-and-what-i-learned-the-hard-way-i30)
+- [Velero Going CNCF Isn&#39;t About Backup. It&#39;s About Control.](https://dev.to/ntctech/velero-going-cncf-isnt-about-backup-its-about-control-3lp7)
+- [Azure Kubernetes Security: Checklist and Best Practices](https://dev.to/mohamed_amine_hlali/azure-kubernetes-security-checklist-and-best-practices-3e89)
+- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-5268)
+- [Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
