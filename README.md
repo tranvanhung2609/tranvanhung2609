@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Darren Chaker on Red Teaming and Offensive Security](https://dev.to/darrenchaker/darren-chaker-on-red-teaming-and-offensive-security-2nk8)
-- [Building a Zero-Trust Golang Backend &lpar;Part 2&rpar;: CI/CD, Dependency Drift &amp; GCP IAM ⚙️🔒](https://dev.to/mohammadanang/building-a-zero-trust-golang-backend-part-2-cicd-dependency-drift-gcp-iam-2jkh)
-- [Preparing for Automation Engineer Interviews: Focus on Technical and Collaborative Skills](https://dev.to/maricode/preparing-for-automation-engineer-interviews-focus-on-technical-and-collaborative-skills-1a4b)
-- [NEXT LEVEL LAB — DevOps API Testing &lpar;AWS + Auth + CI/CD mindset&rpar;](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57)
-- [Project Experience 2021-2023](https://dev.to/prasanna_kumar/project-experience-2021-2023-3869)
-- [Build a Task Manager with Django MongoDB Backend](https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3)
+- [Certified DevOps Architect: A Practical Guide for Growth into Architecture Roles](https://dev.to/kritikacotocus/certified-devops-architect-a-practical-guide-for-growth-into-architecture-roles-4nj)
+- [Beyond the Desk: Setting Up a Resilient Remote Dev Environment in 2026](https://dev.to/yuki_wu_1f2d9adc998a1ef41/beyond-the-desk-setting-up-a-resilient-remote-dev-environment-in-2026-2e1f)
+- [Notification Rules Engine Patterns and Tradeoffs](https://dev.to/beefedai/notification-rules-engine-patterns-and-tradeoffs-57c2)
+- [IPI-Scanner: Detecting Indirect Prompt Injection Attacks Before Your LLM Reads Them](https://dev.to/xamitgupta/ipi-scanner-detecting-indirect-prompt-injection-attacks-before-your-llm-reads-them-2jba)
+- [Mastering Kubernetes CRDs for Custom Resources](https://dev.to/aicontentlab/mastering-kubernetes-crds-for-custom-resources-2moi)
+- [Stop Assuming API Testing is Only for Large Apps - Boost Qua](https://dev.to/pratik_kasbe/stop-assuming-api-testing-is-only-for-large-apps-boost-qua-1292)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
