@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting kubectl Commands to Debug Pods](https://dev.to/gauravtayade11/stop-copy-pasting-kubectl-commands-to-debug-pods-d9b)
-- [Database Connection Pooling: What Every Backend Developer Should Know](https://dev.to/dylan_dumont_266378d98367/database-connection-pooling-what-every-backend-developer-should-know-1cb6)
-- [UNLEASHING FASTAPI FURY: Routing Secrets and Doc Automation Explode Your Coding Productivity Forever](https://dev.to/codingmavrick/unleashing-fastapi-fury-routing-secrets-and-doc-automation-explode-your-coding-productivity-forever-45mg)
-- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
-- [The Hidden Risks of Public Wi-Fi Networks](https://dev.to/harsh_hak/the-hidden-risks-of-public-wi-fi-networks-2f75)
-- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
+- [Two-Phase Commit Demystified: When Distributed Transactions Are Unavoidable](https://dev.to/dylan_dumont_266378d98367/two-phase-commit-demystified-when-distributed-transactions-are-unavoidable-1678)
+- [containerd vs CRI-O: Memory Overhead at Scale &lpar;Real Node Density Limits&rpar;](https://dev.to/ntctech/containerd-vs-cri-o-memory-overhead-at-scale-real-node-density-limits-1fil)
+- [Building Automated Translation Workflows for Developer Content](https://dev.to/diogoheleno/building-automated-translation-workflows-for-developer-content-4904)
+- [Web Developer Travis McCracken on Writing Middleware in Go for Fun &amp; Profit](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-writing-middleware-in-go-for-fun-profit-2hb7)
+- [Why We Stopped Using `echo | base64 -d` for JSON Distribution Over SSH](https://dev.to/linou518/why-we-stopped-using-echo-base64-d-for-json-distribution-over-ssh-5d98)
+- [The Code Exists, But the Feature Still Fails: Fixing Runtime Drift in OpenClaw Operations](https://dev.to/linou518/the-code-exists-but-the-feature-still-fails-fixing-runtime-drift-in-openclaw-operations-1hab)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
