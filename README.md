@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Cron Job That Lied to You](https://dev.to/ramon_galego/the-cron-job-that-lied-to-you-26nh)
-- [The Cron Job That Lied to You](https://dev.to/ramon_galego/the-cron-job-that-lied-to-you-26nh)
-- [I got cryptomined 5 times in 10 days. Here&#39;s my story 🧵](https://dev.to/dd_aa_abaee26be1a34448721/i-got-cryptomined-5-times-in-10-days-heres-my-story-48ab)
-- [HIPAA Security for FQHCs: What IT Teams at Community Health Centers Need to Know](https://dev.to/joegellatly/hipaa-security-for-fqhcs-what-it-teams-at-community-health-centers-need-to-know-1n50)
-- [Secure TrueNAS Plex Setup for Your Homelab](https://dev.to/orthogonalinfo/secure-truenas-plex-setup-for-your-homelab-42i3)
-- [Looking for feedback on my own programming language &lpar;Siyo&rpar;](https://dev.to/urunsiyabend/looking-for-feedback-on-my-own-programming-language-siyo-22d3)
+- [Is OpenAI Down? Real-Time AI Provider Status Monitoring](https://dev.to/lazymac2x/is-openai-down-real-time-ai-provider-status-monitoring-59g1)
+- [AI Agent Rate Limits: Track, Predict, and Never Hit the Wall Again](https://dev.to/lazymac2x/ai-agent-rate-limits-track-predict-and-never-hit-the-wall-again-20n)
+- [Optimize Cloud Costs with Spot Instances Strategy](https://dev.to/aicontentlab/optimize-cloud-costs-with-spot-instances-strategy-4bnh)
+- [Backend Developer Resume Example &lpar;APIs &amp; Microservices&rpar; 2026](https://dev.to/sarah_m/backend-developer-resume-example-apis-microservices-2026-5337)
+- [How to Prove Compliance in AI-Generated Code](https://dev.to/max_gerhardson_9a99976541/how-to-prove-compliance-in-ai-generated-code-3f9j)
+- [DevOps Engineer Resume Example &lpar;Docker, Kubernetes, Terraform&rpar; 2026](https://dev.to/sarah_m/devops-engineer-resume-example-docker-kubernetes-terraform-2026-28nh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
