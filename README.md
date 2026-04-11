@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is OpenAI Down? Real-Time AI Provider Status Monitoring](https://dev.to/lazymac2x/is-openai-down-real-time-ai-provider-status-monitoring-59g1)
-- [AI Agent Rate Limits: Track, Predict, and Never Hit the Wall Again](https://dev.to/lazymac2x/ai-agent-rate-limits-track-predict-and-never-hit-the-wall-again-20n)
-- [Optimize Cloud Costs with Spot Instances Strategy](https://dev.to/aicontentlab/optimize-cloud-costs-with-spot-instances-strategy-4bnh)
-- [Backend Developer Resume Example &lpar;APIs &amp; Microservices&rpar; 2026](https://dev.to/sarah_m/backend-developer-resume-example-apis-microservices-2026-5337)
-- [How to Prove Compliance in AI-Generated Code](https://dev.to/max_gerhardson_9a99976541/how-to-prove-compliance-in-ai-generated-code-3f9j)
-- [DevOps Engineer Resume Example &lpar;Docker, Kubernetes, Terraform&rpar; 2026](https://dev.to/sarah_m/devops-engineer-resume-example-docker-kubernetes-terraform-2026-28nh)
+- [Stop Copy-Pasting kubectl Commands to Debug Pods](https://dev.to/gauravtayade11/stop-copy-pasting-kubectl-commands-to-debug-pods-d9b)
+- [Database Connection Pooling: What Every Backend Developer Should Know](https://dev.to/dylan_dumont_266378d98367/database-connection-pooling-what-every-backend-developer-should-know-1cb6)
+- [UNLEASHING FASTAPI FURY: Routing Secrets and Doc Automation Explode Your Coding Productivity Forever](https://dev.to/codingmavrick/unleashing-fastapi-fury-routing-secrets-and-doc-automation-explode-your-coding-productivity-forever-45mg)
+- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
+- [The Hidden Risks of Public Wi-Fi Networks](https://dev.to/harsh_hak/the-hidden-risks-of-public-wi-fi-networks-2f75)
+- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
