@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Two-Phase Commit Demystified: When Distributed Transactions Are Unavoidable](https://dev.to/dylan_dumont_266378d98367/two-phase-commit-demystified-when-distributed-transactions-are-unavoidable-1678)
-- [containerd vs CRI-O: Memory Overhead at Scale &lpar;Real Node Density Limits&rpar;](https://dev.to/ntctech/containerd-vs-cri-o-memory-overhead-at-scale-real-node-density-limits-1fil)
-- [Building Automated Translation Workflows for Developer Content](https://dev.to/diogoheleno/building-automated-translation-workflows-for-developer-content-4904)
-- [Web Developer Travis McCracken on Writing Middleware in Go for Fun &amp; Profit](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-writing-middleware-in-go-for-fun-profit-2hb7)
-- [Why We Stopped Using `echo | base64 -d` for JSON Distribution Over SSH](https://dev.to/linou518/why-we-stopped-using-echo-base64-d-for-json-distribution-over-ssh-5d98)
-- [The Code Exists, But the Feature Still Fails: Fixing Runtime Drift in OpenClaw Operations](https://dev.to/linou518/the-code-exists-but-the-feature-still-fails-fixing-runtime-drift-in-openclaw-operations-1hab)
+- [Financial Systems as Composed State Machines: Correctness, Authority, and System Integrity](https://dev.to/doomhammerhell/financial-systems-as-composed-state-machines-correctness-authority-and-system-integrity-14e9)
+- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea)
+- [GitOps vs GitHub Actions: Security-First in Production](https://dev.to/orthogonalinfo/gitops-vs-github-actions-security-first-in-production-18in)
+- [Optimizing Threat Detection in Java: Using PriorityQueues for Real-Time Systems](https://dev.to/ziyad_lahraoui_d04f0f09f6/optimizing-threat-detection-in-java-using-priorityqueues-for-real-time-systems-99l)
+- [Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience](https://dev.to/shubhamkcloud/upgrading-an-amazon-eks-cluster-a-practical-step-by-step-guide-from-real-world-experience-47gl)
+- [I Built a CLI That Caught 33,531 Tokens of Startup Bloat in My Agent Project](https://dev.to/darshan_k/i-built-a-cli-that-caught-33531-tokens-of-startup-bloat-in-my-agent-project-2co6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
