@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Financial Systems as Composed State Machines: Correctness, Authority, and System Integrity](https://dev.to/doomhammerhell/financial-systems-as-composed-state-machines-correctness-authority-and-system-integrity-14e9)
-- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea)
-- [GitOps vs GitHub Actions: Security-First in Production](https://dev.to/orthogonalinfo/gitops-vs-github-actions-security-first-in-production-18in)
-- [Optimizing Threat Detection in Java: Using PriorityQueues for Real-Time Systems](https://dev.to/ziyad_lahraoui_d04f0f09f6/optimizing-threat-detection-in-java-using-priorityqueues-for-real-time-systems-99l)
-- [Upgrading an Amazon EKS Cluster: A Practical Step-by-Step Guide from Real-World Experience](https://dev.to/shubhamkcloud/upgrading-an-amazon-eks-cluster-a-practical-step-by-step-guide-from-real-world-experience-47gl)
-- [I Built a CLI That Caught 33,531 Tokens of Startup Bloat in My Agent Project](https://dev.to/darshan_k/i-built-a-cli-that-caught-33531-tokens-of-startup-bloat-in-my-agent-project-2co6)
+- [Still Waiting for DDR3 Prices to Rise? Here&#39;s What 2TB of Server RAM Is Really Worth in 2026](https://dev.to/mcgregor_c2ef8e78244eb422/still-waiting-for-ddr3-prices-to-rise-heres-what-2tb-of-server-ram-is-really-worth-in-2026-3d2f)
+- [How I Reclaimed 32 Hours/Week with DIY AI Agents &lpar;OpenClaw Case Study&rpar;](https://dev.to/agencyboxx/how-i-reclaimed-32-hoursweek-with-diy-ai-agents-openclaw-case-study-1bp0)
+- [Kubernetes PersistentVolumeClaim Stuck in Pending](https://dev.to/aicontentlab/kubernetes-persistentvolumeclaim-stuck-in-pending-5g68)
+- [Understanding Ansible Variable Precedence](https://dev.to/aicontentlab/understanding-ansible-variable-precedence-3gd3)
+- [Getting Started with Amazon CloudWatch](https://dev.to/durrello/getting-started-with-amazon-cloudwatch-5cca)
+- [Observability for Agentic Systems: Why Your Dashboards Are Lying to You](https://dev.to/practiceoverflow/observability-for-agentic-systems-why-your-dashboards-are-lying-to-you-2boo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
