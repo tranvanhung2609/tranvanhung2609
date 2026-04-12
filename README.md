@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement Circuit Breaker Pattern](https://dev.to/aicontentlab/how-to-implement-circuit-breaker-pattern-7mm)
-- [Vertex AI Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/vertex-ai-endpoints-deploy-your-model-to-production-with-terraform-17f)
-- [Why the Cloud Is the Default](https://dev.to/vivian-voss/why-the-cloud-is-the-default-1k1b)
-- [7 Key Reasons Node.js Is the Best Choice for Web Development in 2026](https://dev.to/serveravatar/7-key-reasons-nodejs-is-the-best-choice-for-web-development-in-2026-247o)
-- [What 99.9% Uptime Actually Means: 8.7 Hours of Downtime Per Year](https://dev.to/alertsleep/what-999-uptime-actually-means-87-hours-of-downtime-per-year-33k)
-- [Is Railway Reliable for Internal Tools in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-internal-tools-in-2026-5fc6)
+- [How to Harden Your Linux VPS in 10 Minutes](https://dev.to/byte-guard/how-to-harden-your-linux-vps-in-10-minutes-5dgo)
+- [I stopped trying to learn every DevOps tool. So I built my own.](https://dev.to/alvarito1983/i-stopped-trying-to-learn-every-devops-tool-so-i-built-my-own-30cp)
+- [When the Code Exists but Production Still Fails: Why Runtime Drift Should Be Your First Suspect](https://dev.to/linou518/when-the-code-exists-but-production-still-fails-why-runtime-drift-should-be-your-first-suspect-7d9)
+- [Web Developer Travis McCracken on Favorite Linters for Go and Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-favorite-linters-for-go-and-rust-42j3)
+- [Weekly DevOps Trend](https://dev.to/vpravhi360/weekly-devops-trend-2kbh)
+- [The &quot;API Wallet Assassin&quot; and 5 Other Hidden Costs of Self-Hosting OpenClaw in 2026](https://dev.to/deployagents/the-api-wallet-assassin-and-5-other-hidden-costs-of-self-hosting-openclaw-in-2026-knj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
