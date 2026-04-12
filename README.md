@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Harden Your Linux VPS in 10 Minutes](https://dev.to/byte-guard/how-to-harden-your-linux-vps-in-10-minutes-5dgo)
-- [I stopped trying to learn every DevOps tool. So I built my own.](https://dev.to/alvarito1983/i-stopped-trying-to-learn-every-devops-tool-so-i-built-my-own-30cp)
-- [When the Code Exists but Production Still Fails: Why Runtime Drift Should Be Your First Suspect](https://dev.to/linou518/when-the-code-exists-but-production-still-fails-why-runtime-drift-should-be-your-first-suspect-7d9)
-- [Web Developer Travis McCracken on Favorite Linters for Go and Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-favorite-linters-for-go-and-rust-42j3)
-- [Weekly DevOps Trend](https://dev.to/vpravhi360/weekly-devops-trend-2kbh)
-- [The &quot;API Wallet Assassin&quot; and 5 Other Hidden Costs of Self-Hosting OpenClaw in 2026](https://dev.to/deployagents/the-api-wallet-assassin-and-5-other-hidden-costs-of-self-hosting-openclaw-in-2026-knj)
+- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3gaf)
+- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
+- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
+- [How We Built a 6-Agent Autonomous Dev Team That Runs 24/7](https://dev.to/delmar_olivier_155f48bed1/how-we-built-a-6-agent-autonomous-dev-team-that-runs-247-cd)
+- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
+- [Why can two Docker containers ping each other by name but one cannot make HTTP requests to the other?](https://dev.to/fivenineslab_30/why-can-two-docker-containers-ping-each-other-by-name-but-one-cannot-make-http-requests-to-the-i93)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
