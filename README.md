@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Migrated 6 Skills From Manus AI to a OpenClaw VPS](https://dev.to/benutting/how-i-migrated-6-skills-from-manus-ai-to-a-openclaw-vps-32ae)
-- [Fast and Efficient](https://dev.to/sujjawal22/fast-and-efficient-16hm)
-- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
-- [How I built a Zero-Trust JWT Inspector that runs entirely in the browser](https://dev.to/abestdev/how-i-built-a-zero-trust-jwt-inspector-that-runs-entirely-in-the-browser-2j4e)
-- [Azure ML Online Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/azure-ml-online-endpoints-deploy-your-model-to-production-with-terraform-4730)
-- [White Box vs Black Box Penetration Testing Explained](https://dev.to/petr_patek_12/white-box-vs-black-box-penetration-testing-explained-35lg)
+- [👉 “Okta Users &amp; Groups Explained: The Right Way to Manage Access”](https://dev.to/pooja_verma_6d038217d7d68/okta-users-groups-explained-the-right-way-to-manage-access-2f30)
+- [Traditional Monitoring vs Observability: What Actually Matters in Modern IT](https://dev.to/ramya_krishna_2359626841b/traditional-monitoring-vs-observability-what-actually-matters-in-modern-it-4fno)
+- [We came a long way building MYQER™](https://dev.to/myqer_app_6825c2de8fe1f6a/we-came-a-long-way-building-myqer-5d78)
+- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect &amp; Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1)
+- [Monorepo or Multirepo? Structuring a Scalable Fullstack Project for Peak Productivity](https://dev.to/devactivity/monorepo-or-multirepo-structuring-a-scalable-fullstack-project-for-peak-productivity-256j)
+- [Web Developer Travis McCracken on Learning Rust Made Me a Better Go Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-rust-made-me-a-better-go-dev-kf8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
