@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a27)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a27)
-- [How I Secured a Linux Server from Scratch: HNG DevOps Stage 0](https://dev.to/gideonbature/how-i-secured-a-linux-server-from-scratch-hng-devops-stage-0-341b)
-- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj)
-- [Docker Compose Explained: One File, One Container &lpar;2026&rpar;](https://dev.to/davidtio/docker-compose-explained-one-file-one-container-2026-38m6)
-- [How I Cut Our AI Agent Token Costs by 73% Without Sacrificing Quality](https://dev.to/rapidclaw/how-i-cut-our-ai-agent-token-costs-by-73-without-sacrificing-quality-31pn)
+- [How I Migrated 6 Skills From Manus AI to a OpenClaw VPS](https://dev.to/benutting/how-i-migrated-6-skills-from-manus-ai-to-a-openclaw-vps-32ae)
+- [Fast and Efficient](https://dev.to/sujjawal22/fast-and-efficient-16hm)
+- [Why Real-Time Prompt Filtering Is Critical for AI Data Security in 2026](https://dev.to/langprotect/why-real-time-prompt-filtering-is-critical-for-ai-data-security-in-2026-5hmi)
+- [How I built a Zero-Trust JWT Inspector that runs entirely in the browser](https://dev.to/abestdev/how-i-built-a-zero-trust-jwt-inspector-that-runs-entirely-in-the-browser-2j4e)
+- [Azure ML Online Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/azure-ml-online-endpoints-deploy-your-model-to-production-with-terraform-4730)
+- [White Box vs Black Box Penetration Testing Explained](https://dev.to/petr_patek_12/white-box-vs-black-box-penetration-testing-explained-35lg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
