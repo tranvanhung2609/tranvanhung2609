@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3gaf)
-- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
-- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
-- [How We Built a 6-Agent Autonomous Dev Team That Runs 24/7](https://dev.to/delmar_olivier_155f48bed1/how-we-built-a-6-agent-autonomous-dev-team-that-runs-247-cd)
-- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
-- [Why can two Docker containers ping each other by name but one cannot make HTTP requests to the other?](https://dev.to/fivenineslab_30/why-can-two-docker-containers-ping-each-other-by-name-but-one-cannot-make-http-requests-to-the-i93)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a27)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4a27)
+- [How I Secured a Linux Server from Scratch: HNG DevOps Stage 0](https://dev.to/gideonbature/how-i-secured-a-linux-server-from-scratch-hng-devops-stage-0-341b)
+- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj)
+- [Docker Compose Explained: One File, One Container &lpar;2026&rpar;](https://dev.to/davidtio/docker-compose-explained-one-file-one-container-2026-38m6)
+- [How I Cut Our AI Agent Token Costs by 73% Without Sacrificing Quality](https://dev.to/rapidclaw/how-i-cut-our-ai-agent-token-costs-by-73-without-sacrificing-quality-31pn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
