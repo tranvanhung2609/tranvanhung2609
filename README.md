@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [👉 “Okta Users &amp; Groups Explained: The Right Way to Manage Access”](https://dev.to/pooja_verma_6d038217d7d68/okta-users-groups-explained-the-right-way-to-manage-access-2f30)
-- [Traditional Monitoring vs Observability: What Actually Matters in Modern IT](https://dev.to/ramya_krishna_2359626841b/traditional-monitoring-vs-observability-what-actually-matters-in-modern-it-4fno)
-- [We came a long way building MYQER™](https://dev.to/myqer_app_6825c2de8fe1f6a/we-came-a-long-way-building-myqer-5d78)
-- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect &amp; Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1)
-- [Monorepo or Multirepo? Structuring a Scalable Fullstack Project for Peak Productivity](https://dev.to/devactivity/monorepo-or-multirepo-structuring-a-scalable-fullstack-project-for-peak-productivity-256j)
-- [Web Developer Travis McCracken on Learning Rust Made Me a Better Go Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-rust-made-me-a-better-go-dev-kf8)
+- [Deploying a Node.js App to a VPS with PM2](https://dev.to/big_mazzy_06d057cc24398c5/deploying-a-nodejs-app-to-a-vps-with-pm2-2l3f)
+- [E-Invoicing in Germany: What Developers Need to Know &lpar;2027 Deadline&rpar;](https://dev.to/makririch/e-invoicing-in-germany-what-developers-need-to-know-2027-deadline-49gl)
+- [Disaster Recovery for Business Phone Systems: A Practical Plan](https://dev.to/dialphonelimited/disaster-recovery-for-business-phone-systems-a-practical-plan-4mde)
+- [Beyond Core Java: What Makes You a Professional Developer](https://dev.to/chaitanyakukwas1/beyond-core-java-what-makes-you-a-professional-developer-449g)
+- [From PBX to Cloud: A CTO&#39;s Honest Migration Diary](https://dev.to/dialphonelimited/from-pbx-to-cloud-a-ctos-honest-migration-diary-1apk)
+- [VoIP Quality Troubleshooting: A Sysadmin&#39;s Field Guide](https://dev.to/dialphonelimited/voip-quality-troubleshooting-a-sysadmins-field-guide-17m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
