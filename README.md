@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed a Correlated Subquery That Was Behaving Like an N+1 Problem in Production](https://dev.to/fazghfr/how-i-fixed-a-correlated-subquery-that-was-behaving-like-an-n1-problem-in-production-abn)
-- [Stop Putting Everything in the Service Class and Calling It Clean Architecture](https://dev.to/siddhesh_yellaram_5f1d2de/stop-putting-everything-in-the-service-class-and-calling-it-clean-architecture-3a82)
-- [IT Software Development Company in Bangalore Transforming Ideas into Reality | SyanSoft Technologies](https://dev.to/syansoft/it-software-development-company-in-bangalore-transforming-ideas-into-reality-syansoft-technologies-5h09)
-- [Why Checkov catches the WHAT but not the WHY](https://dev.to/rostyslav_myronenko_faf2f/why-checkov-catches-the-what-but-not-the-why-3mlk)
-- [3 Pillars of Modern Software Delivery: Speed, Security, and Quality in 2026](https://dev.to/barecheck/3-pillars-of-modern-software-delivery-speed-security-and-quality-in-2026-1747)
-- [How to Generate Unlimited Emails: Scale Your Gmail Farm Without the Risk of Blockages](https://dev.to/onlineproxy_io/how-to-generate-unlimited-emails-scale-your-gmail-farm-without-the-risk-of-blockages-1h5)
+- [58% of engineers spend 11+ hours per month validating AI code](https://dev.to/nigel_douglas/58-of-engineers-spend-11-hours-per-month-validating-ai-code-4jej)
+- [Blueprint: Designing a Rust-Based Financial Engine Architecture and DevOps Deployment Framework](https://dev.to/sufyanism/blueprint-designing-a-rust-based-financial-engine-architecture-and-devops-deployment-framework-43e1)
+- [在 Docker 和 Kubernetes 中使用 VPN：容器化应用的网络安全](https://dev.to/_e26ad6834f0ab0e5d004b/zai-docker-he-kubernetes-zhong-shi-yong-vpnrong-qi-hua-ying-yong-de-wang-luo-an-quan-27an)
+- [Achieving Pixel-Perfect PDF Rendering](https://dev.to/beefedai/achieving-pixel-perfect-pdf-rendering-35pm)
+- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o)
+- [Why I’m Not Building MYQER With AI or As an App](https://dev.to/myqer_app_6825c2de8fe1f6a/why-im-not-building-myqer-with-ai-or-as-an-app-242b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
