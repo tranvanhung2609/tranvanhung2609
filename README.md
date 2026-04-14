@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Node.js App to a VPS with PM2](https://dev.to/big_mazzy_06d057cc24398c5/deploying-a-nodejs-app-to-a-vps-with-pm2-2l3f)
-- [E-Invoicing in Germany: What Developers Need to Know &lpar;2027 Deadline&rpar;](https://dev.to/makririch/e-invoicing-in-germany-what-developers-need-to-know-2027-deadline-49gl)
-- [Disaster Recovery for Business Phone Systems: A Practical Plan](https://dev.to/dialphonelimited/disaster-recovery-for-business-phone-systems-a-practical-plan-4mde)
-- [Beyond Core Java: What Makes You a Professional Developer](https://dev.to/chaitanyakukwas1/beyond-core-java-what-makes-you-a-professional-developer-449g)
-- [From PBX to Cloud: A CTO&#39;s Honest Migration Diary](https://dev.to/dialphonelimited/from-pbx-to-cloud-a-ctos-honest-migration-diary-1apk)
-- [VoIP Quality Troubleshooting: A Sysadmin&#39;s Field Guide](https://dev.to/dialphonelimited/voip-quality-troubleshooting-a-sysadmins-field-guide-17m)
+- [Your AI Coding Assistant Is Watching Your Clipboard: A 2026 Secret Hygiene Playbook](https://dev.to/alokt/your-ai-coding-assistant-is-watching-your-clipboard-a-2026-secret-hygiene-playbook-5d3j)
+- [How to Debug CrashLoopBackOff in Kubernetes](https://dev.to/aicontentlab/how-to-debug-crashloopbackoff-in-kubernetes-4k)
+- [O Projeto Fênix e a TI que eu vivo todos os dias](https://dev.to/lzocate-li/o-projeto-fenix-e-a-ti-que-eu-vivo-todos-os-dias-4a12)
+- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
+- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
+- [Preventing duplicate requests with Idempotency](https://dev.to/sarupy/how-to-handle-idempotency-2nka)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
