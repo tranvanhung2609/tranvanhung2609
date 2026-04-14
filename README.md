@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Coding Assistant Is Watching Your Clipboard: A 2026 Secret Hygiene Playbook](https://dev.to/alokt/your-ai-coding-assistant-is-watching-your-clipboard-a-2026-secret-hygiene-playbook-5d3j)
-- [How to Debug CrashLoopBackOff in Kubernetes](https://dev.to/aicontentlab/how-to-debug-crashloopbackoff-in-kubernetes-4k)
-- [O Projeto Fênix e a TI que eu vivo todos os dias](https://dev.to/lzocate-li/o-projeto-fenix-e-a-ti-que-eu-vivo-todos-os-dias-4a12)
-- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
-- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
-- [Preventing duplicate requests with Idempotency](https://dev.to/sarupy/how-to-handle-idempotency-2nka)
+- [How I Fixed a Correlated Subquery That Was Behaving Like an N+1 Problem in Production](https://dev.to/fazghfr/how-i-fixed-a-correlated-subquery-that-was-behaving-like-an-n1-problem-in-production-abn)
+- [Stop Putting Everything in the Service Class and Calling It Clean Architecture](https://dev.to/siddhesh_yellaram_5f1d2de/stop-putting-everything-in-the-service-class-and-calling-it-clean-architecture-3a82)
+- [IT Software Development Company in Bangalore Transforming Ideas into Reality | SyanSoft Technologies](https://dev.to/syansoft/it-software-development-company-in-bangalore-transforming-ideas-into-reality-syansoft-technologies-5h09)
+- [Why Checkov catches the WHAT but not the WHY](https://dev.to/rostyslav_myronenko_faf2f/why-checkov-catches-the-what-but-not-the-why-3mlk)
+- [3 Pillars of Modern Software Delivery: Speed, Security, and Quality in 2026](https://dev.to/barecheck/3-pillars-of-modern-software-delivery-speed-security-and-quality-in-2026-1747)
+- [How to Generate Unlimited Emails: Scale Your Gmail Farm Without the Risk of Blockages](https://dev.to/onlineproxy_io/how-to-generate-unlimited-emails-scale-your-gmail-farm-without-the-risk-of-blockages-1h5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
