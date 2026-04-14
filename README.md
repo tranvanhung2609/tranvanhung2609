@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [58% of engineers spend 11+ hours per month validating AI code](https://dev.to/nigel_douglas/58-of-engineers-spend-11-hours-per-month-validating-ai-code-4jej)
-- [Blueprint: Designing a Rust-Based Financial Engine Architecture and DevOps Deployment Framework](https://dev.to/sufyanism/blueprint-designing-a-rust-based-financial-engine-architecture-and-devops-deployment-framework-43e1)
-- [在 Docker 和 Kubernetes 中使用 VPN：容器化应用的网络安全](https://dev.to/_e26ad6834f0ab0e5d004b/zai-docker-he-kubernetes-zhong-shi-yong-vpnrong-qi-hua-ying-yong-de-wang-luo-an-quan-27an)
-- [Achieving Pixel-Perfect PDF Rendering](https://dev.to/beefedai/achieving-pixel-perfect-pdf-rendering-35pm)
-- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o)
-- [Why I’m Not Building MYQER With AI or As an App](https://dev.to/myqer_app_6825c2de8fe1f6a/why-im-not-building-myqer-with-ai-or-as-an-app-242b)
+- [Why AI Agents Are the New Attack Vector](https://dev.to/anonymouscoderdev/the-perimeter-is-dead-attacks-defenses-and-the-gap-nobody-has-filled-in-agentic-ai-2o93)
+- [Choosing Between Managed and Unmanaged VPS Hosting](https://dev.to/big_mazzy_06d057cc24398c5/choosing-between-managed-and-unmanaged-vps-hosting-hf3)
+- [How to Host Multiple Websites on a Single VPS](https://dev.to/big_mazzy_06d057cc24398c5/how-to-host-multiple-websites-on-a-single-vps-4509)
+- [Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-42f8)
+- [Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-2063)
+- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
