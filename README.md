@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Are the New Attack Vector](https://dev.to/anonymouscoderdev/the-perimeter-is-dead-attacks-defenses-and-the-gap-nobody-has-filled-in-agentic-ai-2o93)
-- [Choosing Between Managed and Unmanaged VPS Hosting](https://dev.to/big_mazzy_06d057cc24398c5/choosing-between-managed-and-unmanaged-vps-hosting-hf3)
-- [How to Host Multiple Websites on a Single VPS](https://dev.to/big_mazzy_06d057cc24398c5/how-to-host-multiple-websites-on-a-single-vps-4509)
-- [Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-42f8)
-- [Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-2063)
-- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43)
+- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-58m1)
+- [I Built Faster With AI, But Felt Slower Mentally](https://dev.to/jaideepparashar/i-built-faster-with-ai-but-felt-slower-mentally-405k)
+- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-4987)
+- [How to Debug Kubernetes Deployment Not Updating](https://dev.to/aicontentlab/how-to-debug-kubernetes-deployment-not-updating-1k1p)
+- [I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second](https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5)
+- [Error Budgets in Practice: A No-BS Guide](https://dev.to/samson_tanimawo/error-budgets-in-practice-a-no-bs-guide-59fi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
