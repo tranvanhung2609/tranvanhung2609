@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA Ising: When GenAI and DevOps Meet Quantum Error Correction](https://dev.to/kaustubhyerkade/nvidia-ising-when-genai-and-devops-meet-quantum-error-correction-22b2)
-- [Post-Mortem Best Practices That Actually Drive Change](https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-3pin)
-- [Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀](https://dev.to/zenika/agent-development-kit-20-adk-java-11-et-go-10-2be5)
-- [Securing Kubernetes Clusters](https://dev.to/vpravhi360/securing-kubernetes-clusters-14oh)
-- [Post-Mortem Best Practices That Actually Drive Change](https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-5dgd)
-- [Fullstack login page](https://dev.to/benm7926/fullstack-login-page-3en9)
+- [Safe Database Deployment with Blue/Green Migrations - A Step-by-Step Guide](https://dev.to/mydbops/safe-database-deployment-with-bluegreen-migrations-a-step-by-step-guide-24ik)
+- [Essential Linux Commands Map](https://dev.to/altairlage/essential-linux-commands-map-2c72)
+- [Run Claude Code Agents on a Schedule in the Cloud](https://dev.to/oscdev/run-claude-code-agents-on-a-schedule-in-the-cloud-2lcl)
+- [Why I Let a Machine Judge My Code](https://dev.to/bash-thedev/why-i-let-a-machine-judge-my-code-42ca)
+- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-5h2j)
+- [Kubernetes Networking Visibility - Simplified with KubeHA](https://dev.to/kubeha_18/kubernetes-networking-visibility-simplified-with-kubeha-4hll)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
