@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Safe Database Deployment with Blue/Green Migrations - A Step-by-Step Guide](https://dev.to/mydbops/safe-database-deployment-with-bluegreen-migrations-a-step-by-step-guide-24ik)
-- [Essential Linux Commands Map](https://dev.to/altairlage/essential-linux-commands-map-2c72)
-- [Run Claude Code Agents on a Schedule in the Cloud](https://dev.to/oscdev/run-claude-code-agents-on-a-schedule-in-the-cloud-2lcl)
-- [Why I Let a Machine Judge My Code](https://dev.to/bash-thedev/why-i-let-a-machine-judge-my-code-42ca)
-- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-5h2j)
-- [Kubernetes Networking Visibility - Simplified with KubeHA](https://dev.to/kubeha_18/kubernetes-networking-visibility-simplified-with-kubeha-4hll)
+- [Troubleshooting High CPU and Memory Usage on Linux](https://dev.to/big_mazzy_06d057cc24398c5/troubleshooting-high-cpu-and-memory-usage-on-linux-4bon)
+- [Load Balancing with Nginx: Practical Examples](https://dev.to/big_mazzy_06d057cc24398c5/load-balancing-with-nginx-practical-examples-366c)
+- [Why AI coding agents keep forgetting everything &lpar;and how I fixed it with MCP memory&rpar;](https://dev.to/authora/why-ai-coding-agents-keep-forgetting-everything-and-how-i-fixed-it-with-mcp-memory-54j3)
+- [The Tradeoff Every Secrets Manager Forces on You &lpar;And Why It&#39;s the Server&#39;s Fault&rpar;](https://dev.to/clef_sh/the-tradeoff-every-secrets-manager-forces-on-you-and-why-its-the-servers-fault-5h0a)
+- [The Complete Guide to Building REST APIs - Updated April 15, 2026](https://dev.to/mukhtar_abdussalam_0de093/the-complete-guide-to-building-rest-apis-updated-april-15-2026-3lko)
+- [Building the First Lease-to-Own Platform for Digital Assets](https://dev.to/bitlease-official/building-the-first-lease-to-own-platform-for-digital-assets-25g6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
