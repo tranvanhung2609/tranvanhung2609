@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-58m1)
-- [I Built Faster With AI, But Felt Slower Mentally](https://dev.to/jaideepparashar/i-built-faster-with-ai-but-felt-slower-mentally-405k)
-- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-4987)
-- [How to Debug Kubernetes Deployment Not Updating](https://dev.to/aicontentlab/how-to-debug-kubernetes-deployment-not-updating-1k1p)
-- [I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second](https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5)
-- [Error Budgets in Practice: A No-BS Guide](https://dev.to/samson_tanimawo/error-budgets-in-practice-a-no-bs-guide-59fi)
+- [NVIDIA Ising: When GenAI and DevOps Meet Quantum Error Correction](https://dev.to/kaustubhyerkade/nvidia-ising-when-genai-and-devops-meet-quantum-error-correction-22b2)
+- [Post-Mortem Best Practices That Actually Drive Change](https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-3pin)
+- [Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀](https://dev.to/zenika/agent-development-kit-20-adk-java-11-et-go-10-2be5)
+- [Securing Kubernetes Clusters](https://dev.to/vpravhi360/securing-kubernetes-clusters-14oh)
+- [Post-Mortem Best Practices That Actually Drive Change](https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-5dgd)
+- [Fullstack login page](https://dev.to/benm7926/fullstack-login-page-3en9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
