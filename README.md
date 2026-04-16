@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Handling Large-Scale Transport Data Efficiently 🚚📊](https://dev.to/goutam_kumar_25db122cf377/handling-large-scale-transport-data-efficiently-3ep6)
-- [Python Architecture Masterclass: The 30-Day Synthesis &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-architecture-masterclass-the-30-day-synthesis-2026-10gn)
-- [I Stopped Watching Tutorials and Started Building a REST API in Go](https://dev.to/abhishek_sharma_a9792aee8/i-stopped-watching-tutorials-and-started-building-a-rest-api-in-go-4e84)
-- [Cost Optimization in DevSecOps](https://dev.to/17j/cost-optimization-in-devsecops-bo6)
-- [AI Cloud Security Is Broken. Here Is How to Fix It.](https://dev.to/scott_mcmahan_d085ae6e508/ai-cloud-security-is-broken-here-is-how-to-fix-it-fgo)
-- [Operators in Java – Complete Guide](https://dev.to/jayashree_a84b6eff7bc414e/operators-in-java-complete-guide-315k)
+- [🧬 Spec-Driven Development: An Evolutionary Approach](https://dev.to/patricio_renner_431a871be/spec-driven-development-an-evolutionary-approach-4elo)
+- [Spring Annotations Part2](https://dev.to/s_srikamini_bfb9ce2df10/spring-annotations-part2-1aj5)
+- [Prompt Hashing for Duplicate Detection: Cutting LLM Waste With SHA-256](https://dev.to/gauravdagde/prompt-hashing-for-duplicate-detection-cutting-llm-waste-with-sha-256-5hfm)
+- [Debugging Java Spring Boot APIs with LLM Agents: What Actually Works in Production](https://dev.to/pyhelp__5e8fe4425516/debugging-java-spring-boot-apis-with-llm-agents-what-actually-works-in-production-4886)
+- [Running a Midnight Node: Setup, Sync, and Monitoring](https://dev.to/tosh2308/running-a-midnight-node-setup-sync-and-monitoring-4ig6)
+- [Difference between static and non-static in java?](https://dev.to/sakthi_s_daa401cfb84f4108/difference-between-static-and-non-static-in-java-1g2e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
