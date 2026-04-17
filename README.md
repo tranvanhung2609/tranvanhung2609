@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building Authentication From Scratch in Go — No Libraries, No Magic](https://dev.to/abhishek_sharma_a9792aee8/building-authentication-from-scratch-in-go-no-libraries-no-magic-2c46)
-- [Buyer&#39;s Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)
-- [Best AI Gateway Tools in 2026 for Scalable LLM Applications](https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg)
-- [Locked Out of Your GitHub Dashboard? A Critical Guide for Engineering Leaders](https://dev.to/devactivity/locked-out-of-your-github-dashboard-a-critical-guide-for-engineering-leaders-4p8f)
-- [Web Developer Travis McCracken on Rust for Replacing Legacy Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-for-replacing-legacy-backend-systems-4kma)
-- [The Hotfix Chronicles: What Broke After the Nexus Release and How I Fixed It &lpar;v1.5.2 &amp; v1.5.3&rpar;](https://dev.to/freerave/the-hotfix-chronicles-what-broke-after-the-nexus-release-and-how-i-fixed-it-v152-v153-46o2)
+- [I built a Drupal installer that tells you if your site is safe to ship](https://dev.to/actools-pl/i-built-a-drupal-installer-that-tells-you-if-your-site-is-safe-to-ship-2p8e)
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
+- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
+- [Mastering Unit Testing in Spring Boot: How I Achieved 70%+ Coverage for Open Source](https://dev.to/mohammed_ghallab_19c89665/mastering-unit-testing-in-spring-boot-how-i-achieved-70-coverage-for-open-source-4dk5)
+- [What is Constructor in java?](https://dev.to/sakthi_s_daa401cfb84f4108/what-is-constructor-in-java-cc7)
+- [Kubernetes Finally Clicked When I Thought of It Like This...](https://dev.to/theprinceofprogramming/kubernetes-finally-clicked-when-i-thought-of-it-like-this-47eb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
