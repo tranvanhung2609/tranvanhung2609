@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
-- [Top Java Development Companies in India &lpar;2026&rpar;](https://dev.to/christina_adams/top-java-development-companies-in-india-2026-2d0f)
-- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
-- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
-- [How We Handle SSL Certificate Expiration Alerts at Scale](https://dev.to/alertsleep/how-we-handle-ssl-certificate-expiration-alerts-at-scale-1lmd)
-- [Adding Private NuGet Feeds in Multi-Stage Dockerfiles Without Breaking Your Build](https://dev.to/fivenineslab_30/adding-private-nuget-feeds-in-multi-stage-dockerfiles-without-breaking-your-build-3pc4)
+- [Building Authentication From Scratch in Go — No Libraries, No Magic](https://dev.to/abhishek_sharma_a9792aee8/building-authentication-from-scratch-in-go-no-libraries-no-magic-2c46)
+- [Buyer&#39;s Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)
+- [Best AI Gateway Tools in 2026 for Scalable LLM Applications](https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg)
+- [Locked Out of Your GitHub Dashboard? A Critical Guide for Engineering Leaders](https://dev.to/devactivity/locked-out-of-your-github-dashboard-a-critical-guide-for-engineering-leaders-4p8f)
+- [Web Developer Travis McCracken on Rust for Replacing Legacy Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-for-replacing-legacy-backend-systems-4kma)
+- [The Hotfix Chronicles: What Broke After the Nexus Release and How I Fixed It &lpar;v1.5.2 &amp; v1.5.3&rpar;](https://dev.to/freerave/the-hotfix-chronicles-what-broke-after-the-nexus-release-and-how-i-fixed-it-v152-v153-46o2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
