@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🧬 Spec-Driven Development: An Evolutionary Approach](https://dev.to/patricio_renner_431a871be/spec-driven-development-an-evolutionary-approach-4elo)
-- [Spring Annotations Part2](https://dev.to/s_srikamini_bfb9ce2df10/spring-annotations-part2-1aj5)
-- [Prompt Hashing for Duplicate Detection: Cutting LLM Waste With SHA-256](https://dev.to/gauravdagde/prompt-hashing-for-duplicate-detection-cutting-llm-waste-with-sha-256-5hfm)
-- [Debugging Java Spring Boot APIs with LLM Agents: What Actually Works in Production](https://dev.to/pyhelp__5e8fe4425516/debugging-java-spring-boot-apis-with-llm-agents-what-actually-works-in-production-4886)
-- [Running a Midnight Node: Setup, Sync, and Monitoring](https://dev.to/tosh2308/running-a-midnight-node-setup-sync-and-monitoring-4ig6)
-- [Difference between static and non-static in java?](https://dev.to/sakthi_s_daa401cfb84f4108/difference-between-static-and-non-static-in-java-1g2e)
+- [Automating Technical Blog Publishing: GitHub Actions + Supabase Edge Function Pipeline](https://dev.to/kanta13jp1/automating-technical-blog-publishing-github-actions-supabase-edge-function-pipeline-2a87)
+- [imnot: a YAML-defined stateful API mock server for external system integrations](https://dev.to/edu2105/imnot-a-yaml-defined-stateful-api-mock-server-for-external-system-integrations-27bi)
+- [How I Packaged 130+ Hours of AWS Infrastructure Into Reusable Templates](https://dev.to/henryaza/how-i-packaged-130-hours-of-aws-infrastructure-into-reusable-templates-37m4)
+- [MLOps in 2026: Production Machine Learning Best Practices](https://dev.to/lufumeiying/mlops-in-2026-production-machine-learning-best-practices-9kk)
+- [Windows watchdog that silently spawned 11 duplicate processes — and the one-line fix](https://dev.to/lucas_gragg_9ca9e7f95852f/windows-watchdog-that-silently-spawned-11-duplicate-processes-and-the-one-line-fix-5958)
+- [Mastering Spring Security Method Level Security](https://dev.to/rajesh1761/mastering-spring-security-method-level-security-g6i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
