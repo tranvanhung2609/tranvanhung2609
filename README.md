@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Automating Technical Blog Publishing: GitHub Actions + Supabase Edge Function Pipeline](https://dev.to/kanta13jp1/automating-technical-blog-publishing-github-actions-supabase-edge-function-pipeline-2a87)
-- [imnot: a YAML-defined stateful API mock server for external system integrations](https://dev.to/edu2105/imnot-a-yaml-defined-stateful-api-mock-server-for-external-system-integrations-27bi)
-- [How I Packaged 130+ Hours of AWS Infrastructure Into Reusable Templates](https://dev.to/henryaza/how-i-packaged-130-hours-of-aws-infrastructure-into-reusable-templates-37m4)
-- [MLOps in 2026: Production Machine Learning Best Practices](https://dev.to/lufumeiying/mlops-in-2026-production-machine-learning-best-practices-9kk)
-- [Windows watchdog that silently spawned 11 duplicate processes — and the one-line fix](https://dev.to/lucas_gragg_9ca9e7f95852f/windows-watchdog-that-silently-spawned-11-duplicate-processes-and-the-one-line-fix-5958)
-- [Mastering Spring Security Method Level Security](https://dev.to/rajesh1761/mastering-spring-security-method-level-security-g6i)
+- [I built a CLI that scaffolds complete multi-tenant SaaS apps](https://dev.to/jeandavid_bonicel_32a0b2/i-built-a-cli-that-scaffolds-complete-multi-tenant-saas-apps-5fl)
+- [Top Java Development Companies in India &lpar;2026&rpar;](https://dev.to/christina_adams/top-java-development-companies-in-india-2026-2d0f)
+- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
+- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
+- [How We Handle SSL Certificate Expiration Alerts at Scale](https://dev.to/alertsleep/how-we-handle-ssl-certificate-expiration-alerts-at-scale-1lmd)
+- [Adding Private NuGet Feeds in Multi-Stage Dockerfiles Without Breaking Your Build](https://dev.to/fivenineslab_30/adding-private-nuget-feeds-in-multi-stage-dockerfiles-without-breaking-your-build-3pc4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
