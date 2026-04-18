@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Go Context Timeouts That Save Real Money](https://dev.to/speed_engineer/go-context-timeouts-that-save-real-money-4j95)
-- [Web Developer Travis McCracken on Go’s Standard Library is a Hidden Gem](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-standard-library-is-a-hidden-gem-463i)
-- [Mastering Spring Security with Spring Boot 3 and SecurityFilterChain](https://dev.to/rajesh1761/mastering-spring-security-with-spring-boot-3-and-securityfilterchain-403d)
-- [Test Early, Test Often](https://dev.to/fabiosarmento/test-early-test-often-ig4)
-- [Kubernetes RBAC Deep Dive and Best Practices](https://dev.to/aicontentlab/kubernetes-rbac-deep-dive-and-best-practices-1p2f)
-- [Focus on Developer Experience](https://dev.to/fabiosarmento/focus-on-developer-experience-dbg)
+- [How to Replace Cloud Object Storage With a Self-Hosted S3-Compatible Setup](https://dev.to/alanwest/how-to-replace-cloud-object-storage-with-a-self-hosted-s3-compatible-setup-mim)
+- [Every year, someone with a YouTube channel and 3 months of coding experience declares PHP dead.](https://dev.to/musahafali43/every-year-someone-with-a-youtube-channel-and-3-months-of-coding-experience-declares-php-dead-5cdn)
+- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg)
+- [Mastering Java ArrayList: Important Methods Explained Simply](https://dev.to/jayashree_a84b6eff7bc414e/mastering-java-arraylist-important-methods-explained-simply-2j4l)
+- [I let Claude AI decide whether to patch my Docker vulnerabilities — here&#39;s what it found](https://dev.to/alvarito1983/i-let-claude-ai-decide-whether-to-patch-my-docker-vulnerabilities-heres-what-it-found-4dpf)
+- [Post-Quantum Security Is Not Just About Algorithms. It’s About Systems.](https://dev.to/thearixis/post-quantum-security-is-not-just-about-algorithms-its-about-systems-4d3k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
