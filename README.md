@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix 502 Bad Gateway in Nginx &lpar;With Exact Commands&rpar;](https://dev.to/yash_step2dev/how-to-fix-502-bad-gateway-in-nginx-with-exact-commands-5c5p)
-- [Hosting Your AI Agent on Google Cloud VM: A Complete Setup Guide](https://dev.to/maitrish/hosting-your-ai-agent-on-google-cloud-vm-a-complete-setup-guide-556m)
-- [Why routing LLM calls is harder than it looks &lpar;lessons from building ai-gateway&rpar;](https://dev.to/chrisp04/why-routing-llm-calls-is-harder-than-it-looks-lessons-from-building-ai-gateway-4hcg)
-- [I Stopped Taking AI Advice Seriously, and It Helped](https://dev.to/jaideepparashar/i-stopped-taking-ai-advice-seriously-and-it-helped-4nfi)
-- [Amazon ECR Pull Through Cache &lpar;PTC&rpar;](https://dev.to/viradiaharsh/amazon-ecr-pull-through-cache-ptc-2p22)
-- [I built nftguard: atomic nftables versioning with instant rollback](https://dev.to/onceupontry/i-built-nftguard-atomic-nftables-versioning-with-instant-rollback-1pn4)
+- [Go Context Timeouts That Save Real Money](https://dev.to/speed_engineer/go-context-timeouts-that-save-real-money-4j95)
+- [Web Developer Travis McCracken on Go’s Standard Library is a Hidden Gem](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-standard-library-is-a-hidden-gem-463i)
+- [Mastering Spring Security with Spring Boot 3 and SecurityFilterChain](https://dev.to/rajesh1761/mastering-spring-security-with-spring-boot-3-and-securityfilterchain-403d)
+- [Test Early, Test Often](https://dev.to/fabiosarmento/test-early-test-often-ig4)
+- [Kubernetes RBAC Deep Dive and Best Practices](https://dev.to/aicontentlab/kubernetes-rbac-deep-dive-and-best-practices-1p2f)
+- [Focus on Developer Experience](https://dev.to/fabiosarmento/focus-on-developer-experience-dbg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
