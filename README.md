@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Self-Healing Production App — Zero Babysitting Required](https://dev.to/whoffagents/how-i-built-a-self-healing-production-app-zero-babysitting-required-509)
-- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
-- [Java Collections: Everything You Need to Know About the List Interface](https://dev.to/aj_arul/java-collections-everything-you-need-to-know-about-the-list-interface-24d0)
-- [Understanding API Gateway Patterns](https://dev.to/aicontentlab/understanding-api-gateway-patterns-1jad)
-- [Kubernetes Cheatsheet: Daily Commands Every Developer Actually Uses](https://dev.to/mibii/kubernetes-cheatsheet-daily-commands-every-developer-actually-uses-3pbi)
-- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
+- [How to Fix 502 Bad Gateway in Nginx &lpar;With Exact Commands&rpar;](https://dev.to/yash_step2dev/how-to-fix-502-bad-gateway-in-nginx-with-exact-commands-5c5p)
+- [Hosting Your AI Agent on Google Cloud VM: A Complete Setup Guide](https://dev.to/maitrish/hosting-your-ai-agent-on-google-cloud-vm-a-complete-setup-guide-556m)
+- [Why routing LLM calls is harder than it looks &lpar;lessons from building ai-gateway&rpar;](https://dev.to/chrisp04/why-routing-llm-calls-is-harder-than-it-looks-lessons-from-building-ai-gateway-4hcg)
+- [I Stopped Taking AI Advice Seriously, and It Helped](https://dev.to/jaideepparashar/i-stopped-taking-ai-advice-seriously-and-it-helped-4nfi)
+- [Amazon ECR Pull Through Cache &lpar;PTC&rpar;](https://dev.to/viradiaharsh/amazon-ecr-pull-through-cache-ptc-2p22)
+- [I built nftguard: atomic nftables versioning with instant rollback](https://dev.to/onceupontry/i-built-nftguard-atomic-nftables-versioning-with-instant-rollback-1pn4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
