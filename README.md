@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I built a Drupal installer that tells you if your site is safe to ship](https://dev.to/actools-pl/i-built-a-drupal-installer-that-tells-you-if-your-site-is-safe-to-ship-2p8e)
-- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
-- [Designing Multi-Tenant Backends With Both Ownership and Team Access](https://dev.to/oladele-david/designing-multi-tenant-backends-with-both-ownership-and-team-access-ao5)
-- [Mastering Unit Testing in Spring Boot: How I Achieved 70%+ Coverage for Open Source](https://dev.to/mohammed_ghallab_19c89665/mastering-unit-testing-in-spring-boot-how-i-achieved-70-coverage-for-open-source-4dk5)
-- [What is Constructor in java?](https://dev.to/sakthi_s_daa401cfb84f4108/what-is-constructor-in-java-cc7)
-- [Kubernetes Finally Clicked When I Thought of It Like This...](https://dev.to/theprinceofprogramming/kubernetes-finally-clicked-when-i-thought-of-it-like-this-47eb)
+- [How I Built a Self-Healing Production App — Zero Babysitting Required](https://dev.to/whoffagents/how-i-built-a-self-healing-production-app-zero-babysitting-required-509)
+- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
+- [Java Collections: Everything You Need to Know About the List Interface](https://dev.to/aj_arul/java-collections-everything-you-need-to-know-about-the-list-interface-24d0)
+- [Understanding API Gateway Patterns](https://dev.to/aicontentlab/understanding-api-gateway-patterns-1jad)
+- [Kubernetes Cheatsheet: Daily Commands Every Developer Actually Uses](https://dev.to/mibii/kubernetes-cheatsheet-daily-commands-every-developer-actually-uses-3pbi)
+- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
