@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Replace Cloud Object Storage With a Self-Hosted S3-Compatible Setup](https://dev.to/alanwest/how-to-replace-cloud-object-storage-with-a-self-hosted-s3-compatible-setup-mim)
-- [Every year, someone with a YouTube channel and 3 months of coding experience declares PHP dead.](https://dev.to/musahafali43/every-year-someone-with-a-youtube-channel-and-3-months-of-coding-experience-declares-php-dead-5cdn)
-- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg)
-- [Mastering Java ArrayList: Important Methods Explained Simply](https://dev.to/jayashree_a84b6eff7bc414e/mastering-java-arraylist-important-methods-explained-simply-2j4l)
-- [I let Claude AI decide whether to patch my Docker vulnerabilities — here&#39;s what it found](https://dev.to/alvarito1983/i-let-claude-ai-decide-whether-to-patch-my-docker-vulnerabilities-heres-what-it-found-4dpf)
-- [Post-Quantum Security Is Not Just About Algorithms. It’s About Systems.](https://dev.to/thearixis/post-quantum-security-is-not-just-about-algorithms-its-about-systems-4d3k)
+- [How to Stop Nuking Your Postgres Data When Testing Schema Changes](https://dev.to/alanwest/how-to-stop-nuking-your-postgres-data-when-testing-schema-changes-hf8)
+- [Pipeline freedom: why senior QAs run deploys, tear down environments, and own the release](https://dev.to/amanbhandari/pipeline-freedom-why-senior-qas-run-deploys-tear-down-environments-and-own-the-release-lk4)
+- [CloudWatch literacy: the QA superpower that routes bugs without triage theater](https://dev.to/amanbhandari/cloudwatch-literacy-the-qa-superpower-that-routes-bugs-without-triage-theater-4hh2)
+- [QA is not clicking buttons: it is the quality gatekeeper for the whole SDLC](https://dev.to/amanbhandari/qa-is-not-clicking-buttons-it-is-the-quality-gatekeeper-for-the-whole-sdlc-5dkj)
+- [The five-gate publishing contract that keeps Claude-written READMEs defensible](https://dev.to/amanbhandari/the-five-gate-publishing-contract-that-keeps-claude-written-readmes-defensible-3kl0)
+- [Why Your Site Is Slow on Shared Hosting and How to Fix It with a VPS Migration](https://dev.to/alanwest/why-your-site-is-slow-on-shared-hosting-and-how-to-fix-it-with-a-vps-migration-11a2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
