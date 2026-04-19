@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
-- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
-- [Web Developer Travis McCracken on Go’s Context Package Explained Simply](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-context-package-explained-simply-2n25)
-- [Day 1 — Root Security &amp; IAM Identity Center](https://dev.to/ismailg/day-1-root-security-iam-identity-center-4ndd)
-- [Rich domain modelling: a library story](https://dev.to/leonpennings/rich-domain-modelling-a-library-story-1ane)
-- [Monitor Your Code&#39;s Health](https://dev.to/fabiosarmento/monitor-your-codes-health-579b)
+- [Automation Engineer](https://dev.to/indrajeet_yeddala_61221be/automation-engineer-9f9)
+- [How to Deploy an Open Source LLM Reliably on Kubernetes &lpar;Step-by-Step&rpar;](https://dev.to/dakxsh/how-to-deploy-an-open-source-llm-reliably-on-kubernetes-step-by-step-n7f)
+- [Zero Trust is Not a Security Tool — It’s a Software Design Problem](https://dev.to/sven_schuchardt_0aa51663a/zero-trust-is-not-a-security-tool-its-a-software-design-problem-25mh)
+- [CAP Theorem — What Every Developer Gets Wrong](https://dev.to/swehelper/cap-theorem-what-every-developer-gets-wrong-21od)
+- [Still paying 4 years for tech skills](https://dev.to/uzair_official/still-paying-4-years-for-tech-skills-2dml)
+- [What the Vercel Incident Teaches Us About Agent Credential Management](https://dev.to/piiiico/what-the-vercel-incident-teaches-us-about-agent-credential-management-436i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
