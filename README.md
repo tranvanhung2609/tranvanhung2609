@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Arrays Are So Fast &lpar;And Why It Matters in DSA&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/why-arrays-are-so-fast-and-why-it-matters-in-dsa-n0b)
-- [Docker Container Keeps Restarting: Diagnosis and Fix Guide](https://dev.to/yash_step2dev/docker-container-keeps-restarting-diagnosis-and-fix-guide-39ic)
-- [How to Implement SLOs and SLIs](https://dev.to/aicontentlab/how-to-implement-slos-and-slis-3d7n)
-- [Kubernetes Pod Stuck in Pending State: Complete Troubleshooting Guide](https://dev.to/aicontentlab/kubernetes-pod-stuck-in-pending-state-complete-troubleshooting-guide-39cd)
-- [Cron vs Queue Workers Monitoring: What You Need to Watch, and What Most Teams Miss](https://dev.to/quietpulse-social/cron-vs-queue-workers-monitoring-what-you-need-to-watch-and-what-most-teams-miss-10m6)
-- [Cron vs Queue Workers Monitoring: What You Need to Watch, and What Most Teams Miss](https://dev.to/quietpulse-social/cron-vs-queue-workers-monitoring-what-you-need-to-watch-and-what-most-teams-miss-10m6)
+- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
+- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
+- [Web Developer Travis McCracken on Go’s Context Package Explained Simply](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-context-package-explained-simply-2n25)
+- [Day 1 — Root Security &amp; IAM Identity Center](https://dev.to/ismailg/day-1-root-security-iam-identity-center-4ndd)
+- [Rich domain modelling: a library story](https://dev.to/leonpennings/rich-domain-modelling-a-library-story-1ane)
+- [Monitor Your Code&#39;s Health](https://dev.to/fabiosarmento/monitor-your-codes-health-579b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
