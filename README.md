@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop Nuking Your Postgres Data When Testing Schema Changes](https://dev.to/alanwest/how-to-stop-nuking-your-postgres-data-when-testing-schema-changes-hf8)
-- [Pipeline freedom: why senior QAs run deploys, tear down environments, and own the release](https://dev.to/amanbhandari/pipeline-freedom-why-senior-qas-run-deploys-tear-down-environments-and-own-the-release-lk4)
-- [CloudWatch literacy: the QA superpower that routes bugs without triage theater](https://dev.to/amanbhandari/cloudwatch-literacy-the-qa-superpower-that-routes-bugs-without-triage-theater-4hh2)
-- [QA is not clicking buttons: it is the quality gatekeeper for the whole SDLC](https://dev.to/amanbhandari/qa-is-not-clicking-buttons-it-is-the-quality-gatekeeper-for-the-whole-sdlc-5dkj)
-- [The five-gate publishing contract that keeps Claude-written READMEs defensible](https://dev.to/amanbhandari/the-five-gate-publishing-contract-that-keeps-claude-written-readmes-defensible-3kl0)
-- [Why Your Site Is Slow on Shared Hosting and How to Fix It with a VPS Migration](https://dev.to/alanwest/why-your-site-is-slow-on-shared-hosting-and-how-to-fix-it-with-a-vps-migration-11a2)
+- [Why Arrays Are So Fast &lpar;And Why It Matters in DSA&rpar;](https://dev.to/quipoin_a9cb84280f6225b1e/why-arrays-are-so-fast-and-why-it-matters-in-dsa-n0b)
+- [Docker Container Keeps Restarting: Diagnosis and Fix Guide](https://dev.to/yash_step2dev/docker-container-keeps-restarting-diagnosis-and-fix-guide-39ic)
+- [How to Implement SLOs and SLIs](https://dev.to/aicontentlab/how-to-implement-slos-and-slis-3d7n)
+- [Kubernetes Pod Stuck in Pending State: Complete Troubleshooting Guide](https://dev.to/aicontentlab/kubernetes-pod-stuck-in-pending-state-complete-troubleshooting-guide-39cd)
+- [Cron vs Queue Workers Monitoring: What You Need to Watch, and What Most Teams Miss](https://dev.to/quietpulse-social/cron-vs-queue-workers-monitoring-what-you-need-to-watch-and-what-most-teams-miss-10m6)
+- [Cron vs Queue Workers Monitoring: What You Need to Watch, and What Most Teams Miss](https://dev.to/quietpulse-social/cron-vs-queue-workers-monitoring-what-you-need-to-watch-and-what-most-teams-miss-10m6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
