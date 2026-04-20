@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [DigitalOcean vs Hetzner 2026: VPS Hosting Tradeoffs](https://dev.to/juan_diegoisazaa_5362a/digitalocean-vs-hetzner-2026-vps-hosting-tradeoffs-2oem)
-- [Cloud Provisioning Benchmarks: AWS vs Azure vs GCP — 2026-04-19](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/cloud-provisioning-benchmarks-aws-vs-azure-vs-gcp-2026-04-19-208j)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2d94)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2d94)
-- [The latest&lpar;&rpar; Bug That Silently Duplicated Transaction IDs in Production](https://dev.to/fazghfr/the-latest-bug-that-silently-duplicated-transaction-ids-in-production-42ip)
-- [The 12 Factor App in 13 Minutes | Coffee Time](https://dev.to/neuraldownload/the-12-factor-app-in-13-minutes-coffee-time-21o3)
+- [Generating Java from JSON Schema](https://dev.to/hannyu/generating-java-from-json-schema-6kf)
+- [The Reality of API Routing, HTTP Intents, and URL Architecture &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/the-reality-of-api-routing-http-intents-and-url-architecture-2026-24po)
+- [The State of Package Health: Weekly Report #002](https://dev.to/depscope/the-state-of-package-health-weekly-report-002-5n7)
+- [My AI Caught a Security Bug I Would Have Shipped to Production](https://dev.to/archantech/my-ai-caught-a-security-bug-i-would-have-shipped-to-production-37b7)
+- [Sensitive Env Vars Should Be Default, Not Opt-In](https://dev.to/kai_outputs/sensitive-env-vars-should-be-default-not-opt-in-2m9j)
+- [The On-Call Handoff That Prevents Dropped Incidents](https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-1eag)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
