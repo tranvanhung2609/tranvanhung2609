@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Treating Compliance Like Documentation-Engineers Deserve Better Systems](https://dev.to/lissomsoft_technologies_8/stop-treating-compliance-like-documentation-engineers-deserve-better-systems-532n)
-- [Coolify: Deploy Full-Stack Apps on a $6 VPS Without the Vercel Bill](https://dev.to/whoffagents/coolify-deploy-full-stack-apps-on-a-6-vps-without-the-vercel-bill-3ekp)
-- [Wallet-as-a-Service: Why Amazon Is Leaving Money on the Table](https://dev.to/tanelith/wallet-as-a-service-why-amazon-is-leaving-money-on-the-table-55c0)
-- [How Modern Regression Testing Tools Are Changing Developer Workflows?](https://dev.to/sophielane/how-modern-regression-testing-tools-are-changing-developer-workflows-h5c)
-- [Your Emails Go to Spam Because of Three DNS Records You Never Set Up](https://dev.to/njoylab/your-emails-go-to-spam-because-of-three-dns-records-you-never-set-up-3ej7)
-- [CSP for Third Party Scripts: The Practical Cheat Sheet for GA, Stripe, Intercom, and More](https://dev.to/sitesecurityscore/csp-for-third-party-scripts-the-practical-cheat-sheet-for-ga-stripe-intercom-and-more-1gh8)
+- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
+- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)
+- [Streaming SSE Proxying for LLM APIs: The Hard Parts](https://dev.to/gauravdagde/streaming-sse-proxying-for-llm-apis-the-hard-parts-4d60)
+- [End-To-End DevOps + AIOps Project- 1](https://dev.to/kalpesh47/system-design-concepts-39jm)
+- [From Zero to Hero: Building a Waiting Room with `room`, `figtree`, and `verbose`](https://dev.to/andreimerlescu/from-zero-to-hero-building-a-waiting-room-with-room-figtree-and-verbose-42fc)
+- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
