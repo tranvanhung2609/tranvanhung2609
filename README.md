@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Generating Java from JSON Schema](https://dev.to/hannyu/generating-java-from-json-schema-6kf)
-- [The Reality of API Routing, HTTP Intents, and URL Architecture &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/the-reality-of-api-routing-http-intents-and-url-architecture-2026-24po)
-- [The State of Package Health: Weekly Report #002](https://dev.to/depscope/the-state-of-package-health-weekly-report-002-5n7)
-- [My AI Caught a Security Bug I Would Have Shipped to Production](https://dev.to/archantech/my-ai-caught-a-security-bug-i-would-have-shipped-to-production-37b7)
-- [Sensitive Env Vars Should Be Default, Not Opt-In](https://dev.to/kai_outputs/sensitive-env-vars-should-be-default-not-opt-in-2m9j)
-- [The On-Call Handoff That Prevents Dropped Incidents](https://dev.to/samson_tanimawo/the-on-call-handoff-that-prevents-dropped-incidents-1eag)
+- [Stop Treating Compliance Like Documentation-Engineers Deserve Better Systems](https://dev.to/lissomsoft_technologies_8/stop-treating-compliance-like-documentation-engineers-deserve-better-systems-532n)
+- [Coolify: Deploy Full-Stack Apps on a $6 VPS Without the Vercel Bill](https://dev.to/whoffagents/coolify-deploy-full-stack-apps-on-a-6-vps-without-the-vercel-bill-3ekp)
+- [Wallet-as-a-Service: Why Amazon Is Leaving Money on the Table](https://dev.to/tanelith/wallet-as-a-service-why-amazon-is-leaving-money-on-the-table-55c0)
+- [How Modern Regression Testing Tools Are Changing Developer Workflows?](https://dev.to/sophielane/how-modern-regression-testing-tools-are-changing-developer-workflows-h5c)
+- [Your Emails Go to Spam Because of Three DNS Records You Never Set Up](https://dev.to/njoylab/your-emails-go-to-spam-because-of-three-dns-records-you-never-set-up-3ej7)
+- [CSP for Third Party Scripts: The Practical Cheat Sheet for GA, Stripe, Intercom, and More](https://dev.to/sitesecurityscore/csp-for-third-party-scripts-the-practical-cheat-sheet-for-ga-stripe-intercom-and-more-1gh8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
