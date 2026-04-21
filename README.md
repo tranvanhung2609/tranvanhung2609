@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [15 Best Websites to Launch Your Startup in 2026](https://dev.to/lightningdev123/15-best-websites-to-launch-your-startup-in-2026-421j)
-- [I Built an AI Gateway from Scratch &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/uzukwu_michael_91a95b823b/i-built-an-ai-gateway-from-scratch-so-you-dont-have-to-3icc)
-- [Why This Backend Engineer Stopped Calling LLM APIs From Every Service And Started Running a Local Agent Instead](https://dev.to/singhvishalkr/why-this-backend-engineer-stopped-calling-llm-apis-from-every-service-and-started-running-a-local-2n4n)
-- [Anthropic&#39;s MCP Has a Design Flaw It Won&#39;t Fix. Here&#39;s What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f)
-- [You don&#39;t know what you don&#39;t know — and that&#39;s the whole point](https://dev.to/gaston_herrlein_3baa4d62e/you-dont-know-what-you-dont-know-and-thats-the-whole-point-4564)
-- [Save NAT Gateway Costs by Using an EC2 - Terraform Code Included](https://dev.to/gergovadasz/save-nat-gateway-costs-by-using-an-ec2-terraform-code-included-507a)
+- [Stop Writing Integration Code. Write a Spec Instead.](https://dev.to/kinlane/stop-writing-integration-code-write-a-spec-instead-n0d)
+- [CI/CD Pipeline on Your Own Server: GitHub Actions + VPS](https://dev.to/big_mazzy_06d057cc24398c5/cicd-pipeline-on-your-own-server-github-actions-vps-4jef)
+- [How I Ship systemd Logs to CloudWatch for $0 &lpar;Django + Celery on EC2&rpar;](https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844)
+- [Ready for Terraform Certification: My Final Exam Prep and 30-Day Reflection](https://dev.to/stephanie_makori_845bb2c0/ready-for-terraform-certification-my-final-exam-prep-and-30-day-reflection-n77)
+- [Stop Runaway AI Agents in 60 Seconds with a Single API Call](https://dev.to/fyrnity/stop-runaway-ai-agents-in-60-seconds-with-a-single-api-call-1hlc)
+- [From Laptop to Cloud: Setting Up Kubernetes Clusters the Right Way](https://dev.to/mark_dsouza_07bc5a0433041/from-laptop-to-cloud-setting-up-kubernetes-clusters-the-right-way-217k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
