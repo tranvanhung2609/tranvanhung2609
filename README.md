@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Create Kali Linux Bootable USB from Android | Full Guide](https://dev.to/srinivasan000/create-kali-linux-bootable-usb-from-android-full-guide-5303)
-- [Why SNMP Monitoring Misses Most Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-most-network-problems-and-what-to-use-instead-553d)
-- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
-- [服务网格深度指南：微服务通信的可观测与安全基石](https://dev.to/tianxin/fu-wu-wang-ge-shen-du-zhi-nan-wei-fu-wu-tong-xin-de-ke-guan-ce-yu-an-quan-ji-shi-5h95)
-- [MLOps in 2026: Production Machine Learning Best Practices](https://dev.to/lufumeiying/mlops-in-2026-production-machine-learning-best-practices-ol1)
-- [Flux 2.8 GA — Helm v4 Server-Side Apply, MTTR Cuts, CEL Health Checks, and the 2026 GitOps Standard](https://dev.to/x4nent/flux-28-ga-helm-v4-server-side-apply-mttr-cuts-cel-health-checks-and-the-2026-gitops-standard-3jih)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k)
+- [How Financial Systems Are Becoming Vulnerable to Modern Cyber Threats](https://dev.to/jakemiller/how-financial-systems-are-becoming-vulnerable-to-modern-cyber-threats-1h2n)
+- [Chaos Engineering: Breaking Things on Purpose Before Production Does](https://dev.to/17j/chaos-engineering-breaking-things-on-purpose-before-production-does-8jc)
+- [I Deployed OpenClaw on AWS, Broke It, Fixed It — Here’s the Complete Playbook](https://dev.to/17j/i-deployed-openclaw-on-aws-broke-it-fixed-it-heres-the-complete-playbook-49c2)
+- [Monitoring 101: Grafana + Prometheus for Your Infrastructure](https://dev.to/alex_boguslavets_b6280b12/monitoring-101-grafana-prometheus-for-your-infrastructure-c12)
+- [Generate AWS, GCP &amp; Azure Architecture Diagrams from Plain English — at no hidden cost](https://dev.to/aakashio/generate-aws-gcp-azure-architecture-diagrams-from-plain-english-for-free-4cdp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
