@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
-- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)
-- [Streaming SSE Proxying for LLM APIs: The Hard Parts](https://dev.to/gauravdagde/streaming-sse-proxying-for-llm-apis-the-hard-parts-4d60)
-- [End-To-End DevOps + AIOps Project- 1](https://dev.to/kalpesh47/system-design-concepts-39jm)
-- [From Zero to Hero: Building a Waiting Room with `room`, `figtree`, and `verbose`](https://dev.to/andreimerlescu/from-zero-to-hero-building-a-waiting-room-with-room-figtree-and-verbose-42fc)
-- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
+- [Create Kali Linux Bootable USB from Android | Full Guide](https://dev.to/srinivasan000/create-kali-linux-bootable-usb-from-android-full-guide-5303)
+- [Why SNMP Monitoring Misses Most Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-most-network-problems-and-what-to-use-instead-553d)
+- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
+- [服务网格深度指南：微服务通信的可观测与安全基石](https://dev.to/tianxin/fu-wu-wang-ge-shen-du-zhi-nan-wei-fu-wu-tong-xin-de-ke-guan-ce-yu-an-quan-ji-shi-5h95)
+- [MLOps in 2026: Production Machine Learning Best Practices](https://dev.to/lufumeiying/mlops-in-2026-production-machine-learning-best-practices-ol1)
+- [Flux 2.8 GA — Helm v4 Server-Side Apply, MTTR Cuts, CEL Health Checks, and the 2026 GitOps Standard](https://dev.to/x4nent/flux-28-ga-helm-v4-server-side-apply-mttr-cuts-cel-health-checks-and-the-2026-gitops-standard-3jih)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
