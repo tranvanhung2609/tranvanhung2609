@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k)
-- [How Financial Systems Are Becoming Vulnerable to Modern Cyber Threats](https://dev.to/jakemiller/how-financial-systems-are-becoming-vulnerable-to-modern-cyber-threats-1h2n)
-- [Chaos Engineering: Breaking Things on Purpose Before Production Does](https://dev.to/17j/chaos-engineering-breaking-things-on-purpose-before-production-does-8jc)
-- [I Deployed OpenClaw on AWS, Broke It, Fixed It — Here’s the Complete Playbook](https://dev.to/17j/i-deployed-openclaw-on-aws-broke-it-fixed-it-heres-the-complete-playbook-49c2)
-- [Monitoring 101: Grafana + Prometheus for Your Infrastructure](https://dev.to/alex_boguslavets_b6280b12/monitoring-101-grafana-prometheus-for-your-infrastructure-c12)
-- [Generate AWS, GCP &amp; Azure Architecture Diagrams from Plain English — at no hidden cost](https://dev.to/aakashio/generate-aws-gcp-azure-architecture-diagrams-from-plain-english-for-free-4cdp)
+- [15 Best Websites to Launch Your Startup in 2026](https://dev.to/lightningdev123/15-best-websites-to-launch-your-startup-in-2026-421j)
+- [I Built an AI Gateway from Scratch &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/uzukwu_michael_91a95b823b/i-built-an-ai-gateway-from-scratch-so-you-dont-have-to-3icc)
+- [Why This Backend Engineer Stopped Calling LLM APIs From Every Service And Started Running a Local Agent Instead](https://dev.to/singhvishalkr/why-this-backend-engineer-stopped-calling-llm-apis-from-every-service-and-started-running-a-local-2n4n)
+- [Anthropic&#39;s MCP Has a Design Flaw It Won&#39;t Fix. Here&#39;s What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f)
+- [You don&#39;t know what you don&#39;t know — and that&#39;s the whole point](https://dev.to/gaston_herrlein_3baa4d62e/you-dont-know-what-you-dont-know-and-thats-the-whole-point-4564)
+- [Save NAT Gateway Costs by Using an EC2 - Terraform Code Included](https://dev.to/gergovadasz/save-nat-gateway-costs-by-using-an-ec2-terraform-code-included-507a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
