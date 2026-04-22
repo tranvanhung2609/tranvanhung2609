@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Integration Code. Write a Spec Instead.](https://dev.to/kinlane/stop-writing-integration-code-write-a-spec-instead-n0d)
-- [CI/CD Pipeline on Your Own Server: GitHub Actions + VPS](https://dev.to/big_mazzy_06d057cc24398c5/cicd-pipeline-on-your-own-server-github-actions-vps-4jef)
-- [How I Ship systemd Logs to CloudWatch for $0 &lpar;Django + Celery on EC2&rpar;](https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844)
-- [Ready for Terraform Certification: My Final Exam Prep and 30-Day Reflection](https://dev.to/stephanie_makori_845bb2c0/ready-for-terraform-certification-my-final-exam-prep-and-30-day-reflection-n77)
-- [Stop Runaway AI Agents in 60 Seconds with a Single API Call](https://dev.to/fyrnity/stop-runaway-ai-agents-in-60-seconds-with-a-single-api-call-1hlc)
-- [From Laptop to Cloud: Setting Up Kubernetes Clusters the Right Way](https://dev.to/mark_dsouza_07bc5a0433041/from-laptop-to-cloud-setting-up-kubernetes-clusters-the-right-way-217k)
+- [The 4 classic bugs every multi-service Node.js app hits &lpar;and how to stop reinventing the wheel&rpar;](https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7)
+- [Vercel OAuth Compromise via Context.ai: Timeline, IOCs, and Remediation](https://dev.to/cyberxyzsecurity/vercel-oauth-compromise-via-contextai-timeline-iocs-and-remediation-4o3e)
+- [Web Scraping for Market Research: The Data Advantage Most Teams Still Miss](https://dev.to/vietnam/web-scraping-for-market-research-the-data-advantage-most-teams-still-miss-1ohk)
+- [I built a natural language cron expression generator – looking for feedback](https://dev.to/_9d0103be1263f13ec21d5/i-built-a-natural-language-cron-expression-generator-looking-for-feedback-5a5o)
+- [Terraform 1.14 — The Complete Guide to List Resources &lpar;.tfquery.hcl&rpar;, Actions Block, and `terraform query`: IaC&#39;s First Paradigm Shift in 5 Years](https://dev.to/x4nent/terraform-114-the-complete-guide-to-list-resources-tfqueryhcl-actions-block-and-terraform-350j)
+- [How to Fix Linux Suspend Draining Your Battery Overnight](https://dev.to/alanwest/how-to-fix-linux-suspend-draining-your-battery-overnight-2a3j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
