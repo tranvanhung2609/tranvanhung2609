@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Create a new Jenkins node, and run your Jenkins agent as a service](https://dev.to/gounthar/create-a-new-jenkins-node-and-run-your-jenkins-agent-as-a-service-47ak)
-- [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](https://dev.to/gounthar/automating-jenkins-on-old-android-phones-from-naive-experiment-to-production-ready-infrastructure-3koj)
-- [Running GitHub Actions on RISC-V64: A Production Journey with Docker Builds](https://dev.to/gounthar/running-github-actions-on-risc-v64-a-production-journey-with-docker-builds-4k2i)
-- [Docker Buildx for RISC-V64: When Infrastructure Just Works](https://dev.to/gounthar/docker-buildx-for-risc-v64-when-infrastructure-just-works-41h3)
-- [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://dev.to/gounthar/how-docker-gave-my-unsupported-gpu-a-second-life-4l1b)
-- [WebAssembly on Embedded Devices: A Docker Captain Tries Atym](https://dev.to/gounthar/webassembly-on-embedded-devices-a-docker-captain-tries-atym-2kcl)
+- [Introducing Xata OSS: Postgres platform with branching, now Apache 2.0](https://dev.to/xata/introducing-xata-oss-postgres-platform-with-branching-now-apache-20-52do)
+- [One TUI for RabbitMQ, Kafka, and MQTT: why I built queuepeek](https://dev.to/matutetandil/one-tui-for-rabbitmq-kafka-and-mqtt-why-i-built-queuepeek-1ldn)
+- [AWS patched the logging. Your data already left.](https://dev.to/bala_paranj_059d338e44e7e/aws-patched-the-logging-your-data-already-left-1cfj)
+- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-59j3)
+- [Kubernetes Is Not an LLM Security Boundary](https://dev.to/ntctech/kubernetes-is-not-an-llm-security-boundary-48d1)
+- [SARIF: The Format That Connects Your AI Auditor to GitHub Code Scanning](https://dev.to/pavelespitia/sarif-the-format-that-connects-your-ai-auditor-to-github-code-scanning-311n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
