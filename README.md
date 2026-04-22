@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Xata OSS: Postgres platform with branching, now Apache 2.0](https://dev.to/xata/introducing-xata-oss-postgres-platform-with-branching-now-apache-20-52do)
-- [One TUI for RabbitMQ, Kafka, and MQTT: why I built queuepeek](https://dev.to/matutetandil/one-tui-for-rabbitmq-kafka-and-mqtt-why-i-built-queuepeek-1ldn)
-- [AWS patched the logging. Your data already left.](https://dev.to/bala_paranj_059d338e44e7e/aws-patched-the-logging-your-data-already-left-1cfj)
-- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-59j3)
-- [Kubernetes Is Not an LLM Security Boundary](https://dev.to/ntctech/kubernetes-is-not-an-llm-security-boundary-48d1)
-- [SARIF: The Format That Connects Your AI Auditor to GitHub Code Scanning](https://dev.to/pavelespitia/sarif-the-format-that-connects-your-ai-auditor-to-github-code-scanning-311n)
+- [Kubernetes Probes + .NET: Liveness, Readiness and Startup in Production](https://dev.to/adrianbailador/kubernetes-probes-net-liveness-readiness-and-startup-in-production-552n)
+- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
+- [wsl9x: Linux 6.19 corriendo dentro de Windows 95 tras 6 años de hack](https://dev.to/lu1tr0n/wsl9x-linux-619-corriendo-dentro-de-windows-95-tras-6-anos-de-hack-42g1)
+- [HTB &lpar;Jerry&rpar; — Walkthrough](https://dev.to/micheaol/htb-jerry-walkthrough-3l55)
+- [Traditional IT vs Cloud Computing: The Great Shift Every Beginner Should Know](https://dev.to/eniola_dankuwo/traditional-it-vs-cloud-computing-the-great-shift-every-beginner-should-know-1bb8)
+- [IoT Security Challenges in Logistics Systems 🔐🚚](https://dev.to/goutam_kumar_25db122cf377/iot-security-challenges-in-logistics-systems-3om)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
