@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 4 classic bugs every multi-service Node.js app hits &lpar;and how to stop reinventing the wheel&rpar;](https://dev.to/sirelves/the-4-classic-bugs-every-multi-service-nodejs-app-hits-and-how-to-stop-reinventing-the-wheel-4og7)
-- [Vercel OAuth Compromise via Context.ai: Timeline, IOCs, and Remediation](https://dev.to/cyberxyzsecurity/vercel-oauth-compromise-via-contextai-timeline-iocs-and-remediation-4o3e)
-- [Web Scraping for Market Research: The Data Advantage Most Teams Still Miss](https://dev.to/vietnam/web-scraping-for-market-research-the-data-advantage-most-teams-still-miss-1ohk)
-- [I built a natural language cron expression generator – looking for feedback](https://dev.to/_9d0103be1263f13ec21d5/i-built-a-natural-language-cron-expression-generator-looking-for-feedback-5a5o)
-- [Terraform 1.14 — The Complete Guide to List Resources &lpar;.tfquery.hcl&rpar;, Actions Block, and `terraform query`: IaC&#39;s First Paradigm Shift in 5 Years](https://dev.to/x4nent/terraform-114-the-complete-guide-to-list-resources-tfqueryhcl-actions-block-and-terraform-350j)
-- [How to Fix Linux Suspend Draining Your Battery Overnight](https://dev.to/alanwest/how-to-fix-linux-suspend-draining-your-battery-overnight-2a3j)
+- [Create a new Jenkins node, and run your Jenkins agent as a service](https://dev.to/gounthar/create-a-new-jenkins-node-and-run-your-jenkins-agent-as-a-service-47ak)
+- [Automating Jenkins on Old Android Phones: From Naive Experiment to Production-Ready Infrastructure](https://dev.to/gounthar/automating-jenkins-on-old-android-phones-from-naive-experiment-to-production-ready-infrastructure-3koj)
+- [Running GitHub Actions on RISC-V64: A Production Journey with Docker Builds](https://dev.to/gounthar/running-github-actions-on-risc-v64-a-production-journey-with-docker-builds-4k2i)
+- [Docker Buildx for RISC-V64: When Infrastructure Just Works](https://dev.to/gounthar/docker-buildx-for-risc-v64-when-infrastructure-just-works-41h3)
+- [How Docker Gave My &#39;Unsupported&#39; GPU a Second Life](https://dev.to/gounthar/how-docker-gave-my-unsupported-gpu-a-second-life-4l1b)
+- [WebAssembly on Embedded Devices: A Docker Captain Tries Atym](https://dev.to/gounthar/webassembly-on-embedded-devices-a-docker-captain-tries-atym-2kcl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
