@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Mechanisms: JWT, OAuth, and Single Sign-On &lpar;SSO&rpar;](https://dev.to/tanx-1811/authentication-mechanisms-jwt-oauth-and-single-sign-on-sso-1eo3)
-- [How to Choose a Network Troubleshooting Tool](https://dev.to/anatraf_482389aa982e/how-to-choose-a-network-troubleshooting-tool-1hk4)
-- [Notes on Building a Global Messaging Network for Weak Connections](https://dev.to/ai_ap_1798347ec365e8cf821/notes-on-building-a-global-messaging-network-for-weak-connections-2jb5)
-- [X &lpar;Twitter&rpar; Media Streaming dekonstruiert: Architektur eines Hochleistungs-Video-Extractors mit HLS und FFmpeg](https://dev.to/yqqwe/x-twitter-media-streaming-dekonstruiert-architektur-eines-hochleistungs-video-extractors-mit-hls-5ekm)
-- [Generating PDF Files in Java: A Practical Guide](https://dev.to/yahey/generating-pdf-files-in-java-a-practical-guide-2p08)
-- [Saga模式深度指南：分布式事务的协调艺术](https://dev.to/tianxin/sagamo-shi-shen-du-zhi-nan-fen-bu-shi-shi-wu-de-xie-diao-yi-zhu-71a)
+- [GitLab CI: How to Use a Dockerfile from Remote Repository](https://dev.to/kelvynthai/gitlab-ci-how-to-use-a-dockerfile-from-remote-repository-5h0f)
+- [Strategic AI Integration Approaches: Comparing Build vs Buy vs Partner](https://dev.to/dorjamie/strategic-ai-integration-approaches-comparing-build-vs-buy-vs-partner-1b2m)
+- [كيفية استخدام واجهة برمجة تطبيقات Plaid: دليل المطور 2026](https://dev.to/yusuf_khalidd/kyfy-stkhdm-wjh-brmj-ttbyqt-plaid-dlyl-lmtwr-2026-j2d)
+- [Terraform AWS Provider](https://dev.to/brian_mengo/terraform-aws-provider-2f3m)
+- [Building Scalable Infrastructure Using Knowledge from the Master in Azure DevOps Certification](https://dev.to/kritikacotocus/building-scalable-infrastructure-using-knowledge-from-the-master-in-azure-devops-certification-2b73)
+- [The Lovable breach is not a vibe coding story. It is a verification story.](https://dev.to/intentguard_ole/the-lovable-breach-is-not-a-vibe-coding-story-it-is-a-verification-story-49go)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
