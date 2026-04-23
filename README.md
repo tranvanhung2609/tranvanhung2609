@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GitLab CI: How to Use a Dockerfile from Remote Repository](https://dev.to/kelvynthai/gitlab-ci-how-to-use-a-dockerfile-from-remote-repository-5h0f)
-- [Strategic AI Integration Approaches: Comparing Build vs Buy vs Partner](https://dev.to/dorjamie/strategic-ai-integration-approaches-comparing-build-vs-buy-vs-partner-1b2m)
-- [كيفية استخدام واجهة برمجة تطبيقات Plaid: دليل المطور 2026](https://dev.to/yusuf_khalidd/kyfy-stkhdm-wjh-brmj-ttbyqt-plaid-dlyl-lmtwr-2026-j2d)
-- [Terraform AWS Provider](https://dev.to/brian_mengo/terraform-aws-provider-2f3m)
-- [Building Scalable Infrastructure Using Knowledge from the Master in Azure DevOps Certification](https://dev.to/kritikacotocus/building-scalable-infrastructure-using-knowledge-from-the-master-in-azure-devops-certification-2b73)
-- [The Lovable breach is not a vibe coding story. It is a verification story.](https://dev.to/intentguard_ole/the-lovable-breach-is-not-a-vibe-coding-story-it-is-a-verification-story-49go)
+- [AWS Security Checklist: 58 Checks Every Team Should Run Before a SOC 2 Audit](https://dev.to/hamza_imran_ad06bd467b293/aws-security-checklist-58-checks-every-team-should-run-before-a-soc-2-audit-31nk)
+- [Operating Gateway API in Production: What the Migration Guides Don&#39;t Cover](https://dev.to/ntctech/operating-gateway-api-in-production-what-the-migration-guides-dont-cover-2526)
+- [Voice AI in Production: From RunPod to Hosted Kubernetes](https://dev.to/reneza/voice-ai-in-production-from-runpod-to-hosted-kubernetes-7gg)
+- [# Como hospedei meu portfólio na AWS com S3, CloudFront e CI/CD do zero](https://dev.to/flvio_paixo_88c4d1183b2/-como-hospedei-meu-portfolio-na-aws-com-s3-cloudfront-e-cicd-do-zero-4i6n)
+- [10 Reasons to Join an AI Course With Certificate for Professionals](https://dev.to/ajay_kumaruppari_708ef03/10-reasons-to-join-an-ai-course-with-certificate-for-professionals-4bem)
+- [The Invisible Tax: How Engineers Are Building Multi-Cloud Mesh Fabrics to Escape the Egress Economy](https://dev.to/instatunnel/the-invisible-tax-how-engineers-are-building-multi-cloud-mesh-fabrics-to-escape-the-egress-economy-60p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
