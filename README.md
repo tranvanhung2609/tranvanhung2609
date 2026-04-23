@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AWS Security Checklist: 58 Checks Every Team Should Run Before a SOC 2 Audit](https://dev.to/hamza_imran_ad06bd467b293/aws-security-checklist-58-checks-every-team-should-run-before-a-soc-2-audit-31nk)
-- [Operating Gateway API in Production: What the Migration Guides Don&#39;t Cover](https://dev.to/ntctech/operating-gateway-api-in-production-what-the-migration-guides-dont-cover-2526)
-- [Voice AI in Production: From RunPod to Hosted Kubernetes](https://dev.to/reneza/voice-ai-in-production-from-runpod-to-hosted-kubernetes-7gg)
-- [# Como hospedei meu portfólio na AWS com S3, CloudFront e CI/CD do zero](https://dev.to/flvio_paixo_88c4d1183b2/-como-hospedei-meu-portfolio-na-aws-com-s3-cloudfront-e-cicd-do-zero-4i6n)
-- [10 Reasons to Join an AI Course With Certificate for Professionals](https://dev.to/ajay_kumaruppari_708ef03/10-reasons-to-join-an-ai-course-with-certificate-for-professionals-4bem)
-- [The Invisible Tax: How Engineers Are Building Multi-Cloud Mesh Fabrics to Escape the Egress Economy](https://dev.to/instatunnel/the-invisible-tax-how-engineers-are-building-multi-cloud-mesh-fabrics-to-escape-the-egress-economy-60p)
+- [How We Log LLM Requests at Sub-50ms Latency Using ClickHouse](https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn)
+- [Suffix vs Prefix: Choosing a Docker Port Convention That Actually Works](https://dev.to/vineethnkrishnan/suffix-vs-prefix-choosing-a-docker-port-convention-that-actually-works-1k8g)
+- [I Built a Simpler Uptime Monitoring Tool](https://dev.to/shura_dev/i-built-a-simpler-uptime-monitoring-tool-4oef)
+- [Stop Wasting GitHub Actions Minutes: How We Built a Commit-Driven CI System for iOS](https://dev.to/daksh-gargas/stop-wasting-github-actions-minutes-how-we-built-a-commit-driven-ci-system-for-ios-47cd)
+- [GitOps Deployment for Kubernetes Teams](https://dev.to/safdarwahid/gitops-deployment-for-kubernetes-teams-237o)
+- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
