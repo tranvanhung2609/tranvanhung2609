@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Probes + .NET: Liveness, Readiness and Startup in Production](https://dev.to/adrianbailador/kubernetes-probes-net-liveness-readiness-and-startup-in-production-552n)
-- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
-- [wsl9x: Linux 6.19 corriendo dentro de Windows 95 tras 6 años de hack](https://dev.to/lu1tr0n/wsl9x-linux-619-corriendo-dentro-de-windows-95-tras-6-anos-de-hack-42g1)
-- [HTB &lpar;Jerry&rpar; — Walkthrough](https://dev.to/micheaol/htb-jerry-walkthrough-3l55)
-- [Traditional IT vs Cloud Computing: The Great Shift Every Beginner Should Know](https://dev.to/eniola_dankuwo/traditional-it-vs-cloud-computing-the-great-shift-every-beginner-should-know-1bb8)
-- [IoT Security Challenges in Logistics Systems 🔐🚚](https://dev.to/goutam_kumar_25db122cf377/iot-security-challenges-in-logistics-systems-3om)
+- [Authentication Mechanisms: JWT, OAuth, and Single Sign-On &lpar;SSO&rpar;](https://dev.to/tanx-1811/authentication-mechanisms-jwt-oauth-and-single-sign-on-sso-1eo3)
+- [How to Choose a Network Troubleshooting Tool](https://dev.to/anatraf_482389aa982e/how-to-choose-a-network-troubleshooting-tool-1hk4)
+- [Notes on Building a Global Messaging Network for Weak Connections](https://dev.to/ai_ap_1798347ec365e8cf821/notes-on-building-a-global-messaging-network-for-weak-connections-2jb5)
+- [X &lpar;Twitter&rpar; Media Streaming dekonstruiert: Architektur eines Hochleistungs-Video-Extractors mit HLS und FFmpeg](https://dev.to/yqqwe/x-twitter-media-streaming-dekonstruiert-architektur-eines-hochleistungs-video-extractors-mit-hls-5ekm)
+- [Generating PDF Files in Java: A Practical Guide](https://dev.to/yahey/generating-pdf-files-in-java-a-practical-guide-2p08)
+- [Saga模式深度指南：分布式事务的协调艺术](https://dev.to/tianxin/sagamo-shi-shen-du-zhi-nan-fen-bu-shi-shi-wu-de-xie-diao-yi-zhu-71a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
