@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How We Log LLM Requests at Sub-50ms Latency Using ClickHouse](https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn)
-- [Suffix vs Prefix: Choosing a Docker Port Convention That Actually Works](https://dev.to/vineethnkrishnan/suffix-vs-prefix-choosing-a-docker-port-convention-that-actually-works-1k8g)
-- [I Built a Simpler Uptime Monitoring Tool](https://dev.to/shura_dev/i-built-a-simpler-uptime-monitoring-tool-4oef)
-- [Stop Wasting GitHub Actions Minutes: How We Built a Commit-Driven CI System for iOS](https://dev.to/daksh-gargas/stop-wasting-github-actions-minutes-how-we-built-a-commit-driven-ci-system-for-ios-47cd)
-- [GitOps Deployment for Kubernetes Teams](https://dev.to/safdarwahid/gitops-deployment-for-kubernetes-teams-237o)
-- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
+- [OLSOL Exchange&lpar;Obsidian Ledger Solutions&rpar; Enhances Predictive Data Infrastructure to Support Scalable and Insight-Driven Systems](https://dev.to/olsolexchange/olsol-exchangeobsidian-ledger-solutions-enhances-predictive-data-infrastructure-to-support-2k8c)
+- [PostHog Self-Hosted Review: Worth Running Yourself?](https://dev.to/juan_diegoisazaa_5362a/posthog-self-hosted-review-worth-running-yourself-19p2)
+- [Why Your AWS Bill Doubled Overnight &lpar;And How to Plug the Leaks&rpar;](https://dev.to/mumtaz2029/why-your-aws-bill-doubled-overnight-and-how-to-plug-the-leaks-48c7)
+- [The Bitwarden CLI Just Got Backdoored. Here&#39;s What the Supply Chain Attack Actually Did.](https://dev.to/om_shree_0709/the-bitwarden-cli-just-got-backdoored-heres-what-the-supply-chain-attack-actually-did-4aoi)
+- [Why SNMP Monitoring Misses 80% of Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-80-of-network-problems-and-what-to-use-instead-1ip6)
+- [装饰器模式深度指南：让对象能力动态扩展的艺术](https://dev.to/tianxin/zhuang-shi-qi-mo-shi-shen-du-zhi-nan-rang-dui-xiang-neng-li-dong-tai-kuo-zhan-de-yi-zhu-5175)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
