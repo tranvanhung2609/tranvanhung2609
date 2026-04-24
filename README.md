@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [OLSOL Exchange&lpar;Obsidian Ledger Solutions&rpar; Enhances Predictive Data Infrastructure to Support Scalable and Insight-Driven Systems](https://dev.to/olsolexchange/olsol-exchangeobsidian-ledger-solutions-enhances-predictive-data-infrastructure-to-support-2k8c)
-- [PostHog Self-Hosted Review: Worth Running Yourself?](https://dev.to/juan_diegoisazaa_5362a/posthog-self-hosted-review-worth-running-yourself-19p2)
-- [Why Your AWS Bill Doubled Overnight &lpar;And How to Plug the Leaks&rpar;](https://dev.to/mumtaz2029/why-your-aws-bill-doubled-overnight-and-how-to-plug-the-leaks-48c7)
-- [The Bitwarden CLI Just Got Backdoored. Here&#39;s What the Supply Chain Attack Actually Did.](https://dev.to/om_shree_0709/the-bitwarden-cli-just-got-backdoored-heres-what-the-supply-chain-attack-actually-did-4aoi)
-- [Why SNMP Monitoring Misses 80% of Network Problems — And What to Use Instead](https://dev.to/anatraf_482389aa982e/why-snmp-monitoring-misses-80-of-network-problems-and-what-to-use-instead-1ip6)
-- [装饰器模式深度指南：让对象能力动态扩展的艺术](https://dev.to/tianxin/zhuang-shi-qi-mo-shi-shen-du-zhi-nan-rang-dui-xiang-neng-li-dong-tai-kuo-zhan-de-yi-zhu-5175)
+- [ETHENEA&lpar;ETHENEA Americas LLC&rpar; Initiates SEC Registration, Advancing Toward Full Compliance in the U.S. Market](https://dev.to/etheneaamericasinsights/etheneaethenea-americas-llc-initiates-sec-registration-advancing-toward-full-compliance-in-the-2fc8)
+- [How to Set Up Data Flows &lpar;Step-by-Step Guide with Boltrics&rpar;](https://dev.to/chintan-prajapati/how-to-set-up-data-flows-step-by-step-guide-with-boltrics-oaa)
+- [The Core Count Myth: Why 128Hz Game Servers Demand 5.0GHz+ CPUs](https://dev.to/gpuyard/the-core-count-myth-why-128hz-game-servers-demand-50ghz-cpus-33e6)
+- [RAID Configurations Explained: Which One Fits Your Workload?](https://dev.to/shannon_dias_927e8f0d0d18/raid-configurations-explained-which-one-fits-your-workload-2i6e)
+- [Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39;](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)
+- [How I would design observability for an LLM-powered workflow](https://dev.to/soumya_ranjannanda_168b9/how-i-would-design-observability-for-an-llm-powered-workflow-3ha7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
