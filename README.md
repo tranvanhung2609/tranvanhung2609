@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ETHENEA&lpar;ETHENEA Americas LLC&rpar; Initiates SEC Registration, Advancing Toward Full Compliance in the U.S. Market](https://dev.to/etheneaamericasinsights/etheneaethenea-americas-llc-initiates-sec-registration-advancing-toward-full-compliance-in-the-2fc8)
-- [How to Set Up Data Flows &lpar;Step-by-Step Guide with Boltrics&rpar;](https://dev.to/chintan-prajapati/how-to-set-up-data-flows-step-by-step-guide-with-boltrics-oaa)
-- [The Core Count Myth: Why 128Hz Game Servers Demand 5.0GHz+ CPUs](https://dev.to/gpuyard/the-core-count-myth-why-128hz-game-servers-demand-50ghz-cpus-33e6)
-- [RAID Configurations Explained: Which One Fits Your Workload?](https://dev.to/shannon_dias_927e8f0d0d18/raid-configurations-explained-which-one-fits-your-workload-2i6e)
-- [Búsqueda Binaria: Mucho más que &#39;Dividir y Vencerás&#39;](https://dev.to/jcmexdev/busqueda-binaria-mucho-mas-que-dividir-y-venceras-f40)
-- [How I would design observability for an LLM-powered workflow](https://dev.to/soumya_ranjannanda_168b9/how-i-would-design-observability-for-an-llm-powered-workflow-3ha7)
+- [title: Agentic AI for App Modernization What the Accenture WaveMaker Bet Means](https://dev.to/logiqode/title-agentic-ai-for-app-modernization-what-the-accenture-wavemaker-bet-means-gfk)
+- [Zero-Trust Logging: Secure Vector.dev Pipelines on GCP with Workload Identity](https://dev.to/jakner/zero-trust-logging-secure-vectordev-pipelines-on-gcp-with-workload-identity-3klb)
+- [Deploy Your App and Add an AI Agent to Ship Tickets, With Your Own API Key](https://dev.to/oscdev/deploy-your-app-and-add-an-ai-agent-to-ship-tickets-with-your-own-api-key-4mfh)
+- [Twilio Is Killing api.de1.twilio.com on April 28 — And the Regional Domains Never Actually Routed Regionally](https://dev.to/flarecanary/twilio-is-killing-apide1twiliocom-on-april-28-and-the-regional-domains-never-actually-routed-1hdc)
+- [Proactive Security: Mastering the Secret Leak Remediation Workflow for Dev Teams](https://dev.to/devactivity/proactive-security-mastering-the-secret-leak-remediation-workflow-for-dev-teams-4h4d)
+- [The Brutal Truths of &quot;Write Once, Run Anywhere&quot; After 3 Months with Capa-Java](https://dev.to/kevinten10/the-brutal-truths-of-write-once-run-anywhere-after-3-months-with-capa-java-4be1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
