@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Borrowed Strings: API Designs That Cut 94% of Allocations](https://dev.to/speed_engineer/borrowed-strings-api-designs-that-cut-94-of-allocations-1ccb)
-- [🚀 The Day I Broke SSH on AWS… and Learned Something Awesome](https://dev.to/ptp2308/the-day-i-broke-ssh-on-aws-and-learned-something-awesome-33li)
-- [Change Data Capture: Streaming Database Changes to Downstream Systems](https://dev.to/dylan_dumont_266378d98367/change-data-capture-streaming-database-changes-to-downstream-systems-flg)
-- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-oh7)
-- [etcd Is Your Kubernetes Database: What Breaks and What to Watch](https://dev.to/ntctech/etcd-is-your-kubernetes-database-what-breaks-and-what-to-watch-50i3)
-- [Java 25 Foreign Function and Memory API Tutorial with Examples](https://dev.to/rajesh1761/java-25-foreign-function-and-memory-api-tutorial-with-examples-1mf8)
+- [Stop Scattering Your Error Handling Across Spring Boot Services](https://dev.to/ssj256x/stop-scattering-your-error-handling-across-spring-boot-services-51ek)
+- [Code In, Cluster Out: Building Reproducible Edge Kubernetes with NixOS, K3s, and Forgejo](https://dev.to/ces0712/code-in-cluster-out-building-reproducible-edge-kubernetes-with-nixos-k3s-and-forgejo-i08)
+- [My Database Disappeared Every Time I Restarted Docker. Migrations Fixed That.](https://dev.to/abhishek_sharma_a9792aee8/my-database-disappeared-every-time-i-restarted-docker-migrations-fixed-that-n93)
+- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
+- [🧩 Frontend Architecture for Dynamic Content: Hardcoded UI vs CMS/BE vs Server-Driven UI](https://dev.to/vishwark/frontend-architecture-for-dynamic-content-hardcoded-ui-vs-cmsbe-vs-server-driven-ui-hgk)
+- [The 10 Sites Guide to Buying Old USA Yahoo Accounts in](https://dev.to/pennibolingm8nqe/the-10-sites-guide-to-buying-old-usa-yahoo-accounts-in-4n76)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
