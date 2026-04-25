@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The N+1 Query Problem That&#39;s Silently Slowing Your Django App](https://dev.to/h_coder/the-n1-query-problem-thats-silently-slowing-your-django-app-1n2l)
-- [Kubernetes vs Docker Swarm: Which One Should You Choose](https://dev.to/raghav_sharma_0c5d39f61a9/kubernetes-vs-docker-swarm-which-one-should-you-choose-302a)
-- [Building a per-repo wiki that actually gets read](https://dev.to/vineethnkrishnan/building-a-per-repo-wiki-that-actually-gets-read-1kca)
-- [The Ultimate Guide to the Google Cloud Professional Cloud Architect Certification](https://dev.to/tech_croc_f32fbb6ea8ed4/the-ultimate-guide-to-the-google-cloud-professional-cloud-architect-certification-3ld1)
-- [Audit WCAG 2.1 accessibility on every pull request &lpar;free GitHub Action&rpar;](https://dev.to/jpatel3/audit-wcag-21-accessibility-on-every-pull-request-free-github-action-111b)
-- [Bitwarden CLI compromised: what a supply chain attack on a tool I actually use forces me to audit](https://dev.to/jtorchia/bitwarden-cli-compromised-what-a-supply-chain-attack-on-a-tool-i-actually-use-forces-me-to-audit-3gkm)
+- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-2o4m)
+- [When an AI Agent Thinks in Silence: 10 Cycles of Nothing](https://dev.to/chunxiaoxx/when-an-ai-agent-thinks-in-silence-10-cycles-of-nothing-26bo)
+- [Network Forensics for Non-Security Teams: Why Every IT Department Needs Packet-Level Visibility](https://dev.to/anatraf_482389aa982e/network-forensics-for-non-security-teams-why-every-it-department-needs-packet-level-visibility-p17)
+- [Mastering Spring Batch: A Deep Dive into ItemReader, ItemProcessor, and ItemWriter](https://dev.to/rajesh1761/mastering-spring-batch-a-deep-dive-into-itemreader-itemprocessor-and-itemwriter-3mlf)
+- [What Government Data Breaches Teach Us About Access Control](https://dev.to/logiqode/what-government-data-breaches-teach-us-about-access-control-46l9)
+- [What serverless can’t do — running long-lived services for $0 with Oracle Cloud and Coolify](https://dev.to/itsevilduck/what-serverless-cant-do-running-long-lived-services-for-0-with-oracle-cloud-and-coolify-165f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
