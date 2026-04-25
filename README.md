@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-2o4m)
-- [When an AI Agent Thinks in Silence: 10 Cycles of Nothing](https://dev.to/chunxiaoxx/when-an-ai-agent-thinks-in-silence-10-cycles-of-nothing-26bo)
-- [Network Forensics for Non-Security Teams: Why Every IT Department Needs Packet-Level Visibility](https://dev.to/anatraf_482389aa982e/network-forensics-for-non-security-teams-why-every-it-department-needs-packet-level-visibility-p17)
-- [Mastering Spring Batch: A Deep Dive into ItemReader, ItemProcessor, and ItemWriter](https://dev.to/rajesh1761/mastering-spring-batch-a-deep-dive-into-itemreader-itemprocessor-and-itemwriter-3mlf)
-- [What Government Data Breaches Teach Us About Access Control](https://dev.to/logiqode/what-government-data-breaches-teach-us-about-access-control-46l9)
-- [What serverless can’t do — running long-lived services for $0 with Oracle Cloud and Coolify](https://dev.to/itsevilduck/what-serverless-cant-do-running-long-lived-services-for-0-with-oracle-cloud-and-coolify-165f)
+- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
+- [Linode vs Vultr Performance: Real-World VPS Benchmarks](https://dev.to/juan_diegoisazaa_5362a/linode-vs-vultr-performance-real-world-vps-benchmarks-1bf8)
+- [Self Host Docker Guide on a VPS: Practical Setup](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-practical-setup-3fg4)
+- [Transformative AI-Powered Platform Engineering](https://dev.to/luigidifraia/transformative-ai-powered-platform-engineering-2902)
+- [Best CDN Free Tier for VPS Hosting in 2026](https://dev.to/juan_diegoisazaa_5362a/best-cdn-free-tier-for-vps-hosting-in-2026-1lhp)
+- [Postgres Managed Service Comparison for VPS Teams](https://dev.to/juan_diegoisazaa_5362a/postgres-managed-service-comparison-for-vps-teams-4e7h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
