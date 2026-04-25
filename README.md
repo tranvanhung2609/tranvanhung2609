@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
-- [Linode vs Vultr Performance: Real-World VPS Benchmarks](https://dev.to/juan_diegoisazaa_5362a/linode-vs-vultr-performance-real-world-vps-benchmarks-1bf8)
-- [Self Host Docker Guide on a VPS: Practical Setup](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-practical-setup-3fg4)
-- [Transformative AI-Powered Platform Engineering](https://dev.to/luigidifraia/transformative-ai-powered-platform-engineering-2902)
-- [Best CDN Free Tier for VPS Hosting in 2026](https://dev.to/juan_diegoisazaa_5362a/best-cdn-free-tier-for-vps-hosting-in-2026-1lhp)
-- [Postgres Managed Service Comparison for VPS Teams](https://dev.to/juan_diegoisazaa_5362a/postgres-managed-service-comparison-for-vps-teams-4e7h)
+- [Borrowed Strings: API Designs That Cut 94% of Allocations](https://dev.to/speed_engineer/borrowed-strings-api-designs-that-cut-94-of-allocations-1ccb)
+- [🚀 The Day I Broke SSH on AWS… and Learned Something Awesome](https://dev.to/ptp2308/the-day-i-broke-ssh-on-aws-and-learned-something-awesome-33li)
+- [Change Data Capture: Streaming Database Changes to Downstream Systems](https://dev.to/dylan_dumont_266378d98367/change-data-capture-streaming-database-changes-to-downstream-systems-flg)
+- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-oh7)
+- [etcd Is Your Kubernetes Database: What Breaks and What to Watch](https://dev.to/ntctech/etcd-is-your-kubernetes-database-what-breaks-and-what-to-watch-50i3)
+- [Java 25 Foreign Function and Memory API Tutorial with Examples](https://dev.to/rajesh1761/java-25-foreign-function-and-memory-api-tutorial-with-examples-1mf8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
