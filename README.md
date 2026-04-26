@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Best AI Feature for Backend Developers Is a Resolution Loop](https://dev.to/rapidkit/the-best-ai-feature-for-backend-developers-is-a-resolution-loop-4gh3)
-- [How to Deploy OpenClaw on Kubernetes with Helm Charts](https://dev.to/yixn_io/how-to-deploy-openclaw-on-kubernetes-with-helm-charts-22cp)
-- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0)
-- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k)
-- [Optimizing Kubernetes Resource Allocation](https://dev.to/vpravhi360/optimizing-kubernetes-resource-allocation-1aj9)
-- [How I Built an AI Agent Content Pipeline That Runs Itself &lpar;Tools, Costs, Honest Review&rpar;](https://dev.to/hopkins_jesse_cdb68cfa22c/how-i-built-an-ai-agent-content-pipeline-that-runs-itself-tools-costs-honest-review-39ad)
+- [Unlocking Advanced Automation: GitHub Actions Beyond CI/CD for Enhanced Software KPI Dashboards](https://dev.to/devactivity/unlocking-advanced-automation-github-actions-beyond-cicd-for-enhanced-software-kpi-dashboards-24gm)
+- [LSM Trees vs B-Trees: How Storage Engines Choose Their Data Structure](https://dev.to/dylan_dumont_266378d98367/lsm-trees-vs-b-trees-how-storage-engines-choose-their-data-structure-10l9)
+- [Web Developer Travis McCracken on Using SQLite for Local Testing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-sqlite-for-local-testing-398e)
+- [🛠️ Building a Production-Ready Private AI Stack with Evrone](https://dev.to/evrone/building-a-production-ready-private-ai-stack-with-evrone-32h1)
+- [Mastering Spring Security Session Management and Remember Me Tutorial](https://dev.to/rajesh1761/mastering-spring-security-session-management-and-remember-me-tutorial-1mc2)
+- [Fortifying the Gates: A Technical Deep Dive into CI/CD Pipeline Security](https://dev.to/techblogs/fortifying-the-gates-a-technical-deep-dive-into-cicd-pipeline-security-34jo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
