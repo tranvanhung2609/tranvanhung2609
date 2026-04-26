@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Scattering Your Error Handling Across Spring Boot Services](https://dev.to/ssj256x/stop-scattering-your-error-handling-across-spring-boot-services-51ek)
-- [Code In, Cluster Out: Building Reproducible Edge Kubernetes with NixOS, K3s, and Forgejo](https://dev.to/ces0712/code-in-cluster-out-building-reproducible-edge-kubernetes-with-nixos-k3s-and-forgejo-i08)
-- [My Database Disappeared Every Time I Restarted Docker. Migrations Fixed That.](https://dev.to/abhishek_sharma_a9792aee8/my-database-disappeared-every-time-i-restarted-docker-migrations-fixed-that-n93)
-- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
-- [🧩 Frontend Architecture for Dynamic Content: Hardcoded UI vs CMS/BE vs Server-Driven UI](https://dev.to/vishwark/frontend-architecture-for-dynamic-content-hardcoded-ui-vs-cmsbe-vs-server-driven-ui-hgk)
-- [The 10 Sites Guide to Buying Old USA Yahoo Accounts in](https://dev.to/pennibolingm8nqe/the-10-sites-guide-to-buying-old-usa-yahoo-accounts-in-4n76)
+- [A Tiny Retry Utility That Saves You From Random Failures](https://dev.to/enochcreator/a-tiny-retry-utility-that-saves-you-from-random-failures-jai)
+- [A Tiny Retry Utility That Saves You From Random Failures](https://dev.to/enochcreator/a-tiny-retry-utility-that-saves-you-from-random-failures-jai)
+- [Building a real-time anomaly detection engine for a self-hosted Nextcloud &lpar;HNG Stage 3&rpar;](https://dev.to/ibraheembello/building-a-real-time-anomaly-detection-engine-for-a-self-hosted-nextcloud-hng-stage-3-59km)
+- [The axios supply chain attack bypassed every CVE scanner. Behavioral scoring saw it coming.](https://dev.to/piiiico/the-axios-supply-chain-attack-bypassed-every-cve-scanner-behavioral-scoring-saw-it-coming-9dg)
+- [HCP Terraform&#39;s free tier is gone - what AWS teams should actually do next](https://dev.to/abhishek_gupta_pinpo/hcp-terraforms-free-tier-is-gone-what-aws-teams-should-actually-do-next-3fg5)
+- [68% of Teams Can&#39;t Tell If That Action Was an AI Agent or a Human](https://dev.to/piiiico/68-of-teams-cant-tell-if-that-action-was-an-ai-agent-or-a-human-22bj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
