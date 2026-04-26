@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Tiny Retry Utility That Saves You From Random Failures](https://dev.to/enochcreator/a-tiny-retry-utility-that-saves-you-from-random-failures-jai)
-- [A Tiny Retry Utility That Saves You From Random Failures](https://dev.to/enochcreator/a-tiny-retry-utility-that-saves-you-from-random-failures-jai)
-- [Building a real-time anomaly detection engine for a self-hosted Nextcloud &lpar;HNG Stage 3&rpar;](https://dev.to/ibraheembello/building-a-real-time-anomaly-detection-engine-for-a-self-hosted-nextcloud-hng-stage-3-59km)
-- [The axios supply chain attack bypassed every CVE scanner. Behavioral scoring saw it coming.](https://dev.to/piiiico/the-axios-supply-chain-attack-bypassed-every-cve-scanner-behavioral-scoring-saw-it-coming-9dg)
-- [HCP Terraform&#39;s free tier is gone - what AWS teams should actually do next](https://dev.to/abhishek_gupta_pinpo/hcp-terraforms-free-tier-is-gone-what-aws-teams-should-actually-do-next-3fg5)
-- [68% of Teams Can&#39;t Tell If That Action Was an AI Agent or a Human](https://dev.to/piiiico/68-of-teams-cant-tell-if-that-action-was-an-ai-agent-or-a-human-22bj)
+- [The Best AI Feature for Backend Developers Is a Resolution Loop](https://dev.to/rapidkit/the-best-ai-feature-for-backend-developers-is-a-resolution-loop-4gh3)
+- [How to Deploy OpenClaw on Kubernetes with Helm Charts](https://dev.to/yixn_io/how-to-deploy-openclaw-on-kubernetes-with-helm-charts-22cp)
+- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0)
+- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k)
+- [Optimizing Kubernetes Resource Allocation](https://dev.to/vpravhi360/optimizing-kubernetes-resource-allocation-1aj9)
+- [How I Built an AI Agent Content Pipeline That Runs Itself &lpar;Tools, Costs, Honest Review&rpar;](https://dev.to/hopkins_jesse_cdb68cfa22c/how-i-built-an-ai-agent-content-pipeline-that-runs-itself-tools-costs-honest-review-39ad)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
