@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Internals of Docker 27&#39;s New BuildKit Backend and How It Compares to Podman 5.3](https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2ik1)
-- [Inside NetGain UEBA — How We Actually Compute Risk Scores &lpar;No Black Box&rpar;](https://dev.to/soon_seahtoh_3e917beae5e/inside-netgain-ueba-how-we-actually-compute-risk-scores-no-black-box-53nl)
-- [DNS and CDN Architecture: Building Fast, Resilient Global Infrastructure](https://dev.to/instadevops/dns-and-cdn-architecture-building-fast-resilient-global-infrastructure-55h4)
-- [Managing Background Tasks in FastAPI: From Basic to Production-Ready Beyond Fire and Forget](https://dev.to/richard_quaicoe_2398278be/managing-background-tasks-in-fastapi-from-basic-to-production-ready-beyond-fire-and-forget-ddm)
-- [Internals of Docker 27&#39;s New BuildKit Backend and How It Compares to Podman 5.3](https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2kgh)
-- [How to Stop AI Agents From Nuking Your Production Database](https://dev.to/alanwest/how-to-stop-ai-agents-from-nuking-your-production-database-1h45)
+- [Building Verifiable Chain-of-Custody Reports for Audits](https://dev.to/beefedai/building-verifiable-chain-of-custody-reports-for-audits-5c4e)
+- [Why Your DNS Checker Returns Empty Results for Large TXT Records](https://dev.to/infratally/why-your-dns-checker-returns-empty-results-for-large-txt-records-3cnp)
+- [Human-in-the-Loop or Human-on-the-Loop? Most Teams Are Using the Wrong Model](https://dev.to/waxell/human-in-the-loop-or-human-on-the-loop-most-teams-are-using-the-wrong-model-588p)
+- [How to Build a Production-Ready Secure Python API &lpar;JWT, Rate Limiting, and Caching&rpar;](https://dev.to/praiseordu/how-to-build-a-production-ready-secure-python-api-jwt-rate-limiting-and-caching-2md1)
+- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
+- [Cloud Provisioning Benchmarks: AWS vs Azure vs GCP — 2026-04-26](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/cloud-provisioning-benchmarks-aws-vs-azure-vs-gcp-2026-04-26-309l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
