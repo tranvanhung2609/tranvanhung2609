@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2fhn)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2fhn)
-- [Java Map internals: a complete guide for juniors](https://dev.to/jamesonmichel6/java-map-internals-a-complete-guide-for-juniors-3cag)
-- [Future Outlook &amp; Operating Model](https://dev.to/nadinev/future-outlook-operating-model-8jp)
-- [LLMs vs. Small Language Models: Understanding the Landscape](https://dev.to/techblogs/llms-vs-small-language-models-understanding-the-landscape-1fak)
-- [LLMs vs. Small Language Models: Understanding the Landscape](https://dev.to/techblogs/llms-vs-small-language-models-understanding-the-landscape-1fak)
+- [Database Indexing, B-Trees, and Query Optimization &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/database-indexing-b-trees-and-query-optimization-2026-248h)
+- [Comparing Intelligent Automation Approaches: Which Strategy Fits Your Project?](https://dev.to/dorjamie/comparing-intelligent-automation-approaches-which-strategy-fits-your-project-3d0i)
+- [How to Protect Your IP Prefixes from BGP Hijacking](https://dev.to/kohanevich/how-to-protect-your-ip-prefixes-from-bgp-hijacking-3cj)
+- [Killing the Setup Endpoint: Moving Env Provisioning into GitHub Actions](https://dev.to/toddsullivan/killing-the-setup-endpoint-moving-env-provisioning-into-github-actions-4jpj)
+- [pm2 Process Manager: Keep Your Node.js Bots Running Forever](https://dev.to/chasebot/pm2-process-manager-keep-your-nodejs-bots-running-forever-5g01)
+- [HIPAA Compliance for Developers: How to Handle PHI Without Breaking the Law](https://dev.to/prashanth-tondapu/hipaa-compliance-for-developers-how-to-handle-phi-without-breaking-the-law-4g70)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
