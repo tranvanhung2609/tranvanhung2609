@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Database Indexing, B-Trees, and Query Optimization &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/database-indexing-b-trees-and-query-optimization-2026-248h)
-- [Comparing Intelligent Automation Approaches: Which Strategy Fits Your Project?](https://dev.to/dorjamie/comparing-intelligent-automation-approaches-which-strategy-fits-your-project-3d0i)
-- [How to Protect Your IP Prefixes from BGP Hijacking](https://dev.to/kohanevich/how-to-protect-your-ip-prefixes-from-bgp-hijacking-3cj)
-- [Killing the Setup Endpoint: Moving Env Provisioning into GitHub Actions](https://dev.to/toddsullivan/killing-the-setup-endpoint-moving-env-provisioning-into-github-actions-4jpj)
-- [pm2 Process Manager: Keep Your Node.js Bots Running Forever](https://dev.to/chasebot/pm2-process-manager-keep-your-nodejs-bots-running-forever-5g01)
-- [HIPAA Compliance for Developers: How to Handle PHI Without Breaking the Law](https://dev.to/prashanth-tondapu/hipaa-compliance-for-developers-how-to-handle-phi-without-breaking-the-law-4g70)
+- [Internals of Docker 27&#39;s New BuildKit Backend and How It Compares to Podman 5.3](https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2ik1)
+- [Inside NetGain UEBA — How We Actually Compute Risk Scores &lpar;No Black Box&rpar;](https://dev.to/soon_seahtoh_3e917beae5e/inside-netgain-ueba-how-we-actually-compute-risk-scores-no-black-box-53nl)
+- [DNS and CDN Architecture: Building Fast, Resilient Global Infrastructure](https://dev.to/instadevops/dns-and-cdn-architecture-building-fast-resilient-global-infrastructure-55h4)
+- [Managing Background Tasks in FastAPI: From Basic to Production-Ready Beyond Fire and Forget](https://dev.to/richard_quaicoe_2398278be/managing-background-tasks-in-fastapi-from-basic-to-production-ready-beyond-fire-and-forget-ddm)
+- [Internals of Docker 27&#39;s New BuildKit Backend and How It Compares to Podman 5.3](https://dev.to/johal/internals-of-docker-27s-new-buildkit-backend-and-how-it-compares-to-podman-53-2kgh)
+- [How to Stop AI Agents From Nuking Your Production Database](https://dev.to/alanwest/how-to-stop-ai-agents-from-nuking-your-production-database-1h45)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
