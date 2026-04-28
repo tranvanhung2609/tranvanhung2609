@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How the Right Software Development Tools Can Save Your Team Months of Work?](https://dev.to/sophielane/how-the-right-software-development-tools-can-save-your-team-months-of-work-3nnc)
-- [Rollback Chains: When Payment Fails, What Actually Happens](https://dev.to/pedrop3/rollback-chains-when-payment-fails-what-actually-happens-187k)
-- [The Homelab That Runs My Automation Business: One Mini PC, Two Salvaged Drives](https://dev.to/benutting/the-homelab-that-runs-my-automation-business-one-mini-pc-two-salvaged-drives-3njo)
-- [5 Hidden Risks of Hybrid AD to Entra ID Device Migration](https://dev.to/opsolemigrate_it/5-hidden-risks-of-hybrid-ad-to-entra-id-device-migration-59dj)
-- [I Realized I Was Depending Too Much on AI](https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf)
-- [Building a Real-Time Opinion-Trading Engine: An Anatomy](https://dev.to/ujjawal_tyagi_c5a84255da4/building-a-real-time-opinion-trading-engine-an-anatomy-2k4p)
+- [When GitHub Actions Goes Silent: The Pending-Forever Bug I Hit Shipping My MCP Server to npm](https://dev.to/achiya-automation/when-github-actions-goes-silent-the-pending-forever-bug-i-hit-shipping-my-mcp-server-to-npm-229m)
+- [Nine seconds to zero: what the Railway prod-DB deletion teaches you about agent safety](https://dev.to/tiamatenity/nine-seconds-to-zero-what-the-railway-prod-db-deletion-teaches-you-about-agent-safety-3l8n)
+- [Bypassing Cloudflare for True Origin Health Checks with Blackbox Exporter and CoreDNS](https://dev.to/amaanx86/bypassing-cloudflare-for-true-origin-health-checks-with-blackbox-exporter-and-coredns-4fhg)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-5hb0)
+- [How to Fix Missing Content-Security-Policy Header &lpar;Step-by-Step&rpar;](https://dev.to/guardr/how-to-fix-missing-content-security-policy-header-step-by-step-1fnf)
+- [GitHub Let a Git Push Hijack Its Servers &lpar;RCE CVE-2026-3854&rpar;](https://dev.to/monkfromearth/github-let-a-git-push-hijack-its-servers-rce-cve-2026-3854-bl8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
