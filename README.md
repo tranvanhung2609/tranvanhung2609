@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building Verifiable Chain-of-Custody Reports for Audits](https://dev.to/beefedai/building-verifiable-chain-of-custody-reports-for-audits-5c4e)
-- [Why Your DNS Checker Returns Empty Results for Large TXT Records](https://dev.to/infratally/why-your-dns-checker-returns-empty-results-for-large-txt-records-3cnp)
-- [Human-in-the-Loop or Human-on-the-Loop? Most Teams Are Using the Wrong Model](https://dev.to/waxell/human-in-the-loop-or-human-on-the-loop-most-teams-are-using-the-wrong-model-588p)
-- [How to Build a Production-Ready Secure Python API &lpar;JWT, Rate Limiting, and Caching&rpar;](https://dev.to/praiseordu/how-to-build-a-production-ready-secure-python-api-jwt-rate-limiting-and-caching-2md1)
-- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
-- [Cloud Provisioning Benchmarks: AWS vs Azure vs GCP — 2026-04-26](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/cloud-provisioning-benchmarks-aws-vs-azure-vs-gcp-2026-04-26-309l)
+- [Detecting &amp; Blocking Anomalous Traffic with Cloud Anomaly Detector](https://dev.to/izzyjosh/detecting-blocking-anomalous-traffic-with-cloud-anomaly-detector-2i7n)
+- [Combining PDF Documents with Java: A Hands-On Guide](https://dev.to/yahey/combining-pdf-documents-with-java-a-hands-on-guide-459d)
+- [Boosting React Performance: A Deep Dive into Optimization Techniques](https://dev.to/techblogs/boosting-react-performance-a-deep-dive-into-optimization-techniques-mei)
+- [Boosting React Performance: A Deep Dive into Optimization Techniques](https://dev.to/techblogs/boosting-react-performance-a-deep-dive-into-optimization-techniques-mei)
+- [Web Developer Roadmap 2026: Step-by-Step Guide for Beginners https://medium.com/@anjalikashyapakk/web-developer-roadmap-2026-step-by-step-guide-for-beginners-1955825ff829](https://dev.to/anjali_kashyap_20a62f4e53/web-developer-roadmap-2026-step-by-step-guide-for-beginners-5fn0)
+- [How I Built a Rust CLI Tool That Beats POSIX diff &lpar;and Saved My CI/CD Pipelines&rpar;](https://dev.to/alyesmaeil/how-i-built-a-rust-cli-tool-that-beats-posix-diff-and-saved-my-cicd-pipelines-1j0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
