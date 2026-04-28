@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Detecting &amp; Blocking Anomalous Traffic with Cloud Anomaly Detector](https://dev.to/izzyjosh/detecting-blocking-anomalous-traffic-with-cloud-anomaly-detector-2i7n)
-- [Combining PDF Documents with Java: A Hands-On Guide](https://dev.to/yahey/combining-pdf-documents-with-java-a-hands-on-guide-459d)
-- [Boosting React Performance: A Deep Dive into Optimization Techniques](https://dev.to/techblogs/boosting-react-performance-a-deep-dive-into-optimization-techniques-mei)
-- [Boosting React Performance: A Deep Dive into Optimization Techniques](https://dev.to/techblogs/boosting-react-performance-a-deep-dive-into-optimization-techniques-mei)
-- [Web Developer Roadmap 2026: Step-by-Step Guide for Beginners https://medium.com/@anjalikashyapakk/web-developer-roadmap-2026-step-by-step-guide-for-beginners-1955825ff829](https://dev.to/anjali_kashyap_20a62f4e53/web-developer-roadmap-2026-step-by-step-guide-for-beginners-5fn0)
-- [How I Built a Rust CLI Tool That Beats POSIX diff &lpar;and Saved My CI/CD Pipelines&rpar;](https://dev.to/alyesmaeil/how-i-built-a-rust-cli-tool-that-beats-posix-diff-and-saved-my-cicd-pipelines-1j0)
+- [How the Right Software Development Tools Can Save Your Team Months of Work?](https://dev.to/sophielane/how-the-right-software-development-tools-can-save-your-team-months-of-work-3nnc)
+- [Rollback Chains: When Payment Fails, What Actually Happens](https://dev.to/pedrop3/rollback-chains-when-payment-fails-what-actually-happens-187k)
+- [The Homelab That Runs My Automation Business: One Mini PC, Two Salvaged Drives](https://dev.to/benutting/the-homelab-that-runs-my-automation-business-one-mini-pc-two-salvaged-drives-3njo)
+- [5 Hidden Risks of Hybrid AD to Entra ID Device Migration](https://dev.to/opsolemigrate_it/5-hidden-risks-of-hybrid-ad-to-entra-id-device-migration-59dj)
+- [I Realized I Was Depending Too Much on AI](https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf)
+- [Building a Real-Time Opinion-Trading Engine: An Anatomy](https://dev.to/ujjawal_tyagi_c5a84255da4/building-a-real-time-opinion-trading-engine-an-anatomy-2k4p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
