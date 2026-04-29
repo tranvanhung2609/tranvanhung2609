@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [HardenedBSD oficial en Radicle: src, ports y pkg fuera de GitHub](https://dev.to/lu1tr0n/hardenedbsd-oficial-en-radicle-src-ports-y-pkg-fuera-de-github-41bg)
-- [SPF and the Shift from Reporting to Operational Response](https://dev.to/belom/spf-and-the-shift-from-reporting-to-operational-response-2h00)
-- [JOIN TO GET TOP DIGITAL MARKETING DESIGN](https://dev.to/getthedesign/join-to-get-top-digital-marketing-design-33og)
-- [My 3-Machine AI Lab: How I Divide Work Between a Mac Mini, a Windows PC, and an Ubuntu Box](https://dev.to/samhartley_dev/my-3-machine-ai-lab-how-i-divide-work-between-a-mac-mini-a-windows-pc-and-an-ubuntu-box-1p8i)
-- [Building On-Chain Finance Infrastructure With 12 Lines of Code](https://dev.to/tresori/building-on-chain-finance-infrastructure-with-12-lines-of-code-345i)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4no9)
+- [Real-Time Fraud Detection in Java with Kafka Streams and Vector Similarity](https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3ne8)
+- [Research Paper Writing Services UK](https://dev.to/assignmentwriteruk/research-paper-writing-services-uk-42a7)
+- [Building a Search Engine from Scratch: Lessons from Implementing TF-IDF](https://dev.to/diogodls/building-a-search-engine-from-scratch-lessons-from-implementing-tf-idf-3ajf)
+- [Why your Ansible repo has no documentation &lpar;and how to fix it without writing any&rpar;](https://dev.to/gssparks/why-your-ansible-repo-has-no-documentation-and-how-to-fix-it-without-writing-any-2c1p)
+- [Web Developer Travis McCracken on The Backend Tech Stack I Actually Use](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-backend-tech-stack-i-actually-use-4e5l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
