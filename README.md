@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Fraud Detection in Java with Kafka Streams and Vector Similarity](https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3ne8)
-- [Research Paper Writing Services UK](https://dev.to/assignmentwriteruk/research-paper-writing-services-uk-42a7)
-- [Building a Search Engine from Scratch: Lessons from Implementing TF-IDF](https://dev.to/diogodls/building-a-search-engine-from-scratch-lessons-from-implementing-tf-idf-3ajf)
-- [Why your Ansible repo has no documentation &lpar;and how to fix it without writing any&rpar;](https://dev.to/gssparks/why-your-ansible-repo-has-no-documentation-and-how-to-fix-it-without-writing-any-2c1p)
-- [Web Developer Travis McCracken on The Backend Tech Stack I Actually Use](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-backend-tech-stack-i-actually-use-4e5l)
+- [How I Built an Anomaly Detection Engine for DDoS Protection](https://dev.to/dorisjenny27/how-i-built-an-anomaly-detection-engine-for-ddos-protection-488h)
+- [Autoscaling Strategies to Optimize Cost and Performance](https://dev.to/beefedai/autoscaling-strategies-to-optimize-cost-and-performance-36m)
+- [Fully Migrate Secrets Out Of Terraform Module State Without Breaking Existing Users](https://dev.to/drewmullen/fully-migrate-secrets-out-of-terraform-module-state-without-breaking-existing-users-1jc5)
+- [Meet Floci: a fast, free, no-strings AWS emulator &lpar;no auth token, no quotas&rpar;](https://dev.to/hectorvent/meet-floci-a-fast-free-no-strings-aws-emulator-no-auth-token-no-quotas-2gdh)
+- [5 Ways to Run AI Agents on Oracle Cloud Free Tier &lpar;4 ARM Cores, 24GB RAM&rpar;](https://dev.to/kas_storksoft/5-ways-to-run-ai-agents-on-oracle-cloud-free-tier-4-arm-cores-24gb-ram-29d5)
+- [vault project](https://dev.to/omar_ahmed/vault-project-2egm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
