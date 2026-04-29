@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare R2 vs S3: Storage Costs for VPS Hosting](https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-storage-costs-for-vps-hosting-3bf4)
-- [Java Frameworks 2026: Spring Boot 4 vs. Quarkus 3.10 vs. Micronaut 4.5](https://dev.to/johalputt/java-frameworks-2026-spring-boot-4-vs-quarkus-310-vs-micronaut-45-141j)
-- [94% of Published SKILL.md Files Skip the Spec&#39;s Two Most Basic Patterns](https://dev.to/moonrunnerkc/94-of-published-skillmd-files-skip-the-specs-two-most-basic-patterns-oo0)
-- [Revolutionizing Frontend Development: A Deep Dive into Micro Frontends Architecture](https://dev.to/techblogs/revolutionizing-frontend-development-a-deep-dive-into-micro-frontends-architecture-21l1)
-- [Revolutionizing Frontend Development: A Deep Dive into Micro Frontends Architecture](https://dev.to/techblogs/revolutionizing-frontend-development-a-deep-dive-into-micro-frontends-architecture-21l1)
-- [Deep Dive: How Java 24 and Kotlin 2.2 Optimize JVM Performance for 2026 Enterprise Apps](https://dev.to/johalputt/deep-dive-how-java-24-and-kotlin-22-optimize-jvm-performance-for-2026-enterprise-apps-4d22)
+- [HardenedBSD oficial en Radicle: src, ports y pkg fuera de GitHub](https://dev.to/lu1tr0n/hardenedbsd-oficial-en-radicle-src-ports-y-pkg-fuera-de-github-41bg)
+- [SPF and the Shift from Reporting to Operational Response](https://dev.to/belom/spf-and-the-shift-from-reporting-to-operational-response-2h00)
+- [JOIN TO GET TOP DIGITAL MARKETING DESIGN](https://dev.to/getthedesign/join-to-get-top-digital-marketing-design-33og)
+- [My 3-Machine AI Lab: How I Divide Work Between a Mac Mini, a Windows PC, and an Ubuntu Box](https://dev.to/samhartley_dev/my-3-machine-ai-lab-how-i-divide-work-between-a-mac-mini-a-windows-pc-and-an-ubuntu-box-1p8i)
+- [Building On-Chain Finance Infrastructure With 12 Lines of Code](https://dev.to/tresori/building-on-chain-finance-infrastructure-with-12-lines-of-code-345i)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4no9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
