@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [When GitHub Actions Goes Silent: The Pending-Forever Bug I Hit Shipping My MCP Server to npm](https://dev.to/achiya-automation/when-github-actions-goes-silent-the-pending-forever-bug-i-hit-shipping-my-mcp-server-to-npm-229m)
-- [Nine seconds to zero: what the Railway prod-DB deletion teaches you about agent safety](https://dev.to/tiamatenity/nine-seconds-to-zero-what-the-railway-prod-db-deletion-teaches-you-about-agent-safety-3l8n)
-- [Bypassing Cloudflare for True Origin Health Checks with Blackbox Exporter and CoreDNS](https://dev.to/amaanx86/bypassing-cloudflare-for-true-origin-health-checks-with-blackbox-exporter-and-coredns-4fhg)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-5hb0)
-- [How to Fix Missing Content-Security-Policy Header &lpar;Step-by-Step&rpar;](https://dev.to/guardr/how-to-fix-missing-content-security-policy-header-step-by-step-1fnf)
-- [GitHub Let a Git Push Hijack Its Servers &lpar;RCE CVE-2026-3854&rpar;](https://dev.to/monkfromearth/github-let-a-git-push-hijack-its-servers-rce-cve-2026-3854-bl8)
+- [Cloudflare R2 vs S3: Storage Costs for VPS Hosting](https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-storage-costs-for-vps-hosting-3bf4)
+- [Java Frameworks 2026: Spring Boot 4 vs. Quarkus 3.10 vs. Micronaut 4.5](https://dev.to/johalputt/java-frameworks-2026-spring-boot-4-vs-quarkus-310-vs-micronaut-45-141j)
+- [94% of Published SKILL.md Files Skip the Spec&#39;s Two Most Basic Patterns](https://dev.to/moonrunnerkc/94-of-published-skillmd-files-skip-the-specs-two-most-basic-patterns-oo0)
+- [Revolutionizing Frontend Development: A Deep Dive into Micro Frontends Architecture](https://dev.to/techblogs/revolutionizing-frontend-development-a-deep-dive-into-micro-frontends-architecture-21l1)
+- [Revolutionizing Frontend Development: A Deep Dive into Micro Frontends Architecture](https://dev.to/techblogs/revolutionizing-frontend-development-a-deep-dive-into-micro-frontends-architecture-21l1)
+- [Deep Dive: How Java 24 and Kotlin 2.2 Optimize JVM Performance for 2026 Enterprise Apps](https://dev.to/johalputt/deep-dive-how-java-24-and-kotlin-22-optimize-jvm-performance-for-2026-enterprise-apps-4d22)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
