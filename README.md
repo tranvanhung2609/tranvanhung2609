@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Anomaly Detection Engine for DDoS Protection](https://dev.to/dorisjenny27/how-i-built-an-anomaly-detection-engine-for-ddos-protection-488h)
-- [Autoscaling Strategies to Optimize Cost and Performance](https://dev.to/beefedai/autoscaling-strategies-to-optimize-cost-and-performance-36m)
-- [Fully Migrate Secrets Out Of Terraform Module State Without Breaking Existing Users](https://dev.to/drewmullen/fully-migrate-secrets-out-of-terraform-module-state-without-breaking-existing-users-1jc5)
-- [Meet Floci: a fast, free, no-strings AWS emulator &lpar;no auth token, no quotas&rpar;](https://dev.to/hectorvent/meet-floci-a-fast-free-no-strings-aws-emulator-no-auth-token-no-quotas-2gdh)
-- [5 Ways to Run AI Agents on Oracle Cloud Free Tier &lpar;4 ARM Cores, 24GB RAM&rpar;](https://dev.to/kas_storksoft/5-ways-to-run-ai-agents-on-oracle-cloud-free-tier-4-arm-cores-24gb-ram-29d5)
-- [vault project](https://dev.to/omar_ahmed/vault-project-2egm)
+- [What Happens Internally When You Submit a Task to ExecutorService?](https://dev.to/realnamehidden1_61/what-happens-internally-when-you-submit-a-task-to-executorservice-ifh)
+- [ABCDE nya DevOps itu Begini...](https://dev.to/hibiscusht/abcde-nya-devops-itu-begini-51i5)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-58i7)
+- [goini: Stop Writing Bash to Parse .ini Files](https://dev.to/andreimerlescu/goini-stop-writing-bash-to-parse-ini-files-24ha)
+- [What is a Chat API? And how to guarantee message delivery on any network?](https://dev.to/ai_ap_1798347ec365e8cf821/what-is-a-chat-api-and-how-to-guarantee-message-delivery-on-any-network-m8o)
+- [Revolutionizing Software Delivery: AI-Driven DevOps Workflows](https://dev.to/techblogs/revolutionizing-software-delivery-ai-driven-devops-workflows-59e7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
