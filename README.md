@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ArgoCD GitOps Deployment Guide: App-of-Apps and Progressive Delivery](https://dev.to/instadevops/argocd-gitops-deployment-guide-app-of-apps-and-progressive-delivery-7c7)
-- [From Germany to Cameroon: One Trip, Every Hat, and a Room Full of Future Cloud Engineers](https://dev.to/bongoe/from-germany-to-cameroon-one-trip-every-hat-and-a-room-full-of-future-cloud-engineers-1gp)
-- [Why Logistics Control Towers Fail to Deliver Real Value](https://dev.to/palak_sheth_58269b0247d0c/why-logistics-control-towers-fail-to-deliver-real-value-3cj4)
-- [How to Use Java JARs and .NET DLLs Across Platforms](https://dev.to/jnbridge/how-to-use-java-jars-and-net-dlls-across-platforms-5gf9)
-- [Trunk-Based Development: Your Pull Requests Are Still Too Big](https://dev.to/codecraft_diary_3d13677fb/trunk-based-development-your-pull-requests-are-still-too-big-3jcj)
-- [Term Paper Writing Service UK | Qualified Writers](https://dev.to/qualifiedwritersuk/term-paper-writing-service-uk-qualified-writers-5090)
+- [Day 5: Functions and script organization](https://dev.to/thinkkun/day-5-functions-and-script-organization-2cl2)
+- [Day 5/420: Dictionaries, sets, and lookup thinking - Python in production](https://dev.to/thinkkun/day-5420-dictionaries-sets-and-lookup-thinking-python-in-production-2pei)
+- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
+- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-11bi)
+- [DevOps Lab Update — Docker Deployment on Ubuntu](https://dev.to/gravox/devops-lab-update-docker-deployment-on-ubuntu-45lk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
