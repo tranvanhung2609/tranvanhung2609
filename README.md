@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes: part 61 – Kubernetes 1.36 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-61-kubernetes-136-changelog-3cak)
-- [DevOps Automation Engineer: Meaning, Skills, Salary &amp; Complete Roadmap &lpar;2026 Guide&rpar;](https://dev.to/tushar_311c2877788941d40a/devops-automation-engineer-meaning-skills-salary-complete-roadmap-2026-guide-1c54)
-- [Top 10 LLM Observability Platforms in 2026](https://dev.to/deeptishuklatfy/top-10-llm-observability-platforms-in-2026-2d7p)
-- [DevOps Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/devops-training-in-whitefield-learnmore-technologies-bgi)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4372)
-- [Rate Limiting and API Key Management for YouTube Data API](https://dev.to/ahmet_gedik778845/rate-limiting-and-api-key-management-for-youtube-data-api-41ak)
+- [ArgoCD GitOps Deployment Guide: App-of-Apps and Progressive Delivery](https://dev.to/instadevops/argocd-gitops-deployment-guide-app-of-apps-and-progressive-delivery-7c7)
+- [From Germany to Cameroon: One Trip, Every Hat, and a Room Full of Future Cloud Engineers](https://dev.to/bongoe/from-germany-to-cameroon-one-trip-every-hat-and-a-room-full-of-future-cloud-engineers-1gp)
+- [Why Logistics Control Towers Fail to Deliver Real Value](https://dev.to/palak_sheth_58269b0247d0c/why-logistics-control-towers-fail-to-deliver-real-value-3cj4)
+- [How to Use Java JARs and .NET DLLs Across Platforms](https://dev.to/jnbridge/how-to-use-java-jars-and-net-dlls-across-platforms-5gf9)
+- [Trunk-Based Development: Your Pull Requests Are Still Too Big](https://dev.to/codecraft_diary_3d13677fb/trunk-based-development-your-pull-requests-are-still-too-big-3jcj)
+- [Term Paper Writing Service UK | Qualified Writers](https://dev.to/qualifiedwritersuk/term-paper-writing-service-uk-qualified-writers-5090)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
