@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Happens Internally When You Submit a Task to ExecutorService?](https://dev.to/realnamehidden1_61/what-happens-internally-when-you-submit-a-task-to-executorservice-ifh)
-- [ABCDE nya DevOps itu Begini...](https://dev.to/hibiscusht/abcde-nya-devops-itu-begini-51i5)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-58i7)
-- [goini: Stop Writing Bash to Parse .ini Files](https://dev.to/andreimerlescu/goini-stop-writing-bash-to-parse-ini-files-24ha)
-- [What is a Chat API? And how to guarantee message delivery on any network?](https://dev.to/ai_ap_1798347ec365e8cf821/what-is-a-chat-api-and-how-to-guarantee-message-delivery-on-any-network-m8o)
-- [Revolutionizing Software Delivery: AI-Driven DevOps Workflows](https://dev.to/techblogs/revolutionizing-software-delivery-ai-driven-devops-workflows-59e7)
+- [Understanding Kubernetes: part 61 – Kubernetes 1.36 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-61-kubernetes-136-changelog-3cak)
+- [DevOps Automation Engineer: Meaning, Skills, Salary &amp; Complete Roadmap &lpar;2026 Guide&rpar;](https://dev.to/tushar_311c2877788941d40a/devops-automation-engineer-meaning-skills-salary-complete-roadmap-2026-guide-1c54)
+- [Top 10 LLM Observability Platforms in 2026](https://dev.to/deeptishuklatfy/top-10-llm-observability-platforms-in-2026-2d7p)
+- [DevOps Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/devops-training-in-whitefield-learnmore-technologies-bgi)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4372)
+- [Rate Limiting and API Key Management for YouTube Data API](https://dev.to/ahmet_gedik778845/rate-limiting-and-api-key-management-for-youtube-data-api-41ak)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
