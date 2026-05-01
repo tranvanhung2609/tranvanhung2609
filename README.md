@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🤖 Agentic Security: Your AI Got Autonomy. Did Your Security Catch Up?](https://dev.to/17j/agentic-security-your-ai-got-autonomy-did-your-security-catch-up-3leg)
-- [Scalability in simple terms - 1](https://dev.to/theerej_c/scalability-in-simple-terms-1-43h6)
-- [Web Developer Travis McCracken on When Not to Use a Microservice](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-not-to-use-a-microservice-4bgk)
-- [AI sandboxing just proved what Kubernetes security has been missing](https://dev.to/thegatewayguy/ai-sandboxing-just-proved-what-kubernetes-security-has-been-missing-a34)
-- [I built a free network toolkit app for iOS &amp; Android: here&#39;s what I learned](https://dev.to/myipnow/i-built-a-free-network-toolkit-app-for-ios-android-heres-what-i-learned-4i0p)
-- [We stopped leaving GitHub to debug test failures. Here&#39;s how.](https://dev.to/tomerli/we-stopped-leaving-github-to-debug-test-failures-heres-how-g29)
+- [Understanding the Risks of Open Cloud Buckets](https://dev.to/harsh_hak/understanding-the-risks-of-open-cloud-buckets-l3a)
+- [ShieldOps AI: Revolutionizing DevSecOps Security — Official Launch in 20 Days! 🚀](https://dev.to/mohammed_abdallah_aef2d60/shieldops-ai-revolutionizing-devsecops-security-official-launch-in-20-days-2m3m)
+- [Understanding Modern Phishing Security Risks](https://dev.to/harsh_hak/understanding-modern-phishing-security-risks-18j4)
+- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
+- [The verification math behind 43% of AI code breaking in production](https://dev.to/muggleai/the-verification-math-behind-43-of-ai-code-breaking-in-production-a8e)
+- [OAuth vs OAuth 2.0 Explained Simply for Beginners](https://dev.to/abbeymaniak/oauth-vs-oauth-20-explained-simply-for-beginners-15bp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
