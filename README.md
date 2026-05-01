@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [WireGuard at scale: setup is solved, operations aren&#39;t](https://dev.to/dminglv/wireguard-at-scale-setup-is-solved-operations-arent-2aoi)
-- [Clean AI Development](https://dev.to/bumbulik0/clean-ai-development-3e51)
-- [Hello World — Building and Learning in Public](https://dev.to/pankajsharmadev/hello-world-building-and-learning-in-public-4d3m)
-- [How to Reduce Your SaaS Bill with Self-Hosted Alternatives](https://dev.to/chasebot/how-to-reduce-your-saas-bill-with-self-hosted-alternatives-5hb8)
-- [SSL Certificate Decoder: How to Read and Analyze Any Certificate](https://dev.to/myip_casa/ssl-certificate-decoder-how-to-read-and-analyze-any-certificate-dk2)
-- [Kubernetes CronJob Monitoring: How to Catch Missed Runs Before They Break Production](https://dev.to/quietpulse-social/kubernetes-cronjob-monitoring-how-to-catch-missed-runs-before-they-break-production-48g9)
+- [🤖 Agentic Security: Your AI Got Autonomy. Did Your Security Catch Up?](https://dev.to/17j/agentic-security-your-ai-got-autonomy-did-your-security-catch-up-3leg)
+- [Scalability in simple terms - 1](https://dev.to/theerej_c/scalability-in-simple-terms-1-43h6)
+- [Web Developer Travis McCracken on When Not to Use a Microservice](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-not-to-use-a-microservice-4bgk)
+- [AI sandboxing just proved what Kubernetes security has been missing](https://dev.to/thegatewayguy/ai-sandboxing-just-proved-what-kubernetes-security-has-been-missing-a34)
+- [I built a free network toolkit app for iOS &amp; Android: here&#39;s what I learned](https://dev.to/myipnow/i-built-a-free-network-toolkit-app-for-ios-android-heres-what-i-learned-4i0p)
+- [We stopped leaving GitHub to debug test failures. Here&#39;s how.](https://dev.to/tomerli/we-stopped-leaving-github-to-debug-test-failures-heres-how-g29)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
