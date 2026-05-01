@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Terraform State File Management with Remote Backend](https://dev.to/brian_mengo/terraform-state-file-management-with-remote-backend-4p95)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4af5)
-- [pkiwatch-py: Production-Ready TLS/PKI Certificate Monitoring for Enterprise Engineers](https://dev.to/raghavachellu/pkiwatch-py-production-ready-tlspki-certificate-monitoring-for-enterprise-engineers-3ag9)
-- [Stop Cloning Stale Hostnames: Practical `systemd-firstboot` for Linux Images](https://dev.to/lyraalishaikh/stop-cloning-stale-hostnames-practical-systemd-firstboot-for-linux-images-bjp)
-- [Building Autonomous AI Agents with Large Language Models](https://dev.to/techblogs/building-autonomous-ai-agents-with-large-language-models-p20)
-- [Building Autonomous AI Agents with Large Language Models](https://dev.to/techblogs/building-autonomous-ai-agents-with-large-language-models-p20)
+- [WireGuard at scale: setup is solved, operations aren&#39;t](https://dev.to/dminglv/wireguard-at-scale-setup-is-solved-operations-arent-2aoi)
+- [Clean AI Development](https://dev.to/bumbulik0/clean-ai-development-3e51)
+- [Hello World — Building and Learning in Public](https://dev.to/pankajsharmadev/hello-world-building-and-learning-in-public-4d3m)
+- [How to Reduce Your SaaS Bill with Self-Hosted Alternatives](https://dev.to/chasebot/how-to-reduce-your-saas-bill-with-self-hosted-alternatives-5hb8)
+- [SSL Certificate Decoder: How to Read and Analyze Any Certificate](https://dev.to/myip_casa/ssl-certificate-decoder-how-to-read-and-analyze-any-certificate-dk2)
+- [Kubernetes CronJob Monitoring: How to Catch Missed Runs Before They Break Production](https://dev.to/quietpulse-social/kubernetes-cronjob-monitoring-how-to-catch-missed-runs-before-they-break-production-48g9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
