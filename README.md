@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: Functions and script organization](https://dev.to/thinkkun/day-5-functions-and-script-organization-2cl2)
-- [Day 5/420: Dictionaries, sets, and lookup thinking - Python in production](https://dev.to/thinkkun/day-5420-dictionaries-sets-and-lookup-thinking-python-in-production-2pei)
-- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
-- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-11bi)
-- [DevOps Lab Update — Docker Deployment on Ubuntu](https://dev.to/gravox/devops-lab-update-docker-deployment-on-ubuntu-45lk)
+- [Terraform State File Management with Remote Backend](https://dev.to/brian_mengo/terraform-state-file-management-with-remote-backend-4p95)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4af5)
+- [pkiwatch-py: Production-Ready TLS/PKI Certificate Monitoring for Enterprise Engineers](https://dev.to/raghavachellu/pkiwatch-py-production-ready-tlspki-certificate-monitoring-for-enterprise-engineers-3ag9)
+- [Stop Cloning Stale Hostnames: Practical `systemd-firstboot` for Linux Images](https://dev.to/lyraalishaikh/stop-cloning-stale-hostnames-practical-systemd-firstboot-for-linux-images-bjp)
+- [Building Autonomous AI Agents with Large Language Models](https://dev.to/techblogs/building-autonomous-ai-agents-with-large-language-models-p20)
+- [Building Autonomous AI Agents with Large Language Models](https://dev.to/techblogs/building-autonomous-ai-agents-with-large-language-models-p20)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
