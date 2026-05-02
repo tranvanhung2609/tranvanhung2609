@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Risks of Open Cloud Buckets](https://dev.to/harsh_hak/understanding-the-risks-of-open-cloud-buckets-l3a)
-- [ShieldOps AI: Revolutionizing DevSecOps Security — Official Launch in 20 Days! 🚀](https://dev.to/mohammed_abdallah_aef2d60/shieldops-ai-revolutionizing-devsecops-security-official-launch-in-20-days-2m3m)
-- [Understanding Modern Phishing Security Risks](https://dev.to/harsh_hak/understanding-modern-phishing-security-risks-18j4)
-- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
-- [The verification math behind 43% of AI code breaking in production](https://dev.to/muggleai/the-verification-math-behind-43-of-ai-code-breaking-in-production-a8e)
-- [OAuth vs OAuth 2.0 Explained Simply for Beginners](https://dev.to/abbeymaniak/oauth-vs-oauth-20-explained-simply-for-beginners-15bp)
+- [Ready for Terraform Certification: My Final Exam Prep and 30-Day Reflection](https://dev.to/mary_mutua_9d55b3c269f343/ready-for-terraform-certification-my-final-exam-prep-and-30-day-reflection-4723)
+- [2026 Survey: 60% of Backend Engineers Prefer Go 1.24 Over Java 22 for New Microservices](https://dev.to/johalputt/2026-survey-60-of-backend-engineers-prefer-go-124-over-java-22-for-new-microservices-5367)
+- [5 MCP Server Mistakes That Waste Your AI Agent&#39;s Time &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-k97)
+- [Multi-Agent Systems: Orchestrating Intelligence Through Collaboration](https://dev.to/techblogs/multi-agent-systems-orchestrating-intelligence-through-collaboration-5769)
+- [Multi-Agent Systems: Orchestrating Intelligence Through Collaboration](https://dev.to/techblogs/multi-agent-systems-orchestrating-intelligence-through-collaboration-5769)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
