@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Navigating AI Coding Assistant Limits: Impact on Developer Goals and Delivery](https://dev.to/devactivity/navigating-ai-coding-assistant-limits-impact-on-developer-goals-and-delivery-4p2j)
-- [TestSprite Quick Start Guide - Bahasa Indonesia](https://dev.to/placecel427source/testsprite-quick-start-guide-bahasa-indonesia-5375)
-- [TestSprite — Panduan Cepat &lpar;Indonesian Translation&rpar;](https://dev.to/placecel427source/testsprite-panduan-cepat-indonesian-translation-119b)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2jg2)
-- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-51e1)
-- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-51ph)
+- [Your AI Agent Has No Runtime Policy. That&#39;s the Actual Security Problem.](https://dev.to/sai_varma_1cfa4eaaca821dc/your-ai-agent-has-no-runtime-policy-thats-the-actual-security-problem-3c3p)
+- [HTTP Request Smuggling: When Proxies and Servers Disagree](https://dev.to/ruyynn/http-request-smuggling-when-proxies-and-servers-disagree-4kjo)
+- [I Thought I&#39;d Just Call a Blockchain API. It Didn&#39;t Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp)
+- [Is java worth it to learn?](https://dev.to/ashu_singh_rana/is-java-worth-it-to-learn-3ihj)
+- [Is java worth it to learn?](https://dev.to/ashu_singh_rana/is-java-worth-it-to-learn-3ihj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
