@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Mastering DevOps in 2026: A Comprehensive Practical Guide for Modern Software Development Teams](https://dev.to/orbit_websites_b004ed2787/mastering-devops-in-2026-a-comprehensive-practical-guide-for-modern-software-development-teams-4139)
-- [Build a powerful career in web development with Java Full Stack Training in France by Learnmore Technologies](https://dev.to/learnmoretech/build-a-powerful-career-in-web-development-with-java-full-stack-training-in-france-by-learnmore-2619)
-- [Coding-Agent Stack 2026: Control Model Over Tool Selection](https://dev.to/dr_hernani_costa/coding-agent-stack-2026-control-model-over-tool-selection-22jk)
-- [Understanding The Risks Of Public Wifi Networks](https://dev.to/harsh_hak/understanding-the-risks-of-public-wifi-networks-3lka)
-- [TestSprite untuk Developer Indonesia: Review Teknis + Masalah Locale yang Perlu Kamu Tahu](https://dev.to/asta_kuri_a8/testsprite-untuk-developer-indonesia-review-teknis-masalah-locale-yang-perlu-kamu-tahu-12m3)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-18d8)
+- [Navigating AI Coding Assistant Limits: Impact on Developer Goals and Delivery](https://dev.to/devactivity/navigating-ai-coding-assistant-limits-impact-on-developer-goals-and-delivery-4p2j)
+- [TestSprite Quick Start Guide - Bahasa Indonesia](https://dev.to/placecel427source/testsprite-quick-start-guide-bahasa-indonesia-5375)
+- [TestSprite — Panduan Cepat &lpar;Indonesian Translation&rpar;](https://dev.to/placecel427source/testsprite-panduan-cepat-indonesian-translation-119b)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2jg2)
+- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-51e1)
+- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
