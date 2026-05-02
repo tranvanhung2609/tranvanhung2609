@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Ready for Terraform Certification: My Final Exam Prep and 30-Day Reflection](https://dev.to/mary_mutua_9d55b3c269f343/ready-for-terraform-certification-my-final-exam-prep-and-30-day-reflection-4723)
-- [2026 Survey: 60% of Backend Engineers Prefer Go 1.24 Over Java 22 for New Microservices](https://dev.to/johalputt/2026-survey-60-of-backend-engineers-prefer-go-124-over-java-22-for-new-microservices-5367)
-- [5 MCP Server Mistakes That Waste Your AI Agent&#39;s Time &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-k97)
-- [Multi-Agent Systems: Orchestrating Intelligence Through Collaboration](https://dev.to/techblogs/multi-agent-systems-orchestrating-intelligence-through-collaboration-5769)
-- [Multi-Agent Systems: Orchestrating Intelligence Through Collaboration](https://dev.to/techblogs/multi-agent-systems-orchestrating-intelligence-through-collaboration-5769)
+- [Mastering DevOps in 2026: A Comprehensive Practical Guide for Modern Software Development Teams](https://dev.to/orbit_websites_b004ed2787/mastering-devops-in-2026-a-comprehensive-practical-guide-for-modern-software-development-teams-4139)
+- [Build a powerful career in web development with Java Full Stack Training in France by Learnmore Technologies](https://dev.to/learnmoretech/build-a-powerful-career-in-web-development-with-java-full-stack-training-in-france-by-learnmore-2619)
+- [Coding-Agent Stack 2026: Control Model Over Tool Selection](https://dev.to/dr_hernani_costa/coding-agent-stack-2026-control-model-over-tool-selection-22jk)
+- [Understanding The Risks Of Public Wifi Networks](https://dev.to/harsh_hak/understanding-the-risks-of-public-wifi-networks-3lka)
+- [TestSprite untuk Developer Indonesia: Review Teknis + Masalah Locale yang Perlu Kamu Tahu](https://dev.to/asta_kuri_a8/testsprite-untuk-developer-indonesia-review-teknis-masalah-locale-yang-perlu-kamu-tahu-12m3)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-18d8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
