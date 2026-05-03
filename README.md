@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The foundational UK sovereign-AI patents are filed. The collaboration door is open.](https://dev.to/mickai/the-foundational-uk-sovereign-ai-patents-are-filed-the-collaboration-door-is-open-pfk)
-- [MCP marketplaces shipped LOLBAS malware. We audited 256 agents.](https://dev.to/mickai/mcp-marketplaces-shipped-lolbas-malware-we-audited-256-agents-1nan)
-- [Seamlessly Integrating APIs with n8n: A Practical Guide](https://dev.to/techblogs/seamlessly-integrating-apis-with-n8n-a-practical-guide-l2p)
-- [Seamlessly Integrating APIs with n8n: A Practical Guide](https://dev.to/techblogs/seamlessly-integrating-apis-with-n8n-a-practical-guide-l2p)
-- [How to Convert JSON to YAML &lpar;and Back&rpar; Without Writing a Single Line of Code](https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655)
-- [How to Build a Lightweight Rule Engine for Automated Compliance Checks](https://dev.to/alanwest/how-to-build-a-lightweight-rule-engine-for-automated-compliance-checks-3607)
+- [Why We Ditched Azure DevOps 2025 for GitHub Actions 2026.02: A CI/CD Opinion](https://dev.to/johalputt/why-we-ditched-azure-devops-2025-for-github-actions-202602-a-cicd-opinion-o8p)
+- [Make Scenario Monitoring: How to Catch Silent Automation Failures](https://dev.to/quietpulse-social/make-scenario-monitoring-how-to-catch-silent-automation-failures-59hb)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2ogk)
+- [Demystified: What Problems Do Microservices Solve Over Monoliths?](https://dev.to/realnamehidden1_61/demystified-what-problems-do-microservices-solve-over-monoliths-2nli)
+- [Why I Added Redis Streams Between My Django API and Celery Workers.](https://dev.to/rahim8050/why-i-added-redis-streams-between-my-django-api-and-celery-workers-22bl)
+- [Best Java Full Stack Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/best-java-full-stack-training-in-whitefield-learnmore-technologies-4i2p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
