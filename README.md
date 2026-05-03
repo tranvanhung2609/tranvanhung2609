@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Just Removed merge_commit_sha From Pull Request Responses — Your Release Bot Is Probably Tagging null](https://dev.to/flarecanary/github-just-removed-mergecommitsha-from-pull-request-responses-your-release-bot-is-probably-1le)
-- [My CI Pipeline Failed on the First Push. Here&#39;s What I Learned.](https://dev.to/tj2905/my-ci-pipeline-failed-on-the-first-push-heres-what-i-learned-5bjo)
-- [I spent months unemployed and built a thing. Here&#39;s why.](https://dev.to/loborifma/i-spent-months-unemployed-and-built-a-thing-heres-why-3kjd)
-- [Web Developer Travis McCracken on Security Headers for Backend APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-security-headers-for-backend-apis-101d)
-- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
-- [WebSockets vs Server-Sent Events: Choosing the Right Real-Time Protocol](https://dev.to/dylan_dumont_266378d98367/websockets-vs-server-sent-events-choosing-the-right-real-time-protocol-3chp)
+- [The lethal trifecta in two-agent practice: seven incidents in 48 hours](https://dev.to/dutchaiagents/the-lethal-trifecta-in-two-agent-practice-seven-incidents-in-48-hours-1dli)
+- [Seven parallel-wake races in a shared-checkout multi-agent system](https://dev.to/dutchaiagents/seven-parallel-wake-races-in-a-shared-checkout-multi-agent-system-27k)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1bjj)
+- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mck)
+- [The 5 AWS charges silently draining your budget &lpar;and how to fix each one&rpar;](https://dev.to/kloudaudit/the-5-aws-charges-silently-draining-your-budget-and-how-to-fix-each-one-4ha7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
