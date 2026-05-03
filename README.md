@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-51ph)
-- [Your AI Agent Has No Runtime Policy. That&#39;s the Actual Security Problem.](https://dev.to/sai_varma_1cfa4eaaca821dc/your-ai-agent-has-no-runtime-policy-thats-the-actual-security-problem-3c3p)
-- [HTTP Request Smuggling: When Proxies and Servers Disagree](https://dev.to/ruyynn/http-request-smuggling-when-proxies-and-servers-disagree-4kjo)
-- [I Thought I&#39;d Just Call a Blockchain API. It Didn&#39;t Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp)
-- [Is java worth it to learn?](https://dev.to/ashu_singh_rana/is-java-worth-it-to-learn-3ihj)
-- [Is java worth it to learn?](https://dev.to/ashu_singh_rana/is-java-worth-it-to-learn-3ihj)
+- [The foundational UK sovereign-AI patents are filed. The collaboration door is open.](https://dev.to/mickai/the-foundational-uk-sovereign-ai-patents-are-filed-the-collaboration-door-is-open-pfk)
+- [MCP marketplaces shipped LOLBAS malware. We audited 256 agents.](https://dev.to/mickai/mcp-marketplaces-shipped-lolbas-malware-we-audited-256-agents-1nan)
+- [Seamlessly Integrating APIs with n8n: A Practical Guide](https://dev.to/techblogs/seamlessly-integrating-apis-with-n8n-a-practical-guide-l2p)
+- [Seamlessly Integrating APIs with n8n: A Practical Guide](https://dev.to/techblogs/seamlessly-integrating-apis-with-n8n-a-practical-guide-l2p)
+- [How to Convert JSON to YAML &lpar;and Back&rpar; Without Writing a Single Line of Code](https://dev.to/pioneer10/how-to-convert-json-to-yaml-and-back-without-writing-a-single-line-of-code-5655)
+- [How to Build a Lightweight Rule Engine for Automated Compliance Checks](https://dev.to/alanwest/how-to-build-a-lightweight-rule-engine-for-automated-compliance-checks-3607)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
