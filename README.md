@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why We Ditched Azure DevOps 2025 for GitHub Actions 2026.02: A CI/CD Opinion](https://dev.to/johalputt/why-we-ditched-azure-devops-2025-for-github-actions-202602-a-cicd-opinion-o8p)
-- [Make Scenario Monitoring: How to Catch Silent Automation Failures](https://dev.to/quietpulse-social/make-scenario-monitoring-how-to-catch-silent-automation-failures-59hb)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2ogk)
-- [Demystified: What Problems Do Microservices Solve Over Monoliths?](https://dev.to/realnamehidden1_61/demystified-what-problems-do-microservices-solve-over-monoliths-2nli)
-- [Why I Added Redis Streams Between My Django API and Celery Workers.](https://dev.to/rahim8050/why-i-added-redis-streams-between-my-django-api-and-celery-workers-22bl)
-- [Best Java Full Stack Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/best-java-full-stack-training-in-whitefield-learnmore-technologies-4i2p)
+- [GitHub Just Removed merge_commit_sha From Pull Request Responses — Your Release Bot Is Probably Tagging null](https://dev.to/flarecanary/github-just-removed-mergecommitsha-from-pull-request-responses-your-release-bot-is-probably-1le)
+- [My CI Pipeline Failed on the First Push. Here&#39;s What I Learned.](https://dev.to/tj2905/my-ci-pipeline-failed-on-the-first-push-heres-what-i-learned-5bjo)
+- [I spent months unemployed and built a thing. Here&#39;s why.](https://dev.to/loborifma/i-spent-months-unemployed-and-built-a-thing-heres-why-3kjd)
+- [Web Developer Travis McCracken on Security Headers for Backend APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-security-headers-for-backend-apis-101d)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
+- [WebSockets vs Server-Sent Events: Choosing the Right Real-Time Protocol](https://dev.to/dylan_dumont_266378d98367/websockets-vs-server-sent-events-choosing-the-right-real-time-protocol-3chp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
