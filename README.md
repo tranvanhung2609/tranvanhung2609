@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Drop Traits: The Day We Stopped Restarting Pods Every 8 Hours](https://dev.to/speed_engineer/drop-traits-the-day-we-stopped-restarting-pods-every-8-hours-3okl)
-- [Building a Full Backend Infrastructure with Docker &lpar;Nginx, MariaDB, Redis&rpar;](https://dev.to/salaheddinee/building-a-full-backend-infrastructure-with-docker-nginx-mariadb-redis-h61)
-- [Building a Full Backend Infrastructure with Docker &lpar;Nginx, MariaDB, Redis&rpar;](https://dev.to/salaheddinee/building-a-full-backend-infrastructure-with-docker-nginx-mariadb-redis-h61)
-- [Deploy blockchain nodes on your own infra: Introducing Chainstack Self-Hosted](https://dev.to/chainstack/deploy-blockchain-nodes-on-your-own-infra-introducing-chainstack-self-hosted-ojl)
-- [Under 20 Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-boxing-drills-what-we-learned-building-random-tactical-timer-n7e)
-- [Kubernetes Autoscaling: HPA, VPA, and KEDA Deep Dive](https://dev.to/instadevops/kubernetes-autoscaling-hpa-vpa-and-keda-deep-dive-32g7)
+- [The 2 Most Trusted Sites to Buy Instagram Followers in 2026](https://dev.to/usateamsmm74/the-2-most-trusted-sites-to-buy-instagram-followers-in-2026-534c)
+- [---](https://dev.to/tosh2308/--224k)
+- [How I Built an AI Agent That Runs 24/7 and Has Written 160+ Articles &lpar;And Yes, It Made $0 — Here&#39;s Why&rpar;](https://dev.to/tosh2308/how-i-built-an-ai-agent-that-runs-247-and-has-written-160-articles-and-yes-it-made-0-heres-3dkm)
+- [Zero-Downtime Schema Changes &lpar;You Can Do This&rpar;](https://dev.to/tosh2308/zero-downtime-schema-changes-you-can-do-this-dei)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-i3h)
+- [[Boost]](https://dev.to/bard/-20i5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
