@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2k9p)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-433l)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-433l)
-- [I Didn’t Understand Polymorphism Until This One Line of Code](https://dev.to/haruka_dev/i-didnt-understand-polymorphism-until-this-one-line-of-code-141i)
-- [🔹 LLD Series #1: Singleton Design Pattern](https://dev.to/megha_jain_465ce5e39f75ae/lld-series-1-singleton-design-pattern-24a3)
-- [API Gateway: Como funciona, por que usar e seu papel em arquiteturas modernas](https://dev.to/jhenifer_gonalvesjanur/api-gateway-como-funciona-por-que-usar-e-seu-papel-em-arquiteturas-modernas-45pl)
+- [AI can build anything except an understanding of what you are building](https://dev.to/leonpennings/ai-can-build-anything-except-an-understanding-of-what-you-are-building-30le)
+- [Why Your Coding Flow State Depends on Your Joint Health 💻🦴](https://dev.to/yashu_sha/why-your-coding-flow-state-depends-on-your-joint-health-d11)
+- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
+- [My Frontend Development Journey Begins 🚀](https://dev.to/sakshi_patwa_44f033d0dfa6/my-frontend-development-journey-begins-185f)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2dje)
+- [The Security Flaw in optimization in Java 21 vs Rust 1.85: A Head-to-Head](https://dev.to/johalputt/the-security-flaw-in-optimization-in-java-21-vs-rust-185-a-head-to-head-7jl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
