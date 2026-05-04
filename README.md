@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The lethal trifecta in two-agent practice: seven incidents in 48 hours](https://dev.to/dutchaiagents/the-lethal-trifecta-in-two-agent-practice-seven-incidents-in-48-hours-1dli)
-- [Seven parallel-wake races in a shared-checkout multi-agent system](https://dev.to/dutchaiagents/seven-parallel-wake-races-in-a-shared-checkout-multi-agent-system-27k)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1bjj)
-- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mck)
-- [The 5 AWS charges silently draining your budget &lpar;and how to fix each one&rpar;](https://dev.to/kloudaudit/the-5-aws-charges-silently-draining-your-budget-and-how-to-fix-each-one-4ha7)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2k9p)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-433l)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-433l)
+- [I Didn’t Understand Polymorphism Until This One Line of Code](https://dev.to/haruka_dev/i-didnt-understand-polymorphism-until-this-one-line-of-code-141i)
+- [🔹 LLD Series #1: Singleton Design Pattern](https://dev.to/megha_jain_465ce5e39f75ae/lld-series-1-singleton-design-pattern-24a3)
+- [API Gateway: Como funciona, por que usar e seu papel em arquiteturas modernas](https://dev.to/jhenifer_gonalvesjanur/api-gateway-como-funciona-por-que-usar-e-seu-papel-em-arquiteturas-modernas-45pl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
