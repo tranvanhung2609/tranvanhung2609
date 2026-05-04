@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI can build anything except an understanding of what you are building](https://dev.to/leonpennings/ai-can-build-anything-except-an-understanding-of-what-you-are-building-30le)
-- [Why Your Coding Flow State Depends on Your Joint Health 💻🦴](https://dev.to/yashu_sha/why-your-coding-flow-state-depends-on-your-joint-health-d11)
-- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
-- [My Frontend Development Journey Begins 🚀](https://dev.to/sakshi_patwa_44f033d0dfa6/my-frontend-development-journey-begins-185f)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2dje)
-- [The Security Flaw in optimization in Java 21 vs Rust 1.85: A Head-to-Head](https://dev.to/johalputt/the-security-flaw-in-optimization-in-java-21-vs-rust-185-a-head-to-head-7jl)
+- [Drop Traits: The Day We Stopped Restarting Pods Every 8 Hours](https://dev.to/speed_engineer/drop-traits-the-day-we-stopped-restarting-pods-every-8-hours-3okl)
+- [Building a Full Backend Infrastructure with Docker &lpar;Nginx, MariaDB, Redis&rpar;](https://dev.to/salaheddinee/building-a-full-backend-infrastructure-with-docker-nginx-mariadb-redis-h61)
+- [Building a Full Backend Infrastructure with Docker &lpar;Nginx, MariaDB, Redis&rpar;](https://dev.to/salaheddinee/building-a-full-backend-infrastructure-with-docker-nginx-mariadb-redis-h61)
+- [Deploy blockchain nodes on your own infra: Introducing Chainstack Self-Hosted](https://dev.to/chainstack/deploy-blockchain-nodes-on-your-own-infra-introducing-chainstack-self-hosted-ojl)
+- [Under 20 Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-boxing-drills-what-we-learned-building-random-tactical-timer-n7e)
+- [Kubernetes Autoscaling: HPA, VPA, and KEDA Deep Dive](https://dev.to/instadevops/kubernetes-autoscaling-hpa-vpa-and-keda-deep-dive-32g7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
