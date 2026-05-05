@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Terraform State Management: Remote Backends, Locking &amp; Recovery](https://dev.to/instadevops/terraform-state-management-remote-backends-locking-recovery-3ofe)
-- [Server Migration Without Extra Disk Space: Streaming Borg Backups with FastFileLink CLI](https://dev.to/bear0330/server-migration-without-extra-disk-space-streaming-borg-backups-with-fastfilelink-cli-3pc3)
-- [The 2026 Guide to Scraping Alibaba at Scale](https://dev.to/appcyberyozh/the-2026-guide-to-scraping-alibaba-at-scale-1pb5)
-- [Tired of validating data with JSON Schema? We built an alternative](https://dev.to/pmb_akwatype/tired-of-validating-data-with-json-schema-we-built-an-alternative-4l10)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3gmj)
-- [🛡️ Sentinel: The Safety-First Docker Deployment Controller](https://dev.to/isubroto/sentinel-the-safety-first-docker-deployment-controller-41ac)
+- [Iniciando a Carreira no SAP](https://dev.to/pedrodecastilho/iniciando-a-carreira-no-sap-2bih)
+- [Linux Services Made Simple: Create, Control, and Remove Your First systemd Service](https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2)
+- [Building Ride History &amp; Profile Customization in GusLift](https://dev.to/guslift/building-ride-history-profile-customization-in-guslift-3lc9)
+- [10 GitHub Repositories That Will Actually Teach You DevOps in 2026](https://dev.to/devopsdaily/10-github-repositories-that-will-actually-teach-you-devops-in-2026-266e)
+- [GitHub Weekly: Security Gets Real with Code-to-Cloud Visibility](https://dev.to/htekdev/github-weekly-security-gets-real-with-code-to-cloud-visibility-45h5)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-29cg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
