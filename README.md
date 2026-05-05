@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [MVC Architecture Flow in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/mvc-architecture-flow-in-spring-boot-22d6)
-- [The Surprising Power of Code Reviews: Pull Requests That Saved My Project](https://dev.to/kielltampubolon/the-surprising-power-of-code-reviews-pull-requests-that-saved-my-project-1p89)
-- [How to Find a Reliable 1xBet Clone Script Provider and Maximise Your Online Betting Success](https://dev.to/alan_james_35e491d20632c8/how-to-find-a-reliable-1xbet-clone-script-provider-and-maximise-your-online-betting-success-kk8)
-- [Building DeepAgents in Java using LangChain4j](https://dev.to/uday_ogra_d663dc7b3daf9f9/building-deepagents-in-java-using-langchain4j-2e8n)
-- [I Built a Random Facts API on Apify — Here&#39;s How to Integrate It in Under 5 Minutes](https://dev.to/akash_kumarnaik_80d5f390/i-built-a-random-facts-api-on-apify-heres-how-to-integrate-it-in-under-5-minutes-2jdj)
-- [Latest Java Garbage Collection Explained Simply: A Comprehensive Guide &lpar;2026&rpar;](https://dev.to/rajesh1761/latest-java-garbage-collection-explained-simply-a-comprehensive-guide-2026-18pa)
+- [Terraform State Management: Remote Backends, Locking &amp; Recovery](https://dev.to/instadevops/terraform-state-management-remote-backends-locking-recovery-3ofe)
+- [Server Migration Without Extra Disk Space: Streaming Borg Backups with FastFileLink CLI](https://dev.to/bear0330/server-migration-without-extra-disk-space-streaming-borg-backups-with-fastfilelink-cli-3pc3)
+- [The 2026 Guide to Scraping Alibaba at Scale](https://dev.to/appcyberyozh/the-2026-guide-to-scraping-alibaba-at-scale-1pb5)
+- [Tired of validating data with JSON Schema? We built an alternative](https://dev.to/pmb_akwatype/tired-of-validating-data-with-json-schema-we-built-an-alternative-4l10)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3gmj)
+- [🛡️ Sentinel: The Safety-First Docker Deployment Controller](https://dev.to/isubroto/sentinel-the-safety-first-docker-deployment-controller-41ac)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
