@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Free Kubernetes Practice Exams &lpar;CKA, CKAD, KCNA with Explanations&rpar;](https://dev.to/devopsenginex/free-kubernetes-practice-exams-cka-ckad-kcna-with-explanations-1ben)
-- [Free AWS Practice Exams &lpar;12 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-aws-practice-exams-12-certification-tracks-with-explanations-40af)
-- [Free Azure Practice Exams &lpar;16 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-azure-practice-exams-16-certification-tracks-with-explanations-4i4e)
-- [Free GCP Practice Exams &lpar;13 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa)
-- [The Ascendancy of Agentic AI: Navigating the Future of Autonomous Systems](https://dev.to/techblogs/the-ascendancy-of-agentic-ai-navigating-the-future-of-autonomous-systems-1743)
-- [The Ascendancy of Agentic AI: Navigating the Future of Autonomous Systems](https://dev.to/techblogs/the-ascendancy-of-agentic-ai-navigating-the-future-of-autonomous-systems-1743)
+- [MVC Architecture Flow in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/mvc-architecture-flow-in-spring-boot-22d6)
+- [The Surprising Power of Code Reviews: Pull Requests That Saved My Project](https://dev.to/kielltampubolon/the-surprising-power-of-code-reviews-pull-requests-that-saved-my-project-1p89)
+- [How to Find a Reliable 1xBet Clone Script Provider and Maximise Your Online Betting Success](https://dev.to/alan_james_35e491d20632c8/how-to-find-a-reliable-1xbet-clone-script-provider-and-maximise-your-online-betting-success-kk8)
+- [Building DeepAgents in Java using LangChain4j](https://dev.to/uday_ogra_d663dc7b3daf9f9/building-deepagents-in-java-using-langchain4j-2e8n)
+- [I Built a Random Facts API on Apify — Here&#39;s How to Integrate It in Under 5 Minutes](https://dev.to/akash_kumarnaik_80d5f390/i-built-a-random-facts-api-on-apify-heres-how-to-integrate-it-in-under-5-minutes-2jdj)
+- [Latest Java Garbage Collection Explained Simply: A Comprehensive Guide &lpar;2026&rpar;](https://dev.to/rajesh1761/latest-java-garbage-collection-explained-simply-a-comprehensive-guide-2026-18pa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
