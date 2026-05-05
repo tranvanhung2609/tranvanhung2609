@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 2 Most Trusted Sites to Buy Instagram Followers in 2026](https://dev.to/usateamsmm74/the-2-most-trusted-sites-to-buy-instagram-followers-in-2026-534c)
-- [---](https://dev.to/tosh2308/--224k)
-- [How I Built an AI Agent That Runs 24/7 and Has Written 160+ Articles &lpar;And Yes, It Made $0 — Here&#39;s Why&rpar;](https://dev.to/tosh2308/how-i-built-an-ai-agent-that-runs-247-and-has-written-160-articles-and-yes-it-made-0-heres-3dkm)
-- [Zero-Downtime Schema Changes &lpar;You Can Do This&rpar;](https://dev.to/tosh2308/zero-downtime-schema-changes-you-can-do-this-dei)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-i3h)
-- [[Boost]](https://dev.to/bard/-20i5)
+- [Free Kubernetes Practice Exams &lpar;CKA, CKAD, KCNA with Explanations&rpar;](https://dev.to/devopsenginex/free-kubernetes-practice-exams-cka-ckad-kcna-with-explanations-1ben)
+- [Free AWS Practice Exams &lpar;12 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-aws-practice-exams-12-certification-tracks-with-explanations-40af)
+- [Free Azure Practice Exams &lpar;16 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-azure-practice-exams-16-certification-tracks-with-explanations-4i4e)
+- [Free GCP Practice Exams &lpar;13 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa)
+- [The Ascendancy of Agentic AI: Navigating the Future of Autonomous Systems](https://dev.to/techblogs/the-ascendancy-of-agentic-ai-navigating-the-future-of-autonomous-systems-1743)
+- [The Ascendancy of Agentic AI: Navigating the Future of Autonomous Systems](https://dev.to/techblogs/the-ascendancy-of-agentic-ai-navigating-the-future-of-autonomous-systems-1743)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
