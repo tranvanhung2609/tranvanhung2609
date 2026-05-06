@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Uptime.com Alternative: Free to Start, $9 Floor Beat](https://dev.to/velprove/uptimecom-alternative-free-to-start-9-floor-beat-dg3)
-- [AI IT Ops Agent vs Hiring for Universities: True Costs](https://dev.to/afzaal_a/ai-it-ops-agent-vs-hiring-for-universities-true-costs-3knd)
-- [My Load Balancer Handles 5M RPS: Architecture and Lessons Learned](https://dev.to/speed_engineer/my-load-balancer-handles-5m-rps-architecture-and-lessons-learned-44pf)
-- [Vs Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-c11)
-- [AWS VPC Networking: Transit Gateway, Peering &amp; PrivateLink](https://dev.to/instadevops/aws-vpc-networking-transit-gateway-peering-privatelink-775)
-- [API Keys vs. Access Tokens: What&#39;s the Real Difference?](https://dev.to/kenryikegbo/api-keys-vs-access-tokens-whats-the-real-difference-1fbd)
+- [Three LLM Observability Audits in Five Days: Each Fix Exposed the Next Bug](https://dev.to/jmolinasoler/three-llm-observability-audits-in-five-days-each-fix-exposed-the-next-bug-1of6)
+- [DORA Metrics: A Platform Engineering Dashboard](https://dev.to/yash_pritwani_07a77613fd6/dora-metrics-a-platform-engineering-dashboard-16ma)
+- [hi](https://dev.to/aspbrtech/hi-2fhi)
+- [Stop Letting AI Write Your Database Migrations](https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh)
+- [Building a Self-Deploying Infrastructure Tool with OPA Policy Guards](https://dev.to/stino_emmanuel_53fdaf1217/building-a-self-deploying-infrastructure-tool-with-opa-policy-guards-3o58)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-ok4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
