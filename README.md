@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Iniciando a Carreira no SAP](https://dev.to/pedrodecastilho/iniciando-a-carreira-no-sap-2bih)
-- [Linux Services Made Simple: Create, Control, and Remove Your First systemd Service](https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2)
-- [Building Ride History &amp; Profile Customization in GusLift](https://dev.to/guslift/building-ride-history-profile-customization-in-guslift-3lc9)
-- [10 GitHub Repositories That Will Actually Teach You DevOps in 2026](https://dev.to/devopsdaily/10-github-repositories-that-will-actually-teach-you-devops-in-2026-266e)
-- [GitHub Weekly: Security Gets Real with Code-to-Cloud Visibility](https://dev.to/htekdev/github-weekly-security-gets-real-with-code-to-cloud-visibility-45h5)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-29cg)
+- [I built a free incident triage tool — paste logs, get root cause in seconds](https://dev.to/praveenballari/i-built-a-free-incident-triage-tool-paste-logs-get-root-cause-in-seconds-2ml1)
+- [Why I stopped writing Serverspec specs by hand](https://dev.to/ikaro1192/why-i-stopped-writing-serverspec-specs-by-hand-9b2)
+- [Autonomous Debugging: The AI Agent Revolution in Software Maintenance](https://dev.to/techblogs/autonomous-debugging-the-ai-agent-revolution-in-software-maintenance-4lcj)
+- [Autonomous Debugging: The AI Agent Revolution in Software Maintenance](https://dev.to/techblogs/autonomous-debugging-the-ai-agent-revolution-in-software-maintenance-4lcj)
+- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mdo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
