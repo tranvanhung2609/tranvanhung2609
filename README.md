@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I built a free incident triage tool — paste logs, get root cause in seconds](https://dev.to/praveenballari/i-built-a-free-incident-triage-tool-paste-logs-get-root-cause-in-seconds-2ml1)
-- [Why I stopped writing Serverspec specs by hand](https://dev.to/ikaro1192/why-i-stopped-writing-serverspec-specs-by-hand-9b2)
-- [Autonomous Debugging: The AI Agent Revolution in Software Maintenance](https://dev.to/techblogs/autonomous-debugging-the-ai-agent-revolution-in-software-maintenance-4lcj)
-- [Autonomous Debugging: The AI Agent Revolution in Software Maintenance](https://dev.to/techblogs/autonomous-debugging-the-ai-agent-revolution-in-software-maintenance-4lcj)
-- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mdo)
+- [What Mature Kubernetes Resource Management Actually Looks Like](https://dev.to/naveens16/what-mature-kubernetes-resource-management-actually-looks-like-492l)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-447b)
+- [Production Mindset - Laravel with Docker Compose](https://dev.to/filamentmastery/production-mindset-laravel-with-docker-compose-125i)
+- [How to Transition from Backend to AI Engineering with Copilot X and LangChain 0.3: Guide](https://dev.to/johalputt/how-to-transition-from-backend-to-ai-engineering-with-copilot-x-and-langchain-03-guide-ip9)
+- [The Debugging Approach That Saved a Deployment](https://dev.to/karan2598/the-debugging-approach-that-saved-a-deployment-2h3i)
+- [Best DevOps Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/best-devops-training-in-whitefield-learnmore-technologies-dko)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
