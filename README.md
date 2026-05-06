@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Mature Kubernetes Resource Management Actually Looks Like](https://dev.to/naveens16/what-mature-kubernetes-resource-management-actually-looks-like-492l)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-447b)
-- [Production Mindset - Laravel with Docker Compose](https://dev.to/filamentmastery/production-mindset-laravel-with-docker-compose-125i)
-- [How to Transition from Backend to AI Engineering with Copilot X and LangChain 0.3: Guide](https://dev.to/johalputt/how-to-transition-from-backend-to-ai-engineering-with-copilot-x-and-langchain-03-guide-ip9)
-- [The Debugging Approach That Saved a Deployment](https://dev.to/karan2598/the-debugging-approach-that-saved-a-deployment-2h3i)
-- [Best DevOps Training in Whitefield – Learnmore Technologies](https://dev.to/learnmore_048b6c7ba61c6ce/best-devops-training-in-whitefield-learnmore-technologies-dko)
+- [Uptime.com Alternative: Free to Start, $9 Floor Beat](https://dev.to/velprove/uptimecom-alternative-free-to-start-9-floor-beat-dg3)
+- [AI IT Ops Agent vs Hiring for Universities: True Costs](https://dev.to/afzaal_a/ai-it-ops-agent-vs-hiring-for-universities-true-costs-3knd)
+- [My Load Balancer Handles 5M RPS: Architecture and Lessons Learned](https://dev.to/speed_engineer/my-load-balancer-handles-5m-rps-architecture-and-lessons-learned-44pf)
+- [Vs Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-c11)
+- [AWS VPC Networking: Transit Gateway, Peering &amp; PrivateLink](https://dev.to/instadevops/aws-vpc-networking-transit-gateway-peering-privatelink-775)
+- [API Keys vs. Access Tokens: What&#39;s the Real Difference?](https://dev.to/kenryikegbo/api-keys-vs-access-tokens-whats-the-real-difference-1fbd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
