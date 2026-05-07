@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I recorded a demo of OperatorMesh — paste logs, get root cause in seconds](https://dev.to/praveenballari/i-recorded-a-demo-of-operatormesh-paste-logs-get-root-cause-in-seconds-a8k)
-- [Not in any textbook — learned this from a 3am page:](https://dev.to/neeraja_khanapure_4a33a5f/not-in-any-textbook-learned-this-from-a-3am-page-43j9)
-- [How to Automate Your Backend Workflow with Workspai and AI Workspace Memory](https://dev.to/rapidkit/how-to-automate-your-backend-workflow-with-workspai-and-ai-workspace-memory-4k27)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-40jj)
-- [How to Split a PDF File into Multiple PDFs in Java](https://dev.to/yahey/how-to-split-a-pdf-file-into-multiple-pdfs-in-java-562j)
-- [How I Reduced My Kubernetes Cluster Cost by 60% Without Sacrificing Performance](https://dev.to/pratik_shinde_856f7c8bda8/how-i-reduced-my-kubernetes-cluster-cost-by-60-without-sacrificing-performance-4h0i)
+- [Kubernetes 1.36: Breaking Free from Container-Level Resource Constraints](https://dev.to/pratheesh_s/kubernetes-136-breaking-free-from-container-level-resource-constraints-15ll)
+- [Storing Terraform State in Google Cloud Storage](https://dev.to/abrahamparn/storing-terraform-state-in-google-cloud-storage-14de)
+- [I Published Broken Packages to PyPI. I Checked Them First.](https://dev.to/vystartasv/i-published-broken-packages-to-pypi-i-checked-them-first-44a7)
+- [How Payment Systems Work in Large Scale Casino Platforms](https://dev.to/archer_windsor_e2aa12ed4f/how-payment-systems-work-in-large-scale-casino-platforms-33g5)
+- [Self-Hosting GitLab Runners: Stop Paying for Shared Minutes and Run Your Own](https://dev.to/ericwoooo_kr/self-hosting-gitlab-runners-stop-paying-for-shared-minutes-and-run-your-own-44gh)
+- [The Connector Graveyard: What Multi-Model Pipeline Code Actually Looks Like.](https://dev.to/chris_597825ce72dc83f7b31/the-connector-graveyard-what-multi-model-pipeline-code-actually-looks-like-4gh1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
