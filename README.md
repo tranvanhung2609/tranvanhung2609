@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes 1.36: Breaking Free from Container-Level Resource Constraints](https://dev.to/pratheesh_s/kubernetes-136-breaking-free-from-container-level-resource-constraints-15ll)
-- [Storing Terraform State in Google Cloud Storage](https://dev.to/abrahamparn/storing-terraform-state-in-google-cloud-storage-14de)
-- [I Published Broken Packages to PyPI. I Checked Them First.](https://dev.to/vystartasv/i-published-broken-packages-to-pypi-i-checked-them-first-44a7)
-- [How Payment Systems Work in Large Scale Casino Platforms](https://dev.to/archer_windsor_e2aa12ed4f/how-payment-systems-work-in-large-scale-casino-platforms-33g5)
-- [Self-Hosting GitLab Runners: Stop Paying for Shared Minutes and Run Your Own](https://dev.to/ericwoooo_kr/self-hosting-gitlab-runners-stop-paying-for-shared-minutes-and-run-your-own-44gh)
-- [The Connector Graveyard: What Multi-Model Pipeline Code Actually Looks Like.](https://dev.to/chris_597825ce72dc83f7b31/the-connector-graveyard-what-multi-model-pipeline-code-actually-looks-like-4gh1)
+- [Software development is having a second chance. Nobody saw this coming.](https://dev.to/dev_tips/software-development-is-having-a-second-chance-nobody-saw-this-coming-2eih)
+- [Browser Monitor vs HTTP Monitor: A Decision Tree](https://dev.to/velprove/browser-monitor-vs-http-monitor-a-decision-tree-488o)
+- [Python Environments: The Complete Guide &lpar;venv, pyproject, tools, cleanup&rpar;](https://dev.to/tlaloces/python-environments-the-complete-guide-venv-pyproject-tools-cleanup-4hg5)
+- [Kubernetes 1.36 killed your webhooks. Here are 10 other things it quietly changed.](https://dev.to/dev_tips/kubernetes-136-killed-your-webhooks-here-are-10-other-things-it-quietly-changed-171)
+- [OpenTelemetry custom spans in .NET: seeing what your code decided](https://dev.to/bgener/opentelemetry-custom-spans-in-net-seeing-what-your-code-decided-4ma6)
+- [Review Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-home-workout-timer-what-we-learned-building-random-tactical-timer-2enh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
