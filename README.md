@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Software development is having a second chance. Nobody saw this coming.](https://dev.to/dev_tips/software-development-is-having-a-second-chance-nobody-saw-this-coming-2eih)
-- [Browser Monitor vs HTTP Monitor: A Decision Tree](https://dev.to/velprove/browser-monitor-vs-http-monitor-a-decision-tree-488o)
-- [Python Environments: The Complete Guide &lpar;venv, pyproject, tools, cleanup&rpar;](https://dev.to/tlaloces/python-environments-the-complete-guide-venv-pyproject-tools-cleanup-4hg5)
-- [Kubernetes 1.36 killed your webhooks. Here are 10 other things it quietly changed.](https://dev.to/dev_tips/kubernetes-136-killed-your-webhooks-here-are-10-other-things-it-quietly-changed-171)
-- [OpenTelemetry custom spans in .NET: seeing what your code decided](https://dev.to/bgener/opentelemetry-custom-spans-in-net-seeing-what-your-code-decided-4ma6)
-- [Review Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-home-workout-timer-what-we-learned-building-random-tactical-timer-2enh)
+- [A Repository Layer in Go Without an ORM: 4 Patterns That Survive in Production](https://dev.to/gabrielanhaia/a-repository-layer-in-go-without-an-orm-4-patterns-that-survive-in-production-2n7o)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-37f1)
+- [The maps Stdlib in Go 1.21+: 8 Functions That Replace Half Your Map Helpers](https://dev.to/gabrielanhaia/the-maps-stdlib-in-go-121-8-functions-that-replace-half-your-map-helpers-35ea)
+- [I built something I think more developers should be using](https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a)
+- [[Boost]](https://dev.to/dominic_robinson_ff89e6b5/-49kb)
+- [阿里云cdn推荐 - 030121](https://dev.to/fan_li_ee7d84c6203253d041/a-li-yun-cdntui-jian-030121-24k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
