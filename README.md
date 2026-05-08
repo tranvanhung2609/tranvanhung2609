@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Éclat de l’Avenir Gestion S.A.R.L : rechercher la croissance et les opportunités d’investissement dans les tendances économiques mondiales](https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-rechercher-la-croissance-et-les-opportunites-dinvestissement-2jgn)
-- [Hermes Agent - AI Infrastructure for Autonomous Operations](https://dev.to/manoir_yantai_f22f01340f0/hermes-agent-ai-infrastructure-for-autonomous-operations-2jal)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-29f3)
-- [Webhook vs Egress: Two Architectures for AI Agent Security](https://dev.to/luckypipewrench/webhook-vs-egress-two-architectures-for-ai-agent-security-42hf)
-- [IRAS: Building a Production-Grade Autonomous Incident Response Agent](https://dev.to/krishna_kittu_1d2837d30bb/iras-building-a-production-grade-autonomous-incident-response-agent-1008)
-- [IRAS: Building an Autonomous AI Agent for Incident Response](https://dev.to/krishna_kittu_1d2837d30bb/iras-building-an-autonomous-ai-agent-for-incident-response-269i)
+- [Migrating a Terraform Monolith to Terragrunt: State Slicing Without Downtime](https://dev.to/jakops/migrating-a-terraform-monolith-to-terragrunt-state-slicing-without-downtime-1flb)
+- [Where can I find online AI Security Certification training?](https://dev.to/georgiaweston/where-can-i-find-online-ai-security-certification-training-5509)
+- [Java 21 Unnamed Classes and Instance Main Methods Tutorial &lpar;2026&rpar;](https://dev.to/rajesh1761/java-21-unnamed-classes-and-instance-main-methods-tutorial-2026-4448)
+- [How to Plan and Build a Fantasy Sports Platform with Cost-Effective Strategies](https://dev.to/alan_james_35e491d20632c8/how-to-plan-and-build-a-fantasy-sports-platform-with-cost-effective-strategies-e79)
+- [Supercharge the internals of Python 3.13 and Java 21: What Matters](https://dev.to/johalputt/supercharge-the-internals-of-python-313-and-java-21-what-matters-358p)
+- [Bypassing Cloud Throttling: The Case for Bare-Metal Servers in Southeast Asia](https://dev.to/shannon_dias_927e8f0d0d18/bypassing-cloud-throttling-the-case-for-bare-metal-servers-in-southeast-asia-1p36)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
