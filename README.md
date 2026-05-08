@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Terraform Monolith to Terragrunt: State Slicing Without Downtime](https://dev.to/jakops/migrating-a-terraform-monolith-to-terragrunt-state-slicing-without-downtime-1flb)
-- [Where can I find online AI Security Certification training?](https://dev.to/georgiaweston/where-can-i-find-online-ai-security-certification-training-5509)
-- [Java 21 Unnamed Classes and Instance Main Methods Tutorial &lpar;2026&rpar;](https://dev.to/rajesh1761/java-21-unnamed-classes-and-instance-main-methods-tutorial-2026-4448)
-- [How to Plan and Build a Fantasy Sports Platform with Cost-Effective Strategies](https://dev.to/alan_james_35e491d20632c8/how-to-plan-and-build-a-fantasy-sports-platform-with-cost-effective-strategies-e79)
-- [Supercharge the internals of Python 3.13 and Java 21: What Matters](https://dev.to/johalputt/supercharge-the-internals-of-python-313-and-java-21-what-matters-358p)
-- [Bypassing Cloud Throttling: The Case for Bare-Metal Servers in Southeast Asia](https://dev.to/shannon_dias_927e8f0d0d18/bypassing-cloud-throttling-the-case-for-bare-metal-servers-in-southeast-asia-1p36)
+- [test](https://dev.to/some_studio_c8f4dbb92359/test-46il)
+- [Why AWS Free Tier Guide Is Changing Everything in 2025](https://dev.to/techimmortalesdesign/why-aws-free-tier-guide-is-changing-everything-in-2025-lp0)
+- [I Built a CLI That Writes Its Own Docker Config — Then Taught It to Say No](https://dev.to/kelechi_uba_d8ec694684838/i-built-a-cli-that-writes-its-own-docker-config-then-taught-it-to-say-no-4on7)
+- [Kubernetes Incidents: Why Speed Matters](https://dev.to/kubegraf/kubernetes-incidents-why-speed-matters-3i6c)
+- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-i2e)
+- [42 Linux Terminal Mastery: Everything You Need to Know](https://dev.to/techimmortalesdesign/42-linux-terminal-mastery-everything-you-need-to-know-p00)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
