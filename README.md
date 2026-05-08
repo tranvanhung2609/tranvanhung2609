@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/some_studio_c8f4dbb92359/test-46il)
-- [Why AWS Free Tier Guide Is Changing Everything in 2025](https://dev.to/techimmortalesdesign/why-aws-free-tier-guide-is-changing-everything-in-2025-lp0)
-- [I Built a CLI That Writes Its Own Docker Config — Then Taught It to Say No](https://dev.to/kelechi_uba_d8ec694684838/i-built-a-cli-that-writes-its-own-docker-config-then-taught-it-to-say-no-4on7)
-- [Kubernetes Incidents: Why Speed Matters](https://dev.to/kubegraf/kubernetes-incidents-why-speed-matters-3i6c)
-- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-i2e)
-- [42 Linux Terminal Mastery: Everything You Need to Know](https://dev.to/techimmortalesdesign/42-linux-terminal-mastery-everything-you-need-to-know-p00)
+- [Best GPU/Hardware for Running Local LLMs in 2026](https://dev.to/igorganapolsky/best-gpuhardware-for-running-local-llms-in-2026-21de)
+- [How Alibaba Cloud CDN Accelerates Your Global Applications](https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-1m14)
+- [Setting Up Autonomous SEO Agents for Small Businesses](https://dev.to/igorganapolsky/setting-up-autonomous-seo-agents-for-small-businesses-3k7b)
+- [JWT virou padrão em APIs modernas.](https://dev.to/nexu_codeplay_5f043180d9/jwt-virou-padrao-em-apis-modernas-3olf)
+- [Instructure Got Breached Again. Here&#39;s What Your Canvas Integration Stack Inherited.](https://dev.to/kkierii/instructure-got-breached-again-heres-what-your-canvas-integration-stack-inherited-i7g)
+- [Choosing the Right Python Web Framework: Django, Flask, or FastAPI?](https://dev.to/volodimir_b6878240cfb6a4e/choosing-the-right-python-web-framework-django-flask-or-fastapi-a8d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
