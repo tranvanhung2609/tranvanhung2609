@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Repository Layer in Go Without an ORM: 4 Patterns That Survive in Production](https://dev.to/gabrielanhaia/a-repository-layer-in-go-without-an-orm-4-patterns-that-survive-in-production-2n7o)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-37f1)
-- [The maps Stdlib in Go 1.21+: 8 Functions That Replace Half Your Map Helpers](https://dev.to/gabrielanhaia/the-maps-stdlib-in-go-121-8-functions-that-replace-half-your-map-helpers-35ea)
-- [I built something I think more developers should be using](https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a)
-- [[Boost]](https://dev.to/dominic_robinson_ff89e6b5/-49kb)
-- [阿里云cdn推荐 - 030121](https://dev.to/fan_li_ee7d84c6203253d041/a-li-yun-cdntui-jian-030121-24k)
+- [Éclat de l’Avenir Gestion S.A.R.L : rechercher la croissance et les opportunités d’investissement dans les tendances économiques mondiales](https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-rechercher-la-croissance-et-les-opportunites-dinvestissement-2jgn)
+- [Hermes Agent - AI Infrastructure for Autonomous Operations](https://dev.to/manoir_yantai_f22f01340f0/hermes-agent-ai-infrastructure-for-autonomous-operations-2jal)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-29f3)
+- [Webhook vs Egress: Two Architectures for AI Agent Security](https://dev.to/luckypipewrench/webhook-vs-egress-two-architectures-for-ai-agent-security-42hf)
+- [IRAS: Building a Production-Grade Autonomous Incident Response Agent](https://dev.to/krishna_kittu_1d2837d30bb/iras-building-a-production-grade-autonomous-incident-response-agent-1008)
+- [IRAS: Building an Autonomous AI Agent for Incident Response](https://dev.to/krishna_kittu_1d2837d30bb/iras-building-an-autonomous-ai-agent-for-incident-response-269i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
