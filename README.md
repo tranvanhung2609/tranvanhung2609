@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL vs MySQL vs SQLite &lpar;2026&rpar;: Which Database Should You Use?](https://dev.to/_6638a39c349d7e9c85ee20/postgresql-vs-mysql-vs-sqlite-2026-which-database-should-you-use-18hb)
-- [🔍 How to Convert Word to HTML with Java?](https://dev.to/codingco/how-to-convert-word-to-html-with-java-4dpe)
-- [Vector Database Là Gì? Giải Mã &quot;Trái Tim&quot; Của Kỷ Nguyên AI](https://dev.to/itprepvn/vector-database-la-gi-giai-ma-trai-tim-cua-ky-nguyen-ai-68b)
-- [GitHub Actions Toàn Tập: &quot;Bế&quot; Code Lên Production Nhanh Như Chớp!](https://dev.to/itprepvn/github-actions-toan-tap-be-code-len-production-nhanh-nhu-chop-5954)
-- [Rate Limiting Toàn Tập: Đừng Để Server &quot;Sập Nguồn&quot; Vì Bị Spam API](https://dev.to/itprepvn/rate-limiting-toan-tap-dung-de-server-sap-nguon-vi-bi-spam-api-831)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-53fk)
+- [Why Is It So Difficult to Find a Job as a CS Student?](https://dev.to/raccon/why-is-it-so-difficult-to-find-a-job-as-a-cs-student-4o0e)
+- [Firebase Scheduled Functions Monitoring: How to Catch Missed Runs Before They Break Production](https://dev.to/quietpulse-social/firebase-scheduled-functions-monitoring-how-to-catch-missed-runs-before-they-break-production-14a1)
+- [Java 26 Project Panama Foreign Function API Improvements: A Comprehensive Guide &lpar;2026&rpar;](https://dev.to/rajesh1761/java-26-project-panama-foreign-function-api-improvements-a-comprehensive-guide-2026-6af)
+- [The CVE Blind Spot: Why EOL Software Is More Dangerous Than a Zero-Day](https://dev.to/endoflifeai/the-cve-blind-spot-why-eol-software-is-more-dangerous-than-a-zero-day-2c05)
+- [Intro of Variables and Operators in Javascript for beginners!](https://dev.to/preethi_sunil_caf7d1dad16_77/intro-of-variables-and-operators-in-javascript-for-beginners-5ko)
+- [Building a Reusable VPC, Subnets, and Firewall Rules Module](https://dev.to/abrahamparn/building-a-reusable-vpc-subnets-and-firewall-rules-module-10p8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
