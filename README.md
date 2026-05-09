@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Private Rust Backend to Power 18 Developer Tools — Here&#39;s the Architecture](https://dev.to/freerave/i-built-a-private-rust-backend-to-power-18-developer-tools-heres-the-architecture-4lmc)
-- [The 3 Pillars of Agentic DevOps: From Zero to Hero](https://dev.to/htekdev/the-3-pillars-of-agentic-devops-from-zero-to-hero-2fde)
-- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-32n)
-- [From Zero to Terraform Expert: Learning HashiCorp the Right Way](https://dev.to/mamali_prusty/from-zero-to-terraform-expert-learning-hashicorp-the-right-way-2pc7)
-- [How I Built a Canary Deployment CI/CD Pipeline with GitHub Actions and AWS EC2](https://dev.to/shawmeer22/how-i-built-a-canary-deployment-cicd-pipeline-with-github-actions-and-aws-ec2-215n)
-- [Exploring HashiCorp Terraform Modules: Tips for Associate Success](https://dev.to/mamali_prusty/exploring-hashicorp-terraform-modules-tips-for-associate-success-2k43)
+- [Beyond &quot;Up&quot; or &quot;Down&quot;: Engineering Graceful Degradation in Go](https://dev.to/serifcolakel/beyond-up-or-down-engineering-graceful-degradation-in-go-19a9)
+- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
+- [🚗 Autoankauf-Ökosystem in Deutschland: Effiziente Lösungen für Gebraucht- und Unfallwagen](https://dev.to/greman_autoguide_ec374e8/autoankauf-okosystem-in-deutschland-effiziente-losungen-fur-gebraucht-und-unfallwagen-554g)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-g6d)
+- [Why Most Small Business Websites Never Get Traffic &lpar;And How I Solved It With Next.js&rpar;](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5)
+- [The platform says my funds are “pending verification” before withdrawal — am I being scammed?](https://dev.to/gatsbren76578/the-platform-says-my-funds-are-pending-verification-before-withdrawal-am-i-being-scammed-494j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
