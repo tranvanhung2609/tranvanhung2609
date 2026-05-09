@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Best GPU/Hardware for Running Local LLMs in 2026](https://dev.to/igorganapolsky/best-gpuhardware-for-running-local-llms-in-2026-21de)
-- [How Alibaba Cloud CDN Accelerates Your Global Applications](https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-1m14)
-- [Setting Up Autonomous SEO Agents for Small Businesses](https://dev.to/igorganapolsky/setting-up-autonomous-seo-agents-for-small-businesses-3k7b)
-- [JWT virou padrão em APIs modernas.](https://dev.to/nexu_codeplay_5f043180d9/jwt-virou-padrao-em-apis-modernas-3olf)
-- [Instructure Got Breached Again. Here&#39;s What Your Canvas Integration Stack Inherited.](https://dev.to/kkierii/instructure-got-breached-again-heres-what-your-canvas-integration-stack-inherited-i7g)
-- [Choosing the Right Python Web Framework: Django, Flask, or FastAPI?](https://dev.to/volodimir_b6878240cfb6a4e/choosing-the-right-python-web-framework-django-flask-or-fastapi-a8d)
+- [PostgreSQL vs MySQL vs SQLite &lpar;2026&rpar;: Which Database Should You Use?](https://dev.to/_6638a39c349d7e9c85ee20/postgresql-vs-mysql-vs-sqlite-2026-which-database-should-you-use-18hb)
+- [🔍 How to Convert Word to HTML with Java?](https://dev.to/codingco/how-to-convert-word-to-html-with-java-4dpe)
+- [Vector Database Là Gì? Giải Mã &quot;Trái Tim&quot; Của Kỷ Nguyên AI](https://dev.to/itprepvn/vector-database-la-gi-giai-ma-trai-tim-cua-ky-nguyen-ai-68b)
+- [GitHub Actions Toàn Tập: &quot;Bế&quot; Code Lên Production Nhanh Như Chớp!](https://dev.to/itprepvn/github-actions-toan-tap-be-code-len-production-nhanh-nhu-chop-5954)
+- [Rate Limiting Toàn Tập: Đừng Để Server &quot;Sập Nguồn&quot; Vì Bị Spam API](https://dev.to/itprepvn/rate-limiting-toan-tap-dung-de-server-sap-nguon-vi-bi-spam-api-831)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-53fk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
