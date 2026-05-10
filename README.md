@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-35hk)
-- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak)
-- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p)
-- [Inside the Pipeline Powering a Korean Entertainment MCP Server](https://dev.to/carasjung/inside-the-pipeline-powering-a-korean-entertainment-mcp-server-3d2h)
-- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-1af0)
-- [Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren&#39;t What You&#39;d Expect](https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-in-2026-i-migrated-a-production-backend-and-the-tradeoffs-arent-what-5hin)
+- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817)
+- [Your MCP Server Has No Network Identity. Here&#39;s Why That&#39;s a Problem.](https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj)
+- [P2P vs. Broker: The Architecture Decision Defining Multi-Agent Systems](https://dev.to/asterview/p2p-vs-broker-the-architecture-decision-defining-multi-agent-systems-54dg)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for May 03 – May 09, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-may-03-may-09-2026-c0g)
+- [Why ATS Systems Reject Qualified Candidates](https://dev.to/iriskedemfederman_2c58bda/why-ats-systems-reject-qualified-candidates-2gk7)
+- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-34jp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
