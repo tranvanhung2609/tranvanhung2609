@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting GitLab Runners: What the Docs Don&#39;t Tell You](https://dev.to/ericwoooo_kr/self-hosting-gitlab-runners-what-the-docs-dont-tell-you-3g4)
-- [Java 17 Sealed Classes Explained with Examples &lpar;2026&rpar;](https://dev.to/rajesh1761/java-17-sealed-classes-explained-with-examples-2026-3b7o)
-- [Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.](https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg)
-- [Enterprise Java Training + Camunda 8 &amp; Alfresco Workflow Training Guide](https://dev.to/nirankari/enterprise-java-training-camunda-8-alfresco-workflow-training-guide-1h42)
-- [Enterprise Java Training + Camunda 8 &amp; Alfresco Workflow Training Guide](https://dev.to/nirankari/enterprise-java-training-camunda-8-alfresco-workflow-training-guide-1h42)
-- [Solana Transactions Explained for Backend Developers](https://dev.to/truongcongminh96/solana-transactions-explained-for-backend-developers-43ei)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-35hk)
+- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak)
+- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p)
+- [Inside the Pipeline Powering a Korean Entertainment MCP Server](https://dev.to/carasjung/inside-the-pipeline-powering-a-korean-entertainment-mcp-server-3d2h)
+- [Web Developer Travis McCracken on Containerizing Go Microservices for Scalability](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-containerizing-go-microservices-for-scalability-1af0)
+- [Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren&#39;t What You&#39;d Expect](https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-in-2026-i-migrated-a-production-backend-and-the-tradeoffs-arent-what-5hin)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
