@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Lab: Virtualization for DevOps Beginners](https://dev.to/ubayedbinsufian/build-your-own-lab-virtualization-for-devops-beginners-1fac)
-- [Retrieval Augmented Generation &lpar;RAG&rpar;: Enhancing Large Language Models with External Knowledge](https://dev.to/techblogs/retrieval-augmented-generation-rag-enhancing-large-language-models-with-external-knowledge-58ea)
-- [Retrieval Augmented Generation &lpar;RAG&rpar;: Enhancing Large Language Models with External Knowledge](https://dev.to/techblogs/retrieval-augmented-generation-rag-enhancing-large-language-models-with-external-knowledge-58ea)
-- [#37 Known is a Drop! List Interface](https://dev.to/deepikandas/37-known-is-a-drop-list-interface-2bhk)
-- [Why Kubernetes Is Driving Up Your Cloud Bill And When It Is Worth It](https://dev.to/coopernicus01/why-kubernetes-is-driving-up-your-cloud-bill-and-when-it-is-worth-it-21fg)
-- [Misadventures in Kubernetes: Autoscaling Workers](https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o)
+- [Self-Hosting GitLab Runners: What the Docs Don&#39;t Tell You](https://dev.to/ericwoooo_kr/self-hosting-gitlab-runners-what-the-docs-dont-tell-you-3g4)
+- [Java 17 Sealed Classes Explained with Examples &lpar;2026&rpar;](https://dev.to/rajesh1761/java-17-sealed-classes-explained-with-examples-2026-3b7o)
+- [Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.](https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg)
+- [Enterprise Java Training + Camunda 8 &amp; Alfresco Workflow Training Guide](https://dev.to/nirankari/enterprise-java-training-camunda-8-alfresco-workflow-training-guide-1h42)
+- [Enterprise Java Training + Camunda 8 &amp; Alfresco Workflow Training Guide](https://dev.to/nirankari/enterprise-java-training-camunda-8-alfresco-workflow-training-guide-1h42)
+- [Solana Transactions Explained for Backend Developers](https://dev.to/truongcongminh96/solana-transactions-explained-for-backend-developers-43ei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
