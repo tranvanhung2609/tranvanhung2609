@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Beyond &quot;Up&quot; or &quot;Down&quot;: Engineering Graceful Degradation in Go](https://dev.to/serifcolakel/beyond-up-or-down-engineering-graceful-degradation-in-go-19a9)
-- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
-- [🚗 Autoankauf-Ökosystem in Deutschland: Effiziente Lösungen für Gebraucht- und Unfallwagen](https://dev.to/greman_autoguide_ec374e8/autoankauf-okosystem-in-deutschland-effiziente-losungen-fur-gebraucht-und-unfallwagen-554g)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-g6d)
-- [Why Most Small Business Websites Never Get Traffic &lpar;And How I Solved It With Next.js&rpar;](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5)
-- [The platform says my funds are “pending verification” before withdrawal — am I being scammed?](https://dev.to/gatsbren76578/the-platform-says-my-funds-are-pending-verification-before-withdrawal-am-i-being-scammed-494j)
+- [Build Your Own Lab: Virtualization for DevOps Beginners](https://dev.to/ubayedbinsufian/build-your-own-lab-virtualization-for-devops-beginners-1fac)
+- [Retrieval Augmented Generation &lpar;RAG&rpar;: Enhancing Large Language Models with External Knowledge](https://dev.to/techblogs/retrieval-augmented-generation-rag-enhancing-large-language-models-with-external-knowledge-58ea)
+- [Retrieval Augmented Generation &lpar;RAG&rpar;: Enhancing Large Language Models with External Knowledge](https://dev.to/techblogs/retrieval-augmented-generation-rag-enhancing-large-language-models-with-external-knowledge-58ea)
+- [#37 Known is a Drop! List Interface](https://dev.to/deepikandas/37-known-is-a-drop-list-interface-2bhk)
+- [Why Kubernetes Is Driving Up Your Cloud Bill And When It Is Worth It](https://dev.to/coopernicus01/why-kubernetes-is-driving-up-your-cloud-bill-and-when-it-is-worth-it-21fg)
+- [Misadventures in Kubernetes: Autoscaling Workers](https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
