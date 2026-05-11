@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Zero-Downtime Database Migrations with AWS Aurora MySQL Blue/Green Deployments](https://dev.to/pranith_m_05c4bc7561a6ffd/mastering-zero-downtime-database-migrations-with-aws-aurora-mysql-bluegreen-deployments-116d)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-5ekk)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-5ekk)
-- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn)
-- [Manage Nylas Applications, Connectors, and Grants from the CLI](https://dev.to/qasim157/manage-nylas-applications-connectors-and-grants-from-the-cli-3f30)
-- [Tool-Using AI Agents: Empowering AI with External Capabilities](https://dev.to/techblogs/tool-using-ai-agents-empowering-ai-with-external-capabilities-2pmo)
+- [API Design Patterns: Rate Limiting, Pagination, Idempotency, and More](https://dev.to/_6638a39c349d7e9c85ee20/api-design-patterns-rate-limiting-pagination-idempotency-and-more-3fca)
+- [Microservices vs Monolith &lpar;2026&rpar;: Making the Right Architectural Choice](https://dev.to/_6638a39c349d7e9c85ee20/microservices-vs-monolith-2026-making-the-right-architectural-choice-1ndc)
+- [AutoGPT vs LangChain Agents vs CrewAI Comparison 2026](https://dev.to/rajesh1761/autogpt-vs-langchain-agents-vs-crewai-comparison-2026-24kk)
+- [How to Secure AI Agents in Production: What MCP Gets Right &lpar;and What It Doesn’t&rpar;](https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12)
+- [Batch email sends before rate limits look like caps](https://dev.to/canceylan1988/batch-email-sends-before-rate-limits-look-like-caps-5gcf)
+- [Which IT Course Should a BSc Graduate Choose in Mumbai in 2026](https://dev.to/itdaksh_education/which-it-course-should-a-bsc-graduate-choose-in-mumbai-in-2026-4clm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
