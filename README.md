@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solving LeetCode 2553: Separate the Digits in an Array using Java](https://dev.to/jerin_babu/solving-leetcode-2553-separate-the-digits-in-an-array-using-java-18om)
-- [🚀 Why Ruby on Rails Is Still a Powerful Choice for Modern Web Applications](https://dev.to/muhammad_abdullah/why-ruby-on-rails-is-still-a-powerful-choice-for-modern-web-applications-411h)
-- [Digital twins for asset tracking: what they are and how to build one](https://dev.to/smrati_verma/digital-twins-for-asset-tracking-what-they-are-and-how-to-build-one-1304)
-- [Building a Docker-like Container From Scratch: What Actually Happens When You Run `docker run`](https://dev.to/ericwoooo_kr/building-a-docker-like-container-from-scratch-what-actually-happens-when-you-run-docker-run-2b36)
-- [Gotanda Style: Do AI Agents Really Need Meetings?](https://dev.to/iroha1203/gotanda-style-do-ai-agents-really-need-meetings-7ii)
-- [Web Developer Travis McCracken on How to Know When to Split a Service](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-to-know-when-to-split-a-service-55pi)
+- [Best Trusted Website to Buy USA Gmail Accounts with Recovery Support](https://dev.to/gmail29/best-trusted-website-to-buy-usa-gmail-accounts-with-recovery-support-2pdk)
+- [Handling Eventual Consistency in Shopify Integrations](https://dev.to/masadashraf/handling-eventual-consistency-in-shopify-integrations-5dc5)
+- [Failure-Resilient ML Pipelines with Argo and Kubeflow](https://dev.to/beefedai/failure-resilient-ml-pipelines-with-argo-and-kubeflow-1b7)
+- [Artificial Intelligence: Shaping the Future of Human Life](https://dev.to/ikbal_hanae_e513a55103ff8/artificial-intelligence-shaping-the-future-of-human-life-32il)
+- [From AIOps Anomaly Detection to LLM-Powered RCA: How AI for Incident Response Actually Evolved](https://dev.to/steadwing/from-aiops-anomaly-detection-to-llm-powered-rca-how-ai-for-incident-response-actually-evolved-3h5d)
+- [Hexagonal Architecture is Not a Layered Architecture: Topology, Safety, and When to Walk Away](https://dev.to/bing_yu/hexagonal-architecture-is-not-a-layered-architecture-topology-safety-and-when-to-walk-away-4dln)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
