@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [API Design Patterns: Rate Limiting, Pagination, Idempotency, and More](https://dev.to/_6638a39c349d7e9c85ee20/api-design-patterns-rate-limiting-pagination-idempotency-and-more-3fca)
-- [Microservices vs Monolith &lpar;2026&rpar;: Making the Right Architectural Choice](https://dev.to/_6638a39c349d7e9c85ee20/microservices-vs-monolith-2026-making-the-right-architectural-choice-1ndc)
-- [AutoGPT vs LangChain Agents vs CrewAI Comparison 2026](https://dev.to/rajesh1761/autogpt-vs-langchain-agents-vs-crewai-comparison-2026-24kk)
-- [How to Secure AI Agents in Production: What MCP Gets Right &lpar;and What It Doesn’t&rpar;](https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12)
-- [Batch email sends before rate limits look like caps](https://dev.to/canceylan1988/batch-email-sends-before-rate-limits-look-like-caps-5gcf)
-- [Which IT Course Should a BSc Graduate Choose in Mumbai in 2026](https://dev.to/itdaksh_education/which-it-course-should-a-bsc-graduate-choose-in-mumbai-in-2026-4clm)
+- [Solving LeetCode 2553: Separate the Digits in an Array using Java](https://dev.to/jerin_babu/solving-leetcode-2553-separate-the-digits-in-an-array-using-java-18om)
+- [🚀 Why Ruby on Rails Is Still a Powerful Choice for Modern Web Applications](https://dev.to/muhammad_abdullah/why-ruby-on-rails-is-still-a-powerful-choice-for-modern-web-applications-411h)
+- [Digital twins for asset tracking: what they are and how to build one](https://dev.to/smrati_verma/digital-twins-for-asset-tracking-what-they-are-and-how-to-build-one-1304)
+- [Building a Docker-like Container From Scratch: What Actually Happens When You Run `docker run`](https://dev.to/ericwoooo_kr/building-a-docker-like-container-from-scratch-what-actually-happens-when-you-run-docker-run-2b36)
+- [Gotanda Style: Do AI Agents Really Need Meetings?](https://dev.to/iroha1203/gotanda-style-do-ai-agents-really-need-meetings-7ii)
+- [Web Developer Travis McCracken on How to Know When to Split a Service](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-to-know-when-to-split-a-service-55pi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
