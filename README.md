@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817)
-- [Your MCP Server Has No Network Identity. Here&#39;s Why That&#39;s a Problem.](https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj)
-- [P2P vs. Broker: The Architecture Decision Defining Multi-Agent Systems](https://dev.to/asterview/p2p-vs-broker-the-architecture-decision-defining-multi-agent-systems-54dg)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for May 03 – May 09, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-may-03-may-09-2026-c0g)
-- [Why ATS Systems Reject Qualified Candidates](https://dev.to/iriskedemfederman_2c58bda/why-ats-systems-reject-qualified-candidates-2gk7)
-- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-34jp)
+- [Mastering Zero-Downtime Database Migrations with AWS Aurora MySQL Blue/Green Deployments](https://dev.to/pranith_m_05c4bc7561a6ffd/mastering-zero-downtime-database-migrations-with-aws-aurora-mysql-bluegreen-deployments-116d)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-5ekk)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-5ekk)
+- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn)
+- [Manage Nylas Applications, Connectors, and Grants from the CLI](https://dev.to/qasim157/manage-nylas-applications-connectors-and-grants-from-the-cli-3f30)
+- [Tool-Using AI Agents: Empowering AI with External Capabilities](https://dev.to/techblogs/tool-using-ai-agents-empowering-ai-with-external-capabilities-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
