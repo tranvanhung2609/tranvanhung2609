@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Éclat de l’Avenir Gestion S.A.R.L et l’importance de la discipline analytique dans les marchés modernes](https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-et-limportance-de-la-discipline-analytique-dans-les-marches-4gig)
-- [Docker Desktop Won&#39;t Start After a BIOS Update? Check This First](https://dev.to/mrtinkz/docker-desktop-wont-start-after-a-bios-update-check-this-first-45nj)
-- [OIDC The Hard way - Mirecloud Home lab Part 3](https://dev.to/stevens_emmanuelledoux_f/oidc-the-hard-way-mirecloud-home-lab-part-3-39io)
-- [Swarm Orchestrator v8.0.2](https://dev.to/moonrunnerkc/swarm-orchestrator-v802-pf)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3554)
-- [🔐 TruffleHog Secret Scanner Automation](https://dev.to/ja_lourenco/trufflehog-secret-scanner-automation-1ana)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3eal)
+- [I Shipped Two Web Games This Weekend — Here&#39;s the Stack](https://dev.to/pickuma/i-shipped-two-web-games-this-weekend-heres-the-stack-215m)
+- [Smart IoT Solutions for Connected Businesses &amp; Modern Industries](https://dev.to/designerpencil/smart-iot-solutions-for-connected-businesses-modern-industries-22fe)
+- [The &quot;Localhost&quot; Trap: Networking Microservices in Docker Compose](https://dev.to/omar_lashin_2badc08a1ddf9/the-localhost-trap-networking-microservices-in-docker-compose-k04)
+- [Stop Drowning in Log Noise: How Grouping Rules Turn Chaos into Signal](https://dev.to/uptrace/stop-drowning-in-log-noise-how-grouping-rules-turn-chaos-into-signal-19lo)
+- [How to Implement Cloud AI Integration for Promotion Planning](https://dev.to/jasperstewart/how-to-implement-cloud-ai-integration-for-promotion-planning-20oj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
