@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AgentOps vs. MLOps: What the Old Playbook Missed &lpar;And Why It&#39;s Costing Projects in 2026&rpar;](https://dev.to/waxell/agentops-vs-mlops-what-the-old-playbook-missed-and-why-its-costing-projects-in-2026-48ic)
-- [Building a devcontainer for Topaz: workspace mounts, DNS wildcards, and why /etc/resolv.conf always wins](https://dev.to/kamil-mrzyglod/building-a-devcontainer-for-topaz-workspace-mounts-dns-wildcards-and-why-etcresolvconf-always-ne)
-- [Built a complete MLOps pipeline – looking for your feedback](https://dev.to/avinash_manitripathi_b29/built-a-complete-mlops-pipeline-looking-for-your-feedback-4hm9)
-- [Building Scalable Backends with DDD &amp; Domain Events .NET C#](https://dev.to/pathum_kumara_d43aeb29286/building-scalable-backends-with-ddd-domain-events-net-c-1dak)
-- [Linux Performance Tuning](https://dev.to/_6638a39c349d7e9c85ee20/linux-performance-tuning-1pi5)
-- [Kubernetes Security Best Practices](https://dev.to/_6638a39c349d7e9c85ee20/kubernetes-security-best-practices-2jfd)
+- [Why does nobody talk about how expensive idle OpenClaw agents are?](https://dev.to/lars_winstand/why-does-nobody-talk-about-how-expensive-idle-openclaw-agents-are-56bo)
+- [Cost and performance tradeoffs between pre-generated and dynamic tiles](https://dev.to/beefedai/cost-and-performance-tradeoffs-between-pre-generated-and-dynamic-tiles-2c2d)
+- [Creative Landscapes: Transforming Outdoor Spaces with Beauty and Innovation](https://dev.to/landscapesc/creative-landscapes-transforming-outdoor-spaces-with-beauty-and-innovation-5ddc)
+- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
+- [Ace These 5 Backend Concepts to Become a Senior Engineer](https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd)
+- [ELK Stack Setup: Elasticsearch, Logstash, Kibana, and Pipeline Optimization](https://dev.to/_6638a39c349d7e9c85ee20/elk-stack-setup-elasticsearch-logstash-kibana-and-pipeline-optimization-19k4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
