@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is SJF4J the fastest JSON Schema validator for Java?](https://dev.to/hannyu/is-sjf4j-the-fastest-json-schema-validator-for-java-fhb)
-- [The AgentPay Catalog: 56 Products That Actually Work Now](https://dev.to/rumblingb/the-agentpay-catalog-56-products-that-actually-work-now-5gbn)
-- [Uvicorn: The Lightning-Fast ASGI Server Powering Modern Python Apps](https://dev.to/meroline_lizlent/uvicorn-the-lightning-fast-asgi-server-powering-modern-python-apps-5a85)
-- [Azure &quot;Bill Bleed&quot;: 13 Tools to Move from Dashboards to Agentic FinOps](https://dev.to/sourabhkapoor/azure-bill-bleed-13-tools-to-move-from-dashboards-to-agentic-finops-4406)
-- [Nginx Configuration: Performance and Security](https://dev.to/_6638a39c349d7e9c85ee20/nginx-configuration-performance-and-security-3n7f)
-- [Monorepo vs Multirepo: Repository Strategy Comparison](https://dev.to/_6638a39c349d7e9c85ee20/monorepo-vs-multirepo-repository-strategy-comparison-44j2)
+- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
+- [Why Most &quot;Cheaper Cloud&quot; Strategies Fail](https://dev.to/ntctech/why-most-cheaper-cloud-strategies-fail-3h7g)
+- [LeetCode 228: Summary Ranges Solution in Java &lpar;Time: O&lpar;n&rpar;&rpar;](https://dev.to/jerin_babu/leetcode-228-summary-ranges-solution-in-java-time-on-2hga)
+- [Web Developer Travis McCracken on How I Onboard New Devs to a Rust Codebase](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-onboard-new-devs-to-a-rust-codebase-6bc)
+- [Uptime Monitoring for Indie Hackers: The 2026 Free Stack](https://dev.to/velprove/uptime-monitoring-for-indie-hackers-the-2026-free-stack-3f4i)
+- [AI IT Ops Agent ROI for Media Companies: A Framework](https://dev.to/afzaal_a/ai-it-ops-agent-roi-for-media-companies-a-framework-1lmb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
