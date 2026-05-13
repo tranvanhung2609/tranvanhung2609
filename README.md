@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
-- [Why Most &quot;Cheaper Cloud&quot; Strategies Fail](https://dev.to/ntctech/why-most-cheaper-cloud-strategies-fail-3h7g)
-- [LeetCode 228: Summary Ranges Solution in Java &lpar;Time: O&lpar;n&rpar;&rpar;](https://dev.to/jerin_babu/leetcode-228-summary-ranges-solution-in-java-time-on-2hga)
-- [Web Developer Travis McCracken on How I Onboard New Devs to a Rust Codebase](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-onboard-new-devs-to-a-rust-codebase-6bc)
-- [Uptime Monitoring for Indie Hackers: The 2026 Free Stack](https://dev.to/velprove/uptime-monitoring-for-indie-hackers-the-2026-free-stack-3f4i)
-- [AI IT Ops Agent ROI for Media Companies: A Framework](https://dev.to/afzaal_a/ai-it-ops-agent-roi-for-media-companies-a-framework-1lmb)
+- [From Monolith to Microservices: Why Your App Needs to Break Apart](https://dev.to/masida_temwani/from-monolith-to-microservices-why-your-app-needs-to-break-apart-58n4)
+- [I Built an AI That Has to Lie to the Internet to Do Its Job](https://dev.to/chinmai_sri/i-built-an-ai-that-has-to-lie-to-the-internet-to-do-its-job-7pj)
+- [Your Runbook Is Written. Nobody Runs It.](https://dev.to/jonoherrington/your-runbook-is-written-nobody-runs-it-3lb3)
+- [Vuls vs Trivy vs Grype: when to pick which CVE scanner &lpar;from the team that built one more&rpar;](https://dev.to/accuoa/vuls-vs-trivy-vs-grype-when-to-pick-which-cve-scanner-from-the-team-that-built-one-more-2bjd)
+- [Matching live CVEs to your actual apt packages in ~800 lines of Python](https://dev.to/accuoa/matching-live-cves-to-your-actual-apt-packages-in-800-lines-of-python-119h)
+- [The indie SaaS security stack I run on a $7/mo VPS](https://dev.to/accuoa/the-indie-saas-security-stack-i-run-on-a-7mo-vps-1457)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
