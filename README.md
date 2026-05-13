@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why does nobody talk about how expensive idle OpenClaw agents are?](https://dev.to/lars_winstand/why-does-nobody-talk-about-how-expensive-idle-openclaw-agents-are-56bo)
-- [Cost and performance tradeoffs between pre-generated and dynamic tiles](https://dev.to/beefedai/cost-and-performance-tradeoffs-between-pre-generated-and-dynamic-tiles-2c2d)
-- [Creative Landscapes: Transforming Outdoor Spaces with Beauty and Innovation](https://dev.to/landscapesc/creative-landscapes-transforming-outdoor-spaces-with-beauty-and-innovation-5ddc)
-- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
-- [Ace These 5 Backend Concepts to Become a Senior Engineer](https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd)
-- [ELK Stack Setup: Elasticsearch, Logstash, Kibana, and Pipeline Optimization](https://dev.to/_6638a39c349d7e9c85ee20/elk-stack-setup-elasticsearch-logstash-kibana-and-pipeline-optimization-19k4)
+- [KYBCR Exchange &lpar;Kyberon Core Group&rpar; Launches Sustainable Infrastructure Initiative](https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-launches-sustainable-infrastructure-initiative-4opb)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3na5)
+- [What&#39;s the best way to access DeepSeek and Qwen in production without managing separate API keys for each provider](https://dev.to/yukixing6star/whats-the-best-way-to-access-deepseek-and-qwen-in-production-without-managing-separate-api-keys-1oe5)
+- [OrcaSlicer-bambulab restaura BambuNetwork para impresoras Bambu Lab](https://dev.to/lu1tr0n/orcaslicer-bambulab-restaura-bambunetwork-para-impresoras-bambu-lab-2gjd)
+- [I built a kill switch for runaway AI agents — Cost Firewall is MIT](https://dev.to/sun_evan_49aa6e9c40815761/i-built-a-kill-switch-for-runaway-ai-agents-cost-firewall-is-mit-2h8a)
+- [Mastering DevOps: Insights for First-Year Students](https://dev.to/norviktech/mastering-devops-insights-for-first-year-students-525i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
