@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [KYBCR Exchange &lpar;Kyberon Core Group&rpar; Launches Sustainable Infrastructure Initiative](https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-launches-sustainable-infrastructure-initiative-4opb)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3na5)
-- [What&#39;s the best way to access DeepSeek and Qwen in production without managing separate API keys for each provider](https://dev.to/yukixing6star/whats-the-best-way-to-access-deepseek-and-qwen-in-production-without-managing-separate-api-keys-1oe5)
-- [OrcaSlicer-bambulab restaura BambuNetwork para impresoras Bambu Lab](https://dev.to/lu1tr0n/orcaslicer-bambulab-restaura-bambunetwork-para-impresoras-bambu-lab-2gjd)
-- [I built a kill switch for runaway AI agents — Cost Firewall is MIT](https://dev.to/sun_evan_49aa6e9c40815761/i-built-a-kill-switch-for-runaway-ai-agents-cost-firewall-is-mit-2h8a)
-- [Mastering DevOps: Insights for First-Year Students](https://dev.to/norviktech/mastering-devops-insights-for-first-year-students-525i)
+- [Is SJF4J the fastest JSON Schema validator for Java?](https://dev.to/hannyu/is-sjf4j-the-fastest-json-schema-validator-for-java-fhb)
+- [The AgentPay Catalog: 56 Products That Actually Work Now](https://dev.to/rumblingb/the-agentpay-catalog-56-products-that-actually-work-now-5gbn)
+- [Uvicorn: The Lightning-Fast ASGI Server Powering Modern Python Apps](https://dev.to/meroline_lizlent/uvicorn-the-lightning-fast-asgi-server-powering-modern-python-apps-5a85)
+- [Azure &quot;Bill Bleed&quot;: 13 Tools to Move from Dashboards to Agentic FinOps](https://dev.to/sourabhkapoor/azure-bill-bleed-13-tools-to-move-from-dashboards-to-agentic-finops-4406)
+- [Nginx Configuration: Performance and Security](https://dev.to/_6638a39c349d7e9c85ee20/nginx-configuration-performance-and-security-3n7f)
+- [Monorepo vs Multirepo: Repository Strategy Comparison](https://dev.to/_6638a39c349d7e9c85ee20/monorepo-vs-multirepo-repository-strategy-comparison-44j2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
