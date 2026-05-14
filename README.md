@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The trust pipeline: three commands to run before merging an AI-assisted change](https://dev.to/radotsvetkov/the-trust-pipeline-three-commands-to-run-before-merging-an-ai-assisted-change-1ple)
-- [Replay AI coding sessions deterministically: the divergence detector for your repo](https://dev.to/radotsvetkov/replay-ai-coding-sessions-deterministically-the-divergence-detector-for-your-repo-19lf)
-- [AI coding compliance for 2026: a working checklist for ISO 42001, the EU AI Act, SOC 2, and tool qualification](https://dev.to/radotsvetkov/ai-coding-compliance-for-2026-a-working-checklist-for-iso-42001-the-eu-ai-act-soc-2-and-tool-2i3)
-- [Sanitizing AI coding sessions before external review: the redaction workflow that ships](https://dev.to/radotsvetkov/sanitizing-ai-coding-sessions-before-external-review-the-redaction-workflow-that-ships-48dk)
-- [Why I built Akmon, the AI coding agent for regulated engineering](https://dev.to/radotsvetkov/why-i-built-akmon-the-ai-coding-agent-for-regulated-engineering-2fki)
-- [The hard part of usage-based billing isn&#39;t the metering](https://dev.to/arnon_shimoni_f734319d79c/the-hard-part-of-usage-based-billing-isnt-the-metering-3m2d)
+- [How to Monitor a Vercel Site at the Platform Layer](https://dev.to/velprove/how-to-monitor-a-vercel-site-at-the-platform-layer-mk9)
+- [Monitor a Cloudflare Workers + Pages Site: KV, R2, D1, DO](https://dev.to/velprove/monitor-a-cloudflare-workers-pages-site-kv-r2-d1-do-4dlc)
+- [Under 20 Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-tactical-timer-what-we-learned-building-random-tactical-timer-8gg)
+- [GitGuardian Now Flags Admin and Overprivileged Identities Across AWS, Entra, and Okta](https://dev.to/gitguardian/gitguardian-now-flags-admin-and-overprivileged-identities-across-aws-entra-and-okta-3ch9)
+- [Web Developer Travis McCracken on API Docs That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-docs-that-dont-suck-23g5)
+- [What Broke After 10M WebSocket Events — How We Rebuilt a Realtime AI Orchestration Layer](https://dev.to/smartguy666/what-broke-after-10m-websocket-events-how-we-rebuilt-a-realtime-ai-orchestration-layer-78i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
