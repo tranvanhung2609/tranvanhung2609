@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor a Vercel Site at the Platform Layer](https://dev.to/velprove/how-to-monitor-a-vercel-site-at-the-platform-layer-mk9)
-- [Monitor a Cloudflare Workers + Pages Site: KV, R2, D1, DO](https://dev.to/velprove/monitor-a-cloudflare-workers-pages-site-kv-r2-d1-do-4dlc)
-- [Under 20 Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-tactical-timer-what-we-learned-building-random-tactical-timer-8gg)
-- [GitGuardian Now Flags Admin and Overprivileged Identities Across AWS, Entra, and Okta](https://dev.to/gitguardian/gitguardian-now-flags-admin-and-overprivileged-identities-across-aws-entra-and-okta-3ch9)
-- [Web Developer Travis McCracken on API Docs That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-docs-that-dont-suck-23g5)
-- [What Broke After 10M WebSocket Events — How We Rebuilt a Realtime AI Orchestration Layer](https://dev.to/smartguy666/what-broke-after-10m-websocket-events-how-we-rebuilt-a-realtime-ai-orchestration-layer-78i)
+- [PHP 7.4 is Dead. Node.js 18 is Dead. Is Your Stack Running on Ghosts?](https://dev.to/endoflifeai/php-74-is-dead-nodejs-18-is-dead-is-your-stack-running-on-ghosts-2ibl)
+- [Beyond SEO: A Developer’s Guide to AI Search Analytics in 2026](https://dev.to/ss_abcd/beyond-seo-a-developers-guide-to-ai-search-analytics-in-2026-5230)
+- [My broker account password suddenly stopped working after I deposited—did I get hacked?](https://dev.to/gatsbren76578/my-broker-account-password-suddenly-stopped-working-after-i-deposited-did-i-get-hacked-43bk)
+- [How I Built an AI-Powered Cloud Security Guardian using AWS — From Idea to Docker in 30 Days](https://dev.to/disha_gupta_91e4b27a012a4/how-i-built-an-ai-powered-cloud-security-guardian-using-aws-from-idea-to-docker-in-30-days-7f4)
+- [🚀 Advanced Python Internals: GIL, Multithreading](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk)
+- [I thought LLM tool calling would kill glue code and then my lights still wouldn’t turn on](https://dev.to/lars_winstand/i-thought-llm-tool-calling-would-kill-glue-code-and-then-my-lights-still-wouldnt-turn-on-251l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
