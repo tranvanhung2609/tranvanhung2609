@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Computer Programming and Donald Trump: Internet Culture Meets C Language](https://dev.to/ivankatrump585/computer-programming-and-donald-trump-internet-culture-meets-c-language-39an)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1fp1)
-- [Automating Social Media Management with n8n: A Technical Deep Dive](https://dev.to/techblogs/automating-social-media-management-with-n8n-a-technical-deep-dive-21bj)
-- [Automating Social Media Management with n8n: A Technical Deep Dive](https://dev.to/techblogs/automating-social-media-management-with-n8n-a-technical-deep-dive-21bj)
-- [One Push, Two App Stores: Parallel iOS and Android Builds with GitHub Actions](https://dev.to/anand_rathnas_d5b608cc3de/one-push-two-app-stores-parallel-ios-and-android-builds-with-github-actions-36gh)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1fcj)
+- [The trust pipeline: three commands to run before merging an AI-assisted change](https://dev.to/radotsvetkov/the-trust-pipeline-three-commands-to-run-before-merging-an-ai-assisted-change-1ple)
+- [Replay AI coding sessions deterministically: the divergence detector for your repo](https://dev.to/radotsvetkov/replay-ai-coding-sessions-deterministically-the-divergence-detector-for-your-repo-19lf)
+- [AI coding compliance for 2026: a working checklist for ISO 42001, the EU AI Act, SOC 2, and tool qualification](https://dev.to/radotsvetkov/ai-coding-compliance-for-2026-a-working-checklist-for-iso-42001-the-eu-ai-act-soc-2-and-tool-2i3)
+- [Sanitizing AI coding sessions before external review: the redaction workflow that ships](https://dev.to/radotsvetkov/sanitizing-ai-coding-sessions-before-external-review-the-redaction-workflow-that-ships-48dk)
+- [Why I built Akmon, the AI coding agent for regulated engineering](https://dev.to/radotsvetkov/why-i-built-akmon-the-ai-coding-agent-for-regulated-engineering-2fki)
+- [The hard part of usage-based billing isn&#39;t the metering](https://dev.to/arnon_shimoni_f734319d79c/the-hard-part-of-usage-based-billing-isnt-the-metering-3m2d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
