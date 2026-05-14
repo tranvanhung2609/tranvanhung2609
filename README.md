@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From Monolith to Microservices: Why Your App Needs to Break Apart](https://dev.to/masida_temwani/from-monolith-to-microservices-why-your-app-needs-to-break-apart-58n4)
-- [I Built an AI That Has to Lie to the Internet to Do Its Job](https://dev.to/chinmai_sri/i-built-an-ai-that-has-to-lie-to-the-internet-to-do-its-job-7pj)
-- [Your Runbook Is Written. Nobody Runs It.](https://dev.to/jonoherrington/your-runbook-is-written-nobody-runs-it-3lb3)
-- [Vuls vs Trivy vs Grype: when to pick which CVE scanner &lpar;from the team that built one more&rpar;](https://dev.to/accuoa/vuls-vs-trivy-vs-grype-when-to-pick-which-cve-scanner-from-the-team-that-built-one-more-2bjd)
-- [Matching live CVEs to your actual apt packages in ~800 lines of Python](https://dev.to/accuoa/matching-live-cves-to-your-actual-apt-packages-in-800-lines-of-python-119h)
-- [The indie SaaS security stack I run on a $7/mo VPS](https://dev.to/accuoa/the-indie-saas-security-stack-i-run-on-a-7mo-vps-1457)
+- [Computer Programming and Donald Trump: Internet Culture Meets C Language](https://dev.to/ivankatrump585/computer-programming-and-donald-trump-internet-culture-meets-c-language-39an)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1fp1)
+- [Automating Social Media Management with n8n: A Technical Deep Dive](https://dev.to/techblogs/automating-social-media-management-with-n8n-a-technical-deep-dive-21bj)
+- [Automating Social Media Management with n8n: A Technical Deep Dive](https://dev.to/techblogs/automating-social-media-management-with-n8n-a-technical-deep-dive-21bj)
+- [One Push, Two App Stores: Parallel iOS and Android Builds with GitHub Actions](https://dev.to/anand_rathnas_d5b608cc3de/one-push-two-app-stores-parallel-ios-and-android-builds-with-github-actions-36gh)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1fcj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
