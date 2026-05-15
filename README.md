@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PHP 7.4 is Dead. Node.js 18 is Dead. Is Your Stack Running on Ghosts?](https://dev.to/endoflifeai/php-74-is-dead-nodejs-18-is-dead-is-your-stack-running-on-ghosts-2ibl)
-- [Beyond SEO: A Developer’s Guide to AI Search Analytics in 2026](https://dev.to/ss_abcd/beyond-seo-a-developers-guide-to-ai-search-analytics-in-2026-5230)
-- [My broker account password suddenly stopped working after I deposited—did I get hacked?](https://dev.to/gatsbren76578/my-broker-account-password-suddenly-stopped-working-after-i-deposited-did-i-get-hacked-43bk)
-- [How I Built an AI-Powered Cloud Security Guardian using AWS — From Idea to Docker in 30 Days](https://dev.to/disha_gupta_91e4b27a012a4/how-i-built-an-ai-powered-cloud-security-guardian-using-aws-from-idea-to-docker-in-30-days-7f4)
-- [🚀 Advanced Python Internals: GIL, Multithreading](https://dev.to/aman_kumar_6d5d23b9b1ed02/advanced-python-internals-gil-multithreading-20mk)
-- [I thought LLM tool calling would kill glue code and then my lights still wouldn’t turn on](https://dev.to/lars_winstand/i-thought-llm-tool-calling-would-kill-glue-code-and-then-my-lights-still-wouldnt-turn-on-251l)
+- [They told me my profits are real, but now I have to pay tax before release—is this normal?](https://dev.to/gatsbren76578/they-told-me-my-profits-are-real-but-now-i-have-to-pay-tax-before-release-is-this-normal-4lij)
+- [HikariCP: the p95 that lies to you and how to read the real pool signals](https://dev.to/jtorchia/hikaricp-the-p95-that-lies-to-you-and-how-to-read-the-real-pool-signals-10eo)
+- [DNS Security](https://dev.to/_6638a39c349d7e9c85ee20/dns-security-1ba0)
+- [Data Masking and Redaction](https://dev.to/_6638a39c349d7e9c85ee20/data-masking-and-redaction-4p9d)
+- [CORS Security](https://dev.to/_6638a39c349d7e9c85ee20/cors-security-4iia)
+- [Dominando o Express: partials, sessões, CRUD REST, filtros e páginas de erro](https://dev.to/moprius/dominando-o-express-partials-sessoes-crud-rest-filtros-e-paginas-de-erro-32ok)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
