@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Tech Stack Is Leaking Money — And You Don&#39;t Know It](https://dev.to/guayoyo_tech/your-tech-stack-is-leaking-money-and-you-dont-know-it-646)
-- [If your AI agent looped 40 times last night, would you know?](https://dev.to/stephendsouza/if-your-ai-agent-looped-40-times-last-night-would-you-know-d3h)
-- [Scaling Autonomous SOC Operations for SMBs: Edge-First Guide](https://dev.to/hookprobe/scaling-autonomous-soc-operations-for-smbs-edge-first-guide-kka)
-- [Kubernetes and Cloud Native Architecture: Limitless Scalability](https://dev.to/guayoyo_tech/kubernetes-and-cloud-native-architecture-limitless-scalability-59b)
-- [Monitor a Render App: Cron, Workers, Health Checks](https://dev.to/velprove/monitor-a-render-app-cron-workers-health-checks-232i)
-- [Building a GCP Terraform Foundation: VPC, IAM, and Remote State](https://dev.to/abrahamparn/building-a-gcp-terraform-foundation-vpc-iam-and-remote-state-54jp)
+- [How to with Buying GitHub personal accounts in 2026 ...](https://dev.to/beckibowiey9i7d/how-to-with-buying-github-personal-accounts-in-2026--17da)
+- [Error Handling in Node.js: The Missing Guide](https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6)
+- [Docker in 20 Minutes: Everything You Need to Start Containerizing](https://dev.to/armorbreak/docker-in-20-minutes-everything-you-need-to-start-containerizing-3417)
+- [10 Best Places to Buy Old &amp;amp; New Instagram Accounts ...](https://dev.to/beckibowiey9i7d/10-best-places-to-buy-old-amp-new-instagram-accounts--1b78)
+- [Building a TradingView Alert Adapter for Real Execution Workflows](https://dev.to/kholahenry2/building-a-tradingview-alert-adapter-for-real-execution-workflows-5819)
+- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
