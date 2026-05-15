@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [They told me my profits are real, but now I have to pay tax before release—is this normal?](https://dev.to/gatsbren76578/they-told-me-my-profits-are-real-but-now-i-have-to-pay-tax-before-release-is-this-normal-4lij)
-- [HikariCP: the p95 that lies to you and how to read the real pool signals](https://dev.to/jtorchia/hikaricp-the-p95-that-lies-to-you-and-how-to-read-the-real-pool-signals-10eo)
-- [DNS Security](https://dev.to/_6638a39c349d7e9c85ee20/dns-security-1ba0)
-- [Data Masking and Redaction](https://dev.to/_6638a39c349d7e9c85ee20/data-masking-and-redaction-4p9d)
-- [CORS Security](https://dev.to/_6638a39c349d7e9c85ee20/cors-security-4iia)
-- [Dominando o Express: partials, sessões, CRUD REST, filtros e páginas de erro](https://dev.to/moprius/dominando-o-express-partials-sessoes-crud-rest-filtros-e-paginas-de-erro-32ok)
+- [I got tired of Swagger UI, so I built a TUI API explorer in Go](https://dev.to/shayanshojaei/i-got-tired-of-swagger-ui-so-i-built-a-tui-api-explorer-in-go-4e6)
+- [We Open-Sourced Our Entire Database Management Platform. Here&#39;s Why.](https://dev.to/clougence_coltd_2445d0/we-open-sourced-our-entire-database-management-platform-heres-why-2h96)
+- [When Your Content Bot Hits an LLM Quota, Ship the Fallback](https://dev.to/robust_true_try/when-your-content-bot-hits-an-llm-quota-ship-the-fallback-3nli)
+- [We replaced 5 SaaS subscriptions with one $20/month plan — here&#39;s the math](https://dev.to/guardlabs_team/we-replaced-5-saas-subscriptions-with-one-20month-plan-heres-the-math-59el)
+- [Stop building insecure &quot;Private&quot; AI assistants. Use this Hardened DevSecOps Stack.](https://dev.to/andrew_wiggins/stop-building-insecure-private-ai-assistants-use-this-hardened-devsecops-stack-dgj)
+- [TLS Configuration Guide](https://dev.to/_6638a39c349d7e9c85ee20/tls-configuration-guide-2jc1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
