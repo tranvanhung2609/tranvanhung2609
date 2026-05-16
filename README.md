@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to with Buying GitHub personal accounts in 2026 ...](https://dev.to/beckibowiey9i7d/how-to-with-buying-github-personal-accounts-in-2026--17da)
-- [Error Handling in Node.js: The Missing Guide](https://dev.to/armorbreak/error-handling-in-nodejs-the-missing-guide-4ll6)
-- [Docker in 20 Minutes: Everything You Need to Start Containerizing](https://dev.to/armorbreak/docker-in-20-minutes-everything-you-need-to-start-containerizing-3417)
-- [10 Best Places to Buy Old &amp;amp; New Instagram Accounts ...](https://dev.to/beckibowiey9i7d/10-best-places-to-buy-old-amp-new-instagram-accounts--1b78)
-- [Building a TradingView Alert Adapter for Real Execution Workflows](https://dev.to/kholahenry2/building-a-tradingview-alert-adapter-for-real-execution-workflows-5819)
-- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813)
+- [How to Onboard New Developers to Your API in Under 10 Minutes](https://dev.to/apikumo/how-to-onboard-new-developers-to-your-api-in-under-10-minutes-3okh)
+- [Demystifying Web Performance Metrics: A Technical Deep Dive](https://dev.to/techblogs/demystifying-web-performance-metrics-a-technical-deep-dive-25ep)
+- [Demystifying Web Performance Metrics: A Technical Deep Dive](https://dev.to/techblogs/demystifying-web-performance-metrics-a-technical-deep-dive-25ep)
+- [How I Host My Side Projects for Under /Month &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-host-my-side-projects-for-under-month-2026-gbf)
+- [Your Claude Agent Bill Just 10x&#39;d. Here&#39;s How to Stop the Bleeding.](https://dev.to/easterndev/your-claude-agent-bill-just-10xd-heres-how-to-stop-the-bleeding-448a)
+- [Spring Boot OpenAI API Integration Tutorial](https://dev.to/rajesh1761/spring-boot-openai-api-integration-tutorial-3on2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
