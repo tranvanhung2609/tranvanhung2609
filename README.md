@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Onboard New Developers to Your API in Under 10 Minutes](https://dev.to/apikumo/how-to-onboard-new-developers-to-your-api-in-under-10-minutes-3okh)
-- [Demystifying Web Performance Metrics: A Technical Deep Dive](https://dev.to/techblogs/demystifying-web-performance-metrics-a-technical-deep-dive-25ep)
-- [Demystifying Web Performance Metrics: A Technical Deep Dive](https://dev.to/techblogs/demystifying-web-performance-metrics-a-technical-deep-dive-25ep)
-- [How I Host My Side Projects for Under /Month &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-host-my-side-projects-for-under-month-2026-gbf)
-- [Your Claude Agent Bill Just 10x&#39;d. Here&#39;s How to Stop the Bleeding.](https://dev.to/easterndev/your-claude-agent-bill-just-10xd-heres-how-to-stop-the-bleeding-448a)
-- [Spring Boot OpenAI API Integration Tutorial](https://dev.to/rajesh1761/spring-boot-openai-api-integration-tutorial-3on2)
+- [Why Do Software Deployments Fail? Common Reasons and Fixes](https://dev.to/kuberns_cloud/why-do-software-deployments-fail-common-reasons-and-fixes-10a7)
+- [So I built **[Auto Everything Flow]&lpar;https://www.autoeverythingflow.com/ &rpar;**, a Chrome extension that helps automate those repetitive parts.](https://dev.to/autoeverythingflow/so-i-built-auto-everything-flowhttpswwwautoeverythingflowcom-a-chrome-extension-c81)
+- [Your LLM provider will deprecate your model. xAI just gave 9 days&#39; notice.](https://dev.to/modeldeprecation/your-llm-provider-will-deprecate-your-model-xai-just-gave-9-days-notice-1mnn)
+- [jd-gui-duo 2.0.112 Released](https://dev.to/nbauma109/jd-gui-duo-20112-released-3j9f)
+- [Foundation of Programming](https://dev.to/azadar_hussain_c596d8d5c6/foundation-of-programming-4b2p)
+- [Beginner&#39;s Guide to Docker: From Zero to Hero](https://dev.to/myogeshchavan97/beginners-guide-to-docker-from-zero-to-hero-4977)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
