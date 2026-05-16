@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Broke After 10M WebSocket Events &lpar;And How We Fixed Our Realtime AI Orchestration&rpar;](https://dev.to/smartguy666/what-broke-after-10m-websocket-events-and-how-we-fixed-our-realtime-ai-orchestration-4pgk)
-- [High Speed and Performance](https://dev.to/danyal_sher_30b6a6bb732b9/high-speed-and-performance-4p43)
-- [Web Developer Travis McCracken on Running Backend Services in a Monorepo](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-running-backend-services-in-a-monorepo-431e)
-- [I read the 35-comment OpenClaw upgrade meltdown so you don’t have to](https://dev.to/lars_winstand/i-read-the-35-comment-openclaw-upgrade-meltdown-so-you-dont-have-to-3ao5)
-- [Building NSFD-v1: An Algorithm for Detecting Network Signal Failure in Industrial Production Lines](https://dev.to/shieldstring/building-nsfd-v1-an-algorithm-for-detecting-network-signal-failure-in-industrial-production-lines-1bl8)
-- [Saving the World From AI... with AI](https://dev.to/jgravelle/saving-the-world-from-ai-with-ai-4fc2)
+- [Vibe Coding Is to Software Development as Desire Paths Are to City Planning](https://dev.to/niclydon/vibe-coding-is-to-software-development-as-desire-paths-are-to-city-planning-56d)
+- [Why Floci is built in Java &lpar;and why that&#39;s the right call in 2026&rpar;](https://dev.to/hectorvent/why-floci-is-built-in-java-and-why-thats-the-right-call-in-2026-50ag)
+- [Minecraft servers are fun to build, but one bad update, plugin conflict, or accidental deletion can](https://dev.to/onegbits/minecraft-servers-are-fun-to-build-but-one-bad-update-plugin-conflict-or-accidental-deletion-can-4bo8)
+- [From B.Com to Backend Engineer: My Masai School Journey](https://dev.to/shubham_bhati/from-bcom-to-backend-engineer-my-masai-school-journey-1053)
+- [Master Redis: 5 Hands-On Labs for Key-Value, Lists, and HyperLogLog Operations](https://dev.to/labex/master-redis-5-hands-on-labs-for-key-value-lists-and-hyperloglog-operations-3md)
+- [Building Dashboards People Actually Use](https://dev.to/samson_tanimawo/building-dashboards-people-actually-use-3fmm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
