@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Dev Productivity: Strategic Insights from GitHub&#39;s Repositories Check-in](https://dev.to/devactivity/elevating-dev-productivity-strategic-insights-from-githubs-repositories-check-in-5ejf)
-- [Web Developer Travis McCracken on My Favorite VSCode Extensions for Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-my-favorite-vscode-extensions-for-backend-dev-2de0)
-- [UUID v4 vs v7: Why Every Developer Should Switch in 2026](https://dev.to/abusufyan909/uuid-v4-vs-v7-why-every-developer-should-switch-in-2026-496i)
-- [Why Agentic AI Changes Everything for Brisbane DevOps Teams — An Infrastructure Perspective](https://dev.to/pratheesh_s/why-agentic-ai-changes-everything-for-brisbane-devops-teams-an-infrastructure-perspective-1ml1)
-- [How Resumable Uploads and Downloads Actually Work](https://dev.to/mandy8055/how-resumable-uploads-and-downloads-actually-work-4b9i)
-- [Mastering Spring Boot Actuator Monitoring](https://dev.to/rajesh1761/mastering-spring-boot-actuator-monitoring-2e9g)
+- [I Built an Open-Source Agent OS](https://dev.to/mihir_nmodi_14a06a4019e1/i-built-an-open-source-agent-os-2h30)
+- [Top Safe Websites to Watch Free Football Live in 2026](https://dev.to/hypesportshub/top-safe-websites-to-watch-free-football-live-in-2026-3eja)
+- [Choose Roblox Assets for Your Game in 2026](https://dev.to/terrabil-designs/best-places-to-buy-roblox-assets-for-your-game-in-2026-1o26)
+- [Why Ought to You P*ur*chase a Naver Account? &lpar;6 Photos&rpar;](https://dev.to/janettaballspeiw/why-ought-to-you-purchase-a-naver-account-6-photos-1gg)
+- [The Runbook Is Already Lying to you.](https://dev.to/iyanu_david/the-runbook-is-already-lying-to-you-557o)
+- [AWS Cloud Practitioner Exam - The Difficult Parts - Part 3: Storage and &lpar;some&rpar; Compute](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-part-3-storage-and-some-compute-4ff8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
