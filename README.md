@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Is to Software Development as Desire Paths Are to City Planning](https://dev.to/niclydon/vibe-coding-is-to-software-development-as-desire-paths-are-to-city-planning-56d)
-- [Why Floci is built in Java &lpar;and why that&#39;s the right call in 2026&rpar;](https://dev.to/hectorvent/why-floci-is-built-in-java-and-why-thats-the-right-call-in-2026-50ag)
-- [Minecraft servers are fun to build, but one bad update, plugin conflict, or accidental deletion can](https://dev.to/onegbits/minecraft-servers-are-fun-to-build-but-one-bad-update-plugin-conflict-or-accidental-deletion-can-4bo8)
-- [From B.Com to Backend Engineer: My Masai School Journey](https://dev.to/shubham_bhati/from-bcom-to-backend-engineer-my-masai-school-journey-1053)
-- [Master Redis: 5 Hands-On Labs for Key-Value, Lists, and HyperLogLog Operations](https://dev.to/labex/master-redis-5-hands-on-labs-for-key-value-lists-and-hyperloglog-operations-3md)
-- [Building Dashboards People Actually Use](https://dev.to/samson_tanimawo/building-dashboards-people-actually-use-3fmm)
+- [How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%](https://dev.to/sysalchemist/how-i-built-a-custom-kubernetes-ingress-in-rustgo-that-outperforms-nginx-by-11-4iag)
+- [API Authentication: Part III. JWT Tokens](https://dev.to/eugene-zimin/api-authentication-part-iii-jwt-tokens-3c6a)
+- [Unleashing Efficiency: A Technical Deep Dive into n8n Workflow Automation](https://dev.to/techblogs/unleashing-efficiency-a-technical-deep-dive-into-n8n-workflow-automation-4nl)
+- [Unleashing Efficiency: A Technical Deep Dive into n8n Workflow Automation](https://dev.to/techblogs/unleashing-efficiency-a-technical-deep-dive-into-n8n-workflow-automation-4nl)
+- [Mastering Spring Boot Exception Handling Best Practices](https://dev.to/rajesh1761/mastering-spring-boot-exception-handling-best-practices-4a2j)
+- [Stop Writing Webhook Boilerplate in Spring Boot](https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
