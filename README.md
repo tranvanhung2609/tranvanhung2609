@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%](https://dev.to/sysalchemist/how-i-built-a-custom-kubernetes-ingress-in-rustgo-that-outperforms-nginx-by-11-4iag)
-- [API Authentication: Part III. JWT Tokens](https://dev.to/eugene-zimin/api-authentication-part-iii-jwt-tokens-3c6a)
-- [Unleashing Efficiency: A Technical Deep Dive into n8n Workflow Automation](https://dev.to/techblogs/unleashing-efficiency-a-technical-deep-dive-into-n8n-workflow-automation-4nl)
-- [Unleashing Efficiency: A Technical Deep Dive into n8n Workflow Automation](https://dev.to/techblogs/unleashing-efficiency-a-technical-deep-dive-into-n8n-workflow-automation-4nl)
-- [Mastering Spring Boot Exception Handling Best Practices](https://dev.to/rajesh1761/mastering-spring-boot-exception-handling-best-practices-4a2j)
-- [Stop Writing Webhook Boilerplate in Spring Boot](https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og)
+- [How to process 1 million IoT events per day without breaking your backend](https://dev.to/smrati_verma/how-to-process-1-million-iot-events-per-day-without-breaking-your-backend-bij)
+- [How I Replaced 50 Cron Jobs with a Self-Healing Agent System](https://dev.to/_1353e04f14b156240b/how-i-replaced-50-cron-jobs-with-a-self-healing-agent-system-51l9)
+- [Building Custom Webhooks vs Using n8n Triggers](https://dev.to/chasebot/building-custom-webhooks-vs-using-n8n-triggers-40h4)
+- [Spring Boot with Redis Caching Tutorial: A Comprehensive Guide &lpar;2026&rpar;](https://dev.to/rajesh1761/spring-boot-with-redis-caching-tutorial-a-comprehensive-guide-2026-o97)
+- [Today’s digital users expect personalized experiences, and if you don’t deliver, someone else will.](https://dev.to/furqan_ashraf_07df2e7ef3a/todays-digital-users-expect-personalized-experiences-and-if-you-dont-deliver-someone-else-will-2cp8)
+- [Your crontab is silently failing. The 5 silent killers of VPS-based cron jobs &lpar;and the modern setup that fixes them in an afternoon&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/your-crontab-is-silently-failing-the-5-silent-killers-of-vps-based-cron-jobs-and-the-modern-setup-29g6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
