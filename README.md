@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to process 1 million IoT events per day without breaking your backend](https://dev.to/smrati_verma/how-to-process-1-million-iot-events-per-day-without-breaking-your-backend-bij)
-- [How I Replaced 50 Cron Jobs with a Self-Healing Agent System](https://dev.to/_1353e04f14b156240b/how-i-replaced-50-cron-jobs-with-a-self-healing-agent-system-51l9)
-- [Building Custom Webhooks vs Using n8n Triggers](https://dev.to/chasebot/building-custom-webhooks-vs-using-n8n-triggers-40h4)
-- [Spring Boot with Redis Caching Tutorial: A Comprehensive Guide &lpar;2026&rpar;](https://dev.to/rajesh1761/spring-boot-with-redis-caching-tutorial-a-comprehensive-guide-2026-o97)
-- [Today’s digital users expect personalized experiences, and if you don’t deliver, someone else will.](https://dev.to/furqan_ashraf_07df2e7ef3a/todays-digital-users-expect-personalized-experiences-and-if-you-dont-deliver-someone-else-will-2cp8)
-- [Your crontab is silently failing. The 5 silent killers of VPS-based cron jobs &lpar;and the modern setup that fixes them in an afternoon&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/your-crontab-is-silently-failing-the-5-silent-killers-of-vps-based-cron-jobs-and-the-modern-setup-29g6)
+- [Elevating Dev Productivity: Strategic Insights from GitHub&#39;s Repositories Check-in](https://dev.to/devactivity/elevating-dev-productivity-strategic-insights-from-githubs-repositories-check-in-5ejf)
+- [Web Developer Travis McCracken on My Favorite VSCode Extensions for Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-my-favorite-vscode-extensions-for-backend-dev-2de0)
+- [UUID v4 vs v7: Why Every Developer Should Switch in 2026](https://dev.to/abusufyan909/uuid-v4-vs-v7-why-every-developer-should-switch-in-2026-496i)
+- [Why Agentic AI Changes Everything for Brisbane DevOps Teams — An Infrastructure Perspective](https://dev.to/pratheesh_s/why-agentic-ai-changes-everything-for-brisbane-devops-teams-an-infrastructure-perspective-1ml1)
+- [How Resumable Uploads and Downloads Actually Work](https://dev.to/mandy8055/how-resumable-uploads-and-downloads-actually-work-4b9i)
+- [Mastering Spring Boot Actuator Monitoring](https://dev.to/rajesh1761/mastering-spring-boot-actuator-monitoring-2e9g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
