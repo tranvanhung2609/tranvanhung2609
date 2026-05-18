@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Production Mail Server on Ubuntu in 30 Minutes](https://dev.to/dhiraj_chatpar_e54b46b388/setting-up-a-production-mail-server-on-ubuntu-in-30-minutes-cig)
-- [SMTP Error Codes Explained: What Every Developer Must Know](https://dev.to/dhiraj_chatpar_e54b46b388/smtp-error-codes-explained-what-every-developer-must-know-3gj0)
-- [Why Your Startup Needs Dedicated Email Infrastructure](https://dev.to/dhiraj_chatpar_e54b46b388/why-your-startup-needs-dedicated-email-infrastructure-4ocl)
-- [Building a Production Email Pipeline with KumoMTA and Python](https://dev.to/dhiraj_chatpar_e54b46b388/building-a-production-email-pipeline-with-kumomta-and-python-12f3)
-- [Git Merge vs Rebase: 10K Commit Performance Test Results](https://dev.to/tildalice/git-merge-vs-rebase-10k-commit-performance-test-results-1i8a)
-- [How can you style your New Year&#39;s outfit to look both slim and stunning? Brabic shapewear helps you rock every New Year&#39;s occasion.](https://dev.to/yu_yang_f26414a1d7a176c97/how-can-you-style-your-new-years-outfit-to-look-both-slim-and-stunning-brabic-shapewear-helps-you-47f1)
+- [AI Won&#39;t Speed Up Your Processes &lpar;And That&#39;s OK&rpar;](https://dev.to/alanwest/ai-wont-speed-up-your-processes-and-thats-ok-c73)
+- [Front Controller: The Pattern That Unifies Your Web Application&#39;s Entry Point](https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b)
+- [Building a Production-Grade Remote Observability Platform with LGTM Stack, DORA Metrics &amp; SLOs](https://dev.to/airfluke/building-a-production-grade-remote-observability-platform-with-lgtm-stack-dora-metrics-slos-5dan)
+- [I stopped fighting the Anthropic API rate limit when I realized one model shouldn’t do every job](https://dev.to/lars_winstand/i-stopped-fighting-the-anthropic-api-rate-limit-when-i-realized-one-model-shouldnt-do-every-job-4f9j)
+- [Designing a Multi-Agent AI System for Content Analysis and Recommendations](https://dev.to/nagashreebhat/designing-a-multi-agent-ai-system-for-content-analysis-and-recommendations-aaa)
+- [How I Escaped &quot;Tutorial Hell&quot; &lpar;And Put My First Real App on the Internet&rpar;](https://dev.to/alafiz/how-i-escaped-tutorial-hell-and-put-my-first-real-app-on-the-internet-284p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
