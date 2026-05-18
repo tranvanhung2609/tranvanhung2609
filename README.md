@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source Agent OS](https://dev.to/mihir_nmodi_14a06a4019e1/i-built-an-open-source-agent-os-2h30)
-- [Top Safe Websites to Watch Free Football Live in 2026](https://dev.to/hypesportshub/top-safe-websites-to-watch-free-football-live-in-2026-3eja)
-- [Choose Roblox Assets for Your Game in 2026](https://dev.to/terrabil-designs/best-places-to-buy-roblox-assets-for-your-game-in-2026-1o26)
-- [Why Ought to You P*ur*chase a Naver Account? &lpar;6 Photos&rpar;](https://dev.to/janettaballspeiw/why-ought-to-you-purchase-a-naver-account-6-photos-1gg)
-- [The Runbook Is Already Lying to you.](https://dev.to/iyanu_david/the-runbook-is-already-lying-to-you-557o)
-- [AWS Cloud Practitioner Exam - The Difficult Parts - Part 3: Storage and &lpar;some&rpar; Compute](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-part-3-storage-and-some-compute-4ff8)
+- [Spec2PR: Reimagining the SDLC for Intelligent Software Delivery](https://dev.to/mchellappa/spec2pr-reimagining-the-sdlc-for-intelligent-software-delivery-n8f)
+- [Coolify Review: Self-Hosted PaaS as Vercel/Heroku Alternative](https://dev.to/pickuma/coolify-review-self-hosted-paas-as-vercelheroku-alternative-4imp)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-164d)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-164d)
+- [Mozilla Defends VPNs to UK Regulators: Why Devs Need Privacy Tools](https://dev.to/pickuma/mozilla-defends-vpns-to-uk-regulators-why-devs-need-privacy-tools-hgf)
+- [[3 Reliability Patterns That Stopped My AI Agent From Crashing Every 6 Hours]](https://dev.to/rapidclaw/3-reliability-patterns-that-stopped-my-ai-agent-from-crashing-every-6-hours-49f9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
