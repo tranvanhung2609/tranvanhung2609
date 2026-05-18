@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Spec2PR: Reimagining the SDLC for Intelligent Software Delivery](https://dev.to/mchellappa/spec2pr-reimagining-the-sdlc-for-intelligent-software-delivery-n8f)
-- [Coolify Review: Self-Hosted PaaS as Vercel/Heroku Alternative](https://dev.to/pickuma/coolify-review-self-hosted-paas-as-vercelheroku-alternative-4imp)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-164d)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-164d)
-- [Mozilla Defends VPNs to UK Regulators: Why Devs Need Privacy Tools](https://dev.to/pickuma/mozilla-defends-vpns-to-uk-regulators-why-devs-need-privacy-tools-hgf)
-- [[3 Reliability Patterns That Stopped My AI Agent From Crashing Every 6 Hours]](https://dev.to/rapidclaw/3-reliability-patterns-that-stopped-my-ai-agent-from-crashing-every-6-hours-49f9)
+- [Zero-downtime deployments on a single Vultr VPS with Docker and Nginx](https://dev.to/domoniqueluchin/zero-downtime-deployments-on-a-single-vultr-vps-with-docker-and-nginx-3if7)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1j93)
+- [Lessons from three months of vibe coding &lpar;and a complexity score of 53&rpar;](https://dev.to/maxkrivich/lessons-from-three-months-of-vibe-coding-and-a-complexity-score-of-53-3bdj)
+- [Certified Site Reliability Engineer: The Discipline Behind Always-On Digital Systems](https://dev.to/zainab_1201/certified-site-reliability-engineer-the-discipline-behind-always-on-digital-systems-1772)
+- [Certified Site Reliability Engineer: Engineering Trust in Modern Cloud Systems](https://dev.to/zainab_1201/certified-site-reliability-engineer-engineering-trust-in-modern-cloud-systems-oig)
+- [How to Choose an AI Gateway in 2026: The Checklist Engineers Actually Need](https://dev.to/hadil/how-to-choose-an-ai-gateway-in-2026-the-checklist-engineers-actually-need-5h73)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
