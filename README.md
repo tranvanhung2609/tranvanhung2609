@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Zero-downtime deployments on a single Vultr VPS with Docker and Nginx](https://dev.to/domoniqueluchin/zero-downtime-deployments-on-a-single-vultr-vps-with-docker-and-nginx-3if7)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1j93)
-- [Lessons from three months of vibe coding &lpar;and a complexity score of 53&rpar;](https://dev.to/maxkrivich/lessons-from-three-months-of-vibe-coding-and-a-complexity-score-of-53-3bdj)
-- [Certified Site Reliability Engineer: The Discipline Behind Always-On Digital Systems](https://dev.to/zainab_1201/certified-site-reliability-engineer-the-discipline-behind-always-on-digital-systems-1772)
-- [Certified Site Reliability Engineer: Engineering Trust in Modern Cloud Systems](https://dev.to/zainab_1201/certified-site-reliability-engineer-engineering-trust-in-modern-cloud-systems-oig)
-- [How to Choose an AI Gateway in 2026: The Checklist Engineers Actually Need](https://dev.to/hadil/how-to-choose-an-ai-gateway-in-2026-the-checklist-engineers-actually-need-5h73)
+- [Setting Up a Production Mail Server on Ubuntu in 30 Minutes](https://dev.to/dhiraj_chatpar_e54b46b388/setting-up-a-production-mail-server-on-ubuntu-in-30-minutes-cig)
+- [SMTP Error Codes Explained: What Every Developer Must Know](https://dev.to/dhiraj_chatpar_e54b46b388/smtp-error-codes-explained-what-every-developer-must-know-3gj0)
+- [Why Your Startup Needs Dedicated Email Infrastructure](https://dev.to/dhiraj_chatpar_e54b46b388/why-your-startup-needs-dedicated-email-infrastructure-4ocl)
+- [Building a Production Email Pipeline with KumoMTA and Python](https://dev.to/dhiraj_chatpar_e54b46b388/building-a-production-email-pipeline-with-kumomta-and-python-12f3)
+- [Git Merge vs Rebase: 10K Commit Performance Test Results](https://dev.to/tildalice/git-merge-vs-rebase-10k-commit-performance-test-results-1i8a)
+- [How can you style your New Year&#39;s outfit to look both slim and stunning? Brabic shapewear helps you rock every New Year&#39;s occasion.](https://dev.to/yu_yang_f26414a1d7a176c97/how-can-you-style-your-new-years-outfit-to-look-both-slim-and-stunning-brabic-shapewear-helps-you-47f1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
