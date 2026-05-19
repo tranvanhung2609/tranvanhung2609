@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Won&#39;t Speed Up Your Processes &lpar;And That&#39;s OK&rpar;](https://dev.to/alanwest/ai-wont-speed-up-your-processes-and-thats-ok-c73)
-- [Front Controller: The Pattern That Unifies Your Web Application&#39;s Entry Point](https://dev.to/r3d_cr0wn/front-controller-el-patron-que-unifica-el-punto-de-entrada-de-tu-aplicacion-web-3l9b)
-- [Building a Production-Grade Remote Observability Platform with LGTM Stack, DORA Metrics &amp; SLOs](https://dev.to/airfluke/building-a-production-grade-remote-observability-platform-with-lgtm-stack-dora-metrics-slos-5dan)
-- [I stopped fighting the Anthropic API rate limit when I realized one model shouldn’t do every job](https://dev.to/lars_winstand/i-stopped-fighting-the-anthropic-api-rate-limit-when-i-realized-one-model-shouldnt-do-every-job-4f9j)
-- [Designing a Multi-Agent AI System for Content Analysis and Recommendations](https://dev.to/nagashreebhat/designing-a-multi-agent-ai-system-for-content-analysis-and-recommendations-aaa)
-- [How I Escaped &quot;Tutorial Hell&quot; &lpar;And Put My First Real App on the Internet&rpar;](https://dev.to/alafiz/how-i-escaped-tutorial-hell-and-put-my-first-real-app-on-the-internet-284p)
+- [I Broke My Proxmox Home Lab with a GPU Passthrough - Here&#39;s How I Fixed It](https://dev.to/pendelabhargavasai/i-broke-my-proxmox-home-lab-with-a-gpu-passthrough-heres-how-i-fixed-it-45na)
+- [10 Essential Linux Commands Every Beginner Must Know](https://dev.to/sreekanth_kuruba_91721e5d/10-essential-linux-commands-every-beginner-must-know-32b0)
+- [I Keep Forgetting Subnet Math — Here&#39;s the Cheat Sheet I Actually Use](https://dev.to/anh_qunnguyn_57549060f/i-keep-forgetting-subnet-math-heres-the-cheat-sheet-i-actually-use-37o7)
+- [Database Connection Pooling: We Benchmarked 7 Strategies So You Don’t Have To](https://dev.to/speed_engineer/database-connection-pooling-we-benchmarked-7-strategies-so-you-dont-have-to-1bla)
+- [If you follow my Linux and DevOps articles — this one is different. I built something. Let me tell you about it.](https://dev.to/muralipala/if-you-follow-my-linux-and-devops-articles-this-one-is-different-i-built-something-let-me-tell-1o3p)
+- [Scaling Email Delivery: From 10K to 10M Emails Per Month with PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/scaling-email-delivery-from-10k-to-10m-emails-per-month-with-postmta-50ig)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
