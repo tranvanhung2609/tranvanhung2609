@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Broke My Proxmox Home Lab with a GPU Passthrough - Here&#39;s How I Fixed It](https://dev.to/pendelabhargavasai/i-broke-my-proxmox-home-lab-with-a-gpu-passthrough-heres-how-i-fixed-it-45na)
-- [10 Essential Linux Commands Every Beginner Must Know](https://dev.to/sreekanth_kuruba_91721e5d/10-essential-linux-commands-every-beginner-must-know-32b0)
-- [I Keep Forgetting Subnet Math — Here&#39;s the Cheat Sheet I Actually Use](https://dev.to/anh_qunnguyn_57549060f/i-keep-forgetting-subnet-math-heres-the-cheat-sheet-i-actually-use-37o7)
-- [Database Connection Pooling: We Benchmarked 7 Strategies So You Don’t Have To](https://dev.to/speed_engineer/database-connection-pooling-we-benchmarked-7-strategies-so-you-dont-have-to-1bla)
-- [If you follow my Linux and DevOps articles — this one is different. I built something. Let me tell you about it.](https://dev.to/muralipala/if-you-follow-my-linux-and-devops-articles-this-one-is-different-i-built-something-let-me-tell-1o3p)
-- [Scaling Email Delivery: From 10K to 10M Emails Per Month with PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/scaling-email-delivery-from-10k-to-10m-emails-per-month-with-postmta-50ig)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared — 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-2026-2cfg)
+- [How to Set Up PostMTA: Complete Installation Guide 2026](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-2026-5567)
+- [PostMTA vs PowerMTA: Enterprise MTA Showdown 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-powermta-enterprise-mta-showdown-2026-1ep4)
+- [PostMTA REST API: Complete Developer Guide](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-rest-api-complete-developer-guide-2kb)
+- [How to Set Up PostMTA: Complete Installation Guide 2026](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-2026-3na0)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared — 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-2026-42o3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
