@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared — 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-2026-2cfg)
-- [How to Set Up PostMTA: Complete Installation Guide 2026](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-2026-5567)
-- [PostMTA vs PowerMTA: Enterprise MTA Showdown 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-powermta-enterprise-mta-showdown-2026-1ep4)
-- [PostMTA REST API: Complete Developer Guide](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-rest-api-complete-developer-guide-2kb)
-- [How to Set Up PostMTA: Complete Installation Guide 2026](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-2026-3na0)
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared — 2026](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-2026-42o3)
+- [Kubernetes y su Rol en Equipos d…](https://dev.to/norviktech/kubernetes-y-su-rol-en-equipos-d-51b2)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-7bf)
+- [Stop Just Hashing Passwords: Why Salting is Non-Negotiable](https://dev.to/nirmalravidas/stop-just-hashing-passwords-why-salting-is-non-negotiable-1k88)
+- [The Anatomy of a Sophisticated WordPress Breach: Why Your &#39;Security Plugins&#39; Didn&#39;t Stop the RCE](https://dev.to/jahidshah/the-anatomy-of-a-sophisticated-wordpress-breach-why-your-security-plugins-didnt-stop-the-rce-4hmh)
+- [The HIPAA CI/CD audit checklist for engineering teams](https://dev.to/stonebridgetechsolutions/the-hipaa-cicd-audit-checklist-for-engineering-teams-b9m)
+- [We Tested 30 LLM APIs with 150 Real Calls — 42.7% Failed &lpar;And Why That&#39;s Good News&rpar;](https://dev.to/easterndev/we-tested-30-llm-apis-with-150-real-calls-427-failed-and-why-thats-good-news-565j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
