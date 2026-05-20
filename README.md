@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Email Bounce Rate: How to Keep It Under 2% with PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/email-bounce-rate-how-to-keep-it-under-2-with-postmta-1mko)
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-39io)
-- [DKIM SPF DMARC: Complete Email Authentication for PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/dkim-spf-dmarc-complete-email-authentication-for-postmta-5d61)
-- [How to Set Up PostMTA: Complete Installation Guide](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-5a7d)
-- [AI Dental Answering Service: Never Miss a Patient Call Again: A Developer&#39;s Guide](https://dev.to/voicefleet/ai-dental-answering-service-never-miss-a-patient-call-again-a-developers-guide-1ab1)
-- [I turned GitHub into a cinematic developer workspace 👀](https://dev.to/starkbbk/i-turned-github-into-a-cinematic-developer-workspace-481h)
+- [10 SDLC Permission Design Tips for Stronger Audit Trails](https://dev.to/john_rowe_510e01d96eabbf7/10-sdlc-permission-design-tips-for-stronger-audit-trails-jde)
+- [$87K to $24K: How AI Agent Model Tier Routing Cuts Costs Without Sacrificing Quality](https://dev.to/waxell/87k-to-24k-how-ai-agent-model-tier-routing-cuts-costs-without-sacrificing-quality-4fhj)
+- [The Rise of the Unified SDLC Workspace: Why Software Delivery Is Entering a New Operational Era](https://dev.to/john_rowe_510e01d96eabbf7/the-rise-of-the-unified-sdlc-workspace-why-software-delivery-is-entering-a-new-operational-era-2l89)
+- [Alert Fatigue Is a Design Choice: Building Views That Actually Help](https://dev.to/jon_rose/alert-fatigue-is-a-design-choice-building-views-that-actually-help-3677)
+- [Building a Production Grade AWS Infrastructure Project &lpar;Part 1&rpar;](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-1-5ceb)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d89)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
