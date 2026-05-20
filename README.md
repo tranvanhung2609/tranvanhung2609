@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I kept seeing the same OpenClaw mistake: one expensive model for every job](https://dev.to/lars_winstand/i-kept-seeing-the-same-openclaw-mistake-one-expensive-model-for-every-job-5fmp)
-- [🔐 SAST vs DAST: Complete Guide to Application Security Testing in DevSecOps](https://dev.to/abhishek_korde_31/understanding-sast-and-dast-in-devsecops-2183)
-- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-2&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2)
-- [🌍 From Field Science to AI Intelligence: What Google I/O 2026 Reveals About the Future of Earth Systems](https://dev.to/muhammad_yasin_f39f26989f/from-field-science-to-ai-intelligence-what-google-io-2026-reveals-about-the-future-of-earth-2m0o)
-- [How I Designed a Multi-Organization System for my sass](https://dev.to/rajwinder_singh_cd4283ac0/how-i-designed-a-multi-organization-system-for-my-sass-51c2)
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-36ge)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-4edn)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-3g3a)
+- [Building a Cloud Resume on Azure &lpar;and Then Refusing to Stop&rpar;](https://dev.to/rlwilliamson/building-a-cloud-resume-on-azure-and-then-refusing-to-stop-218m)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-41p4)
+- [How to Set Up PostMTA: Complete Installation Guide](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-3g0i)
+- [DKIM SPF DMARC: Complete Email Authentication for PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/dkim-spf-dmarc-complete-email-authentication-for-postmta-4755)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
