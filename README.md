@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-4edn)
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-3g3a)
-- [Building a Cloud Resume on Azure &lpar;and Then Refusing to Stop&rpar;](https://dev.to/rlwilliamson/building-a-cloud-resume-on-azure-and-then-refusing-to-stop-218m)
-- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-41p4)
-- [How to Set Up PostMTA: Complete Installation Guide](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-3g0i)
-- [DKIM SPF DMARC: Complete Email Authentication for PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/dkim-spf-dmarc-complete-email-authentication-for-postmta-4755)
+- [Email Bounce Rate: How to Keep It Under 2% with PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/email-bounce-rate-how-to-keep-it-under-2-with-postmta-1mko)
+- [PostMTA vs SendGrid: Enterprise Email Delivery Compared](https://dev.to/dhiraj_chatpar_e54b46b388/postmta-vs-sendgrid-enterprise-email-delivery-compared-39io)
+- [DKIM SPF DMARC: Complete Email Authentication for PostMTA](https://dev.to/dhiraj_chatpar_e54b46b388/dkim-spf-dmarc-complete-email-authentication-for-postmta-5d61)
+- [How to Set Up PostMTA: Complete Installation Guide](https://dev.to/dhiraj_chatpar_e54b46b388/how-to-set-up-postmta-complete-installation-guide-5a7d)
+- [AI Dental Answering Service: Never Miss a Patient Call Again: A Developer&#39;s Guide](https://dev.to/voicefleet/ai-dental-answering-service-never-miss-a-patient-call-again-a-developers-guide-1ab1)
+- [I turned GitHub into a cinematic developer workspace 👀](https://dev.to/starkbbk/i-turned-github-into-a-cinematic-developer-workspace-481h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
