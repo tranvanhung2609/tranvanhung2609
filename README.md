@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [10 SDLC Permission Design Tips for Stronger Audit Trails](https://dev.to/john_rowe_510e01d96eabbf7/10-sdlc-permission-design-tips-for-stronger-audit-trails-jde)
-- [$87K to $24K: How AI Agent Model Tier Routing Cuts Costs Without Sacrificing Quality](https://dev.to/waxell/87k-to-24k-how-ai-agent-model-tier-routing-cuts-costs-without-sacrificing-quality-4fhj)
-- [The Rise of the Unified SDLC Workspace: Why Software Delivery Is Entering a New Operational Era](https://dev.to/john_rowe_510e01d96eabbf7/the-rise-of-the-unified-sdlc-workspace-why-software-delivery-is-entering-a-new-operational-era-2l89)
-- [Alert Fatigue Is a Design Choice: Building Views That Actually Help](https://dev.to/jon_rose/alert-fatigue-is-a-design-choice-building-views-that-actually-help-3677)
-- [Building a Production Grade AWS Infrastructure Project &lpar;Part 1&rpar;](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-1-5ceb)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d89)
+- [Debian End-of-Life Dates — Debian 12 Reaches EOL June 10, 2026](https://dev.to/endoflifeai/debian-end-of-life-dates-debian-12-reaches-eol-june-10-2026-8bj)
+- [MariaDB End-of-Life Dates — Official EOL Schedule for Every Version](https://dev.to/endoflifeai/mariadb-end-of-life-dates-official-eol-schedule-for-every-version-57an)
+- [RHEL End-of-Life Dates — Official EOL Schedule for Every Version](https://dev.to/endoflifeai/rhel-end-of-life-dates-official-eol-schedule-for-every-version-4lg7)
+- [The Architecture of a Workaround for Notion Template Sellers Trapped by PayPal&#39;s Geographic Restrictions](https://dev.to/nomad-revenue/the-architecture-of-a-workaround-for-notion-template-sellers-trapped-by-paypals-geographic-elg)
+- [[Boost]](https://dev.to/zerkzeyyx/-247p)
+- [🎉 New release of ECD++ 2026.3.10 is out!](https://dev.to/nbauma109/new-release-of-ecd-2026310-is-out-374l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
