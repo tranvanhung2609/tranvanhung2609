@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Absurdity of Platform-Driven Payment Gatekeepers](https://dev.to/nomad-revenue/the-absurdity-of-platform-driven-payment-gatekeepers-2dji)
-- [The Request Is the Wrong Unit of Scale for LLMs on Kubernetes](https://dev.to/the-persistent-engineer/the-request-is-the-wrong-unit-of-scale-for-llms-on-kubernetes-3j9c)
-- [⚖️ Case File 4.1: The Efficiency Extortion](https://dev.to/manojsatna31/case-file-41-the-efficiency-extortion-5c0h)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-b5f)
-- [Digital Product Creators in Siloed Systems Are Setting Themselves Up for Failure](https://dev.to/nomad-revenue/digital-product-creators-in-siloed-systems-are-setting-themselves-up-for-failure-3h2p)
-- [Automated 25 Minutes of My Morning With a Prompt &lpar;Not a Script&rpar;](https://dev.to/pranay_ravi_b88172eac205c/automated-25-minutes-of-my-morning-with-a-prompt-not-a-script-2d4k)
+- [Designing a Decentralized Payment Store for Digital Products in a World Still Trapped by Borders](https://dev.to/nomad-revenue/designing-a-decentralized-payment-store-for-digital-products-in-a-world-still-trapped-by-borders-2b1m)
+- [Residential Lift Price for Duplex Homes and Villas in India](https://dev.to/hexaa49849/residential-lift-price-for-duplex-homes-and-villas-in-india-20md)
+- [Beyond the Wrapper: Architecting Production-Ready Data Pipelines for Healthcare RCM and Predictive AI](https://dev.to/aliciajoseph/beyond-the-wrapper-architecting-production-ready-data-pipelines-for-healthcare-rcm-and-predictive-45d3)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8ln)
+- [10 Best Squarespace to WooCommerce Migration Companies Dev Teams Recommend in 2026](https://dev.to/oliverpitts/10-best-squarespace-to-woocommerce-migration-companies-dev-teams-recommend-in-2026-21o)
+- [The Folly of Geo-Restricted Payment Systems](https://dev.to/nomad-revenue/the-folly-of-geo-restricted-payment-systems-1m8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
