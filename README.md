@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Debian End-of-Life Dates — Debian 12 Reaches EOL June 10, 2026](https://dev.to/endoflifeai/debian-end-of-life-dates-debian-12-reaches-eol-june-10-2026-8bj)
-- [MariaDB End-of-Life Dates — Official EOL Schedule for Every Version](https://dev.to/endoflifeai/mariadb-end-of-life-dates-official-eol-schedule-for-every-version-57an)
-- [RHEL End-of-Life Dates — Official EOL Schedule for Every Version](https://dev.to/endoflifeai/rhel-end-of-life-dates-official-eol-schedule-for-every-version-4lg7)
-- [The Architecture of a Workaround for Notion Template Sellers Trapped by PayPal&#39;s Geographic Restrictions](https://dev.to/nomad-revenue/the-architecture-of-a-workaround-for-notion-template-sellers-trapped-by-paypals-geographic-elg)
-- [[Boost]](https://dev.to/zerkzeyyx/-247p)
-- [🎉 New release of ECD++ 2026.3.10 is out!](https://dev.to/nbauma109/new-release-of-ecd-2026310-is-out-374l)
+- [The Absurdity of Platform-Driven Payment Gatekeepers](https://dev.to/nomad-revenue/the-absurdity-of-platform-driven-payment-gatekeepers-2dji)
+- [The Request Is the Wrong Unit of Scale for LLMs on Kubernetes](https://dev.to/the-persistent-engineer/the-request-is-the-wrong-unit-of-scale-for-llms-on-kubernetes-3j9c)
+- [⚖️ Case File 4.1: The Efficiency Extortion](https://dev.to/manojsatna31/case-file-41-the-efficiency-extortion-5c0h)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-b5f)
+- [Digital Product Creators in Siloed Systems Are Setting Themselves Up for Failure](https://dev.to/nomad-revenue/digital-product-creators-in-siloed-systems-are-setting-themselves-up-for-failure-3h2p)
+- [Automated 25 Minutes of My Morning With a Prompt &lpar;Not a Script&rpar;](https://dev.to/pranay_ravi_b88172eac205c/automated-25-minutes-of-my-morning-with-a-prompt-not-a-script-2d4k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
