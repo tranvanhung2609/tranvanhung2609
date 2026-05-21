@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Decentralized Payment Store for Digital Products in a World Still Trapped by Borders](https://dev.to/nomad-revenue/designing-a-decentralized-payment-store-for-digital-products-in-a-world-still-trapped-by-borders-2b1m)
-- [Residential Lift Price for Duplex Homes and Villas in India](https://dev.to/hexaa49849/residential-lift-price-for-duplex-homes-and-villas-in-india-20md)
-- [Beyond the Wrapper: Architecting Production-Ready Data Pipelines for Healthcare RCM and Predictive AI](https://dev.to/aliciajoseph/beyond-the-wrapper-architecting-production-ready-data-pipelines-for-healthcare-rcm-and-predictive-45d3)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8ln)
-- [10 Best Squarespace to WooCommerce Migration Companies Dev Teams Recommend in 2026](https://dev.to/oliverpitts/10-best-squarespace-to-woocommerce-migration-companies-dev-teams-recommend-in-2026-21o)
-- [The Folly of Geo-Restricted Payment Systems](https://dev.to/nomad-revenue/the-folly-of-geo-restricted-payment-systems-1m8)
+- [I Renamed a Hot Postgres Table Without Dropping a Request](https://dev.to/restofstack/i-renamed-a-hot-postgres-table-without-dropping-a-request-1bal)
+- [How to Build a Self-Hosted AI Gateway With LiteLLM and Open WebUI](https://dev.to/khalifornia/how-to-build-a-self-hosted-ai-gateway-with-litellm-and-open-webui-fn3)
+- [Java Global Stock Realtime Quotes: High Availability Architecture &amp; Exception Handling for Financial Systems](https://dev.to/san_siwu_f08e7c406830469/java-global-stock-realtime-quotes-high-availability-architecture-exception-handling-for-3lb5)
+- [Why Android Platform Refactoring Fails Outside the File Being Changed](https://dev.to/kavita_kavia/why-android-platform-refactoring-fails-outside-the-file-being-changed-i19)
+- [We built a statechart hosting platform where two actors in the same state can migrate to different versions — here&#39;s why that matters](https://dev.to/statekeep_ad41bae1c031c53/we-built-a-statechart-hosting-platform-where-two-actors-in-the-same-state-can-migrate-to-different-18n1)
+- [Solving the PayPal Problem: Why I Stopped Trying to Work Around Restrictions and Built My Own Payment Gateway](https://dev.to/nomad-revenue/solving-the-paypal-problem-why-i-stopped-trying-to-work-around-restrictions-and-built-my-own-1mje)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
