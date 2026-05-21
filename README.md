@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Renamed a Hot Postgres Table Without Dropping a Request](https://dev.to/restofstack/i-renamed-a-hot-postgres-table-without-dropping-a-request-1bal)
-- [How to Build a Self-Hosted AI Gateway With LiteLLM and Open WebUI](https://dev.to/khalifornia/how-to-build-a-self-hosted-ai-gateway-with-litellm-and-open-webui-fn3)
-- [Java Global Stock Realtime Quotes: High Availability Architecture &amp; Exception Handling for Financial Systems](https://dev.to/san_siwu_f08e7c406830469/java-global-stock-realtime-quotes-high-availability-architecture-exception-handling-for-3lb5)
-- [Why Android Platform Refactoring Fails Outside the File Being Changed](https://dev.to/kavita_kavia/why-android-platform-refactoring-fails-outside-the-file-being-changed-i19)
-- [We built a statechart hosting platform where two actors in the same state can migrate to different versions — here&#39;s why that matters](https://dev.to/statekeep_ad41bae1c031c53/we-built-a-statechart-hosting-platform-where-two-actors-in-the-same-state-can-migrate-to-different-18n1)
-- [Solving the PayPal Problem: Why I Stopped Trying to Work Around Restrictions and Built My Own Payment Gateway](https://dev.to/nomad-revenue/solving-the-paypal-problem-why-i-stopped-trying-to-work-around-restrictions-and-built-my-own-1mje)
+- [Platform Restrictions as an Opportunity](https://dev.to/nomad-revenue/platform-restrictions-as-an-opportunity-1ne7)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4lp8)
+- [Engineering for the Rest of Us](https://dev.to/nomad-revenue/engineering-for-the-rest-of-us-568b)
+- [How I Secured Internal Microservice Calls Without Passing JWTs](https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k)
+- [Stop Mixing Them Up: SLI vs SLO vs SLA Explained](https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge)
+- [Azure is Draining Your Budget: 8 Cost Cuts You Can Make This Week](https://dev.to/automatehq/azure-is-draining-your-budget-8-cost-cuts-you-can-make-this-week-g33)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
