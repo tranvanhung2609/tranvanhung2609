@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Treasure Hunt Engine Was Never Meant to be a Treasure to Keep](https://dev.to/nomad-revenue/the-treasure-hunt-engine-was-never-meant-to-be-a-treasure-to-keep-5gdp)
-- [Why Most Hytale Servers&#39; Treasure Hunt Engines Are a Recipe for Disaster](https://dev.to/nomad-revenue/why-most-hytale-servers-treasure-hunt-engines-are-a-recipe-for-disaster-5cp5)
-- [The Dark Secret of Configuration Drift: When the Docs Fail to Save You](https://dev.to/nomad-revenue/the-dark-secret-of-configuration-drift-when-the-docs-fail-to-save-you-2232)
-- [Go Panics, Controlled: Boundaries That Protect Users](https://dev.to/speed_engineer/go-panics-controlled-boundaries-that-protect-users-1pn8)
-- [ChatGPT Won&#39;t Replace Your Pipeline](https://dev.to/todd_linnertz_871a076f68e/chatgpt-wont-replace-your-pipeline-4pm7)
-- [The Problem with Relying on Stripe for Every Single Payment](https://dev.to/nomad-revenue/the-problem-with-relying-on-stripe-for-every-single-payment-3nfk)
+- [Scaling Without Starvation: Lessons from Veltrix&#39;s Catastrophic Growth Spurt](https://dev.to/nomad-revenue/scaling-without-starvation-lessons-from-veltrixs-catastrophic-growth-spurt-1h7h)
+- [Why Your DApp Is Still Showing Wallet Addresses in 2026](https://dev.to/endlessdomains/why-your-dapp-is-still-showing-wallet-addresses-in-2026-3dnp)
+- [Understanding the Kubernetes E…](https://dev.to/norviktech/understanding-the-kubernetes-e-4ng6)
+- [The Unsustainable Pursuit of Horizontal Scalability](https://dev.to/nomad-revenue/the-unsustainable-pursuit-of-horizontal-scalability-46h1)
+- [Why Developers Should Care About Cybersecurity Beyond Authentication](https://dev.to/mittal_technologies/why-developers-should-care-about-cybersecurity-beyond-authentication-2e31)
+- [Building a reusable API client framework in Python](https://dev.to/lucas_gragg_9ca9e7f95852f/building-a-reusable-api-client-framework-in-python-3lhf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
