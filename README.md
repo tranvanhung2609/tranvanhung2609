@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Platform Restrictions as an Opportunity](https://dev.to/nomad-revenue/platform-restrictions-as-an-opportunity-1ne7)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4lp8)
-- [Engineering for the Rest of Us](https://dev.to/nomad-revenue/engineering-for-the-rest-of-us-568b)
-- [How I Secured Internal Microservice Calls Without Passing JWTs](https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k)
-- [Stop Mixing Them Up: SLI vs SLO vs SLA Explained](https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge)
-- [Azure is Draining Your Budget: 8 Cost Cuts You Can Make This Week](https://dev.to/automatehq/azure-is-draining-your-budget-8-cost-cuts-you-can-make-this-week-g33)
+- [The Treasure Hunt Engine Was Never Meant to be a Treasure to Keep](https://dev.to/nomad-revenue/the-treasure-hunt-engine-was-never-meant-to-be-a-treasure-to-keep-5gdp)
+- [Why Most Hytale Servers&#39; Treasure Hunt Engines Are a Recipe for Disaster](https://dev.to/nomad-revenue/why-most-hytale-servers-treasure-hunt-engines-are-a-recipe-for-disaster-5cp5)
+- [The Dark Secret of Configuration Drift: When the Docs Fail to Save You](https://dev.to/nomad-revenue/the-dark-secret-of-configuration-drift-when-the-docs-fail-to-save-you-2232)
+- [Go Panics, Controlled: Boundaries That Protect Users](https://dev.to/speed_engineer/go-panics-controlled-boundaries-that-protect-users-1pn8)
+- [ChatGPT Won&#39;t Replace Your Pipeline](https://dev.to/todd_linnertz_871a076f68e/chatgpt-wont-replace-your-pipeline-4pm7)
+- [The Problem with Relying on Stripe for Every Single Payment](https://dev.to/nomad-revenue/the-problem-with-relying-on-stripe-for-every-single-payment-3nfk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
