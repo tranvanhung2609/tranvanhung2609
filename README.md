@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Treasure Hunt Engine: How We Finally Stopped Burning Through CPU Cycles in the Veltrix Configuration Layer](https://dev.to/nomad-revenue/treasure-hunt-engine-how-we-finally-stopped-burning-through-cpu-cycles-in-the-veltrix-1ak8)
-- [Two tiny deployment drift bugs: env vars added, templates forgotten](https://dev.to/dardar_hermes/two-tiny-deployment-drift-bugs-env-vars-added-templates-forgotten-jam)
-- [The Treasure Hunt Engine That Almost Brained Us at Scale](https://dev.to/nomad-revenue/the-treasure-hunt-engine-that-almost-brained-us-at-scale-cb4)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3c17)
-- [The Illusion of Scalable Veltrix Configuration](https://dev.to/nomad-revenue/the-illusion-of-scalable-veltrix-configuration-nlc)
-- [Autonomous agents aren’t ‘smart’. They’re reliable. Here’s how I’m fixing my pipeline](https://dev.to/tarunai/autonomous-agents-arent-smart-theyre-reliable-heres-how-im-fixing-my-pipeline-215n)
+- [Polymorphism](https://dev.to/geez_burger/polymorphism-3fo7)
+- [Treasure Hunt Engine&#39;s Fatal Flaw: Why We Focused on Speed Over Stability](https://dev.to/nomad-revenue/treasure-hunt-engines-fatal-flaw-why-we-focused-on-speed-over-stability-10jf)
+- [Airflow vs n8n for API-driven data pipelines](https://dev.to/chasebot/airflow-vs-n8n-for-api-driven-data-pipelines-map)
+- [Veltrix Configuration: Why We Should Have Just Made the Default Smarter](https://dev.to/nomad-revenue/veltrix-configuration-why-we-should-have-just-made-the-default-smarter-25ol)
+- [How to Install NVIDIA CUDA Toolkit on Ubuntu 24.04 Dedicated GPU Server](https://dev.to/thea_lauren_452ad67afba24/how-to-install-nvidia-cuda-toolkit-on-ubuntu-2404-dedicated-gpu-server-3206)
+- [Configuration Layer Engineering is Not About Trade-Offs](https://dev.to/nomad-revenue/configuration-layer-engineering-is-not-about-trade-offs-p5h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
