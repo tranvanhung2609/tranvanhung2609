@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Docker Builds Are Slow Because You&#39;re Doing It Wrong &lpar;And I Built a Tool to Prove It&rpar;](https://dev.to/vivek_sharma_cb3c863dec26/your-docker-builds-are-slow-because-youre-doing-it-wrong-and-i-built-a-tool-to-prove-it-5f5c)
-- [The Folly of Treating Search as a One-Size-Fits-All Problem](https://dev.to/nomad-revenue/the-folly-of-treating-search-as-a-one-size-fits-all-problem-8l2)
-- [Code Coverage .NET](https://dev.to/davinceleecode/code-coverage-net-2ai0)
-- [Learning Express.js As If You Built It Yourself](https://dev.to/edriso/learning-expressjs-as-if-you-built-it-yourself-49n4)
-- [Treasure Hunt Engine: How Overlooking a Single Config Option Blew Up Our Whole System](https://dev.to/nomad-revenue/treasure-hunt-engine-how-overlooking-a-single-config-option-blew-up-our-whole-system-1117)
-- [From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP](https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3)
+- [Optimizing For Treasure Hunts That Scale: Don&#39;t Let Your Server Get Lost In The Process](https://dev.to/nomad-revenue/optimizing-for-treasure-hunts-that-scale-dont-let-your-server-get-lost-in-the-process-3fb1)
+- [n8n for HealthTech SaaS: 5 Automations That Scale Clinical Ops and Keep Patient Data Compliant &lpar;Free Workflow JSON&rpar;](https://dev.to/flowkithq/n8n-for-healthtech-saas-5-automations-that-scale-clinical-ops-and-keep-patient-data-compliant-1c5n)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3dm6)
+- [2026年AI编程进入2.0时代：从代码生成器到任务执行者](https://dev.to/wdsega/2026nian-aibian-cheng-jin-ru-20shi-dai-cong-dai-ma-sheng-cheng-qi-dao-ren-wu-zhi-xing-zhe-6j4)
+- [Building EcoQuantum Solution: An AI-Powered Disaster Monitoring MVP 🌍🚀](https://dev.to/halakabir234hub/building-ecoquantum-solution-an-ai-powered-disaster-monitoring-mvp-13p5)
+- [Most Veltrix Events Configurations Are Horrifically Misunderstood](https://dev.to/nomad-revenue/most-veltrix-events-configurations-are-horrifically-misunderstood-5g7j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
