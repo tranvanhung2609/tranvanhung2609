@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Polymorphism](https://dev.to/geez_burger/polymorphism-3fo7)
-- [Treasure Hunt Engine&#39;s Fatal Flaw: Why We Focused on Speed Over Stability](https://dev.to/nomad-revenue/treasure-hunt-engines-fatal-flaw-why-we-focused-on-speed-over-stability-10jf)
-- [Airflow vs n8n for API-driven data pipelines](https://dev.to/chasebot/airflow-vs-n8n-for-api-driven-data-pipelines-map)
-- [Veltrix Configuration: Why We Should Have Just Made the Default Smarter](https://dev.to/nomad-revenue/veltrix-configuration-why-we-should-have-just-made-the-default-smarter-25ol)
-- [How to Install NVIDIA CUDA Toolkit on Ubuntu 24.04 Dedicated GPU Server](https://dev.to/thea_lauren_452ad67afba24/how-to-install-nvidia-cuda-toolkit-on-ubuntu-2404-dedicated-gpu-server-3206)
-- [Configuration Layer Engineering is Not About Trade-Offs](https://dev.to/nomad-revenue/configuration-layer-engineering-is-not-about-trade-offs-p5h)
+- [Your Docker Builds Are Slow Because You&#39;re Doing It Wrong &lpar;And I Built a Tool to Prove It&rpar;](https://dev.to/vivek_sharma_cb3c863dec26/your-docker-builds-are-slow-because-youre-doing-it-wrong-and-i-built-a-tool-to-prove-it-5f5c)
+- [The Folly of Treating Search as a One-Size-Fits-All Problem](https://dev.to/nomad-revenue/the-folly-of-treating-search-as-a-one-size-fits-all-problem-8l2)
+- [Code Coverage .NET](https://dev.to/davinceleecode/code-coverage-net-2ai0)
+- [Learning Express.js As If You Built It Yourself](https://dev.to/edriso/learning-expressjs-as-if-you-built-it-yourself-49n4)
+- [Treasure Hunt Engine: How Overlooking a Single Config Option Blew Up Our Whole System](https://dev.to/nomad-revenue/treasure-hunt-engine-how-overlooking-a-single-config-option-blew-up-our-whole-system-1117)
+- [From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP](https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
