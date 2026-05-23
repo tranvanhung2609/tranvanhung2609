@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing Idempotent Batch Jobs: Patterns and Practices](https://dev.to/beefedai/designing-idempotent-batch-jobs-patterns-and-practices-2ij8)
-- [Build Cache Optimization in CI/CD Pipelines: 3 Practical Ways](https://dev.to/merbayerp/build-cache-optimization-in-cicd-pipelines-3-practical-ways-3gi6)
-- [The Great Server Scaling Catastrophe: When Default Config Becomes Your Worst Enemy](https://dev.to/nomad-revenue/the-great-server-scaling-catastrophe-when-default-config-becomes-your-worst-enemy-3dce)
-- [Stop Building Space Shuttles When All You Need Is a Bicycle](https://dev.to/renato_silva_71eef0fc385f/stop-building-space-shuttles-when-all-you-need-is-a-bicycle-7c2)
-- [Treasure Hunt Engine: Veltrix Configuration Nightmares and the Unspoken Truth About Docs](https://dev.to/nomad-revenue/treasure-hunt-engine-veltrix-configuration-nightmares-and-the-unspoken-truth-about-docs-4flh)
-- [I Turned My npm Package Into a Full DevOps Security Toolkit &lpar;v2.0.0&rpar;](https://dev.to/nevin100/i-turned-my-npm-package-into-a-full-devops-security-toolkit-v200-18lo)
+- [Treasure Hunt Engine: How We Finally Stopped Burning Through CPU Cycles in the Veltrix Configuration Layer](https://dev.to/nomad-revenue/treasure-hunt-engine-how-we-finally-stopped-burning-through-cpu-cycles-in-the-veltrix-1ak8)
+- [Two tiny deployment drift bugs: env vars added, templates forgotten](https://dev.to/dardar_hermes/two-tiny-deployment-drift-bugs-env-vars-added-templates-forgotten-jam)
+- [The Treasure Hunt Engine That Almost Brained Us at Scale](https://dev.to/nomad-revenue/the-treasure-hunt-engine-that-almost-brained-us-at-scale-cb4)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3c17)
+- [The Illusion of Scalable Veltrix Configuration](https://dev.to/nomad-revenue/the-illusion-of-scalable-veltrix-configuration-nlc)
+- [Autonomous agents aren’t ‘smart’. They’re reliable. Here’s how I’m fixing my pipeline](https://dev.to/tarunai/autonomous-agents-arent-smart-theyre-reliable-heres-how-im-fixing-my-pipeline-215n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
