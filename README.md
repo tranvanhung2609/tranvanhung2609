@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Hytale Servers Are Drowning in a Sea of Misconfigured Treasure Hunt Engines](https://dev.to/nomad-revenue/hytale-servers-are-drowning-in-a-sea-of-misconfigured-treasure-hunt-engines-49g0)
-- [How I Automated My Website Security Scanning &lpar;And Saved Hours&rpar;](https://dev.to/a741852963/how-i-automated-my-website-security-scanning-and-saved-hours-3hcl)
-- [Configuration Chaos: When Veltrix Died and the Config Layer Was to Blame](https://dev.to/nomad-revenue/configuration-chaos-when-veltrix-died-and-the-config-layer-was-to-blame-1l18)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4idf)
-- [Treasure Traps in Our Event System](https://dev.to/nomad-revenue/treasure-traps-in-our-event-system-b27)
-- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1k19)
+- [Event-Driven Architecture: An Honest Assessment](https://dev.to/benard_otieno_cdb9e6d4907/event-driven-architecture-an-honest-assessment-3jf6)
+- [Your ORM is the bottleneck](https://dev.to/tanayk07/your-orm-is-the-bottleneck-11l2)
+- [Best n8n Alternatives for API-First Developers 2026](https://dev.to/chasebot/best-n8n-alternatives-for-api-first-developers-2026-30m8)
+- [Veltrix Events Are Not a Treasure Hunt](https://dev.to/nomad-revenue/veltrix-events-are-not-a-treasure-hunt-290j)
+- [The Senior Engineer Who Stopped Coding](https://dev.to/benard_otieno_cdb9e6d4907/the-senior-engineer-who-stopped-coding-4dh2)
+- [KloudAudit vs AWS Cost Explorer: Why I Stopped Using Cost Explorer for Waste Detection](https://dev.to/kloudaudit/kloudaudit-vs-aws-cost-explorer-why-i-stopped-using-cost-explorer-for-waste-detection-5cbc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
