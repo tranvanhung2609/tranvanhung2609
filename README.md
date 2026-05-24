@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-38me)
-- [Learning NestJS As If You Built It Yourself](https://dev.to/edriso/learning-nestjs-as-if-you-built-it-yourself-li7)
-- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-fad)
-- [Veltrix Operators Deserve Better: How I Stopped Waking Up to 3am Errors](https://dev.to/nomad-revenue/veltrix-operators-deserve-better-how-i-stopped-waking-up-to-3am-errors-2a6f)
-- [Mastering Spring Batch Remote Chunking and Partitioning](https://dev.to/rajesh1761/mastering-spring-batch-remote-chunking-and-partitioning-17ka)
-- [The Dashboard Said the Migration Succeeded](https://dev.to/ntctech/the-dashboard-said-the-migration-succeeded-1896)
+- [5 LLM cost-leak patterns I found in anthropic-cookbook &lpar;real $79 X-Ray analyzer output&rpar;](https://dev.to/milo_antaeus_784320e2f2f9/5-llm-cost-leak-patterns-i-found-in-anthropic-cookbook-real-79-x-ray-analyzer-output-5d6j)
+- [The Problem with Treating Events Like a Demo Feature](https://dev.to/nomad-revenue/the-problem-with-treating-events-like-a-demo-feature-1eob)
+- [Unscalable by Default: The Tragic Tale of a Treasure Hunt Engine](https://dev.to/nomad-revenue/unscalable-by-default-the-tragic-tale-of-a-treasure-hunt-engine-3po7)
+- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n)
+- [Implementing AI-Powered Log Anomaly Detection](https://dev.to/ayinedjimi-consultants/implementing-ai-powered-log-anomaly-detection-ogp)
+- [Building a Multi-Region Health-Check Aggregator for Our Video CDN Fleet](https://dev.to/ahmet_gedik778845/building-a-multi-region-health-check-aggregator-for-our-video-cdn-fleet-4okd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
