@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture: An Honest Assessment](https://dev.to/benard_otieno_cdb9e6d4907/event-driven-architecture-an-honest-assessment-3jf6)
-- [Your ORM is the bottleneck](https://dev.to/tanayk07/your-orm-is-the-bottleneck-11l2)
-- [Best n8n Alternatives for API-First Developers 2026](https://dev.to/chasebot/best-n8n-alternatives-for-api-first-developers-2026-30m8)
-- [Veltrix Events Are Not a Treasure Hunt](https://dev.to/nomad-revenue/veltrix-events-are-not-a-treasure-hunt-290j)
-- [The Senior Engineer Who Stopped Coding](https://dev.to/benard_otieno_cdb9e6d4907/the-senior-engineer-who-stopped-coding-4dh2)
-- [KloudAudit vs AWS Cost Explorer: Why I Stopped Using Cost Explorer for Waste Detection](https://dev.to/kloudaudit/kloudaudit-vs-aws-cost-explorer-why-i-stopped-using-cost-explorer-for-waste-detection-5cbc)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-38me)
+- [Learning NestJS As If You Built It Yourself](https://dev.to/edriso/learning-nestjs-as-if-you-built-it-yourself-li7)
+- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-fad)
+- [Veltrix Operators Deserve Better: How I Stopped Waking Up to 3am Errors](https://dev.to/nomad-revenue/veltrix-operators-deserve-better-how-i-stopped-waking-up-to-3am-errors-2a6f)
+- [Mastering Spring Batch Remote Chunking and Partitioning](https://dev.to/rajesh1761/mastering-spring-batch-remote-chunking-and-partitioning-17ka)
+- [The Dashboard Said the Migration Succeeded](https://dev.to/ntctech/the-dashboard-said-the-migration-succeeded-1896)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
