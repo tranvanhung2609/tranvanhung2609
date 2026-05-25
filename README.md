@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3fg8)
-- [☁️ Importing existing S3 buckets into Terraform state made easy with terraform import existing s3 bucket](https://dev.to/ptp2308/importing-existing-s3-buckets-into-terraform-state-made-easy-with-terraform-import-existing-s3-4m6b)
-- [I stopped building daily AI digests when I realized they were just prettier spam](https://dev.to/lars_winstand/i-stopped-building-daily-ai-digests-when-i-realized-they-were-just-prettier-spam-106i)
-- [Deployment using all three Kubernetes probes](https://dev.to/diya_r/deployment-using-all-three-kubernetes-probes-2819)
-- [The Veltrix Treasure Hunt Engine Fiasco: How Default Configs Will Destroy Your Sanity](https://dev.to/nomad-revenue/the-veltrix-treasure-hunt-engine-fiasco-how-default-configs-will-destroy-your-sanity-ai)
-- [I Watched Money Move Twice From the Same Request. That&#39;s When I Understood Idempotency.](https://dev.to/ravigupta97/i-watched-money-move-twice-from-the-same-request-thats-when-i-understood-idempotency-1ca4)
+- [Java Full Stack Training in Whitefield-](https://dev.to/shilpa_gudlanur_bdf82ec32/java-full-stack-training-in-whitefield--2bjc)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-5ghc)
+- [How Hudson Became Jenkins - The CI/CD Fork That Changed DevOps](https://dev.to/bytebyvipul/how-hudson-became-jenkins-the-cicd-fork-that-changed-devops-cil)
+- [AIOps Foundation Certification: The Smart Way to Stay Ahead in Modern IT Operations](https://dev.to/zainab_1201/aiops-foundation-certification-the-smart-way-to-stay-ahead-in-modern-it-operations-26ag)
+- [How Crypto Exchanges Scale with New Features After Launch](https://dev.to/alan_james_35e491d20632c8/how-crypto-exchanges-scale-with-new-features-after-launch-2e75)
+- [AIOps Foundation Certification: A Smart Career Investment for Busy Tech Professionals](https://dev.to/zainab_1201/aiops-foundation-certification-a-smart-career-investment-for-busy-tech-professionals-4mh0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
