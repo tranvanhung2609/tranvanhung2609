@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java Full Stack Training in Whitefield-](https://dev.to/shilpa_gudlanur_bdf82ec32/java-full-stack-training-in-whitefield--2bjc)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-5ghc)
-- [How Hudson Became Jenkins - The CI/CD Fork That Changed DevOps](https://dev.to/bytebyvipul/how-hudson-became-jenkins-the-cicd-fork-that-changed-devops-cil)
-- [AIOps Foundation Certification: The Smart Way to Stay Ahead in Modern IT Operations](https://dev.to/zainab_1201/aiops-foundation-certification-the-smart-way-to-stay-ahead-in-modern-it-operations-26ag)
-- [How Crypto Exchanges Scale with New Features After Launch](https://dev.to/alan_james_35e491d20632c8/how-crypto-exchanges-scale-with-new-features-after-launch-2e75)
-- [AIOps Foundation Certification: A Smart Career Investment for Busy Tech Professionals](https://dev.to/zainab_1201/aiops-foundation-certification-a-smart-career-investment-for-busy-tech-professionals-4mh0)
+- [Complete Guide to Buying Old Facebook Accounts with ...](https://dev.to/paulettefreemanwdsyo/complete-guide-to-buying-old-facebook-accounts-with--5fm8)
+- [7 Best Sites to Buy Old Telegram Accounts &lpar;Pva &amp;amp; Aged&rpar;](https://dev.to/paulettefreemanwdsyo/7-best-sites-to-buy-old-telegram-accounts-pva-amp-aged-4634)
+- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3)
+- [Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base](https://dev.to/jtorchia/prisma-query-logging-y-postgresql-donde-termina-el-orm-y-empieza-la-base-6io)
+- [From Browser to Server : The Journey of an HTTP Request &lpar;Demystifying the Web’s Infrastructure&rpar;](https://dev.to/immanuel_nonzo/from-browser-to-server-the-journey-of-an-http-request-demystifying-the-webs-infrastructure-599i)
+- [Web Developer Travis McCracken on Why I Still Like REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-still-like-rest-1607)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
