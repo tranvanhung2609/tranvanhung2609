@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [5 LLM cost-leak patterns I found in anthropic-cookbook &lpar;real $79 X-Ray analyzer output&rpar;](https://dev.to/milo_antaeus_784320e2f2f9/5-llm-cost-leak-patterns-i-found-in-anthropic-cookbook-real-79-x-ray-analyzer-output-5d6j)
-- [The Problem with Treating Events Like a Demo Feature](https://dev.to/nomad-revenue/the-problem-with-treating-events-like-a-demo-feature-1eob)
-- [Unscalable by Default: The Tragic Tale of a Treasure Hunt Engine](https://dev.to/nomad-revenue/unscalable-by-default-the-tragic-tale-of-a-treasure-hunt-engine-3po7)
-- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n)
-- [Implementing AI-Powered Log Anomaly Detection](https://dev.to/ayinedjimi-consultants/implementing-ai-powered-log-anomaly-detection-ogp)
-- [Building a Multi-Region Health-Check Aggregator for Our Video CDN Fleet](https://dev.to/ahmet_gedik778845/building-a-multi-region-health-check-aggregator-for-our-video-cdn-fleet-4okd)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3fg8)
+- [☁️ Importing existing S3 buckets into Terraform state made easy with terraform import existing s3 bucket](https://dev.to/ptp2308/importing-existing-s3-buckets-into-terraform-state-made-easy-with-terraform-import-existing-s3-4m6b)
+- [I stopped building daily AI digests when I realized they were just prettier spam](https://dev.to/lars_winstand/i-stopped-building-daily-ai-digests-when-i-realized-they-were-just-prettier-spam-106i)
+- [Deployment using all three Kubernetes probes](https://dev.to/diya_r/deployment-using-all-three-kubernetes-probes-2819)
+- [The Veltrix Treasure Hunt Engine Fiasco: How Default Configs Will Destroy Your Sanity](https://dev.to/nomad-revenue/the-veltrix-treasure-hunt-engine-fiasco-how-default-configs-will-destroy-your-sanity-ai)
+- [I Watched Money Move Twice From the Same Request. That&#39;s When I Understood Idempotency.](https://dev.to/ravigupta97/i-watched-money-move-twice-from-the-same-request-thats-when-i-understood-idempotency-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
