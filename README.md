@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Buying Old Facebook Accounts with ...](https://dev.to/paulettefreemanwdsyo/complete-guide-to-buying-old-facebook-accounts-with--5fm8)
-- [7 Best Sites to Buy Old Telegram Accounts &lpar;Pva &amp;amp; Aged&rpar;](https://dev.to/paulettefreemanwdsyo/7-best-sites-to-buy-old-telegram-accounts-pva-amp-aged-4634)
-- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3)
-- [Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base](https://dev.to/jtorchia/prisma-query-logging-y-postgresql-donde-termina-el-orm-y-empieza-la-base-6io)
-- [From Browser to Server : The Journey of an HTTP Request &lpar;Demystifying the Web’s Infrastructure&rpar;](https://dev.to/immanuel_nonzo/from-browser-to-server-the-journey-of-an-http-request-demystifying-the-webs-infrastructure-599i)
-- [Web Developer Travis McCracken on Why I Still Like REST](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-still-like-rest-1607)
+- [Somewhere a Production Server Is Still Running Log4j 2.14](https://dev.to/abhishek_shrivastav_8ff5d/somewhere-a-production-server-is-still-running-log4j-214-3bk4)
+- [Somewhere a Production Server Is Still Running Log4j 2.14](https://dev.to/abhishek_shrivastav_8ff5d/somewhere-a-production-server-is-still-running-log4j-214-3bk4)
+- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
+- [Advanced Driver Signature Validation for Windows Environments](https://dev.to/mentalistops/advanced-driver-signature-validation-for-windows-environments-3jhp)
+- [AI SRE: The Next Evolution of DevOps](https://dev.to/kubegraf/ai-sre-the-next-evolution-of-devops-4ofh)
+- [Benchmarking LLM Structured Outputs](https://dev.to/david_moores_cbc0233b7447/benchmarking-llm-structured-outputs-1ijc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
