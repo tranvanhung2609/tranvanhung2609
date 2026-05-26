@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Somewhere a Production Server Is Still Running Log4j 2.14](https://dev.to/abhishek_shrivastav_8ff5d/somewhere-a-production-server-is-still-running-log4j-214-3bk4)
-- [Somewhere a Production Server Is Still Running Log4j 2.14](https://dev.to/abhishek_shrivastav_8ff5d/somewhere-a-production-server-is-still-running-log4j-214-3bk4)
-- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
-- [Advanced Driver Signature Validation for Windows Environments](https://dev.to/mentalistops/advanced-driver-signature-validation-for-windows-environments-3jhp)
-- [AI SRE: The Next Evolution of DevOps](https://dev.to/kubegraf/ai-sre-the-next-evolution-of-devops-4ofh)
-- [Benchmarking LLM Structured Outputs](https://dev.to/david_moores_cbc0233b7447/benchmarking-llm-structured-outputs-1ijc)
+- [I read the r/openclaw Mac thread so you don’t waste $4k on the wrong LLM box](https://dev.to/lars_winstand/i-read-the-ropenclaw-mac-thread-so-you-dont-waste-4k-on-the-wrong-llm-box-2j1b)
+- [Why your VPS might be part of a botnet — and how to find out](https://dev.to/alanwest/why-your-vps-might-be-part-of-a-botnet-and-how-to-find-out-7l)
+- [AI Driven Market Structure Analysis at Everhayes Academy &lpar;Everhayes Omnis Academy&rpar;](https://dev.to/everhayesomnis/ai-driven-market-structure-analysis-at-everhayes-academy-everhayes-omnis-academy-1pp1)
+- [First look at AWS DevOps Agent](https://dev.to/shajam/first-look-at-aws-devops-agent-57k9)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3h9l)
+- [Working with Excel Files in Java: A Practical Guide](https://dev.to/yahey/working-with-excel-files-in-java-a-practical-guide-3ll8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
