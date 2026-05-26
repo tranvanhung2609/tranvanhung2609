@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Unbound Validating DNS Resolver on Ubuntu 24.04](https://dev.to/vultr/deploying-unbound-validating-dns-resolver-on-ubuntu-2404-4pn6)
-- [Deploying Prometheus Metrics Collection Server on Ubuntu 24.04](https://dev.to/vultr/deploying-prometheus-metrics-collection-server-on-ubuntu-2404-47di)
-- [Deploying Grafana Metrics Visualization Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-grafana-metrics-visualization-platform-on-ubuntu-2404-553j)
-- [Deploying Gogs Simple Git Hosting on Ubuntu 24.04](https://dev.to/vultr/deploying-gogs-simple-git-hosting-on-ubuntu-2404-2abm)
-- [Deploying MongoDB NoSQL Document Database on Ubuntu 24.04](https://dev.to/vultr/deploying-mongodb-nosql-document-database-on-ubuntu-2404-15c3)
-- [Deploying Passbolt Team Password Manager on Ubuntu 24.04](https://dev.to/vultr/deploying-passbolt-team-password-manager-on-ubuntu-2404-3564)
+- [I kept tracking AI agent pricing by model and missed the Slack channel that was burning the budget](https://dev.to/lars_winstand/i-kept-tracking-ai-agent-pricing-by-model-and-missed-the-slack-channel-that-was-burning-the-budget-1m4l)
+- [What Express.js Is Hiding From You: I Built a Raw Node.js Server From Scratch](https://dev.to/chinwuba_jeffrey/what-expressjs-is-hiding-from-you-i-built-a-raw-nodejs-server-from-scratch-p44)
+- [LLM Security Vulnerabilities Engineers Need to Know in 2026](https://dev.to/opsbuzzdev/llm-security-vulnerabilities-engineers-need-to-know-in-2026-4cd8)
+- [I Built a REST Microservice With a Database in 3 Files — and Wrote Zero Code](https://dev.to/mdenda/i-built-a-rest-microservice-with-a-database-in-3-files-and-wrote-zero-code-59c2)
+- [GitHub Actions vs Jenkins vs GitLab CI: A Developer&#39;s Honest Comparison &lpar;2026&rpar;](https://dev.to/akoode_tech/github-actions-vs-jenkins-vs-gitlab-ci-a-developers-honest-comparison-2026-481k)
+- [Mastering Context in Go: A Senior Engineer’s Playbook for Lifecycle Management](https://dev.to/amirsefati/mastering-context-in-go-a-senior-engineers-playbook-for-lifecycle-management-147c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
