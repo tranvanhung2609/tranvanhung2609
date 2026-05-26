@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I read the r/openclaw Mac thread so you don’t waste $4k on the wrong LLM box](https://dev.to/lars_winstand/i-read-the-ropenclaw-mac-thread-so-you-dont-waste-4k-on-the-wrong-llm-box-2j1b)
-- [Why your VPS might be part of a botnet — and how to find out](https://dev.to/alanwest/why-your-vps-might-be-part-of-a-botnet-and-how-to-find-out-7l)
-- [AI Driven Market Structure Analysis at Everhayes Academy &lpar;Everhayes Omnis Academy&rpar;](https://dev.to/everhayesomnis/ai-driven-market-structure-analysis-at-everhayes-academy-everhayes-omnis-academy-1pp1)
-- [First look at AWS DevOps Agent](https://dev.to/shajam/first-look-at-aws-devops-agent-57k9)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3h9l)
-- [Working with Excel Files in Java: A Practical Guide](https://dev.to/yahey/working-with-excel-files-in-java-a-practical-guide-3ll8)
+- [Most Companies Choose Data Centers Based on the Wrong Metrics](https://dev.to/silvernox_datacenter/most-companies-choose-data-centers-based-on-the-wrong-metrics-1fp5)
+- [How to Stop Azure from Eating Your Coffee Budget: A Guide to Anomaly Detection](https://dev.to/sourabhkapoor/how-to-stop-azure-from-eating-your-coffee-budget-a-guide-to-anomaly-detection-1f6g)
+- [Deploying Spring PetClinic Microservices on AWS EKS with Terraform: Lessons from an Infrastructure Engineer](https://dev.to/chioma_nwosu_99d57862fb18/deploying-spring-petclinic-microservices-on-aws-eks-with-terraform-lessons-from-an-infrastructure-3fo4)
+- [Beginner steps into CI/CD](https://dev.to/fcharles/beginner-steps-into-cicd-55df)
+- [TRUNKSMP NEWS](https://dev.to/trunksmpsupport/trunksmp-news-37f1)
+- [Seamless Deployment: Blue/Green vs Canary Trade-off Analysis](https://dev.to/merbayerp/seamless-deployment-bluegreen-vs-canary-trade-off-analysis-dll)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
