@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Most Companies Choose Data Centers Based on the Wrong Metrics](https://dev.to/silvernox_datacenter/most-companies-choose-data-centers-based-on-the-wrong-metrics-1fp5)
-- [How to Stop Azure from Eating Your Coffee Budget: A Guide to Anomaly Detection](https://dev.to/sourabhkapoor/how-to-stop-azure-from-eating-your-coffee-budget-a-guide-to-anomaly-detection-1f6g)
-- [Deploying Spring PetClinic Microservices on AWS EKS with Terraform: Lessons from an Infrastructure Engineer](https://dev.to/chioma_nwosu_99d57862fb18/deploying-spring-petclinic-microservices-on-aws-eks-with-terraform-lessons-from-an-infrastructure-3fo4)
-- [Beginner steps into CI/CD](https://dev.to/fcharles/beginner-steps-into-cicd-55df)
-- [TRUNKSMP NEWS](https://dev.to/trunksmpsupport/trunksmp-news-37f1)
-- [Seamless Deployment: Blue/Green vs Canary Trade-off Analysis](https://dev.to/merbayerp/seamless-deployment-bluegreen-vs-canary-trade-off-analysis-dll)
+- [Deploying Unbound Validating DNS Resolver on Ubuntu 24.04](https://dev.to/vultr/deploying-unbound-validating-dns-resolver-on-ubuntu-2404-4pn6)
+- [Deploying Prometheus Metrics Collection Server on Ubuntu 24.04](https://dev.to/vultr/deploying-prometheus-metrics-collection-server-on-ubuntu-2404-47di)
+- [Deploying Grafana Metrics Visualization Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-grafana-metrics-visualization-platform-on-ubuntu-2404-553j)
+- [Deploying Gogs Simple Git Hosting on Ubuntu 24.04](https://dev.to/vultr/deploying-gogs-simple-git-hosting-on-ubuntu-2404-2abm)
+- [Deploying MongoDB NoSQL Document Database on Ubuntu 24.04](https://dev.to/vultr/deploying-mongodb-nosql-document-database-on-ubuntu-2404-15c3)
+- [Deploying Passbolt Team Password Manager on Ubuntu 24.04](https://dev.to/vultr/deploying-passbolt-team-password-manager-on-ubuntu-2404-3564)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
