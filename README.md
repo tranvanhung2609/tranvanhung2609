@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I kept tracking AI agent pricing by model and missed the Slack channel that was burning the budget](https://dev.to/lars_winstand/i-kept-tracking-ai-agent-pricing-by-model-and-missed-the-slack-channel-that-was-burning-the-budget-1m4l)
-- [What Express.js Is Hiding From You: I Built a Raw Node.js Server From Scratch](https://dev.to/chinwuba_jeffrey/what-expressjs-is-hiding-from-you-i-built-a-raw-nodejs-server-from-scratch-p44)
-- [LLM Security Vulnerabilities Engineers Need to Know in 2026](https://dev.to/opsbuzzdev/llm-security-vulnerabilities-engineers-need-to-know-in-2026-4cd8)
-- [I Built a REST Microservice With a Database in 3 Files — and Wrote Zero Code](https://dev.to/mdenda/i-built-a-rest-microservice-with-a-database-in-3-files-and-wrote-zero-code-59c2)
-- [GitHub Actions vs Jenkins vs GitLab CI: A Developer&#39;s Honest Comparison &lpar;2026&rpar;](https://dev.to/akoode_tech/github-actions-vs-jenkins-vs-gitlab-ci-a-developers-honest-comparison-2026-481k)
-- [Mastering Context in Go: A Senior Engineer’s Playbook for Lifecycle Management](https://dev.to/amirsefati/mastering-context-in-go-a-senior-engineers-playbook-for-lifecycle-management-147c)
+- [Codex vs Claude stopped being the wrong question once I split my coding agent into a worker and an advisor](https://dev.to/lars_winstand/codex-vs-claude-stopped-being-the-wrong-question-once-i-split-my-coding-agent-into-a-worker-and-an-35bg)
+- [Memenetwork Prosperity Circle the path of financial innovation](https://dev.to/memenetworkofficial/memenetwork-prosperity-circle-the-path-of-financial-innovation-1317)
+- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 &lpar;Backend &amp; Frontend Developers&rpar;](https://dev.to/kiransm/backend-frontend-developers-50f7)
+- [I Migrated Redis to KeyDB — Same Protocol, 5x Throughput, $0 Rewrite](https://dev.to/speed_engineer/i-migrated-redis-to-keydb-same-protocol-5x-throughput-0-rewrite-2174)
+- [Your Repo Context Is an Attack Surface Now](https://dev.to/hefty_69a4c2d631c9dd70724/your-repo-context-is-an-attack-surface-now-4e3m)
+- [That 0.8 second P99 Latency Cliff in Production Wasnt Supposed to Happen](https://dev.to/nomad-revenue/that-08-second-p99-latency-cliff-in-production-wasnt-supposed-to-happen-2aan)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
