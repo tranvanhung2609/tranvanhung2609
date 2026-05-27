@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java Architectures](https://dev.to/geampiere/java-architectures-419n)
-- [Wednesday Links - Edition 2026-05-25](https://dev.to/0xkkocel/wednesday-links-edition-2026-05-25-58ok)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3166)
-- [Deploying Django on Netlify? Here Is What Actually Happens](https://dev.to/kuberns_cloud/deploying-django-on-netlify-here-is-what-actually-happens-2ie0)
-- [Build a Self-Healing App on AWS: A Beginner&#39;s Guide](https://dev.to/esthernnolum/build-a-self-healing-app-on-aws-a-beginners-guide-1cle)
-- [Fashion / Trend Report](https://dev.to/yu_yang_f26414a1d7a176c97/fashion-trend-report-49ei)
+- [Your &quot;Autonomous Agent&quot; Is Just a Cron Job With Better Marketing](https://dev.to/tarunai/your-autonomous-agent-is-just-a-cron-job-with-better-marketing-3kii)
+- [Kafka sem duplicação – 2 padrões pra você dormir em paz](https://dev.to/fabiothomazrocha/kafka-sem-duplicacao-2-padroes-pra-voce-dormir-em-paz-h2o)
+- [Introduction to Java](https://dev.to/bala_murugan_/introduction-to-java-37mn)
+- [Introduction to Java](https://dev.to/bala_murugan_/introduction-to-java-37mn)
+- [The 5 Best Free Status Pages for SaaS in 2026](https://dev.to/r0tten0x/the-5-best-free-status-pages-for-saas-in-2026-1ok3)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-461l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
