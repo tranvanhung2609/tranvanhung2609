@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Hair Fixing in Jaipur — Instant Results, Zero Surgery, 100% Natural&quot;](https://dev.to/empirehair/hair-fixing-in-jaipur-instant-results-zero-surgery-100-natural-4l2i)
-- [GitHub has had 257 incidents in 12 months. Here&#39;s what that means for your CI pipelines](https://dev.to/acolytex1ken_/github-has-had-257-incidents-in-12-months-heres-what-that-means-for-your-ci-pipelines-2b2n)
-- [Certified AIOps Professional: A Practical Guide to Intelligent IT Operations](https://dev.to/zainab_1201/certified-aiops-professional-a-practical-guide-to-intelligent-it-operations-1pcm)
-- [Cut Downtime to Zero: Database Migration on AWS](https://dev.to/teleglobalintermational/cut-downtime-to-zero-database-migration-on-aws-gd6)
-- [Best Java Web Scraping Libraries](https://dev.to/sharonbull_ca141b00035fd6/best-java-web-scraping-libraries-4h5l)
-- [The Day We Hardcoded 42 in the Treasure Hunt Engine](https://dev.to/nomad-revenue/the-day-we-hardcoded-42-in-the-treasure-hunt-engine-4ldj)
+- [Java Architectures](https://dev.to/geampiere/java-architectures-419n)
+- [Wednesday Links - Edition 2026-05-25](https://dev.to/0xkkocel/wednesday-links-edition-2026-05-25-58ok)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3166)
+- [Deploying Django on Netlify? Here Is What Actually Happens](https://dev.to/kuberns_cloud/deploying-django-on-netlify-here-is-what-actually-happens-2ie0)
+- [Build a Self-Healing App on AWS: A Beginner&#39;s Guide](https://dev.to/esthernnolum/build-a-self-healing-app-on-aws-a-beginners-guide-1cle)
+- [Fashion / Trend Report](https://dev.to/yu_yang_f26414a1d7a176c97/fashion-trend-report-49ei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
