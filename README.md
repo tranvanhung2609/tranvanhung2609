@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Codex vs Claude stopped being the wrong question once I split my coding agent into a worker and an advisor](https://dev.to/lars_winstand/codex-vs-claude-stopped-being-the-wrong-question-once-i-split-my-coding-agent-into-a-worker-and-an-35bg)
-- [Memenetwork Prosperity Circle the path of financial innovation](https://dev.to/memenetworkofficial/memenetwork-prosperity-circle-the-path-of-financial-innovation-1317)
-- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 &lpar;Backend &amp; Frontend Developers&rpar;](https://dev.to/kiransm/backend-frontend-developers-50f7)
-- [I Migrated Redis to KeyDB — Same Protocol, 5x Throughput, $0 Rewrite](https://dev.to/speed_engineer/i-migrated-redis-to-keydb-same-protocol-5x-throughput-0-rewrite-2174)
-- [Your Repo Context Is an Attack Surface Now](https://dev.to/hefty_69a4c2d631c9dd70724/your-repo-context-is-an-attack-surface-now-4e3m)
-- [That 0.8 second P99 Latency Cliff in Production Wasnt Supposed to Happen](https://dev.to/nomad-revenue/that-08-second-p99-latency-cliff-in-production-wasnt-supposed-to-happen-2aan)
+- [&quot;Hair Fixing in Jaipur — Instant Results, Zero Surgery, 100% Natural&quot;](https://dev.to/empirehair/hair-fixing-in-jaipur-instant-results-zero-surgery-100-natural-4l2i)
+- [GitHub has had 257 incidents in 12 months. Here&#39;s what that means for your CI pipelines](https://dev.to/acolytex1ken_/github-has-had-257-incidents-in-12-months-heres-what-that-means-for-your-ci-pipelines-2b2n)
+- [Certified AIOps Professional: A Practical Guide to Intelligent IT Operations](https://dev.to/zainab_1201/certified-aiops-professional-a-practical-guide-to-intelligent-it-operations-1pcm)
+- [Cut Downtime to Zero: Database Migration on AWS](https://dev.to/teleglobalintermational/cut-downtime-to-zero-database-migration-on-aws-gd6)
+- [Best Java Web Scraping Libraries](https://dev.to/sharonbull_ca141b00035fd6/best-java-web-scraping-libraries-4h5l)
+- [The Day We Hardcoded 42 in the Treasure Hunt Engine](https://dev.to/nomad-revenue/the-day-we-hardcoded-42-in-the-treasure-hunt-engine-4ldj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
