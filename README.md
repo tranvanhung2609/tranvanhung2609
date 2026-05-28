@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your EC2 Schedule Is a Lie &lpar;And What Activity-Driven Pause Actually Means&rpar;](https://dev.to/erez_28ed61dea45/why-your-ec2-schedule-is-a-lie-and-what-activity-driven-pause-actually-means-1ma7)
-- [Building a Runtime Continuity Layer for AI Coding Agents](https://dev.to/evanlin2026/building-a-runtime-continuity-layer-for-ai-coding-agents-5elo)
-- [How to Implement Modular AI Architecture: A Step-by-Step MLOps Guide](https://dev.to/jasperstewart/how-to-implement-modular-ai-architecture-a-step-by-step-mlops-guide-705)
-- [Go Modules in Practice: Init, Tidy, Vendor, and Publishing Packages](https://dev.to/amirsefati/go-modules-in-practice-init-tidy-vendor-and-publishing-packages-58lc)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-pdj)
-- [The Deployment That Breaks Things Is Never the One Anyone Was Watching](https://dev.to/sophielane/the-deployment-that-breaks-things-is-never-the-one-anyone-was-watching-4f30)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2f6b)
+- [Web Developer Travis McCracken on Build Pipelines That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-build-pipelines-that-dont-suck-24bk)
+- [Free Security Audit API: Scan Your Code in 30 Seconds](https://dev.to/amoussa-eduhub/free-security-audit-api-scan-your-code-in-30-seconds-4o4)
+- [Building a Strong DevOps Portf…](https://dev.to/norviktech/building-a-strong-devops-portf-2i02)
+- [Design Patterns in Java:](https://dev.to/geampiere/design-patterns-in-java-19ki)
+- [Design Patterns in Java:](https://dev.to/geampiere/design-patterns-in-java-19ki)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
