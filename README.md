@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How the EOSAI Token Supports the Global Expansion of Everhayes Omnis Academy](https://dev.to/eosaitoken/how-the-eosai-token-supports-the-global-expansion-of-everhayes-omnis-academy-1fci)
-- [Azure Container Apps Express: The Agent-First Platform You&#39;ve Been Waiting For](https://dev.to/bspann/azure-container-apps-express-the-agent-first-platform-youve-been-waiting-for-2opf)
-- [NVIDIA CUTLASS: High-Performance CUDA Templates for AI Linear Algebra](https://dev.to/pickuma/nvidia-cutlass-high-performance-cuda-templates-for-ai-linear-algebra-52ec)
-- [How Do You Fit a Trillion-Parameter Model Into a Kubernetes Cluster?](https://dev.to/the-persistent-engineer/how-do-you-fit-a-trillion-parameter-model-into-a-kubernetes-cluster-2124)
-- [GPT-5.5 Instant vs GPT-5.3: Which of OpenAI&#39;s Three Claims Hold Up](https://dev.to/pickuma/gpt-55-instant-vs-gpt-53-which-of-openais-three-claims-hold-up-1lak)
-- [JaisCloud — A Free, Single-Binary AWS Emulator in Go](https://dev.to/jaisraj/jaiscloud-a-free-single-binary-aws-emulator-in-go-1m40)
+- [Why Your EC2 Schedule Is a Lie &lpar;And What Activity-Driven Pause Actually Means&rpar;](https://dev.to/erez_28ed61dea45/why-your-ec2-schedule-is-a-lie-and-what-activity-driven-pause-actually-means-1ma7)
+- [Building a Runtime Continuity Layer for AI Coding Agents](https://dev.to/evanlin2026/building-a-runtime-continuity-layer-for-ai-coding-agents-5elo)
+- [How to Implement Modular AI Architecture: A Step-by-Step MLOps Guide](https://dev.to/jasperstewart/how-to-implement-modular-ai-architecture-a-step-by-step-mlops-guide-705)
+- [Go Modules in Practice: Init, Tidy, Vendor, and Publishing Packages](https://dev.to/amirsefati/go-modules-in-practice-init-tidy-vendor-and-publishing-packages-58lc)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-pdj)
+- [The Deployment That Breaks Things Is Never the One Anyone Was Watching](https://dev.to/sophielane/the-deployment-that-breaks-things-is-never-the-one-anyone-was-watching-4f30)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
