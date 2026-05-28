@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2f6b)
-- [Web Developer Travis McCracken on Build Pipelines That Don’t Suck](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-build-pipelines-that-dont-suck-24bk)
-- [Free Security Audit API: Scan Your Code in 30 Seconds](https://dev.to/amoussa-eduhub/free-security-audit-api-scan-your-code-in-30-seconds-4o4)
-- [Building a Strong DevOps Portf…](https://dev.to/norviktech/building-a-strong-devops-portf-2i02)
-- [Design Patterns in Java:](https://dev.to/geampiere/design-patterns-in-java-19ki)
-- [Design Patterns in Java:](https://dev.to/geampiere/design-patterns-in-java-19ki)
+- [Alert policies people actually follow &lpar;spoiler: fewer routes win&rpar;](https://dev.to/apogeewatcher/alert-policies-people-actually-follow-spoiler-fewer-routes-win-ald)
+- [Injeção e Inversão de Dependência e como o NestJS gerencia tudo isso](https://dev.to/reishenrique/injecao-e-inversao-de-dependencia-e-como-o-nestjs-gerencia-tudo-isso-2oa)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3ej4)
+- [The x3.16 Developer | Part 1](https://dev.to/amirarad/the-x316-developer-part-1-2jc4)
+- [I built an open-source repo-local context layer for AI coding agents](https://dev.to/pro2pilot/i-built-an-open-source-repo-local-context-layer-for-ai-coding-agents-469m)
+- [Express Middleware — What It Actually Is and How It Really Works](https://dev.to/chinwuba_jeffrey/express-middleware-what-it-actually-is-and-how-it-really-works-2c3g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
