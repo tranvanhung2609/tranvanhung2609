@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Probabilistic AI Will Eventually Require Deterministic Governance](https://dev.to/vaxoni/why-probabilistic-ai-will-eventually-require-deterministic-governance-51g5)
-- [OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)
-- [What Is Generative Engine Optimization &lpar;GEO&rpar;? A Complete Guide for B2B SaaS](https://dev.to/mayur_rathore_b735983a686/what-is-generative-engine-optimization-geo-a-complete-guide-for-b2b-saas-3ah3)
-- [Mastering Tool Calling and Function Calling in OpenAI GPT-4: A Comprehensive Tutorial 2026](https://dev.to/rajesh1761/mastering-tool-calling-and-function-calling-in-openai-gpt-4-a-comprehensive-tutorial-2026-5fmn)
-- [Codex con acceso a internet: cómo configurar sandbox, permisos y auditoría sin abrir demasiado el repo](https://dev.to/khavel/codex-con-acceso-a-internet-como-configurar-sandbox-permisos-y-auditoria-sin-abrir-demasiado-el-5c4e)
-- [How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)
+- [Lifestyle / Wellness](https://dev.to/yu_yang_f26414a1d7a176c97/lifestyle-wellness-4b67)
+- [📎 Send Joget Emails with File Attachments Using BeanShell](https://dev.to/exploringmylifeworks/send-joget-emails-with-file-attachments-using-beanshell-2hnj)
+- [Web Developer Travis McCracken on Deploying Rust Services on Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-deploying-rust-services-on-kubernetes-4m6e)
+- [Install PM2](https://dev.to/ralvaracode/install-pm2-gmp)
+- [Under 20 Random Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-random-timer-what-we-learned-building-random-tactical-timer-43n8)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-147m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
