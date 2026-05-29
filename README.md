@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why the EOSAI Token Could Become Part of the Future AI Macro Infrastructure](https://dev.to/eosaitoken/why-the-eosai-token-could-become-part-of-the-future-ai-macro-infrastructure-54p3)
-- [Residential Proxies for Web Scraping: Reliable Data Collection Workflows with MaskProxy](https://dev.to/bettynay2014/residential-proxies-for-web-scraping-reliable-data-collection-workflows-with-maskproxy-nbo)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-43p6)
-- [AI Agents: The Building Blocks of Autonomous Intelligence](https://dev.to/techblogs/ai-agents-the-building-blocks-of-autonomous-intelligence-506g)
-- [AI Agents: The Building Blocks of Autonomous Intelligence](https://dev.to/techblogs/ai-agents-the-building-blocks-of-autonomous-intelligence-506g)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2b7l)
+- [Why Probabilistic AI Will Eventually Require Deterministic Governance](https://dev.to/vaxoni/why-probabilistic-ai-will-eventually-require-deterministic-governance-51g5)
+- [OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)
+- [What Is Generative Engine Optimization &lpar;GEO&rpar;? A Complete Guide for B2B SaaS](https://dev.to/mayur_rathore_b735983a686/what-is-generative-engine-optimization-geo-a-complete-guide-for-b2b-saas-3ah3)
+- [Mastering Tool Calling and Function Calling in OpenAI GPT-4: A Comprehensive Tutorial 2026](https://dev.to/rajesh1761/mastering-tool-calling-and-function-calling-in-openai-gpt-4-a-comprehensive-tutorial-2026-5fmn)
+- [Codex con acceso a internet: cómo configurar sandbox, permisos y auditoría sin abrir demasiado el repo](https://dev.to/khavel/codex-con-acceso-a-internet-como-configurar-sandbox-permisos-y-auditoria-sin-abrir-demasiado-el-5c4e)
+- [How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
