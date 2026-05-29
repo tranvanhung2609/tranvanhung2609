@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Lifestyle / Wellness](https://dev.to/yu_yang_f26414a1d7a176c97/lifestyle-wellness-4b67)
-- [📎 Send Joget Emails with File Attachments Using BeanShell](https://dev.to/exploringmylifeworks/send-joget-emails-with-file-attachments-using-beanshell-2hnj)
-- [Web Developer Travis McCracken on Deploying Rust Services on Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-deploying-rust-services-on-kubernetes-4m6e)
-- [Install PM2](https://dev.to/ralvaracode/install-pm2-gmp)
-- [Under 20 Random Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-random-timer-what-we-learned-building-random-tactical-timer-43n8)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-147m)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3cb1)
+- [Why I’m Learning Go and JavaScript Together Instead of Separately](https://dev.to/kev_luciano/why-im-learning-go-and-javascript-together-4ih)
+- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
+- [Shopify Webhooks Don&#39;t Arrive in Order - Here&#39;s How to Handle It](https://dev.to/masadashraf/shopify-webhooks-dont-arrive-in-order-heres-how-to-handle-it-2mbg)
+- [When the Agent Writes the Code](https://dev.to/mickai/when-the-agent-writes-the-code-27h1)
+- [I paused feature work on day one to set up CI — and avoided the same slow chaos again](https://dev.to/oranguengineer/i-paused-feature-work-on-day-one-to-set-up-ci-and-avoided-the-same-slow-chaos-again-4e9o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
