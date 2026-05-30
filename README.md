@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency Keys in Spring Boot: Make POST Safe Against Retries](https://dev.to/thellu/idempotency-keys-in-spring-boot-make-post-safe-against-retries-47f3)
-- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
-- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
-- [Building a ReAct Agent from Scratch with LangChain 2026](https://dev.to/rajesh1761/building-a-react-agent-from-scratch-with-langchain-2026-42mh)
-- [DevOps Training for IT Professionals Electronic City – Upskill Your Career in 2026](https://dev.to/naveen_kumar_60514a494e10/devops-training-for-it-professionals-electronic-city-upskill-your-career-in-2026-49fi)
-- [What we shipped on 2026-05-30](https://dev.to/glad_labs/what-we-shipped-on-2026-05-30-2g53)
+- [FinOps for Startups: How to Keep Your AWS Bill Under $100/Month](https://dev.to/parag477/finops-for-startups-how-to-keep-your-aws-bill-under-100month-5488)
+- [We built a lightweight, 100% local File Integrity Monitor &lpar;FIM&rpar; with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-411l)
+- [Locking Down the Pipeline: Enforcing Contract Integrity Against Autonomous AI Agents](https://dev.to/prasadmk/locking-down-the-pipeline-enforcing-contract-integrity-against-autonomous-ai-agents-m5m)
+- [Java Collections Cheat Sheet](https://dev.to/swatigoyal911/java-collections-cheat-sheet-31pj)
+- [Who Approved This Change? Managing API Contracts and Test Rot in Large Engineering Teams](https://dev.to/prasadmk/who-approved-this-change-managing-api-contracts-and-test-rot-in-large-engineering-teams-39)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
