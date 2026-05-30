@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every Web Scraping Tool Against Lazada — Here&#39;s What Actually Works &lpar;May 2026&rpar;](https://dev.to/mariatanbobo/i-tested-every-web-scraping-tool-against-lazada-heres-what-actually-works-may-2026-16pg)
-- [Your CI Pipeline Is Lying to You — 5 Signals You&#39;re Ignoring &lpar;And How to Fix Them&rpar;](https://dev.to/z_z_c01afd7cf4c3764a2c73d/your-ci-pipeline-is-lying-to-you-5-signals-youre-ignoring-and-how-to-fix-them-4kh)
-- [Stop Writing &#39;Fixed Stuff&#39; — A Practical Guide to Commit Messages That Don&#39;t Suck](https://dev.to/z_z_c01afd7cf4c3764a2c73d/stop-writing-fixed-stuff-a-practical-guide-to-commit-messages-that-dont-suck-2g6c)
-- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4g0g)
-- [Error Handling in Node.js: Beyond Try/Catch &lpar;2026&rpar;](https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-4d3h)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-52b3)
+- [&quot;The AI did it&quot; won&#39;t save you when EU regulators come knocking](https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb)
+- [Heavy AI Coding for $1 a Day: The Exact Stack I Use to Maintain 7 Products](https://dev.to/varun_pratapbhardwaj_b13/heavy-ai-coding-for-1-a-day-the-exact-stack-i-use-to-maintain-7-products-e7g)
+- [Agentic Ops: How I Shipped My Vibe-Coded Game to Production](https://dev.to/paul_knoxops/agentic-ops-how-i-shipped-my-vibe-coded-code-to-production-1mgk)
+- [Developer Journar Day5: 🚀 How to Launch and Configure an Amazon EC2 Instance &lpar;From Scratch&rpar;](https://dev.to/laudisdominguezsvg/developer-journar-day5-how-to-launch-and-configure-an-amazon-ec2-instance-from-scratch-45e3)
+- [I Built a Distributed Tracing System from Scratch in Python](https://dev.to/hajirufai/i-built-a-distributed-tracing-system-from-scratch-in-python-3djo)
+- [I Built a Full-Stack Uptime Monitoring SaaS in 30 Days — Here&#39;s Everything I Learned](https://dev.to/adarshshukla/i-built-a-full-stack-uptime-monitoring-saas-in-30-days-heres-everything-i-learned-2k63)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
