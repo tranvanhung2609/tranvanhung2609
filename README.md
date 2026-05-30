@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The AI did it&quot; won&#39;t save you when EU regulators come knocking](https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb)
-- [Heavy AI Coding for $1 a Day: The Exact Stack I Use to Maintain 7 Products](https://dev.to/varun_pratapbhardwaj_b13/heavy-ai-coding-for-1-a-day-the-exact-stack-i-use-to-maintain-7-products-e7g)
-- [Agentic Ops: How I Shipped My Vibe-Coded Game to Production](https://dev.to/paul_knoxops/agentic-ops-how-i-shipped-my-vibe-coded-code-to-production-1mgk)
-- [Developer Journar Day5: 🚀 How to Launch and Configure an Amazon EC2 Instance &lpar;From Scratch&rpar;](https://dev.to/laudisdominguezsvg/developer-journar-day5-how-to-launch-and-configure-an-amazon-ec2-instance-from-scratch-45e3)
-- [I Built a Distributed Tracing System from Scratch in Python](https://dev.to/hajirufai/i-built-a-distributed-tracing-system-from-scratch-in-python-3djo)
-- [I Built a Full-Stack Uptime Monitoring SaaS in 30 Days — Here&#39;s Everything I Learned](https://dev.to/adarshshukla/i-built-a-full-stack-uptime-monitoring-saas-in-30-days-heres-everything-i-learned-2k63)
+- [Idempotency Keys in Spring Boot: Make POST Safe Against Retries](https://dev.to/thellu/idempotency-keys-in-spring-boot-make-post-safe-against-retries-47f3)
+- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
+- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
+- [Building a ReAct Agent from Scratch with LangChain 2026](https://dev.to/rajesh1761/building-a-react-agent-from-scratch-with-langchain-2026-42mh)
+- [DevOps Training for IT Professionals Electronic City – Upskill Your Career in 2026](https://dev.to/naveen_kumar_60514a494e10/devops-training-for-it-professionals-electronic-city-upskill-your-career-in-2026-49fi)
+- [What we shipped on 2026-05-30](https://dev.to/glad_labs/what-we-shipped-on-2026-05-30-2g53)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
