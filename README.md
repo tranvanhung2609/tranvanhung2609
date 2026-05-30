@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3cb1)
-- [Why I’m Learning Go and JavaScript Together Instead of Separately](https://dev.to/kev_luciano/why-im-learning-go-and-javascript-together-4ih)
-- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
-- [Shopify Webhooks Don&#39;t Arrive in Order - Here&#39;s How to Handle It](https://dev.to/masadashraf/shopify-webhooks-dont-arrive-in-order-heres-how-to-handle-it-2mbg)
-- [When the Agent Writes the Code](https://dev.to/mickai/when-the-agent-writes-the-code-27h1)
-- [I paused feature work on day one to set up CI — and avoided the same slow chaos again](https://dev.to/oranguengineer/i-paused-feature-work-on-day-one-to-set-up-ci-and-avoided-the-same-slow-chaos-again-4e9o)
+- [I Tested Every Web Scraping Tool Against Lazada — Here&#39;s What Actually Works &lpar;May 2026&rpar;](https://dev.to/mariatanbobo/i-tested-every-web-scraping-tool-against-lazada-heres-what-actually-works-may-2026-16pg)
+- [Your CI Pipeline Is Lying to You — 5 Signals You&#39;re Ignoring &lpar;And How to Fix Them&rpar;](https://dev.to/z_z_c01afd7cf4c3764a2c73d/your-ci-pipeline-is-lying-to-you-5-signals-youre-ignoring-and-how-to-fix-them-4kh)
+- [Stop Writing &#39;Fixed Stuff&#39; — A Practical Guide to Commit Messages That Don&#39;t Suck](https://dev.to/z_z_c01afd7cf4c3764a2c73d/stop-writing-fixed-stuff-a-practical-guide-to-commit-messages-that-dont-suck-2g6c)
+- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4g0g)
+- [Error Handling in Node.js: Beyond Try/Catch &lpar;2026&rpar;](https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-4d3h)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-52b3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
