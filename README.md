@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FinOps for Startups: How to Keep Your AWS Bill Under $100/Month](https://dev.to/parag477/finops-for-startups-how-to-keep-your-aws-bill-under-100month-5488)
-- [We built a lightweight, 100% local File Integrity Monitor &lpar;FIM&rpar; with zero telemetry](https://dev.to/sunny_night/we-built-a-lightweight-100-local-file-integrity-monitor-fim-with-zero-telemetry-4p35)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-411l)
-- [Locking Down the Pipeline: Enforcing Contract Integrity Against Autonomous AI Agents](https://dev.to/prasadmk/locking-down-the-pipeline-enforcing-contract-integrity-against-autonomous-ai-agents-m5m)
-- [Java Collections Cheat Sheet](https://dev.to/swatigoyal911/java-collections-cheat-sheet-31pj)
-- [Who Approved This Change? Managing API Contracts and Test Rot in Large Engineering Teams](https://dev.to/prasadmk/who-approved-this-change-managing-api-contracts-and-test-rot-in-large-engineering-teams-39)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mm5)
+- [You don&#39;t know kubectl — you know how to Google kubectl. The first-principles fix.](https://dev.to/hamchops/you-dont-know-kubectl-you-know-how-to-google-kubectl-the-first-principles-fix-lhb)
+- [Building a DevOps Incident Investigator with Coral SQL — From 15 Minutes to 15 Seconds](https://dev.to/khadirullah/building-a-devops-incident-investigator-with-coral-sql-from-15-minutes-to-15-seconds-3gcp)
+- [What Is Database Sharding — and When Does Your Startup Actually Need It](https://dev.to/spectredevxyz/what-is-database-sharding-and-when-does-your-startup-actually-need-it-4d0f)
+- [AI Agents: The Intelligent Actors of the Digital World](https://dev.to/techblogs/ai-agents-the-intelligent-actors-of-the-digital-world-1f11)
+- [AI Agents: The Intelligent Actors of the Digital World](https://dev.to/techblogs/ai-agents-the-intelligent-actors-of-the-digital-world-1f11)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
