@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1mm5)
-- [You don&#39;t know kubectl — you know how to Google kubectl. The first-principles fix.](https://dev.to/hamchops/you-dont-know-kubectl-you-know-how-to-google-kubectl-the-first-principles-fix-lhb)
-- [Building a DevOps Incident Investigator with Coral SQL — From 15 Minutes to 15 Seconds](https://dev.to/khadirullah/building-a-devops-incident-investigator-with-coral-sql-from-15-minutes-to-15-seconds-3gcp)
-- [What Is Database Sharding — and When Does Your Startup Actually Need It](https://dev.to/spectredevxyz/what-is-database-sharding-and-when-does-your-startup-actually-need-it-4d0f)
-- [AI Agents: The Intelligent Actors of the Digital World](https://dev.to/techblogs/ai-agents-the-intelligent-actors-of-the-digital-world-1f11)
-- [AI Agents: The Intelligent Actors of the Digital World](https://dev.to/techblogs/ai-agents-the-intelligent-actors-of-the-digital-world-1f11)
+- [Charting New Waters: Building a Custom Coral Source Spec for Internal Enterprise APIs](https://dev.to/khadirullah/charting-new-waters-building-a-custom-coral-source-spec-for-internal-enterprise-apis-160e)
+- [Imposter syndrome &lpar;DevSecOps path&rpar;](https://dev.to/_c48f0705237e5f14/imposter-syndrome-devsecops-path-i2j)
+- [&quot;NestJS authentication in 5 minutes&quot;](https://dev.to/gajendrasingh_33/nestjs-authentication-in-5-minutes-1d4m)
+- [Airbyte vs n8n vs Fivetran: ETL Pipelines](https://dev.to/chasebot/airbyte-vs-n8n-vs-fivetran-etl-pipelines-5ci1)
+- [CloFix WAF - Real-Time Web Application Firewall](https://dev.to/clofix_f4934915a2925ae016/clofix-waf-real-time-web-application-firewall-g13)
+- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
