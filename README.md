@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Charting New Waters: Building a Custom Coral Source Spec for Internal Enterprise APIs](https://dev.to/khadirullah/charting-new-waters-building-a-custom-coral-source-spec-for-internal-enterprise-apis-160e)
-- [Imposter syndrome &lpar;DevSecOps path&rpar;](https://dev.to/_c48f0705237e5f14/imposter-syndrome-devsecops-path-i2j)
-- [&quot;NestJS authentication in 5 minutes&quot;](https://dev.to/gajendrasingh_33/nestjs-authentication-in-5-minutes-1d4m)
-- [Airbyte vs n8n vs Fivetran: ETL Pipelines](https://dev.to/chasebot/airbyte-vs-n8n-vs-fivetran-etl-pipelines-5ci1)
-- [CloFix WAF - Real-Time Web Application Firewall](https://dev.to/clofix_f4934915a2925ae016/clofix-waf-real-time-web-application-firewall-g13)
-- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
+- [Giving Your Digital Employee a Company Credit Card &lpar;With Limits&rpar;](https://dev.to/sschelliah/giving-your-digital-employee-a-company-credit-card-with-limits-2f35)
+- [Your AI Assistant Just Bought a $30,000 Cloud Subscription](https://dev.to/sschelliah/your-ai-assistant-just-bought-a-30000-cloud-subscription-1pdg)
+- [5 Real-World AI Agent Cost Disasters &lpar;And How agent-gov Prevents Them&rpar;](https://dev.to/sschelliah/5-real-world-ai-agent-cost-disasters-and-how-agent-gov-prevents-them-2od9)
+- [Announcing agent-gov: Open-Source AI Agent Cost Governance](https://dev.to/sschelliah/announcing-agent-gov-open-source-ai-agent-cost-governance-nj9)
+- [I built a free Docker course that doesn&#39;t suck](https://dev.to/ludolf/i-built-a-free-docker-course-that-doesnt-suck-2p2b)
+- [The Castle Analogy: Understanding Attack Surface Through Subdomains](https://dev.to/arashad_dodhiya_0e4bdba5a/the-castle-analogy-understanding-attack-surface-through-subdomains-8e2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
