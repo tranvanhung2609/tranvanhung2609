@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Giving Your Digital Employee a Company Credit Card &lpar;With Limits&rpar;](https://dev.to/sschelliah/giving-your-digital-employee-a-company-credit-card-with-limits-2f35)
-- [Your AI Assistant Just Bought a $30,000 Cloud Subscription](https://dev.to/sschelliah/your-ai-assistant-just-bought-a-30000-cloud-subscription-1pdg)
-- [5 Real-World AI Agent Cost Disasters &lpar;And How agent-gov Prevents Them&rpar;](https://dev.to/sschelliah/5-real-world-ai-agent-cost-disasters-and-how-agent-gov-prevents-them-2od9)
-- [Announcing agent-gov: Open-Source AI Agent Cost Governance](https://dev.to/sschelliah/announcing-agent-gov-open-source-ai-agent-cost-governance-nj9)
-- [I built a free Docker course that doesn&#39;t suck](https://dev.to/ludolf/i-built-a-free-docker-course-that-doesnt-suck-2p2b)
-- [The Castle Analogy: Understanding Attack Surface Through Subdomains](https://dev.to/arashad_dodhiya_0e4bdba5a/the-castle-analogy-understanding-attack-surface-through-subdomains-8e2)
+- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
+- [255 Heartfelt Goodbye Quotes &amp; Messages for a Grandmother Who Passed Away](https://dev.to/nave0009/255-heartfelt-goodbye-quotes-messages-for-a-grandmother-who-passed-away-19fb)
+- [255 Heartfelt Goodbye Quotes &amp; Messages for a Grandmother Who Passed Away](https://dev.to/nave0009/255-heartfelt-goodbye-quotes-messages-for-a-grandmother-who-passed-away-19fb)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for May 24 – May 30, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-may-24-may-30-2026-44f3)
+- [25/30 Days System Design Questions!](https://dev.to/thejoud1997/2530-days-system-design-questions-3iah)
+- [Week 1 Report – Complete Networking for DevOps](https://dev.to/bharat_bf818f131f82a72ecd/week-1-report-complete-networking-for-devops-jl5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
