@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Home Lift Installation in South Delhi: A Practical Investment for Modern Homes](https://dev.to/hexaa49849/home-lift-installation-in-south-delhi-a-practical-investment-for-modern-homes-2he6)
-- [AI Agent Backpressure: How We Fixed Our Code Review Bottleneck](https://dev.to/beyondit/ai-agent-backpressure-how-we-fixed-our-code-review-bottleneck-a1c)
-- [How to Create an ARIN Account and Become an ARIN Member](https://dev.to/menesakdeniz/how-to-create-an-arin-account-and-become-an-arin-member-1ala)
-- [How to Create a RIPE Membership &lpar;LIR&rpar; Account in 2026](https://dev.to/menesakdeniz/how-to-create-a-ripe-membership-lir-account-in-2026-9h3)
-- [Will Buying IPv4 Remove You From The RIPE Waiting List?](https://dev.to/menesakdeniz/will-buying-ipv4-remove-you-from-the-ripe-waiting-list-425h)
-- [Certified AIOps Professional: Enterprise AI Operations, Career Growth &amp; Future IT Leadership](https://dev.to/zainab_1201/certified-aiops-professional-enterprise-ai-operations-career-growth-future-it-leadership-4fc7)
+- [Build a Portable Development Playground with Vagrant and VirtualBox](https://dev.to/durrello/build-a-portable-development-playground-with-vagrant-and-virtualbox-3p90)
+- [What is Java? History, Uses, Datatypes, Variables, and OOP Concepts Explained](https://dev.to/karthick_karthick_bf8338d/what-is-java-history-uses-datatypes-variables-and-oop-concepts-explained-35g0)
+- [From Deployment to Automation: Containerizing a Microservice Application](https://dev.to/anitaalicloud/from-deployment-to-automation-containerizing-a-microservice-application-1ho)
+- [Web Developer Travis McCracken on Metrics-Driven Backend Refactoring](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-metrics-driven-backend-refactoring-5c58)
+- [FastAPI for AI Engineers - Part 2: Building Your First CRUD API](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-2-building-your-first-crud-api-lpl)
+- [Quel hébergeur web choisir pour un freelance ou une TPE ? &lpar;2026&rpar;](https://dev.to/naciofelix/quel-hebergeur-web-choisir-pour-un-freelance-ou-une-tpe-2026-40fl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
