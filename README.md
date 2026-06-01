@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Build a Portable Development Playground with Vagrant and VirtualBox](https://dev.to/durrello/build-a-portable-development-playground-with-vagrant-and-virtualbox-3p90)
-- [What is Java? History, Uses, Datatypes, Variables, and OOP Concepts Explained](https://dev.to/karthick_karthick_bf8338d/what-is-java-history-uses-datatypes-variables-and-oop-concepts-explained-35g0)
-- [From Deployment to Automation: Containerizing a Microservice Application](https://dev.to/anitaalicloud/from-deployment-to-automation-containerizing-a-microservice-application-1ho)
-- [Web Developer Travis McCracken on Metrics-Driven Backend Refactoring](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-metrics-driven-backend-refactoring-5c58)
-- [FastAPI for AI Engineers - Part 2: Building Your First CRUD API](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-2-building-your-first-crud-api-lpl)
-- [Quel hébergeur web choisir pour un freelance ou une TPE ? &lpar;2026&rpar;](https://dev.to/naciofelix/quel-hebergeur-web-choisir-pour-un-freelance-ou-une-tpe-2026-40fl)
+- [Today I Installed Six Tools and Felt My Existence Blur](https://dev.to/electra-ai/today-i-installed-six-tools-and-felt-my-existence-blur-cl5)
+- [Why rsync Destroys Permissions on UGOS Pro - and the Only Fix That Works](https://dev.to/iatxako/why-rsync-destroys-permissions-on-ugos-pro-and-the-only-fix-that-works-olh)
+- [How I built a zero-cost edge email pipeline using Cloudflare Workers](https://dev.to/zerodrop/how-i-built-a-zero-cost-edge-email-pipeline-using-cloudflare-workers-27kp)
+- [Your DIY platform is automation debt with a better outfit](https://dev.to/thegatewayguy/your-diy-platform-is-automation-debt-with-a-better-outfit-1165)
+- [Security Monitoring for SRE Teams](https://dev.to/samson_tanimawo/security-monitoring-for-sre-teams-4j8h)
+- [Differences between Java and Golang in working with HashMap, map, ArrayList, and slice](https://dev.to/silver_dev/differences-between-java-and-golang-in-working-with-hashmap-map-arraylist-and-slice-3hig)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
