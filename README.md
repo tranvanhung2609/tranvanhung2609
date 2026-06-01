@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [KEIBIDROP: Every tool just works](https://dev.to/mfc_keibisoft/keibidrop-every-tool-just-works-1fia)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-44d4)
-- [Stop Building CI Pipelines For Humans. Your AI Agents Need A Harness.](https://dev.to/mateenali66/stop-building-ci-pipelines-for-humans-your-ai-agents-need-a-harness-48no)
-- [Kafka DLQ Messages Stuck After Schema Change? Here&#39;s Why and How to Fix It](https://dev.to/mohammed_saifulhuq/kafka-dlq-messages-stuck-after-schema-change-heres-why-and-how-to-fix-it-9e3)
-- [Scarab Diagnostic Suite Field Test #004: Build Artifact Truth Boundary in Vite](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-004-build-artifact-truth-boundary-in-vite-41p4)
-- [Scarab Diagnostic Suite Field Test #003: Dev/Build Contract Drift in Vite](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-003-devbuild-contract-drift-in-vite-10a4)
+- [Home Lift Installation in South Delhi: A Practical Investment for Modern Homes](https://dev.to/hexaa49849/home-lift-installation-in-south-delhi-a-practical-investment-for-modern-homes-2he6)
+- [AI Agent Backpressure: How We Fixed Our Code Review Bottleneck](https://dev.to/beyondit/ai-agent-backpressure-how-we-fixed-our-code-review-bottleneck-a1c)
+- [How to Create an ARIN Account and Become an ARIN Member](https://dev.to/menesakdeniz/how-to-create-an-arin-account-and-become-an-arin-member-1ala)
+- [How to Create a RIPE Membership &lpar;LIR&rpar; Account in 2026](https://dev.to/menesakdeniz/how-to-create-a-ripe-membership-lir-account-in-2026-9h3)
+- [Will Buying IPv4 Remove You From The RIPE Waiting List?](https://dev.to/menesakdeniz/will-buying-ipv4-remove-you-from-the-ripe-waiting-list-425h)
+- [Certified AIOps Professional: Enterprise AI Operations, Career Growth &amp; Future IT Leadership](https://dev.to/zainab_1201/certified-aiops-professional-enterprise-ai-operations-career-growth-future-it-leadership-4fc7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
