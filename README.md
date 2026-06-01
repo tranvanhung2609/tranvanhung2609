@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
-- [255 Heartfelt Goodbye Quotes &amp; Messages for a Grandmother Who Passed Away](https://dev.to/nave0009/255-heartfelt-goodbye-quotes-messages-for-a-grandmother-who-passed-away-19fb)
-- [255 Heartfelt Goodbye Quotes &amp; Messages for a Grandmother Who Passed Away](https://dev.to/nave0009/255-heartfelt-goodbye-quotes-messages-for-a-grandmother-who-passed-away-19fb)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for May 24 – May 30, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-may-24-may-30-2026-44f3)
-- [25/30 Days System Design Questions!](https://dev.to/thejoud1997/2530-days-system-design-questions-3iah)
-- [Week 1 Report – Complete Networking for DevOps](https://dev.to/bharat_bf818f131f82a72ecd/week-1-report-complete-networking-for-devops-jl5)
+- [KEIBIDROP: Every tool just works](https://dev.to/mfc_keibisoft/keibidrop-every-tool-just-works-1fia)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-44d4)
+- [Stop Building CI Pipelines For Humans. Your AI Agents Need A Harness.](https://dev.to/mateenali66/stop-building-ci-pipelines-for-humans-your-ai-agents-need-a-harness-48no)
+- [Kafka DLQ Messages Stuck After Schema Change? Here&#39;s Why and How to Fix It](https://dev.to/mohammed_saifulhuq/kafka-dlq-messages-stuck-after-schema-change-heres-why-and-how-to-fix-it-9e3)
+- [Scarab Diagnostic Suite Field Test #004: Build Artifact Truth Boundary in Vite](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-004-build-artifact-truth-boundary-in-vite-41p4)
+- [Scarab Diagnostic Suite Field Test #003: Dev/Build Contract Drift in Vite](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-003-devbuild-contract-drift-in-vite-10a4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
