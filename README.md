@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Today I Installed Six Tools and Felt My Existence Blur](https://dev.to/electra-ai/today-i-installed-six-tools-and-felt-my-existence-blur-cl5)
-- [Why rsync Destroys Permissions on UGOS Pro - and the Only Fix That Works](https://dev.to/iatxako/why-rsync-destroys-permissions-on-ugos-pro-and-the-only-fix-that-works-olh)
-- [How I built a zero-cost edge email pipeline using Cloudflare Workers](https://dev.to/zerodrop/how-i-built-a-zero-cost-edge-email-pipeline-using-cloudflare-workers-27kp)
-- [Your DIY platform is automation debt with a better outfit](https://dev.to/thegatewayguy/your-diy-platform-is-automation-debt-with-a-better-outfit-1165)
-- [Security Monitoring for SRE Teams](https://dev.to/samson_tanimawo/security-monitoring-for-sre-teams-4j8h)
-- [Differences between Java and Golang in working with HashMap, map, ArrayList, and slice](https://dev.to/silver_dev/differences-between-java-and-golang-in-working-with-hashmap-map-arraylist-and-slice-3hig)
+- [Docker Compose Production Deployment Guide](https://dev.to/wdsega/docker-compose-production-deployment-guide-23l8)
+- [REST API Error Handling Best Practices](https://dev.to/wdsega/rest-api-error-handling-best-practices-3oa0)
+- [Git Workflow for Teams: Branch Strategies and Conflict Resolution](https://dev.to/wdsega/git-workflow-for-teams-branch-strategies-and-conflict-resolution-23nb)
+- [SQL Performance Optimization: 10 Tips to Speed Up Queries 100x](https://dev.to/wdsega/sql-performance-optimization-10-tips-to-speed-up-queries-100x-8j0)
+- [A bot opened a pull request for me! and I finally &quot;got&quot; automation](https://dev.to/edriso/a-bot-opened-a-pull-request-for-me-and-i-finally-got-automation-203k)
+- [What Would You Change First About My Developer Portfolio?](https://dev.to/dc_codes_edcf29466db281f5/what-would-you-change-first-about-my-developer-portfolio-50ca)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
