@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3in)
-- [AI coding tools for Java developers in 2026: after Amazon Q Developer, what actually works?](https://dev.to/jovan_chan_9500711396d4e6/ai-coding-tools-for-java-developers-in-2026-after-amazon-q-developer-what-actually-works-137p)
-- [AI for Backend Engineers: API Generation Tools in 2026](https://dev.to/jovan_chan_9500711396d4e6/ai-for-backend-engineers-api-generation-tools-in-2026-35ma)
-- [AI Tools for DevOps in 2026: Terraform, Kubernetes, and CI/CD](https://dev.to/jovan_chan_9500711396d4e6/ai-tools-for-devops-in-2026-terraform-kubernetes-and-cicd-1ll9)
-- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-4ml2)
-- [Fixing Gradle TLS handshake_failure on Maven Central &lpar;Android Builds&rpar;](https://dev.to/asta_dev/fixing-gradle-tls-handshakefailure-on-maven-central-android-builds-4a)
+- [How AI Is Changing SRE Workflows &lpar;Without Replacing SREs&rpar;](https://dev.to/samson_tanimawo/how-ai-is-changing-sre-workflows-without-replacing-sres-efg)
+- [Como eu colocaria um portal de operações de SLA na AWS &lpar;e o que pesei no caminho&rpar;?](https://dev.to/aws-builders/como-eu-colocaria-um-portal-de-operacoes-de-sla-na-aws-e-o-que-pesei-no-caminho-4clc)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4m8m)
+- [How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh)
+- [Docker vs Kubernetes: Stop Comparing Them Like They Compete](https://dev.to/akoode_tech/docker-vs-kubernetes-stop-comparing-them-like-they-compete-4c4e)
+- [How do I know which database to use when developing a web application?](https://dev.to/yossi_cohen_7acc82ef127f0/how-do-i-know-which-database-to-use-when-developing-a-web-application-pea)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
