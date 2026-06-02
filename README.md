@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose Production Deployment Guide](https://dev.to/wdsega/docker-compose-production-deployment-guide-23l8)
-- [REST API Error Handling Best Practices](https://dev.to/wdsega/rest-api-error-handling-best-practices-3oa0)
-- [Git Workflow for Teams: Branch Strategies and Conflict Resolution](https://dev.to/wdsega/git-workflow-for-teams-branch-strategies-and-conflict-resolution-23nb)
-- [SQL Performance Optimization: 10 Tips to Speed Up Queries 100x](https://dev.to/wdsega/sql-performance-optimization-10-tips-to-speed-up-queries-100x-8j0)
-- [A bot opened a pull request for me! and I finally &quot;got&quot; automation](https://dev.to/edriso/a-bot-opened-a-pull-request-for-me-and-i-finally-got-automation-203k)
-- [What Would You Change First About My Developer Portfolio?](https://dev.to/dc_codes_edcf29466db281f5/what-would-you-change-first-about-my-developer-portfolio-50ca)
+- [How to Build a Decentralized Prediction Market Platform with an Oracl.Fun Clone Script](https://dev.to/alan_james_35e491d20632c8/how-to-build-a-decentralized-prediction-market-platform-with-an-oraclfun-clone-script-2i7)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-22op)
+- [Cloud DevOps: A Modern Approach to Faster and Smarter Software Delivery](https://dev.to/khushi_dubey/cloud-devops-a-modern-approach-to-faster-and-smarter-software-delivery-2pl3)
+- [Building an AI First-Line for DevOps Support on n8n for $250/Month — Part 1](https://dev.to/javdet/building-an-ai-first-line-for-devops-support-on-n8n-for-250month-part-1-1m8j)
+- [Stop Breaking Production: Pragmatic Git Refactor Diffing to Avoid Syntax Merge Conflicts](https://dev.to/will_indie/stop-breaking-production-pragmatic-git-refactor-diffing-to-avoid-syntax-merge-conflicts-4d5p)
+- [Building and Operating a Production-Style Kubernetes Platform on AWS Using kubeadm](https://dev.to/keneojiteli/building-and-operating-a-production-style-kubernetes-platform-on-aws-using-kubeadm-110k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
