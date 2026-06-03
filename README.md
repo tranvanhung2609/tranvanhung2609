@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kff)
-- [How We Increased Campaign Speed by 10x: Overcoming Third-Party API Bottlenecks](https://dev.to/suganth_g/how-we-increased-campaign-speed-by-10x-overcoming-third-party-api-bottlenecks-ln6)
-- [How we reduced hallucinations in Open Models from 67% to 11%](https://dev.to/shafwansafi06/how-we-reduced-hallucinations-in-open-models-from-67-to-11-5084)
-- [DevOps Meets Artificial Intelligence — The Pipeline Reinvented](https://dev.to/deepa_srinivasan_8bbad1bd/devops-meets-artificial-intelligence-the-pipeline-reinvented-4ig0)
-- [How to Build a Backup Strategy That Actually Prevents Data Loss](https://dev.to/stackdrop/how-to-build-a-backup-strategy-that-actually-prevents-data-loss-1g8p)
-- [🚀 Introduction to Serverless: How Serverless Architecture Is Redefining Modern Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/introduction-to-serverless-how-serverless-architecture-is-redefining-modern-web-development-28g)
+- [⚙️ Exposing FastAPI with NGINX Ingress on Kubernetes — a key tutorial](https://dev.to/ptp2308/exposing-fastapi-with-nginx-ingress-on-kubernetes-a-key-tutorial-5gd9)
+- [🐍 How to install KVM QEMU on Ubuntu for Python development](https://dev.to/ptp2308/how-to-install-kvm-qemu-on-ubuntu-for-python-development-2l8g)
+- [The Truth Nobody Tells You About AI in 2026: Why Microsoft and Uber Are Pulling Back, and Why Your Strategy Matters More Than Your Speed](https://dev.to/ebercruz/the-truth-nobody-tells-you-about-ai-in-2026-why-microsoft-and-uber-are-pulling-back-and-why-your-1ha2)
+- [Web Developer Travis McCracken on Rust vs Go in Production APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-vs-go-in-production-apis-17dm)
+- [Why Use Mostly IOException in File Handling in Java?](https://dev.to/aj_arul/why-use-mostly-ioexception-in-file-handling-in-java-3nll)
+- [How many Node.js apps can you run on a 2-core 1GB VPS with PM2? &lpar;The math&rpar;](https://dev.to/vpsfordev/how-many-nodejs-apps-can-you-run-on-a-2-core-1gb-vps-with-pm2-the-math-ec4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
