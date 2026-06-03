@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 23 - Github Actions CI/CD Pipeline](https://dev.to/17j/day-23-github-actions-cicd-pipeline-4151)
-- [How I Split My Livestream Archive at Shiftbloom Studio](https://dev.to/fabianzimber/how-i-split-my-livestream-archive-at-shiftbloom-studio-48d3)
-- [Exception Hierarchy](https://dev.to/priya_k_9427a2e692abd3ddb/exception-hierarchy-g0e)
-- [Types of Exception in Java with Examples](https://dev.to/priya_k_9427a2e692abd3ddb/types-of-exception-in-java-with-examples-oac)
-- [Fitting WhisperX large-v3 + a 24B LLM on one 3090: a reproducible context-capping recipe](https://dev.to/sikamikanikobg/fitting-whisperx-large-v3-a-24b-llm-on-one-3090-a-reproducible-context-capping-recipe-22g0)
-- [Scarab Diagnostic Suite Field Test #005: A Terraform Core Cache Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-005-a-terraform-core-cache-boundary-2mmf)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kff)
+- [How We Increased Campaign Speed by 10x: Overcoming Third-Party API Bottlenecks](https://dev.to/suganth_g/how-we-increased-campaign-speed-by-10x-overcoming-third-party-api-bottlenecks-ln6)
+- [How we reduced hallucinations in Open Models from 67% to 11%](https://dev.to/shafwansafi06/how-we-reduced-hallucinations-in-open-models-from-67-to-11-5084)
+- [DevOps Meets Artificial Intelligence — The Pipeline Reinvented](https://dev.to/deepa_srinivasan_8bbad1bd/devops-meets-artificial-intelligence-the-pipeline-reinvented-4ig0)
+- [How to Build a Backup Strategy That Actually Prevents Data Loss](https://dev.to/stackdrop/how-to-build-a-backup-strategy-that-actually-prevents-data-loss-1g8p)
+- [🚀 Introduction to Serverless: How Serverless Architecture Is Redefining Modern Web Development](https://dev.to/okoye_ndidiamaka_5e3b7d30/introduction-to-serverless-how-serverless-architecture-is-redefining-modern-web-development-28g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
