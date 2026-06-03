@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Changing SRE Workflows &lpar;Without Replacing SREs&rpar;](https://dev.to/samson_tanimawo/how-ai-is-changing-sre-workflows-without-replacing-sres-efg)
-- [Como eu colocaria um portal de operações de SLA na AWS &lpar;e o que pesei no caminho&rpar;?](https://dev.to/aws-builders/como-eu-colocaria-um-portal-de-operacoes-de-sla-na-aws-e-o-que-pesei-no-caminho-4clc)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4m8m)
-- [How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh)
-- [Docker vs Kubernetes: Stop Comparing Them Like They Compete](https://dev.to/akoode_tech/docker-vs-kubernetes-stop-comparing-them-like-they-compete-4c4e)
-- [How do I know which database to use when developing a web application?](https://dev.to/yossi_cohen_7acc82ef127f0/how-do-i-know-which-database-to-use-when-developing-a-web-application-pea)
+- [Day 23 - Github Actions CI/CD Pipeline](https://dev.to/17j/day-23-github-actions-cicd-pipeline-4151)
+- [How I Split My Livestream Archive at Shiftbloom Studio](https://dev.to/fabianzimber/how-i-split-my-livestream-archive-at-shiftbloom-studio-48d3)
+- [Exception Hierarchy](https://dev.to/priya_k_9427a2e692abd3ddb/exception-hierarchy-g0e)
+- [Types of Exception in Java with Examples](https://dev.to/priya_k_9427a2e692abd3ddb/types-of-exception-in-java-with-examples-oac)
+- [Fitting WhisperX large-v3 + a 24B LLM on one 3090: a reproducible context-capping recipe](https://dev.to/sikamikanikobg/fitting-whisperx-large-v3-a-24b-llm-on-one-3090-a-reproducible-context-capping-recipe-22g0)
+- [Scarab Diagnostic Suite Field Test #005: A Terraform Core Cache Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-005-a-terraform-core-cache-boundary-2mmf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
