@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Exposing FastAPI with NGINX Ingress on Kubernetes — a key tutorial](https://dev.to/ptp2308/exposing-fastapi-with-nginx-ingress-on-kubernetes-a-key-tutorial-5gd9)
-- [🐍 How to install KVM QEMU on Ubuntu for Python development](https://dev.to/ptp2308/how-to-install-kvm-qemu-on-ubuntu-for-python-development-2l8g)
-- [The Truth Nobody Tells You About AI in 2026: Why Microsoft and Uber Are Pulling Back, and Why Your Strategy Matters More Than Your Speed](https://dev.to/ebercruz/the-truth-nobody-tells-you-about-ai-in-2026-why-microsoft-and-uber-are-pulling-back-and-why-your-1ha2)
-- [Web Developer Travis McCracken on Rust vs Go in Production APIs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-vs-go-in-production-apis-17dm)
-- [Why Use Mostly IOException in File Handling in Java?](https://dev.to/aj_arul/why-use-mostly-ioexception-in-file-handling-in-java-3nll)
-- [How many Node.js apps can you run on a 2-core 1GB VPS with PM2? &lpar;The math&rpar;](https://dev.to/vpsfordev/how-many-nodejs-apps-can-you-run-on-a-2-core-1gb-vps-with-pm2-the-math-ec4)
+- [How I Recovered a Crashed WHM/cPanel Server and Restored Websites](https://dev.to/sovrab/how-i-recovered-a-crashed-whmcpanel-server-and-restored-websites-2945)
+- [Your AI Agent Just Burned $108 in an Hour. Here&#39;s the 50-Line Fix.](https://dev.to/bgp/your-ai-agent-just-burned-108-in-an-hour-heres-the-50-line-fix-4ifl)
+- [10 Production Engineering Mistakes I Made &lpar;So You Don’t Have To&rpar;](https://dev.to/pushpa_builds/10-production-engineering-mistakes-i-made-so-you-dont-have-to-55ga)
+- [Why Your Test Suite Starts Failing Six Months Later, and What to Do About It](https://dev.to/orbitpickle307/why-your-test-suite-starts-failing-six-months-later-and-what-to-do-about-it-8gg)
+- [Incident Command: The Skills They Don&#39;t Teach You](https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-g68)
+- [AGENTS.md vs Ota: Instructions vs Readiness Contracts](https://dev.to/otaready/agentsmd-vs-ota-instructions-vs-readiness-contracts-bkh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
