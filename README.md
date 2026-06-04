@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Energy Monitoring Projects Often Deliver Less Value Than Expected](https://dev.to/phuc_bach_22e/why-energy-monitoring-projects-often-deliver-less-value-than-expected-409d)
-- [I Built a Cache Engine from Scratch in Python — and O&lpar;1&rpar; LFU Eviction Is Sneakier Than LRU](https://dev.to/hajirufai/i-built-a-cache-engine-from-scratch-in-python-and-o1-lfu-eviction-is-sneakier-than-lru-28m7)
-- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4h31)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1n6e)
-- [Idempotency Keys: The One API Pattern That Prevents Duplicate Charges &lpar;and Worse&rpar;](https://dev.to/apikumo/idempotency-keys-the-one-api-pattern-that-prevents-duplicate-charges-and-worse-207c)
+- [AI-Assisted QA Changes the Testing Job, Not the Testing Need](https://dev.to/randomsquirrel802/ai-assisted-qa-changes-the-testing-job-not-the-testing-need-3hmh)
+- [Candidate Hired for Full-Stack Role Based on Unexpectedly Highlighted DevOps Skills During Interview.](https://dev.to/maricode/candidate-hired-for-full-stack-role-based-on-unexpectedly-highlighted-devops-skills-during-e00)
+- [How I Shrank a Next.js Image by 80% in My First Week of Docker](https://dev.to/tyanick/how-i-shrank-a-nextjs-image-by-80-in-my-first-week-of-docker-3ego)
+- [Lottie4J Meets LottieFiles: A Conversation with Naail Abdul Rahman](https://dev.to/fdelporte/lottie4j-meets-lottiefiles-a-conversation-with-naail-abdul-rahman-1gd3)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-180a)
+- [When 8 GPUs Is All You Need](https://dev.to/leaseweb/when-8-gpus-is-all-you-need-a3l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
