@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Recovered a Crashed WHM/cPanel Server and Restored Websites](https://dev.to/sovrab/how-i-recovered-a-crashed-whmcpanel-server-and-restored-websites-2945)
-- [Your AI Agent Just Burned $108 in an Hour. Here&#39;s the 50-Line Fix.](https://dev.to/bgp/your-ai-agent-just-burned-108-in-an-hour-heres-the-50-line-fix-4ifl)
-- [10 Production Engineering Mistakes I Made &lpar;So You Don’t Have To&rpar;](https://dev.to/pushpa_builds/10-production-engineering-mistakes-i-made-so-you-dont-have-to-55ga)
-- [Why Your Test Suite Starts Failing Six Months Later, and What to Do About It](https://dev.to/orbitpickle307/why-your-test-suite-starts-failing-six-months-later-and-what-to-do-about-it-8gg)
-- [Incident Command: The Skills They Don&#39;t Teach You](https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-g68)
-- [AGENTS.md vs Ota: Instructions vs Readiness Contracts](https://dev.to/otaready/agentsmd-vs-ota-instructions-vs-readiness-contracts-bkh)
+- [Why Energy Monitoring Projects Often Deliver Less Value Than Expected](https://dev.to/phuc_bach_22e/why-energy-monitoring-projects-often-deliver-less-value-than-expected-409d)
+- [I Built a Cache Engine from Scratch in Python — and O&lpar;1&rpar; LFU Eviction Is Sneakier Than LRU](https://dev.to/hajirufai/i-built-a-cache-engine-from-scratch-in-python-and-o1-lfu-eviction-is-sneakier-than-lru-28m7)
+- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4h31)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1n6e)
+- [Idempotency Keys: The One API Pattern That Prevents Duplicate Charges &lpar;and Worse&rpar;](https://dev.to/apikumo/idempotency-keys-the-one-api-pattern-that-prevents-duplicate-charges-and-worse-207c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
