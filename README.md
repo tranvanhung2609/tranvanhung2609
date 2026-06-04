@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted QA Changes the Testing Job, Not the Testing Need](https://dev.to/randomsquirrel802/ai-assisted-qa-changes-the-testing-job-not-the-testing-need-3hmh)
-- [Candidate Hired for Full-Stack Role Based on Unexpectedly Highlighted DevOps Skills During Interview.](https://dev.to/maricode/candidate-hired-for-full-stack-role-based-on-unexpectedly-highlighted-devops-skills-during-e00)
-- [How I Shrank a Next.js Image by 80% in My First Week of Docker](https://dev.to/tyanick/how-i-shrank-a-nextjs-image-by-80-in-my-first-week-of-docker-3ego)
-- [Lottie4J Meets LottieFiles: A Conversation with Naail Abdul Rahman](https://dev.to/fdelporte/lottie4j-meets-lottiefiles-a-conversation-with-naail-abdul-rahman-1gd3)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-180a)
-- [When 8 GPUs Is All You Need](https://dev.to/leaseweb/when-8-gpus-is-all-you-need-a3l)
+- [Top Websites To Buy Old Yahoo Account In USA ...](https://dev.to/andeebartlett0ldyj/top-websites-to-buy-old-yahoo-account-in-usa--4bh)
+- [Audit Deep Dive: Tests and Harness | Auditoria: testes e harness](https://dev.to/crabpascal/audit-deep-dive-tests-and-harness-auditoria-testes-e-harness-c66)
+- [AI API Cost Attribution in 2026: How to Track LLM Spend by Team and Request](https://dev.to/void_stitch/ai-api-cost-attribution-in-2026-how-to-track-llm-spend-by-team-and-request-3h7g)
+- [The 10 Sites Guide to Buy Old Yahoo Accounts in](https://dev.to/andeebartlett0ldyj/the-10-sites-guide-to-buy-old-yahoo-accounts-in-54n0)
+- [My Software Is EOL — What Do I Do Now?](https://dev.to/endoflifeai/my-software-is-eol-what-do-i-do-now-1h0d)
+- [I Started 10,000 Java Threads. My Laptop Barely Noticed.](https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
