@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Microservices Aren&#39;t Microservices](https://dev.to/qodors/your-microservices-arent-microservices-598o)
-- [My one-line installer would run anything it downloaded over 500 bytes](https://dev.to/tiltedlunar123/my-one-line-installer-would-run-anything-it-downloaded-over-500-bytes-2j8e)
-- [Best Nepal Tour Package from Gorakhpur – Explore Nepal with India Tourist Taxi](https://dev.to/shubham_verma_9747392e859/best-nepal-tour-package-from-gorakhpur-explore-nepal-with-india-tourist-taxi-4b5k)
-- [Enterprises Are Quietly Moving Their AI Back On-Premises. Here Is Why.](https://dev.to/arnav_sharma_25c1c7572a20/enterprises-are-quietly-moving-their-ai-back-on-premises-here-is-why-4ohg)
-- [Great Stack to Doesn&#39;t Work Bonus: REST vs GraphQL vs gRPC: When to Use What](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-rest-vs-graphql-vs-grpc-when-to-use-what-1h6i)
-- [Ending the &quot;It works on my machine&quot; era 🛠️](https://dev.to/upsun/ending-the-it-works-on-my-machine-era-3jg1)
+- [Docker for Beginners &lpar;2026&rpar;: From Zero to Your First Dockerfile](https://dev.to/elearning_sherdil_783bbb/docker-for-beginners-2026-from-zero-to-your-first-dockerfile-4b8d)
+- [Your Microservices Are Not Resilient. Your Architecture Is the Real Problem](https://dev.to/walosha/your-microservices-are-not-resilient-your-architecture-is-the-problem-56al)
+- [Which Cloud Provider Gives the Best Price-to-Performance in june 2026?](https://dev.to/comparedge/which-cloud-provider-gives-the-best-price-to-performance-in-june-2026-g65)
+- [I Built an AI-Powered Database Query Optimizer &lpar;And Made It Open Source&rpar;](https://dev.to/vamsi_krishna_1467562fd82/i-built-an-ai-powered-database-query-optimizer-and-made-it-open-source-2h7k)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-174b)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8j0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
