@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Beginners &lpar;2026&rpar;: From Zero to Your First Dockerfile](https://dev.to/elearning_sherdil_783bbb/docker-for-beginners-2026-from-zero-to-your-first-dockerfile-4b8d)
-- [Your Microservices Are Not Resilient. Your Architecture Is the Real Problem](https://dev.to/walosha/your-microservices-are-not-resilient-your-architecture-is-the-problem-56al)
-- [Which Cloud Provider Gives the Best Price-to-Performance in june 2026?](https://dev.to/comparedge/which-cloud-provider-gives-the-best-price-to-performance-in-june-2026-g65)
-- [I Built an AI-Powered Database Query Optimizer &lpar;And Made It Open Source&rpar;](https://dev.to/vamsi_krishna_1467562fd82/i-built-an-ai-powered-database-query-optimizer-and-made-it-open-source-2h7k)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-174b)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-8j0)
+- [Your Application Was Secure. The Framework Wasn&#39;t: Understanding Apache Struts](https://dev.to/arashad_dodhiya_0e4bdba5a/your-application-was-secure-the-framework-wasnt-understanding-apache-struts-2b0l)
+- [Your Application Was Secure. The Framework Wasn&#39;t: Understanding Apache Struts](https://dev.to/arashad_dodhiya_0e4bdba5a/your-application-was-secure-the-framework-wasnt-understanding-apache-struts-2b0l)
+- [Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices](https://dev.to/dancodingbr/building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices-2h6e)
+- [EFIM Deployment - Utility](https://dev.to/moonshee/efim-deployment-utility-7di)
+- [Broken Reference Chains in FHIR Narratives](https://dev.to/black_flow_f64ebf0bdf6fde/broken-reference-chains-in-fhir-narratives-igo)
+- [Broken Reference Chains in FHIR Narratives](https://dev.to/black_flow_f64ebf0bdf6fde/broken-reference-chains-in-fhir-narratives-igo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
