@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Azure Cosmos DB vs MongoDB for FastAPI — Which One Should You Use?](https://dev.to/ptp2308/azure-cosmos-db-vs-mongodb-for-fastapi-which-one-should-you-use-gik)
-- [Catch MCP Tool-Schema Drift in 10 Minutes &lpar;Live Demo + Optional Watch&rpar;](https://dev.to/kioiek/catch-mcp-tool-schema-drift-in-10-minutes-live-demo-optional-watch-4ao2)
-- [I Escaped a Privileged Kubernetes Container — Here&#39;s What Falco Saw](https://dev.to/chrisazzo/i-escaped-a-privileged-kubernetes-container-heres-what-falco-saw-1cbg)
-- [How I Deployed a Cryptominer Into My Kubernetes Cluster — and Caught It With Falco](https://dev.to/chrisazzo/how-i-deployed-a-cryptominer-into-my-kubernetes-cluster-and-caught-it-with-falco-5hnj)
-- [Building High-Performance E-Commerce Sites for Specialty Beverage Stores](https://dev.to/alexis_vitre_cd2e187da346/building-high-performance-e-commerce-sites-for-specialty-beverage-stores-32a0)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-pan)
+- [Your Microservices Aren&#39;t Microservices](https://dev.to/qodors/your-microservices-arent-microservices-598o)
+- [My one-line installer would run anything it downloaded over 500 bytes](https://dev.to/tiltedlunar123/my-one-line-installer-would-run-anything-it-downloaded-over-500-bytes-2j8e)
+- [Best Nepal Tour Package from Gorakhpur – Explore Nepal with India Tourist Taxi](https://dev.to/shubham_verma_9747392e859/best-nepal-tour-package-from-gorakhpur-explore-nepal-with-india-tourist-taxi-4b5k)
+- [Enterprises Are Quietly Moving Their AI Back On-Premises. Here Is Why.](https://dev.to/arnav_sharma_25c1c7572a20/enterprises-are-quietly-moving-their-ai-back-on-premises-here-is-why-4ohg)
+- [Great Stack to Doesn&#39;t Work Bonus: REST vs GraphQL vs gRPC: When to Use What](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-rest-vs-graphql-vs-grpc-when-to-use-what-1h6i)
+- [Ending the &quot;It works on my machine&quot; era 🛠️](https://dev.to/upsun/ending-the-it-works-on-my-machine-era-3jg1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
