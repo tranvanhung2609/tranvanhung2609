@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1gjh)
-- [Top 5 Trusted Sites to Buy Old GitHub Accounts &lpar;Aged &amp; ...](https://dev.to/jackelynhopson3rzqn/top-5-trusted-sites-to-buy-old-github-accounts-aged--35an)
-- [Navigating the Purchase of Aged GitHub Accounts Securely](https://dev.to/jackelynhopson3rzqn/navigating-the-purchase-of-aged-github-accounts-securely-3bpg)
-- [The 10.12 Sites Guide to Buying Old Yahoo Accounts in](https://dev.to/jackelynhopson3rzqn/the-1012-sites-guide-to-buying-old-yahoo-accounts-in-5f9o)
-- [Reliable Places to Purchase Old Yahoo Accounts Online in](https://dev.to/jackelynhopson3rzqn/reliable-places-to-purchase-old-yahoo-accounts-online-in-1oj0)
-- [The 10 Sites Guide to Buying Old Yahoo Accounts in](https://dev.to/jackelynhopson3rzqn/the-10-sites-guide-to-buying-old-yahoo-accounts-in-4340)
+- [☁️ Azure Cosmos DB vs MongoDB for FastAPI — Which One Should You Use?](https://dev.to/ptp2308/azure-cosmos-db-vs-mongodb-for-fastapi-which-one-should-you-use-gik)
+- [Catch MCP Tool-Schema Drift in 10 Minutes &lpar;Live Demo + Optional Watch&rpar;](https://dev.to/kioiek/catch-mcp-tool-schema-drift-in-10-minutes-live-demo-optional-watch-4ao2)
+- [I Escaped a Privileged Kubernetes Container — Here&#39;s What Falco Saw](https://dev.to/chrisazzo/i-escaped-a-privileged-kubernetes-container-heres-what-falco-saw-1cbg)
+- [How I Deployed a Cryptominer Into My Kubernetes Cluster — and Caught It With Falco](https://dev.to/chrisazzo/how-i-deployed-a-cryptominer-into-my-kubernetes-cluster-and-caught-it-with-falco-5hnj)
+- [Building High-Performance E-Commerce Sites for Specialty Beverage Stores](https://dev.to/alexis_vitre_cd2e187da346/building-high-performance-e-commerce-sites-for-specialty-beverage-stores-32a0)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-pan)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
