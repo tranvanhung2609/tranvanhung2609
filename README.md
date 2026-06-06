@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Application Was Secure. The Framework Wasn&#39;t: Understanding Apache Struts](https://dev.to/arashad_dodhiya_0e4bdba5a/your-application-was-secure-the-framework-wasnt-understanding-apache-struts-2b0l)
-- [Your Application Was Secure. The Framework Wasn&#39;t: Understanding Apache Struts](https://dev.to/arashad_dodhiya_0e4bdba5a/your-application-was-secure-the-framework-wasnt-understanding-apache-struts-2b0l)
-- [Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices](https://dev.to/dancodingbr/building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices-2h6e)
-- [EFIM Deployment - Utility](https://dev.to/moonshee/efim-deployment-utility-7di)
-- [Broken Reference Chains in FHIR Narratives](https://dev.to/black_flow_f64ebf0bdf6fde/broken-reference-chains-in-fhir-narratives-igo)
-- [Broken Reference Chains in FHIR Narratives](https://dev.to/black_flow_f64ebf0bdf6fde/broken-reference-chains-in-fhir-narratives-igo)
+- [Decodificando as Telas de Erro do Windows: Um Guia Técnico para Devs](https://dev.to/klebes/decodificando-as-telas-de-erro-do-windows-um-guia-tecnico-para-devs-d3n)
+- [A Spec-Driven AI-Assisted Development with Github Spec Kit](https://dev.to/anand_jaisy_2f7644a12001b/a-spec-driven-ai-assisted-development-with-github-spec-kit-1n7l)
+- [CI/CD Build Cache Management: Time Savings and Infrastructure Costs](https://dev.to/merbayerp/cicd-build-cache-management-time-savings-and-infrastructure-costs-3ap1)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1f8l)
+- [Building Monetizable AI Tools: From Concept to Revenue](https://dev.to/techblogs/building-monetizable-ai-tools-from-concept-to-revenue-2fh7)
+- [Building Monetizable AI Tools: From Concept to Revenue](https://dev.to/techblogs/building-monetizable-ai-tools-from-concept-to-revenue-2fh7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
