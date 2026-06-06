@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Decodificando as Telas de Erro do Windows: Um Guia Técnico para Devs](https://dev.to/klebes/decodificando-as-telas-de-erro-do-windows-um-guia-tecnico-para-devs-d3n)
-- [A Spec-Driven AI-Assisted Development with Github Spec Kit](https://dev.to/anand_jaisy_2f7644a12001b/a-spec-driven-ai-assisted-development-with-github-spec-kit-1n7l)
-- [CI/CD Build Cache Management: Time Savings and Infrastructure Costs](https://dev.to/merbayerp/cicd-build-cache-management-time-savings-and-infrastructure-costs-3ap1)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1f8l)
-- [Building Monetizable AI Tools: From Concept to Revenue](https://dev.to/techblogs/building-monetizable-ai-tools-from-concept-to-revenue-2fh7)
-- [Building Monetizable AI Tools: From Concept to Revenue](https://dev.to/techblogs/building-monetizable-ai-tools-from-concept-to-revenue-2fh7)
+- [Your Flask App Will Break on Railway Unless You Do This First](https://dev.to/kuberns_cloud/your-flask-app-will-break-on-railway-unless-you-do-this-first-5646)
+- [Zapier vs n8n vs Make: Enterprise Automation Costs](https://dev.to/chasebot/zapier-vs-n8n-vs-make-enterprise-automation-costs-623)
+- [The Internet Has Become Too American to Trust](https://dev.to/crescevo/the-internet-has-become-too-american-to-trust-2ol0)
+- [Cloud Engineering After DevOps: The Platform Engineering Era Has Arrived](https://dev.to/cygnetone/cloud-engineering-after-devops-the-platform-engineering-era-has-arrived-3a1g)
+- [Engineering the Frictionless Web: Mitigating Multi-Tier Redirection and Telemetry Bloat in 2026 🌐](https://dev.to/darasem_9351c04dfc03d625e/engineering-the-frictionless-web-mitigating-multi-tier-redirection-and-telemetry-bloat-in-2026-1p66)
+- [Earn More From Your Crypto: Yield Farming and Staking on AlienFi](https://dev.to/alienfi45/earn-more-from-your-crypto-yield-farming-and-staking-on-alienfi-2b3d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
