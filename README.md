@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Software Factory Is a Dark Kitchen. The $1,000 Nobody Mentions.](https://dev.to/rentierdigital/your-software-factory-is-a-dark-kitchen-the-1000-nobody-mentions-39h1)
-- [On-Device Debugging And JUnit 5](https://dev.to/codenameone/on-device-debugging-and-junit-5-245)
-- [LLM-Assisted Deploy: You Save Typing, Not Thinking](https://dev.to/s_a_shkuratov/llm-assisted-deploy-you-save-typing-not-thinking-5h91)
-- [Cron Syntax Explained: The 5 Fields and the Expressions You&#39;ll Actually Use &lpar;with a free generator&rpar;](https://dev.to/forglydev/cron-syntax-explained-the-5-fields-and-the-expressions-youll-actually-use-with-a-free-generator-58k6)
-- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975)
-- [Top Benefits of Enrolling in DevOps Training in BTM](https://dev.to/priya_de63b9bbdc89115d0cf/top-benefits-of-enrolling-in-devops-training-in-btm-2ji)
+- [Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge](https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb)
+- [Buy Verified Payoneer Accounts for Freelancers &amp; Online Businesses from smmgetusa.com](https://dev.to/leonorehutcherson771md/buy-verified-payoneer-accounts-for-freelancers-online-businesses-from-smmgetusacom-49pf)
+- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3781)
+- [Closing the execution gap: a series](https://dev.to/thearun85/closing-the-execution-gap-a-series-3490)
+- [Why Traditional Vulnerability Scans Are Costing Multi-Cloud Enterprise Security](https://dev.to/biztechpulsehub/why-traditional-vulnerability-scans-are-costing-multi-cloud-enterprise-security-3319)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
