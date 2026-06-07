@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge](https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb)
-- [Buy Verified Payoneer Accounts for Freelancers &amp; Online Businesses from smmgetusa.com](https://dev.to/leonorehutcherson771md/buy-verified-payoneer-accounts-for-freelancers-online-businesses-from-smmgetusacom-49pf)
-- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3781)
-- [Closing the execution gap: a series](https://dev.to/thearun85/closing-the-execution-gap-a-series-3490)
-- [Why Traditional Vulnerability Scans Are Costing Multi-Cloud Enterprise Security](https://dev.to/biztechpulsehub/why-traditional-vulnerability-scans-are-costing-multi-cloud-enterprise-security-3319)
+- [We Built a Single MCP Endpoint for 36 Business APIs - Here&#39;s What We Learned](https://dev.to/corpusiq/we-built-a-single-mcp-endpoint-for-36-business-apis-heres-what-we-learned-5g58)
+- [I added custom cron scheduling to my Hetzner backup SaaS &lpar;and why no competitor has it&rpar;](https://dev.to/danrovito/i-added-custom-cron-scheduling-to-my-hetzner-backup-saas-and-why-no-competitor-has-it-4j3c)
+- [I Broke a Chatbot With a Prompt Change. Then I Built the Tool That Would&#39;ve Caught It.](https://dev.to/decimozs/i-broke-a-chatbot-with-a-prompt-change-then-i-built-the-tool-that-wouldve-caught-it-m1g)
+- [AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers](https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-958)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4c8i)
+- [The Debugging Should Start Before The Bug.](https://dev.to/scarab-systems/scarab-was-not-built-just-to-clean-up-drift-2pl3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
