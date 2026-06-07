@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Hermes AI with Slack: A Step-by-Step Guide](https://dev.to/mdismail_e830c2c4f43ae37/how-to-integrate-hermes-ai-with-slack-a-step-by-step-guide-204c)
-- [Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the &quot;Craft&quot; of Engineering](https://dev.to/bumbulik0/beyond-the-8x-productivity-myth-a-40-year-perspective-on-recursive-ai-and-the-craft-of-bk8)
-- [Constructors of File Class in Java](https://dev.to/priya_k_9427a2e692abd3ddb/constructors-of-file-class-in-java-2kih)
-- [Steam Networking dispara el ping a 120ms en Israel desde el 13 de marzo](https://dev.to/lu1tr0n/steam-networking-dispara-el-ping-a-120ms-en-israel-desde-el-13-de-marzo-3gjf)
-- [AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)
-- [Migrating from Go to Rust](https://dev.to/crescevo/migrating-from-go-to-rust-5ahl)
+- [AI, OAuth, And Other Platform APIs In The Core](https://dev.to/codenameone/ai-oauth-and-other-platform-apis-in-the-core-nd2)
+- [Fixing the Tauri v2 white screen in production &lpar;and the 6 release bugs right behind it&rpar;](https://dev.to/leo_zhang_0141218398e1788/fixing-the-tauri-v2-white-screen-in-production-and-the-6-release-bugs-right-behind-it-16jk)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plc)
+- [Security Audit of 6 Python Projects: 25 Issues Found &amp; Fixed](https://dev.to/justjinoit/security-audit-of-6-python-projects-25-issues-found-fixed-187b)
+- [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-40p5)
+- [Web Developer Travis McCracken on Scaling Down: Backend Minimalism](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-168k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
