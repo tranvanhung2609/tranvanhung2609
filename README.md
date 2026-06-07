@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Single MCP Endpoint for 36 Business APIs - Here&#39;s What We Learned](https://dev.to/corpusiq/we-built-a-single-mcp-endpoint-for-36-business-apis-heres-what-we-learned-5g58)
-- [I added custom cron scheduling to my Hetzner backup SaaS &lpar;and why no competitor has it&rpar;](https://dev.to/danrovito/i-added-custom-cron-scheduling-to-my-hetzner-backup-saas-and-why-no-competitor-has-it-4j3c)
-- [I Broke a Chatbot With a Prompt Change. Then I Built the Tool That Would&#39;ve Caught It.](https://dev.to/decimozs/i-broke-a-chatbot-with-a-prompt-change-then-i-built-the-tool-that-wouldve-caught-it-m1g)
-- [AI Cost Attribution: A Request-Level FinOps Playbook for Platform Engineers](https://dev.to/void_stitch/ai-cost-attribution-a-request-level-finops-playbook-for-platform-engineers-958)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4c8i)
-- [The Debugging Should Start Before The Bug.](https://dev.to/scarab-systems/scarab-was-not-built-just-to-clean-up-drift-2pl3)
+- [How to Integrate Hermes AI with Slack: A Step-by-Step Guide](https://dev.to/mdismail_e830c2c4f43ae37/how-to-integrate-hermes-ai-with-slack-a-step-by-step-guide-204c)
+- [Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the &quot;Craft&quot; of Engineering](https://dev.to/bumbulik0/beyond-the-8x-productivity-myth-a-40-year-perspective-on-recursive-ai-and-the-craft-of-bk8)
+- [Constructors of File Class in Java](https://dev.to/priya_k_9427a2e692abd3ddb/constructors-of-file-class-in-java-2kih)
+- [Steam Networking dispara el ping a 120ms en Israel desde el 13 de marzo](https://dev.to/lu1tr0n/steam-networking-dispara-el-ping-a-120ms-en-israel-desde-el-13-de-marzo-3gjf)
+- [AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)
+- [Migrating from Go to Rust](https://dev.to/crescevo/migrating-from-go-to-rust-5ahl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
