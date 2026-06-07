@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI, OAuth, And Other Platform APIs In The Core](https://dev.to/codenameone/ai-oauth-and-other-platform-apis-in-the-core-nd2)
-- [Fixing the Tauri v2 white screen in production &lpar;and the 6 release bugs right behind it&rpar;](https://dev.to/leo_zhang_0141218398e1788/fixing-the-tauri-v2-white-screen-in-production-and-the-6-release-bugs-right-behind-it-16jk)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plc)
-- [Security Audit of 6 Python Projects: 25 Issues Found &amp; Fixed](https://dev.to/justjinoit/security-audit-of-6-python-projects-25-issues-found-fixed-187b)
-- [6개 프로젝트 보안 감사: 25개 이슈 발견 수정 기록](https://dev.to/justjinoit/6gae-peurojegteu-boan-gamsa-25gae-isyu-balgyeon-sujeong-girog-40p5)
-- [Web Developer Travis McCracken on Scaling Down: Backend Minimalism](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-scaling-down-backend-minimalism-168k)
+- [From a Broken-Screen Laptop to a 24/7 Home Server](https://dev.to/mavsankar/from-a-broken-screen-laptop-to-a-247-home-server-50ho)
+- [Build log: 5 checks caught my fake readiness signal](https://dev.to/milo_antaeus_784320e2f2f9/build-log-5-checks-caught-my-fake-readiness-signal-cmn)
+- [Understanding Docker Using a Tiny Python Application &lpar;A Beginner-Friendly Walkthrough&rpar;](https://dev.to/sanjayghosh/understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough-3232)
+- [Domain Rating vs. Domain Authority: Which SEO Metric Actually Matters?](https://dev.to/julianneagu/domain-rating-vs-domain-authority-which-seo-metric-actually-matters-2dpl)
+- [32/60 Days System Design Questions!](https://dev.to/thejoud1997/3260-days-system-design-questions-288j)
+- [The Invisible Invoice: The Cost of Building Software Without Understanding It](https://dev.to/leonpennings/the-invisible-invoice-the-cost-of-building-software-without-understanding-it-4c25)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
