@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Struggling to Gain Posting Privileges on r/LocalLLaMA: Seeking Help](https://dev.to/yiqinumber1/struggling-to-gain-posting-privileges-on-rlocalllama-seeking-help-28ed)
-- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
-- [Two Layers Your AI-SDLC Metrics Are Missing](https://dev.to/todd_linnertz_871a076f68e/two-layers-your-ai-sdlc-metrics-are-missing-4mje)
-- [Building a Kubernetes Operator from Scratch with operator-sdk](https://dev.to/sandeshojha/building-a-kubernetes-operator-from-scratch-with-operator-sdk-576k)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-10g4)
-- [Backstage vs Port vs Cortex: When to Stop Self-Hosting](https://dev.to/indra_gustiprasetya_a80a/backstage-vs-port-vs-cortex-when-to-stop-self-hosting-4pgn)
+- [Project Loom and Reactive Programming: Competing or Complementary?](https://dev.to/morpheus-vera/project-loom-and-reactive-programming-competing-or-complementary-4d9e)
+- [SonarQube vs Kolega: why a code quality tool keeps getting sold as a security tool](https://dev.to/muhammad_hasan/sonarqube-vs-kolega-why-a-code-quality-tool-keeps-getting-sold-as-a-security-tool-1ej1)
+- [Your private GitHub repo CI is one quota away from going red](https://dev.to/mjmirza/your-private-github-repo-ci-is-one-quota-away-from-going-red-3673)
+- [Longest Subarray With Sum K](https://dev.to/jaspreet_singh_86ae1740ac/longest-subarray-with-sum-k-28pc)
+- [Terraform vs Pulumi vs Ansible: IaC for small teams](https://dev.to/ayinedjimi-consultants/terraform-vs-pulumi-vs-ansible-iac-for-small-teams-3p3m)
+- [How Datacenters Actually Work: A Walk Through the Building Nobody Sees](https://dev.to/abhi1628/how-datacenters-actually-work-a-walk-through-the-building-nobody-sees-1mhm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
