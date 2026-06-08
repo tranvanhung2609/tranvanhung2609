@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Project Loom and Reactive Programming: Competing or Complementary?](https://dev.to/morpheus-vera/project-loom-and-reactive-programming-competing-or-complementary-4d9e)
-- [SonarQube vs Kolega: why a code quality tool keeps getting sold as a security tool](https://dev.to/muhammad_hasan/sonarqube-vs-kolega-why-a-code-quality-tool-keeps-getting-sold-as-a-security-tool-1ej1)
-- [Your private GitHub repo CI is one quota away from going red](https://dev.to/mjmirza/your-private-github-repo-ci-is-one-quota-away-from-going-red-3673)
-- [Longest Subarray With Sum K](https://dev.to/jaspreet_singh_86ae1740ac/longest-subarray-with-sum-k-28pc)
-- [Terraform vs Pulumi vs Ansible: IaC for small teams](https://dev.to/ayinedjimi-consultants/terraform-vs-pulumi-vs-ansible-iac-for-small-teams-3p3m)
-- [How Datacenters Actually Work: A Walk Through the Building Nobody Sees](https://dev.to/abhi1628/how-datacenters-actually-work-a-walk-through-the-building-nobody-sees-1mhm)
+- [LLM Cost Attribution Per Request: How to Track OpenAI and Anthropic Spend by Team and Feature](https://dev.to/void_stitch/llm-cost-attribution-per-request-how-to-track-openai-and-anthropic-spend-by-team-and-feature-36di)
+- [Self-Host Postgres or Use Supabase? Here&#39;s How to Decide](https://dev.to/pavel-hostim/self-host-postgres-or-use-supabase-heres-how-to-decide-2d1h)
+- [Web Developer Travis McCracken on Why Travis McCracken Switched to Go from Node.js](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-travis-mccracken-switched-to-go-from-nodejs-1c1i)
+- [Top Remote Tech Jobs This Week — June 8, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-june-8-2026-2pbi)
+- [A Step-by-Step Process of Hosting a Static Website on Microsoft Azure.](https://dev.to/egbe_fredrick_f196b536d7d/a-step-by-step-process-of-hosting-a-static-website-on-microsoft-azure-2bbo)
+- [Secure Remote Access Made Simple with GuJumpgate](https://dev.to/matengtian/secure-remote-access-made-simple-with-gujumpgate-881)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
