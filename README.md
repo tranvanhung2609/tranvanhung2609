@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From a Broken-Screen Laptop to a 24/7 Home Server](https://dev.to/mavsankar/from-a-broken-screen-laptop-to-a-247-home-server-50ho)
-- [Build log: 5 checks caught my fake readiness signal](https://dev.to/milo_antaeus_784320e2f2f9/build-log-5-checks-caught-my-fake-readiness-signal-cmn)
-- [Understanding Docker Using a Tiny Python Application &lpar;A Beginner-Friendly Walkthrough&rpar;](https://dev.to/sanjayghosh/understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough-3232)
-- [Domain Rating vs. Domain Authority: Which SEO Metric Actually Matters?](https://dev.to/julianneagu/domain-rating-vs-domain-authority-which-seo-metric-actually-matters-2dpl)
-- [32/60 Days System Design Questions!](https://dev.to/thejoud1997/3260-days-system-design-questions-288j)
-- [The Invisible Invoice: The Cost of Building Software Without Understanding It](https://dev.to/leonpennings/the-invisible-invoice-the-cost-of-building-software-without-understanding-it-4c25)
+- [Struggling to Gain Posting Privileges on r/LocalLLaMA: Seeking Help](https://dev.to/yiqinumber1/struggling-to-gain-posting-privileges-on-rlocalllama-seeking-help-28ed)
+- [Day 28 — 🔭 Monitoring &amp; Observability Part One](https://dev.to/17j/day-28-monitoring-observability-part-one-1f13)
+- [Two Layers Your AI-SDLC Metrics Are Missing](https://dev.to/todd_linnertz_871a076f68e/two-layers-your-ai-sdlc-metrics-are-missing-4mje)
+- [Building a Kubernetes Operator from Scratch with operator-sdk](https://dev.to/sandeshojha/building-a-kubernetes-operator-from-scratch-with-operator-sdk-576k)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-10g4)
+- [Backstage vs Port vs Cortex: When to Stop Self-Hosting](https://dev.to/indra_gustiprasetya_a80a/backstage-vs-port-vs-cortex-when-to-stop-self-hosting-4pgn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
