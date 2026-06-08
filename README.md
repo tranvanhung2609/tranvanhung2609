@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [LLM Cost Attribution Per Request: How to Track OpenAI and Anthropic Spend by Team and Feature](https://dev.to/void_stitch/llm-cost-attribution-per-request-how-to-track-openai-and-anthropic-spend-by-team-and-feature-36di)
-- [Self-Host Postgres or Use Supabase? Here&#39;s How to Decide](https://dev.to/pavel-hostim/self-host-postgres-or-use-supabase-heres-how-to-decide-2d1h)
-- [Web Developer Travis McCracken on Why Travis McCracken Switched to Go from Node.js](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-travis-mccracken-switched-to-go-from-nodejs-1c1i)
-- [Top Remote Tech Jobs This Week — June 8, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-june-8-2026-2pbi)
-- [A Step-by-Step Process of Hosting a Static Website on Microsoft Azure.](https://dev.to/egbe_fredrick_f196b536d7d/a-step-by-step-process-of-hosting-a-static-website-on-microsoft-azure-2bbo)
-- [Secure Remote Access Made Simple with GuJumpgate](https://dev.to/matengtian/secure-remote-access-made-simple-with-gujumpgate-881)
+- [Capacity Planning for Startups](https://dev.to/samson_tanimawo/capacity-planning-for-startups-4m90)
+- [The Cloud is a Scam &lpar;For 90% of Your Projects&rpar;](https://dev.to/renato_silva_71eef0fc385f/the-cloud-is-a-scam-for-90-of-your-projects-2fdj)
+- [The Cloud is a Scam &lpar;For 90% of Your Projects&rpar;](https://dev.to/renato_silva_71eef0fc385f/the-cloud-is-a-scam-for-90-of-your-projects-2fdj)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33b4)
+- [Testing More Without Slowing Releases: A Practical Memo for Engineering Teams](https://dev.to/randomsquirrel802/testing-more-without-slowing-releases-a-practical-memo-for-engineering-teams-2d9d)
+- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
