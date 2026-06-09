@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The AI did it&quot; is not an audit answer](https://dev.to/igorganapolsky/the-ai-did-it-is-not-an-audit-answer-3c33)
-- [Building a Metadata-Driven Runtime API Platform for Analytics Systems](https://dev.to/__013f9fb3e56/building-a-metadata-driven-runtime-api-platform-for-analytics-systems-4ohd)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2ofc)
-- [Why Java?](https://dev.to/aj_arul/why-java-nnn)
-- [Docker Pass vs Docker Secret: What Is the Difference?](https://dev.to/sujaypillai/docker-pass-vs-docker-secret-what-is-the-difference-33l7)
-- [Open-source SRE methodology skills an AI agent can load. Apache-2.0, runnable offline against fixtures, no credentials.](https://dev.to/louisatanyshift/open-source-sre-methodology-skills-an-ai-agent-can-load-apache-20-runnable-offline-against-3olc)
+- [Building toymq: a from-scratch persistent message broker in Go](https://dev.to/prajwalmahajan101/building-toymq-a-from-scratch-persistent-message-broker-in-go-ob7)
+- [Your server has open doors you don&#39;t know about.](https://dev.to/sovrab/your-server-has-open-doors-you-dont-know-about-535f)
+- [Order to running server in minutes: how automated provisioning works](https://dev.to/overnight_hostinginc_7f/order-to-running-server-in-minutes-how-automated-provisioning-works-1k4p)
+- [NAT IPv4 vs a dedicated IP — what budget VPS buyers should know](https://dev.to/overnight_hostinginc_7f/nat-ipv4-vs-a-dedicated-ip-what-budget-vps-buyers-should-know-3one)
+- [A Cognitive Benchmark for Code-RAG Retrieval: Part 1 — Methodology](https://dev.to/miftakhov/a-cognitive-benchmark-for-code-rag-retrieval-part-1-methodology-3m7l)
+- [Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe](https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
