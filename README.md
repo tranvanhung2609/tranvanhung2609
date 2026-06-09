@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The moment an OpenClaw prompt should become a skill, script, or n8n job](https://dev.to/lars_winstand/the-moment-an-openclaw-prompt-should-become-a-skill-script-or-n8n-job-29oe)
-- [Commitment discounts vs spot when each saves more](https://dev.to/muskan_8abedcc7e12/commitment-discounts-vs-spot-when-each-saves-more-3032)
-- [💰 Cost Optimization in Serverless: How to Reduce Cloud Costs Without Sacrificing Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/cost-optimization-in-serverless-how-to-reduce-cloud-costs-without-sacrificing-performance-4797)
-- [OpenTelemetry Observability Guide: How to Optimize Metrics, Logs, and Traces at Scale](https://dev.to/tejaswita_soni/opentelemetry-observability-guide-how-to-optimize-metrics-logs-and-traces-at-scale-1ni4)
-- [Building a Low-Latency Voice AI Sales Agent with ElevenLabs and n8n &lpar;End-to-End Blueprint&rpar;](https://dev.to/whoisalfaz/building-a-low-latency-voice-ai-sales-agent-with-elevenlabs-and-n8n-end-to-end-blueprint-n7)
-- [The Architecture of Zero Overhead: Building a Pure Client-Side Front Matter Generator for Publishers](https://dev.to/sufyanism/the-architecture-of-zero-overhead-building-a-pure-client-side-front-matter-generator-for-publishers-230b)
+- [&quot;The AI did it&quot; is not an audit answer](https://dev.to/igorganapolsky/the-ai-did-it-is-not-an-audit-answer-3c33)
+- [Building a Metadata-Driven Runtime API Platform for Analytics Systems](https://dev.to/__013f9fb3e56/building-a-metadata-driven-runtime-api-platform-for-analytics-systems-4ohd)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2ofc)
+- [Why Java?](https://dev.to/aj_arul/why-java-nnn)
+- [Docker Pass vs Docker Secret: What Is the Difference?](https://dev.to/sujaypillai/docker-pass-vs-docker-secret-what-is-the-difference-33l7)
+- [Open-source SRE methodology skills an AI agent can load. Apache-2.0, runnable offline against fixtures, no credentials.](https://dev.to/louisatanyshift/open-source-sre-methodology-skills-an-ai-agent-can-load-apache-20-runnable-offline-against-3olc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
