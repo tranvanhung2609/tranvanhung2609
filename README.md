@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PocketBase Review: A Backend, Database, and Auth in One Go Binary](https://dev.to/pickuma/pocketbase-review-a-backend-database-and-auth-in-one-go-binary-1jh4)
-- [Caddy vs Nginx in 2026: Which Reverse Proxy Should You Run?](https://dev.to/pickuma/caddy-vs-nginx-in-2026-which-reverse-proxy-should-you-run-4h9i)
-- [Authentik Review: Self-Hosted SSO and Identity for Small Teams](https://dev.to/pickuma/authentik-review-self-hosted-sso-and-identity-for-small-teams-1nkd)
-- [FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API &lpar;Pydantic and Data Validation&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-1l35)
-- [What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)
-- [Linux Process Management Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-process-management-explained-simply-45f5)
+- [The moment an OpenClaw prompt should become a skill, script, or n8n job](https://dev.to/lars_winstand/the-moment-an-openclaw-prompt-should-become-a-skill-script-or-n8n-job-29oe)
+- [Commitment discounts vs spot when each saves more](https://dev.to/muskan_8abedcc7e12/commitment-discounts-vs-spot-when-each-saves-more-3032)
+- [💰 Cost Optimization in Serverless: How to Reduce Cloud Costs Without Sacrificing Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/cost-optimization-in-serverless-how-to-reduce-cloud-costs-without-sacrificing-performance-4797)
+- [OpenTelemetry Observability Guide: How to Optimize Metrics, Logs, and Traces at Scale](https://dev.to/tejaswita_soni/opentelemetry-observability-guide-how-to-optimize-metrics-logs-and-traces-at-scale-1ni4)
+- [Building a Low-Latency Voice AI Sales Agent with ElevenLabs and n8n &lpar;End-to-End Blueprint&rpar;](https://dev.to/whoisalfaz/building-a-low-latency-voice-ai-sales-agent-with-elevenlabs-and-n8n-end-to-end-blueprint-n7)
+- [The Architecture of Zero Overhead: Building a Pure Client-Side Front Matter Generator for Publishers](https://dev.to/sufyanism/the-architecture-of-zero-overhead-building-a-pure-client-side-front-matter-generator-for-publishers-230b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
