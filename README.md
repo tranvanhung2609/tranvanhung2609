@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Capacity Planning for Startups](https://dev.to/samson_tanimawo/capacity-planning-for-startups-4m90)
-- [The Cloud is a Scam &lpar;For 90% of Your Projects&rpar;](https://dev.to/renato_silva_71eef0fc385f/the-cloud-is-a-scam-for-90-of-your-projects-2fdj)
-- [The Cloud is a Scam &lpar;For 90% of Your Projects&rpar;](https://dev.to/renato_silva_71eef0fc385f/the-cloud-is-a-scam-for-90-of-your-projects-2fdj)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-33b4)
-- [Testing More Without Slowing Releases: A Practical Memo for Engineering Teams](https://dev.to/randomsquirrel802/testing-more-without-slowing-releases-a-practical-memo-for-engineering-teams-2d9d)
-- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea)
+- [PocketBase Review: A Backend, Database, and Auth in One Go Binary](https://dev.to/pickuma/pocketbase-review-a-backend-database-and-auth-in-one-go-binary-1jh4)
+- [Caddy vs Nginx in 2026: Which Reverse Proxy Should You Run?](https://dev.to/pickuma/caddy-vs-nginx-in-2026-which-reverse-proxy-should-you-run-4h9i)
+- [Authentik Review: Self-Hosted SSO and Identity for Small Teams](https://dev.to/pickuma/authentik-review-self-hosted-sso-and-identity-for-small-teams-1nkd)
+- [FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API &lpar;Pydantic and Data Validation&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-1l35)
+- [What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)
+- [Linux Process Management Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-process-management-explained-simply-45f5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
