@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Tests That Don&#39;t Lie, Part 2: The Mockito Trap and In-Memory Implementations](https://dev.to/camilyed/tests-that-dont-lie-part-2the-mockito-trap-and-in-memory-implementations-j02)
-- [I Built My Own API Gateway in Rust — Here&#39;s What I Learned](https://dev.to/gudhalarya/i-built-my-own-api-gateway-in-rust-heres-what-i-learned-38ne)
-- [Proxy OpenAI Through Kong AI Gateway on Kubernetes](https://dev.to/thegatewayguy/proxy-openai-through-kong-ai-gateway-on-kubernetes-1p83)
-- [Inngest + Next.js: The Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/inngest-nextjs-the-complete-guide-2026-2i33)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-gik)
-- [Key Concepts:](https://dev.to/inyongnation/key-concepts-bhg)
+- [Engineering Design Document: Reusable Observability Platform V2](https://dev.to/adeolu102/engineering-design-document-reusable-observability-platform-v2-54gb)
+- [Build a DevOps Slack Agent with Cosmic: From &quot;What Broke?&quot; to PR in One Conversation](https://dev.to/tonyspiro/build-a-devops-slack-agent-with-cosmic-from-what-broke-to-pr-in-one-conversation-3jcp)
+- [Who&#39;s watching private repos turn public? We leaked 75 AWS keys to find out](https://dev.to/peternovakdev/whos-watching-private-repos-turn-public-we-leaked-75-aws-keys-to-find-out-cn5)
+- [My AI agent answered 488 times a session. It shipped nothing.](https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j)
+- [Introduction to DevOps for Beginners.](https://dev.to/lotanna_obianefo/introduction-to-devops-for-beginners-513l)
+- [I Replaced Our Commercial Artifact Registry With a Free One After a 5x Renewal Price Hike. Here&#39;s Everything That Broke.](https://dev.to/thasami/i-replaced-our-commercial-artifact-registry-with-a-free-one-after-a-5x-renewal-price-heres-1e9e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
