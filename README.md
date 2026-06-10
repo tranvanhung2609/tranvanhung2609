@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building toymq: a from-scratch persistent message broker in Go](https://dev.to/prajwalmahajan101/building-toymq-a-from-scratch-persistent-message-broker-in-go-ob7)
-- [Your server has open doors you don&#39;t know about.](https://dev.to/sovrab/your-server-has-open-doors-you-dont-know-about-535f)
-- [Order to running server in minutes: how automated provisioning works](https://dev.to/overnight_hostinginc_7f/order-to-running-server-in-minutes-how-automated-provisioning-works-1k4p)
-- [NAT IPv4 vs a dedicated IP — what budget VPS buyers should know](https://dev.to/overnight_hostinginc_7f/nat-ipv4-vs-a-dedicated-ip-what-budget-vps-buyers-should-know-3one)
-- [A Cognitive Benchmark for Code-RAG Retrieval: Part 1 — Methodology](https://dev.to/miftakhov/a-cognitive-benchmark-for-code-rag-retrieval-part-1-methodology-3m7l)
-- [Building a Cloud-Native Multimedia Archive with Angular, Bun, AWS Fargate and Amazon Transcribe](https://dev.to/jesusrodrigo/building-a-cloud-native-multimedia-archive-with-angular-bun-aws-fargate-and-amazon-transcribe-15pk)
+- [Introducción a Azure DevOps: Guía para comenzar con la plataforma de DevOps de Microsoft](https://dev.to/ricardo_vallejosanchez_3/introduccion-a-azure-devops-guia-para-comenzar-con-la-plataforma-de-devops-de-microsoft-ljl)
+- [Migrate Grafana Dashboards from Elasticsearch to Tencent Cloud CLS](https://dev.to/tencentcloud-cls/migrate-grafana-dashboards-from-elasticsearch-to-tencent-cloud-cls-2h52)
+- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-2oli)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3m2o)
+- [I Analyzed 500+ AI Tasks: Here&#39;s Exactly Where Developers Waste Money &lpar;Data Inside&rpar;](https://dev.to/rafsilva85/i-analyzed-500-ai-tasks-heres-exactly-where-developers-waste-money-data-inside-3fi9)
+- [The Spec That Doesn&#39;t Lie](https://dev.to/diyaburman/the-spec-that-doesnt-lie-5a00)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
