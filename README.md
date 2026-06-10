@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Introducción a Azure DevOps: Guía para comenzar con la plataforma de DevOps de Microsoft](https://dev.to/ricardo_vallejosanchez_3/introduccion-a-azure-devops-guia-para-comenzar-con-la-plataforma-de-devops-de-microsoft-ljl)
-- [Migrate Grafana Dashboards from Elasticsearch to Tencent Cloud CLS](https://dev.to/tencentcloud-cls/migrate-grafana-dashboards-from-elasticsearch-to-tencent-cloud-cls-2h52)
-- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-2oli)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3m2o)
-- [I Analyzed 500+ AI Tasks: Here&#39;s Exactly Where Developers Waste Money &lpar;Data Inside&rpar;](https://dev.to/rafsilva85/i-analyzed-500-ai-tasks-heres-exactly-where-developers-waste-money-data-inside-3fi9)
-- [The Spec That Doesn&#39;t Lie](https://dev.to/diyaburman/the-spec-that-doesnt-lie-5a00)
+- [The Brain reacts now](https://dev.to/mihaibuildsdev/the-brain-reacts-now-13a8)
+- [Trang Sức Cao Cấp – Xu Hướng Làm Đẹp Tinh Tế Giúp Tôn Vinh Phong Cách Và Đẳng Cấp](https://dev.to/trangnhoaccessories_trang/trang-suc-cao-cap-xu-huong-lam-dep-tinh-te-giup-ton-vinh-phong-cach-va-dang-cap-20li)
+- [Why I Stopped Using reset&lpar;&rpar; and end&lpar;&rpar; in PHP &lpar;And What I Use Now&rpar;](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1h1)
+- [Great Stack to Doesn&#39;t Work #7 — Observability: &quot;400 Dashboards, Zero Insight&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-7-observability-400-dashboards-zero-insight-2knl)
+- [I Learned Ansible From Scratch for My Open-Source Project — Here&#39;s the Full Breakdown](https://dev.to/d1vyanshukumar/i-learned-ansible-from-scratch-for-my-open-source-project-heres-the-full-breakdown-3eh6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
