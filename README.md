@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Brain reacts now](https://dev.to/mihaibuildsdev/the-brain-reacts-now-13a8)
-- [Trang Sức Cao Cấp – Xu Hướng Làm Đẹp Tinh Tế Giúp Tôn Vinh Phong Cách Và Đẳng Cấp](https://dev.to/trangnhoaccessories_trang/trang-suc-cao-cap-xu-huong-lam-dep-tinh-te-giup-ton-vinh-phong-cach-va-dang-cap-20li)
-- [Why I Stopped Using reset&lpar;&rpar; and end&lpar;&rpar; in PHP &lpar;And What I Use Now&rpar;](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1h1)
-- [Great Stack to Doesn&#39;t Work #7 — Observability: &quot;400 Dashboards, Zero Insight&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-7-observability-400-dashboards-zero-insight-2knl)
-- [I Learned Ansible From Scratch for My Open-Source Project — Here&#39;s the Full Breakdown](https://dev.to/d1vyanshukumar/i-learned-ansible-from-scratch-for-my-open-source-project-heres-the-full-breakdown-3eh6)
+- [Tests That Don&#39;t Lie, Part 2: The Mockito Trap and In-Memory Implementations](https://dev.to/camilyed/tests-that-dont-lie-part-2the-mockito-trap-and-in-memory-implementations-j02)
+- [I Built My Own API Gateway in Rust — Here&#39;s What I Learned](https://dev.to/gudhalarya/i-built-my-own-api-gateway-in-rust-heres-what-i-learned-38ne)
+- [Proxy OpenAI Through Kong AI Gateway on Kubernetes](https://dev.to/thegatewayguy/proxy-openai-through-kong-ai-gateway-on-kubernetes-1p83)
+- [Inngest + Next.js: The Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/inngest-nextjs-the-complete-guide-2026-2i33)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-gik)
+- [Key Concepts:](https://dev.to/inyongnation/key-concepts-bhg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
