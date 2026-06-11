@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Scarab Field Lab Is Public: A Case File Repo for Diagnostic Field Tests](https://dev.to/scarab-systems/scarab-field-lab-is-public-a-case-file-repo-for-diagnostic-field-tests-2f23)
-- [🔒 Securely connecting MinIO with Python client using TLS and IAM policies](https://dev.to/ptp2308/securely-connecting-minio-with-python-client-using-tls-and-iam-policies-13mo)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d20)
-- [Unofficial Delinea Secret Server Cross‑Tenant Migration Tool &lpar;GUI + Automation&rpar; — Sharing with the community](https://dev.to/vijaya_reddy_81cd6c5ba239/unofficial-delinea-secret-server-cross-tenant-migration-tool-gui-automation-sharing-with-the-1f5e)
-- [ATC-HHMMSS-L LED Wall Clock for Industrial Time Display](https://dev.to/phuc_bach_22e/atc-hhmmss-l-led-wall-clock-for-industrial-time-display-2mpl)
-- [What an Intelligent Observability Maturity Model Means for Cloud Operations](https://dev.to/tencentcloud-cls/what-an-intelligent-observability-maturity-model-means-for-cloud-operations-32hi)
+- [Is Your IPv4 Block Blacklisted? Checking a /24 the DNSBL Way](https://dev.to/kohanevich/is-your-ipv4-block-blacklisted-checking-a-24-the-dnsbl-way-3043)
+- [Show HN: Apitype – generate Zod schemas from any JSON API, no spec required](https://dev.to/jayeshbansal/show-hn-apitype-generate-zod-schemas-from-any-json-api-no-spec-required-576d)
+- [Vault vs AWS Secrets Manager vs Doppler: Secrets Management Compared](https://dev.to/ayinedjimi-consultants/vault-vs-aws-secrets-manager-vs-doppler-secrets-management-compared-563n)
+- [A safer pattern for authenticated automation: vault-backed sessions](https://dev.to/anakin_writers/a-safer-pattern-for-authenticated-automation-vault-backed-sessions-1mn5)
+- [What Makes VPN Infrastructure Production-Ready?](https://dev.to/fyre_way_8aa340ac6df987c1/what-makes-vpn-infrastructure-production-ready-32b)
+- [Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps](https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-2911)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
