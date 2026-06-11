@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Design Document: Reusable Observability Platform V2](https://dev.to/adeolu102/engineering-design-document-reusable-observability-platform-v2-54gb)
-- [Build a DevOps Slack Agent with Cosmic: From &quot;What Broke?&quot; to PR in One Conversation](https://dev.to/tonyspiro/build-a-devops-slack-agent-with-cosmic-from-what-broke-to-pr-in-one-conversation-3jcp)
-- [Who&#39;s watching private repos turn public? We leaked 75 AWS keys to find out](https://dev.to/peternovakdev/whos-watching-private-repos-turn-public-we-leaked-75-aws-keys-to-find-out-cn5)
-- [My AI agent answered 488 times a session. It shipped nothing.](https://dev.to/yurukusa/my-ai-agent-answered-488-times-a-session-it-shipped-nothing-3a9j)
-- [Introduction to DevOps for Beginners.](https://dev.to/lotanna_obianefo/introduction-to-devops-for-beginners-513l)
-- [I Replaced Our Commercial Artifact Registry With a Free One After a 5x Renewal Price Hike. Here&#39;s Everything That Broke.](https://dev.to/thasami/i-replaced-our-commercial-artifact-registry-with-a-free-one-after-a-5x-renewal-price-heres-1e9e)
+- [Scarab Field Lab Is Public: A Case File Repo for Diagnostic Field Tests](https://dev.to/scarab-systems/scarab-field-lab-is-public-a-case-file-repo-for-diagnostic-field-tests-2f23)
+- [🔒 Securely connecting MinIO with Python client using TLS and IAM policies](https://dev.to/ptp2308/securely-connecting-minio-with-python-client-using-tls-and-iam-policies-13mo)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d20)
+- [Unofficial Delinea Secret Server Cross‑Tenant Migration Tool &lpar;GUI + Automation&rpar; — Sharing with the community](https://dev.to/vijaya_reddy_81cd6c5ba239/unofficial-delinea-secret-server-cross-tenant-migration-tool-gui-automation-sharing-with-the-1f5e)
+- [ATC-HHMMSS-L LED Wall Clock for Industrial Time Display](https://dev.to/phuc_bach_22e/atc-hhmmss-l-led-wall-clock-for-industrial-time-display-2mpl)
+- [What an Intelligent Observability Maturity Model Means for Cloud Operations](https://dev.to/tencentcloud-cls/what-an-intelligent-observability-maturity-model-means-for-cloud-operations-32hi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
