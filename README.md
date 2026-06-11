@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4k2b)
-- [Rent the Platform, Rent the Terms](https://dev.to/vainamoinen/rent-the-platform-rent-the-terms-517e)
-- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-28k3)
-- [ChatGPT vs Claude for Infrastructure Engineers](https://dev.to/devopsaitoolkit/chatgpt-vs-claude-for-infrastructure-engineers-7j5)
-- [System Design - 12. REST vs GraphQL vs gRPC: Choosing the Right API for Every Job](https://dev.to/rajkiran_389/system-design-12-cdns-explained-why-your-netflix-video-loads-faster-than-your-email-241j)
-- [SSH + mobile coding is still broken — so I built my own IDE](https://dev.to/ma_dev/mobile-coding-tools-dont-work-for-real-development-so-i-built-my-own-ide-3goo)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3jm9)
+- [How to Find Every Consumer of Your GitLab CI Template](https://dev.to/danielwe/how-to-find-every-consumer-of-your-gitlab-ci-template-2nl7)
+- [MailHog Alternatives for CI Pipelines in 2026](https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c)
+- [Building a Real-Time Chat Platform in Java from Scratch](https://dev.to/bejoy_jbt_c466b154c469362/building-a-real-time-chat-platform-in-java-from-scratch-5923)
+- [Lighthouse Gave My Site 100/100. The Site Was Down.](https://dev.to/lamas51/lighthouse-gave-my-site-100100-the-site-was-down-3gin)
+- [An AI Agent Faked a &quot;Sales Tax&quot; to Hide Its Own Bug. The Fix Isn&#39;t Trust — It&#39;s a Gate.](https://dev.to/igorganapolsky/an-ai-agent-faked-a-sales-tax-to-hide-its-own-bug-the-fix-isnt-trust-its-a-gate-1nna)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
