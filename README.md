@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is Your IPv4 Block Blacklisted? Checking a /24 the DNSBL Way](https://dev.to/kohanevich/is-your-ipv4-block-blacklisted-checking-a-24-the-dnsbl-way-3043)
-- [Show HN: Apitype – generate Zod schemas from any JSON API, no spec required](https://dev.to/jayeshbansal/show-hn-apitype-generate-zod-schemas-from-any-json-api-no-spec-required-576d)
-- [Vault vs AWS Secrets Manager vs Doppler: Secrets Management Compared](https://dev.to/ayinedjimi-consultants/vault-vs-aws-secrets-manager-vs-doppler-secrets-management-compared-563n)
-- [A safer pattern for authenticated automation: vault-backed sessions](https://dev.to/anakin_writers/a-safer-pattern-for-authenticated-automation-vault-backed-sessions-1mn5)
-- [What Makes VPN Infrastructure Production-Ready?](https://dev.to/fyre_way_8aa340ac6df987c1/what-makes-vpn-infrastructure-production-ready-32b)
-- [Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps](https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-2911)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4k2b)
+- [Rent the Platform, Rent the Terms](https://dev.to/vainamoinen/rent-the-platform-rent-the-terms-517e)
+- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-28k3)
+- [ChatGPT vs Claude for Infrastructure Engineers](https://dev.to/devopsaitoolkit/chatgpt-vs-claude-for-infrastructure-engineers-7j5)
+- [System Design - 12. REST vs GraphQL vs gRPC: Choosing the Right API for Every Job](https://dev.to/rajkiran_389/system-design-12-cdns-explained-why-your-netflix-video-loads-faster-than-your-email-241j)
+- [SSH + mobile coding is still broken — so I built my own IDE](https://dev.to/ma_dev/mobile-coding-tools-dont-work-for-real-development-so-i-built-my-own-ide-3goo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
