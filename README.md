@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Schema Markup to Your Website](https://dev.to/schemify/how-to-add-schema-markup-to-your-website-1p3j)
-- [Java Wrapper Classes Explained: Autoboxing, Unboxing, Null Values, Memory, and Real-World Use Cases](https://dev.to/yuktisays/java-wrapper-classes-explained-autoboxing-unboxing-null-values-memory-and-real-world-use-cases-c2i)
-- [MCP Java SDK – Build Model Context Protocol servers in Java](https://dev.to/6000fish/mcp-java-sdk-build-model-context-protocol-servers-in-java-in6)
-- [How I Built a Prompt-to-Music AI Agent &amp; Browser-Based Karaoke Separator with React &amp; ONNX](https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3)
-- [用 Java 5 分钟写一个 MCP Server：我开源了 MCP Java SDK](https://dev.to/6000fish/yong-java-5-fen-zhong-xie-ge-mcp-serverwo-kai-yuan-liao-mcp-java-sdk-41da)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-544h)
+- [Cloudflare vs Nginx vs Caddy: Reverse Proxy for Developers in 2026](https://dev.to/ayinedjimi-consultants/cloudflare-vs-nginx-vs-caddy-reverse-proxy-for-developers-in-2026-1o8o)
+- [Cloudflare WAF Free Plan: Block Bots Without Paying](https://dev.to/iurii_rogulia/cloudflare-waf-free-plan-block-bots-without-paying-2ief)
+- [Learning Linux Task Automation with Cron and Crontab](https://dev.to/darshan_b/learning-linux-task-automation-with-cron-and-crontab-50gp)
+- [When code becomes cheaper, what still makes an engineer valuable?](https://dev.to/ethan-zhang-dev/when-code-becomes-cheaper-what-still-makes-an-engineer-valuable-24hm)
+- [Claude 全球宕机 3 小时复盘：为什么你的 AI Agent 不能只有一家 LLM](https://dev.to/hhhfs9s7y9code/claude-quan-qiu-dang-ji-3-xiao-shi-fu-pan-wei-shi-yao-ni-de-ai-agent-bu-neng-zhi-you-jia-llm-42m5)
+- [2026 年 6 月 Claude 全球宕机 3 小时复盘：你的 AI Agent 还在单点依赖吗？](https://dev.to/hhhfs9s7y9code/2026-nian-6-yue-claude-quan-qiu-dang-ji-3-xiao-shi-fu-pan-ni-de-ai-agent-huan-zai-dan-dian-yi-lai-ma--3030)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
