@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3jm9)
-- [How to Find Every Consumer of Your GitLab CI Template](https://dev.to/danielwe/how-to-find-every-consumer-of-your-gitlab-ci-template-2nl7)
-- [MailHog Alternatives for CI Pipelines in 2026](https://dev.to/zerodrop/mailhog-alternatives-for-ci-pipelines-in-2025-5d0c)
-- [Building a Real-Time Chat Platform in Java from Scratch](https://dev.to/bejoy_jbt_c466b154c469362/building-a-real-time-chat-platform-in-java-from-scratch-5923)
-- [Lighthouse Gave My Site 100/100. The Site Was Down.](https://dev.to/lamas51/lighthouse-gave-my-site-100100-the-site-was-down-3gin)
-- [An AI Agent Faked a &quot;Sales Tax&quot; to Hide Its Own Bug. The Fix Isn&#39;t Trust — It&#39;s a Gate.](https://dev.to/igorganapolsky/an-ai-agent-faked-a-sales-tax-to-hide-its-own-bug-the-fix-isnt-trust-its-a-gate-1nna)
+- [How to Add Schema Markup to Your Website](https://dev.to/schemify/how-to-add-schema-markup-to-your-website-1p3j)
+- [Java Wrapper Classes Explained: Autoboxing, Unboxing, Null Values, Memory, and Real-World Use Cases](https://dev.to/yuktisays/java-wrapper-classes-explained-autoboxing-unboxing-null-values-memory-and-real-world-use-cases-c2i)
+- [MCP Java SDK – Build Model Context Protocol servers in Java](https://dev.to/6000fish/mcp-java-sdk-build-model-context-protocol-servers-in-java-in6)
+- [How I Built a Prompt-to-Music AI Agent &amp; Browser-Based Karaoke Separator with React &amp; ONNX](https://dev.to/elavarasan_shankar_d8cfcf/how-i-built-a-prompt-to-music-ai-agent-browser-based-karaoke-separator-with-react-onnx-12j3)
+- [用 Java 5 分钟写一个 MCP Server：我开源了 MCP Java SDK](https://dev.to/6000fish/yong-java-5-fen-zhong-xie-ge-mcp-serverwo-kai-yuan-liao-mcp-java-sdk-41da)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-544h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
