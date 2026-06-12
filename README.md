@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent&#39;s Mistakes Are a Free Preference Dataset. Stop Deleting Them.](https://dev.to/igorganapolsky/your-ai-agents-mistakes-are-a-free-preference-dataset-stop-deleting-them-457o)
-- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-19df)
-- [A PHP starter where the promises are CI jobs, not README adjectives](https://dev.to/k2gl/a-php-starter-where-the-promises-are-ci-jobs-not-readme-adjectives-4820)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1j77)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2lh9)
-- [Day 14 of #100DaysOfClickHouse: Understanding Nodes, Shards, and Replicas](https://dev.to/kanishga_subramani_49ad73/day-14-of-100daysofclickhouse-understanding-nodes-shards-and-replicas-12h5)
+- [3 Game-Changing Strategies to Grow Your GitHub Open-Source Project in 2026](https://dev.to/foreverzeezah/3-game-changing-strategies-to-grow-your-github-open-source-project-in-2026-6oj)
+- [How I Integrated Specmatic Contract Testing into a Real Banking API &lpar;ValueMeters&rpar;](https://dev.to/krameshr/how-i-integrated-specmatic-contract-testing-into-a-real-banking-api-valuemeters-cak)
+- [What is an .env file and why is it so important?](https://dev.to/ganeshbkrp/what-is-an-env-file-and-why-is-it-so-important-5h3d)
+- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
+- [DNS Deep Dive for Developers: Records, TTLs, and Debugging When Resolution Breaks](https://dev.to/veduis/dns-deep-dive-for-developers-records-ttls-and-debugging-when-resolution-breaks-49lb)
+- [Practical QA Skills in 2026: What Actually Breaks Modern Test Automation](https://dev.to/mellowthunder735/practical-qa-skills-in-2026-what-actually-breaks-modern-test-automation-49nh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
