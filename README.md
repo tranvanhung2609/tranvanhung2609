@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare vs Nginx vs Caddy: Reverse Proxy for Developers in 2026](https://dev.to/ayinedjimi-consultants/cloudflare-vs-nginx-vs-caddy-reverse-proxy-for-developers-in-2026-1o8o)
-- [Cloudflare WAF Free Plan: Block Bots Without Paying](https://dev.to/iurii_rogulia/cloudflare-waf-free-plan-block-bots-without-paying-2ief)
-- [Learning Linux Task Automation with Cron and Crontab](https://dev.to/darshan_b/learning-linux-task-automation-with-cron-and-crontab-50gp)
-- [When code becomes cheaper, what still makes an engineer valuable?](https://dev.to/ethan-zhang-dev/when-code-becomes-cheaper-what-still-makes-an-engineer-valuable-24hm)
-- [Claude 全球宕机 3 小时复盘：为什么你的 AI Agent 不能只有一家 LLM](https://dev.to/hhhfs9s7y9code/claude-quan-qiu-dang-ji-3-xiao-shi-fu-pan-wei-shi-yao-ni-de-ai-agent-bu-neng-zhi-you-jia-llm-42m5)
-- [2026 年 6 月 Claude 全球宕机 3 小时复盘：你的 AI Agent 还在单点依赖吗？](https://dev.to/hhhfs9s7y9code/2026-nian-6-yue-claude-quan-qiu-dang-ji-3-xiao-shi-fu-pan-ni-de-ai-agent-huan-zai-dan-dian-yi-lai-ma--3030)
+- [Your AI Agent&#39;s Mistakes Are a Free Preference Dataset. Stop Deleting Them.](https://dev.to/igorganapolsky/your-ai-agents-mistakes-are-a-free-preference-dataset-stop-deleting-them-457o)
+- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-19df)
+- [A PHP starter where the promises are CI jobs, not README adjectives](https://dev.to/k2gl/a-php-starter-where-the-promises-are-ci-jobs-not-readme-adjectives-4820)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1j77)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2lh9)
+- [Day 14 of #100DaysOfClickHouse: Understanding Nodes, Shards, and Replicas](https://dev.to/kanishga_subramani_49ad73/day-14-of-100daysofclickhouse-understanding-nodes-shards-and-replicas-12h5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
