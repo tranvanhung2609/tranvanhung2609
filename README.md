@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [☁️ How to store Terraform state in S3 with encryption](https://dev.to/ptp2308/how-to-store-terraform-state-in-s3-with-encryption-146h)
-- [# Cold Storage Temperature Monitoring System for Cold Chain Facilities](https://dev.to/phuc_bach_22e/-cold-storage-temperature-monitoring-system-for-cold-chain-facilities-39mp)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-15d)
-- [享元模式深度指南：内存优化的核心艺术](https://dev.to/tianxin/xiang-yuan-mo-shi-shen-du-zhi-nan-nei-cun-you-hua-de-he-xin-yi-zhu-2e82)
-- [Deploying Web Applications to Production: My 2026 Checklist](https://dev.to/yoo_tao_31d3d572d2d49bfeb/deploying-web-applications-to-production-my-2026-checklist-4lm0)
-- [AccInt: a Work Model for AI coding agents](https://dev.to/max_baluev_4390903d1f3998/accint-a-work-model-for-ai-coding-agents-427e)
+- [Git Branch Naming That Won&#39;t Make Your Team Hate You](https://dev.to/kaithorne/git-branch-naming-that-wont-make-your-team-hate-you-3bon)
+- [One CVE, four ignore files: unifying Trivy, Grype, Snyk and osv-scanner](https://dev.to/opscanopy/one-cve-four-ignore-files-unifying-trivy-grype-snyk-and-osv-scanner-4i0m)
+- [How to secure Azure storage with Managed identities for a web app](https://dev.to/emmanuel_banjo_df6d8074c7/how-to-secure-azure-storage-with-managed-identities-for-a-web-app-2i08)
+- [One CVE, four ignore files: unifying Trivy, Grype, Snyk and osv-scanner](https://dev.to/opscanopy/one-cve-four-ignore-files-unifying-trivy-grype-snyk-and-osv-scanner-4m57)
+- [Writing robust regular expressions for log lines](https://dev.to/opscanopy/writing-robust-regular-expressions-for-log-lines-269n)
+- [Shipping 12,000+ Lines Across 6 Systems in 19 Days: A Masterclass in Backend Architecture.](https://dev.to/rahim8050/shipping-12000-lines-across-6-systems-in-19-days-a-masterclass-in-backend-architecture-53an)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
