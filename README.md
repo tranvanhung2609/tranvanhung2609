@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Git Branch Naming That Won&#39;t Make Your Team Hate You](https://dev.to/kaithorne/git-branch-naming-that-wont-make-your-team-hate-you-3bon)
-- [One CVE, four ignore files: unifying Trivy, Grype, Snyk and osv-scanner](https://dev.to/opscanopy/one-cve-four-ignore-files-unifying-trivy-grype-snyk-and-osv-scanner-4i0m)
-- [How to secure Azure storage with Managed identities for a web app](https://dev.to/emmanuel_banjo_df6d8074c7/how-to-secure-azure-storage-with-managed-identities-for-a-web-app-2i08)
-- [One CVE, four ignore files: unifying Trivy, Grype, Snyk and osv-scanner](https://dev.to/opscanopy/one-cve-four-ignore-files-unifying-trivy-grype-snyk-and-osv-scanner-4m57)
-- [Writing robust regular expressions for log lines](https://dev.to/opscanopy/writing-robust-regular-expressions-for-log-lines-269n)
-- [Shipping 12,000+ Lines Across 6 Systems in 19 Days: A Masterclass in Backend Architecture.](https://dev.to/rahim8050/shipping-12000-lines-across-6-systems-in-19-days-a-masterclass-in-backend-architecture-53an)
+- [Vs Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-49np)
+- [Benefits of Our Research Paper Help](https://dev.to/qualifiedwritersuk/benefits-of-our-research-paper-help-49f8)
+- [Your Codename One App, Now A Native Mac App](https://dev.to/codenameone/your-codename-one-app-now-a-native-mac-app-4gio)
+- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-4aeo)
+- [The networking problem behind every &quot;random&quot; backend outage.](https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3)
+- [The networking problem behind every &quot;random&quot; backend outage.](https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
