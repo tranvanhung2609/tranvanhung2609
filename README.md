@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [3 Game-Changing Strategies to Grow Your GitHub Open-Source Project in 2026](https://dev.to/foreverzeezah/3-game-changing-strategies-to-grow-your-github-open-source-project-in-2026-6oj)
-- [How I Integrated Specmatic Contract Testing into a Real Banking API &lpar;ValueMeters&rpar;](https://dev.to/krameshr/how-i-integrated-specmatic-contract-testing-into-a-real-banking-api-valuemeters-cak)
-- [What is an .env file and why is it so important?](https://dev.to/ganeshbkrp/what-is-an-env-file-and-why-is-it-so-important-5h3d)
-- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
-- [DNS Deep Dive for Developers: Records, TTLs, and Debugging When Resolution Breaks](https://dev.to/veduis/dns-deep-dive-for-developers-records-ttls-and-debugging-when-resolution-breaks-49lb)
-- [Practical QA Skills in 2026: What Actually Breaks Modern Test Automation](https://dev.to/mellowthunder735/practical-qa-skills-in-2026-what-actually-breaks-modern-test-automation-49nh)
+- [☁️ How to store Terraform state in S3 with encryption](https://dev.to/ptp2308/how-to-store-terraform-state-in-s3-with-encryption-146h)
+- [# Cold Storage Temperature Monitoring System for Cold Chain Facilities](https://dev.to/phuc_bach_22e/-cold-storage-temperature-monitoring-system-for-cold-chain-facilities-39mp)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-15d)
+- [享元模式深度指南：内存优化的核心艺术](https://dev.to/tianxin/xiang-yuan-mo-shi-shen-du-zhi-nan-nei-cun-you-hua-de-he-xin-yi-zhu-2e82)
+- [Deploying Web Applications to Production: My 2026 Checklist](https://dev.to/yoo_tao_31d3d572d2d49bfeb/deploying-web-applications-to-production-my-2026-checklist-4lm0)
+- [AccInt: a Work Model for AI coding agents](https://dev.to/max_baluev_4390903d1f3998/accint-a-work-model-for-ai-coding-agents-427e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
