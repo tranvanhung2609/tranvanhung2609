@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Vs Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-tactical-timer-what-we-learned-building-random-tactical-timer-49np)
-- [Benefits of Our Research Paper Help](https://dev.to/qualifiedwritersuk/benefits-of-our-research-paper-help-49f8)
-- [Your Codename One App, Now A Native Mac App](https://dev.to/codenameone/your-codename-one-app-now-a-native-mac-app-4gio)
-- [Web Developer Travis McCracken on The Art of Dependency Injection in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-art-of-dependency-injection-in-go-4aeo)
-- [The networking problem behind every &quot;random&quot; backend outage.](https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3)
-- [The networking problem behind every &quot;random&quot; backend outage.](https://dev.to/gmoustakas/the-networking-problem-behind-every-random-backend-outage-ei3)
+- [Developer Take on: GameBoy Workboy](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-gameboy-workboy-27co)
+- [Buy WeChat Accounts Online - Fast Delivery &amp; Easy Setup](https://dev.to/hannah_worth_81b306043614/buy-wechat-accounts-online-fast-delivery-easy-setup-46mj)
+- [Best Place to Buy PayPal Accounts for Crypto Trading](https://dev.to/hannah_worth_81b306043614/best-place-to-buy-paypal-accounts-for-crypto-trading-5948)
+- [Optimizing Vercel Deployments for Faster Next.js Builds](https://dev.to/farukh/optimizing-vercel-deployments-for-faster-nextjs-builds-16hl)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3j61)
+- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-19i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
