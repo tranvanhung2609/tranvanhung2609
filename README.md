@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
-- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
-- [How to Cut Microsoft Agent Framework Costs With a Gateway Layer](https://dev.to/lynkr/how-to-cut-microsoft-agent-framework-costs-with-a-gateway-layer-5gke)
-- [ArgoCD Alternatives in 2026: 5 Real Options &lpar;and One Nobody Mentions&rpar;](https://dev.to/dspv/argocd-alternatives-in-2026-5-real-options-and-one-nobody-mentions-210k)
-- [Platform Engineering for AWS ECS Fargate Teams](https://dev.to/dspv/platform-engineering-for-aws-ecs-fargate-teams-3n34)
-- [ECS Task Definitions: Every Field, Common Mistakes, Best Practices](https://dev.to/dspv/ecs-task-definitions-every-field-common-mistakes-best-practices-14a7)
+- [Review Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-home-workout-timer-what-we-learned-building-random-tactical-timer-gfg)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-hj1)
+- [هل يمكن إرسال المستندات عن بعد؟](https://dev.to/sila_matar2233/hl-ymkn-rsl-lmstndt-n-bd-1h3l)
+- [Hello community!need help!](https://dev.to/lee_linda_bef436d0a2cd929/hello-communityneed-help-1m29)
+- [WebSockets, gRPC, And GraphQL In The Core](https://dev.to/codenameone/websockets-grpc-and-graphql-in-the-core-1pp)
+- [What Separates Good Engineers from Great Ones in Production Incidents](https://dev.to/youssef_elouafi_395f0957d/what-separates-good-engineers-from-great-ones-in-production-incidents-3097)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
