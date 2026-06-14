@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Review Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-home-workout-timer-what-we-learned-building-random-tactical-timer-gfg)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-hj1)
-- [هل يمكن إرسال المستندات عن بعد؟](https://dev.to/sila_matar2233/hl-ymkn-rsl-lmstndt-n-bd-1h3l)
-- [Hello community!need help!](https://dev.to/lee_linda_bef436d0a2cd929/hello-communityneed-help-1m29)
-- [WebSockets, gRPC, And GraphQL In The Core](https://dev.to/codenameone/websockets-grpc-and-graphql-in-the-core-1pp)
-- [What Separates Good Engineers from Great Ones in Production Incidents](https://dev.to/youssef_elouafi_395f0957d/what-separates-good-engineers-from-great-ones-in-production-incidents-3097)
+- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)
+- [Why I Built a New Memory Plugin for Hermes Agent](https://dev.to/abdallah/why-i-built-a-new-memory-plugin-for-hermes-agent-467n)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 07 – Jun 13, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-07-jun-13-2026-3np9)
+- [Ingress with CloudFlare + cert-manager: A Frontend-Friendly Tutorial](https://dev.to/sohanaakbar7/ingress-with-cloudflare-cert-manager-a-frontend-friendly-tutorial-1g0m)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4h55)
+- [UUID vs ULID vs NanoID: Which Identifier Should You Use in 2026?](https://dev.to/farasat6346138/uuid-vs-ulid-vs-nanoid-which-identifier-should-you-use-in-2026-3ffk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
