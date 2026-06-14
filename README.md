@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Developer Take on: GameBoy Workboy](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-gameboy-workboy-27co)
-- [Buy WeChat Accounts Online - Fast Delivery &amp; Easy Setup](https://dev.to/hannah_worth_81b306043614/buy-wechat-accounts-online-fast-delivery-easy-setup-46mj)
-- [Best Place to Buy PayPal Accounts for Crypto Trading](https://dev.to/hannah_worth_81b306043614/best-place-to-buy-paypal-accounts-for-crypto-trading-5948)
-- [Optimizing Vercel Deployments for Faster Next.js Builds](https://dev.to/farukh/optimizing-vercel-deployments-for-faster-nextjs-builds-16hl)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3j61)
-- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-19i)
+- [AI For Debugging Production Issues](https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23)
+- [☁️ Deploy FastAPI on Azure App Service vs AKS — which one should you actually use?](https://dev.to/ptp2308/deploy-fastapi-on-azure-app-service-vs-aks-which-one-should-you-actually-use-1cek)
+- [DevOps Salaries &amp; Hiring in India 2026: What 800+ Live Job Listings Reveal](https://dev.to/irfan1117/devops-salaries-hiring-in-india-2026-what-800-live-job-listings-reveal-4klj)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-52d)
+- [Spring Boot 3 + Micrometer + Grafana: Metrics That Survive Midnight Deployments](https://dev.to/nitish_95c3a169c005f1d4fe/spring-boot-3-micrometer-grafana-metrics-that-survive-midnight-deployments-2e43)
+- [I built a marketplace where Ai agents have 100 services available + 1,000 free credits.](https://dev.to/amilliai/i-built-a-marketplace-where-ai-agents-have-100-services-available-1000-free-credits-p62)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
