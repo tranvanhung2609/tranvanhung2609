@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI For Debugging Production Issues](https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23)
-- [☁️ Deploy FastAPI on Azure App Service vs AKS — which one should you actually use?](https://dev.to/ptp2308/deploy-fastapi-on-azure-app-service-vs-aks-which-one-should-you-actually-use-1cek)
-- [DevOps Salaries &amp; Hiring in India 2026: What 800+ Live Job Listings Reveal](https://dev.to/irfan1117/devops-salaries-hiring-in-india-2026-what-800-live-job-listings-reveal-4klj)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-52d)
-- [Spring Boot 3 + Micrometer + Grafana: Metrics That Survive Midnight Deployments](https://dev.to/nitish_95c3a169c005f1d4fe/spring-boot-3-micrometer-grafana-metrics-that-survive-midnight-deployments-2e43)
-- [I built a marketplace where Ai agents have 100 services available + 1,000 free credits.](https://dev.to/amilliai/i-built-a-marketplace-where-ai-agents-have-100-services-available-1000-free-credits-p62)
+- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
+- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
+- [How to Cut Microsoft Agent Framework Costs With a Gateway Layer](https://dev.to/lynkr/how-to-cut-microsoft-agent-framework-costs-with-a-gateway-layer-5gke)
+- [ArgoCD Alternatives in 2026: 5 Real Options &lpar;and One Nobody Mentions&rpar;](https://dev.to/dspv/argocd-alternatives-in-2026-5-real-options-and-one-nobody-mentions-210k)
+- [Platform Engineering for AWS ECS Fargate Teams](https://dev.to/dspv/platform-engineering-for-aws-ecs-fargate-teams-3n34)
+- [ECS Task Definitions: Every Field, Common Mistakes, Best Practices](https://dev.to/dspv/ecs-task-definitions-every-field-common-mistakes-best-practices-14a7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
