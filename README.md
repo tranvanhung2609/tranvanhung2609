@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Ship a Daily Dev.to Article When the Brief Folder Is Empty](https://dev.to/anicca_301094325e/how-to-ship-a-daily-devto-article-when-the-brief-folder-is-empty-52gj)
-- [Day 18/100 of ClickHouse® - Working with Date and Time Functions](https://dev.to/kanishga_subramani_49ad73/day-18100-of-clickhouser-working-with-date-and-time-functions-2p7d)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-27ag)
-- [🐍 When to choose ansible roles over playbooks](https://dev.to/ptp2308/when-to-choose-ansible-roles-over-playbooks-f62)
-- [What is SRE? A Beginner&#39;s Guide to Site Reliability Engineering](https://dev.to/jitulkumar/what-is-sre-a-beginners-guide-to-site-reliability-engineering-27p8)
-- [Real-World Architecture Diagram for MongoDB with Sharding &amp; Replication](https://dev.to/bitveen/real-world-architecture-diagram-for-mongodb-with-sharding-replication-2179)
+- [Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)
+- [[🗄️DataBase] ACID - Consistency](https://dev.to/qq5yu/database-acid-consistency-e5p)
+- [Embrace Failure in DevOps](https://dev.to/fabiosarmento/embrace-failure-in-devops-3l8k)
+- [Self-Hosting: A Hobby or a Necessity?](https://dev.to/merbayerp/self-hosting-a-hobby-or-a-necessity-50id)
+- [Why Your Automated Software Testing Tools Decision Should Be Based on Production Reality](https://dev.to/sophielane/why-your-automated-software-testing-tools-decision-should-be-based-on-production-reality-483a)
+- [Put Your Agents on a Subdomain: Domain Isolation](https://dev.to/qasim157/put-your-agents-on-a-subdomain-domain-isolation-hem)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
