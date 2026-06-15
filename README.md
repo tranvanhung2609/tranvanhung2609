@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)
-- [[🗄️DataBase] ACID - Consistency](https://dev.to/qq5yu/database-acid-consistency-e5p)
-- [Embrace Failure in DevOps](https://dev.to/fabiosarmento/embrace-failure-in-devops-3l8k)
-- [Self-Hosting: A Hobby or a Necessity?](https://dev.to/merbayerp/self-hosting-a-hobby-or-a-necessity-50id)
-- [Why Your Automated Software Testing Tools Decision Should Be Based on Production Reality](https://dev.to/sophielane/why-your-automated-software-testing-tools-decision-should-be-based-on-production-reality-483a)
-- [Put Your Agents on a Subdomain: Domain Isolation](https://dev.to/qasim157/put-your-agents-on-a-subdomain-domain-isolation-hem)
+- [Building a Career in SRE: From Junior to Staff](https://dev.to/samson_tanimawo/building-a-career-in-sre-from-junior-to-staff-39bk)
+- [How I Built an AI-Governed SDLC for Teams Using Claude Code and Cursor, All Running Locally on Docker](https://dev.to/sauvast/how-i-built-an-ai-governed-sdlc-for-teams-using-claude-code-and-cursor-all-running-locally-on-6p9)
+- [Claude Fable 5 Went from Free to Offline in 72 Hours — What I Learned About AI Coding Costs](https://dev.to/aplomb2/claude-fable-5-went-from-free-to-offline-in-72-hours-what-i-learned-about-ai-coding-costs-4faa)
+- [System Design: What Actually Happens When You Upload a File to Google Drive?](https://dev.to/krishnakanthlatya/system-design-what-actually-happens-when-you-upload-a-file-to-google-drive-ple)
+- [What is DevOps? A Plain English Guide](https://dev.to/agenticdevops/what-is-devops-a-plain-english-guide-chd)
+- [Chime Verified Account with Secure Account Covenant](https://dev.to/ejejej_dd4e734e98208dac8e/chime-verified-account-with-secure-account-covenant-59fm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
