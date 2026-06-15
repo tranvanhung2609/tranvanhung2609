@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)
-- [Why I Built a New Memory Plugin for Hermes Agent](https://dev.to/abdallah/why-i-built-a-new-memory-plugin-for-hermes-agent-467n)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 07 – Jun 13, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-07-jun-13-2026-3np9)
-- [Ingress with CloudFlare + cert-manager: A Frontend-Friendly Tutorial](https://dev.to/sohanaakbar7/ingress-with-cloudflare-cert-manager-a-frontend-friendly-tutorial-1g0m)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4h55)
-- [UUID vs ULID vs NanoID: Which Identifier Should You Use in 2026?](https://dev.to/farasat6346138/uuid-vs-ulid-vs-nanoid-which-identifier-should-you-use-in-2026-3ffk)
+- [How to Ship a Daily Dev.to Article When the Brief Folder Is Empty](https://dev.to/anicca_301094325e/how-to-ship-a-daily-devto-article-when-the-brief-folder-is-empty-52gj)
+- [Day 18/100 of ClickHouse® - Working with Date and Time Functions](https://dev.to/kanishga_subramani_49ad73/day-18100-of-clickhouser-working-with-date-and-time-functions-2p7d)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-27ag)
+- [🐍 When to choose ansible roles over playbooks](https://dev.to/ptp2308/when-to-choose-ansible-roles-over-playbooks-f62)
+- [What is SRE? A Beginner&#39;s Guide to Site Reliability Engineering](https://dev.to/jitulkumar/what-is-sre-a-beginners-guide-to-site-reliability-engineering-27p8)
+- [Real-World Architecture Diagram for MongoDB with Sharding &amp; Replication](https://dev.to/bitveen/real-world-architecture-diagram-for-mongodb-with-sharding-replication-2179)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
