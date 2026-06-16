@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent is inventing behavior — and you have no way to prove otherwise](https://dev.to/rudsoncarvalho/your-ai-agent-is-inventing-behavior-and-you-have-no-way-to-prove-otherwise-2c5e)
-- [50 Cloud &amp; DevOps Interview Questions and Answers &lpar;2026&rpar;](https://dev.to/dev_encyclopedia/50-cloud-devops-interview-questions-and-answers-2026-312d)
-- [🚀 Terraform deploy for Python Flask and Docker made easy](https://dev.to/ptp2308/terraform-deploy-for-python-flask-and-docker-made-easy-351l)
-- [Stop Re-Explaining Yourself to AI. Use This Instead.](https://dev.to/roshan_jaiswal_b3fb04eb75/stop-re-explaining-yourself-to-ai-use-this-instead-46ml)
-- [How I Built AI-Powered Log Triage in Go &lpar;and Made It 100x Cheaper with Fingerprinting&rpar;](https://dev.to/gg_0080/how-i-built-ai-powered-log-triage-in-go-and-made-it-100x-cheaper-with-fingerprinting-2eeb)
-- [Observability Practices in Modern Applications: A Practical Guide with Node.js and Grafana Cloud](https://dev.to/r3d_cr0wn/observability-practices-in-modern-applications-a-practical-guide-with-nodejs-and-grafana-cloud-16af)
+- [Local Webhook Development for Agent Inboxes](https://dev.to/qasim157/local-webhook-development-for-agent-inboxes-jpl)
+- [Test Email Flows in CI With Disposable Mailboxes](https://dev.to/qasim157/test-email-flows-in-ci-with-disposable-mailboxes-5f1j)
+- [Navigating the Challenges of Corporate AI: Why Businesses Struggle with Non-Deterministic Systems](https://dev.to/fabiosarmento/navigating-the-challenges-of-corporate-ai-why-businesses-struggle-with-non-deterministic-systems-411c)
+- [Azure Key Vault vs AWS Secrets Manager: Cutting Through the Cloud Marketing](https://dev.to/theprodsde/azure-key-vault-vs-aws-secrets-manager-cutting-through-the-cloud-marketing-5dmh)
+- [The Silent Budget Killer: Hidden Waste in Kubernetes Clusters](https://dev.to/zaved_akthar_7227/the-silent-budget-killer-hidden-waste-in-kubernetes-clusters-26nk)
+- [AI Risk Management: A Complete Guide for Modern Enterprises](https://dev.to/cheryl_dmahaffey_e677cc8/ai-risk-management-a-complete-guide-for-modern-enterprises-glg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
