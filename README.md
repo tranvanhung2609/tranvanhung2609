@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Local Webhook Development for Agent Inboxes](https://dev.to/qasim157/local-webhook-development-for-agent-inboxes-jpl)
-- [Test Email Flows in CI With Disposable Mailboxes](https://dev.to/qasim157/test-email-flows-in-ci-with-disposable-mailboxes-5f1j)
-- [Navigating the Challenges of Corporate AI: Why Businesses Struggle with Non-Deterministic Systems](https://dev.to/fabiosarmento/navigating-the-challenges-of-corporate-ai-why-businesses-struggle-with-non-deterministic-systems-411c)
-- [Azure Key Vault vs AWS Secrets Manager: Cutting Through the Cloud Marketing](https://dev.to/theprodsde/azure-key-vault-vs-aws-secrets-manager-cutting-through-the-cloud-marketing-5dmh)
-- [The Silent Budget Killer: Hidden Waste in Kubernetes Clusters](https://dev.to/zaved_akthar_7227/the-silent-budget-killer-hidden-waste-in-kubernetes-clusters-26nk)
-- [AI Risk Management: A Complete Guide for Modern Enterprises](https://dev.to/cheryl_dmahaffey_e677cc8/ai-risk-management-a-complete-guide-for-modern-enterprises-glg)
+- [41/60 Days System Design Questions](https://dev.to/thejoud1997/4160-days-system-design-questions-1lnm)
+- [Bridging Theory and Practice: Enhancing Go Backend Learning with Real-World Projects and Mentorship](https://dev.to/viklogix/bridging-theory-and-practice-enhancing-go-backend-learning-with-real-world-projects-and-mentorship-4k09)
+- [Web Developer Travis McCracken on The Case Against Too Many Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-case-against-too-many-microservices-amh)
+- [Routines vs Managed Agents: where recurring Claude work should live](https://dev.to/dzhuneyt/routines-vs-managed-agents-where-recurring-claude-work-should-live-cgn)
+- [From Localhost to the Stars: My Kubernetes Odyssey &lpar;aka How I Stopped Worrying and Learned to Love the Cluster&rpar;](https://dev.to/timevolt/from-localhost-to-the-stars-my-kubernetes-odyssey-aka-how-i-stopped-worrying-and-learned-to-love-5133)
+- [Getting Started with GoFr: A Highly Observable Go Framework](https://dev.to/suhaildevm/getting-started-with-gofr-a-highly-observable-go-framework-3l9b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
