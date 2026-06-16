@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [41/60 Days System Design Questions](https://dev.to/thejoud1997/4160-days-system-design-questions-1lnm)
-- [Bridging Theory and Practice: Enhancing Go Backend Learning with Real-World Projects and Mentorship](https://dev.to/viklogix/bridging-theory-and-practice-enhancing-go-backend-learning-with-real-world-projects-and-mentorship-4k09)
-- [Web Developer Travis McCracken on The Case Against Too Many Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-case-against-too-many-microservices-amh)
-- [Routines vs Managed Agents: where recurring Claude work should live](https://dev.to/dzhuneyt/routines-vs-managed-agents-where-recurring-claude-work-should-live-cgn)
-- [From Localhost to the Stars: My Kubernetes Odyssey &lpar;aka How I Stopped Worrying and Learned to Love the Cluster&rpar;](https://dev.to/timevolt/from-localhost-to-the-stars-my-kubernetes-odyssey-aka-how-i-stopped-worrying-and-learned-to-love-5133)
-- [Getting Started with GoFr: A Highly Observable Go Framework](https://dev.to/suhaildevm/getting-started-with-gofr-a-highly-observable-go-framework-3l9b)
+- [Deploying Authelia Open-Source Authentication and Authorization Gateway on Ubuntu 24.04](https://dev.to/vultr/deploying-authelia-open-source-authentication-and-authorization-gateway-on-ubuntu-2404-134)
+- [The Future of SRE: What the Next 5 Years Look Like](https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-2f8f)
+- [Most Kubernetes Alerts Are Noise Because They Ignore Change Events.](https://dev.to/kubeha_18/most-kubernetes-alerts-are-noise-because-they-ignore-change-events-2ag3)
+- [I Built a Local Apex Runtime - Nimbus](https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o)
+- [Extending Our Mission With Developer Endpoint Protection](https://dev.to/gitguardian/extending-our-mission-with-developer-endpoint-protection-4j0d)
+- [How AWS CloudFormation Changed My Deployments Forever](https://dev.to/blessador/how-aws-cloudformation-changed-my-deployments-forever-55n0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
