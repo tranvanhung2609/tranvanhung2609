@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Career in SRE: From Junior to Staff](https://dev.to/samson_tanimawo/building-a-career-in-sre-from-junior-to-staff-39bk)
-- [How I Built an AI-Governed SDLC for Teams Using Claude Code and Cursor, All Running Locally on Docker](https://dev.to/sauvast/how-i-built-an-ai-governed-sdlc-for-teams-using-claude-code-and-cursor-all-running-locally-on-6p9)
-- [Claude Fable 5 Went from Free to Offline in 72 Hours — What I Learned About AI Coding Costs](https://dev.to/aplomb2/claude-fable-5-went-from-free-to-offline-in-72-hours-what-i-learned-about-ai-coding-costs-4faa)
-- [System Design: What Actually Happens When You Upload a File to Google Drive?](https://dev.to/krishnakanthlatya/system-design-what-actually-happens-when-you-upload-a-file-to-google-drive-ple)
-- [What is DevOps? A Plain English Guide](https://dev.to/agenticdevops/what-is-devops-a-plain-english-guide-chd)
-- [Chime Verified Account with Secure Account Covenant](https://dev.to/ejejej_dd4e734e98208dac8e/chime-verified-account-with-secure-account-covenant-59fm)
+- [Your AI agent is inventing behavior — and you have no way to prove otherwise](https://dev.to/rudsoncarvalho/your-ai-agent-is-inventing-behavior-and-you-have-no-way-to-prove-otherwise-2c5e)
+- [50 Cloud &amp; DevOps Interview Questions and Answers &lpar;2026&rpar;](https://dev.to/dev_encyclopedia/50-cloud-devops-interview-questions-and-answers-2026-312d)
+- [🚀 Terraform deploy for Python Flask and Docker made easy](https://dev.to/ptp2308/terraform-deploy-for-python-flask-and-docker-made-easy-351l)
+- [Stop Re-Explaining Yourself to AI. Use This Instead.](https://dev.to/roshan_jaiswal_b3fb04eb75/stop-re-explaining-yourself-to-ai-use-this-instead-46ml)
+- [How I Built AI-Powered Log Triage in Go &lpar;and Made It 100x Cheaper with Fingerprinting&rpar;](https://dev.to/gg_0080/how-i-built-ai-powered-log-triage-in-go-and-made-it-100x-cheaper-with-fingerprinting-2eeb)
+- [Observability Practices in Modern Applications: A Practical Guide with Node.js and Grafana Cloud](https://dev.to/r3d_cr0wn/observability-practices-in-modern-applications-a-practical-guide-with-nodejs-and-grafana-cloud-16af)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
