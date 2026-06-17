@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Your Own AI Agent in 5 Minutes — No Kubernetes, No YAML, No Tears](https://dev.to/kunkun_cai_8b7536632c8d0/deploy-your-own-ai-agent-in-5-minutes-no-kubernetes-no-yaml-no-tears-pd1)
-- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-1i3b)
-- [Kth Permutation Sequence | Math + Greedy](https://dev.to/jaspreet_singh_86ae1740ac/kth-permutation-sequence-math-greedy-3d4h)
-- [5 Automation Mistakes That Cost Me Weeks &lpar;And How to Avoid Them&rpar;](https://dev.to/koihubagent/5-automation-mistakes-that-cost-me-weeks-and-how-to-avoid-them-c8o)
-- [Intellibooks Guide: AI Agents vs Agentic AI – What Every Business Leader Should Know](https://dev.to/intellibooks_ai/intellibooks-guide-ai-agents-vs-agentic-ai-what-every-business-leader-should-know-30o4)
-- [Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints](https://dev.to/jtorchia/spring-boot-actuator-what-to-expose-what-to-hide-and-what-to-check-before-adding-endpoints-272h)
+- [AWS SAA: 10 Core Concepts &lpar;Explained for Infrastructure Engineers&rpar;](https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7)
+- [How to Add AI to Your Existing SaaS Product — Without Rebuilding It](https://dev.to/outworktech/scaling-to-1m-users-the-architecture-decisions-that-actually-matter-2nkk)
+- [How to Handle 1M+ Users Without Breaking Your System](https://dev.to/outworktech/how-to-handle-1m-users-without-breaking-your-system-lf9)
+- [Secrets at Rest, Schemas at Scale — What&#39;s New in CtroEnv v1.1.0](https://dev.to/ctrotech/secrets-at-rest-schemas-at-scale-whats-new-in-ctroenv-v110-3gjf)
+- [5-Minute Post-Deploy Postmortem with SignalPilot](https://dev.to/aashu320/5-minute-post-deploy-postmortem-with-signalpilot-32je)
+- [Monorepo Environment Management at Scale](https://dev.to/ctrotech/monorepo-environment-management-at-scale-459o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
