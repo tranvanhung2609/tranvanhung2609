@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Authelia Open-Source Authentication and Authorization Gateway on Ubuntu 24.04](https://dev.to/vultr/deploying-authelia-open-source-authentication-and-authorization-gateway-on-ubuntu-2404-134)
-- [The Future of SRE: What the Next 5 Years Look Like](https://dev.to/samson_tanimawo/the-future-of-sre-what-the-next-5-years-look-like-2f8f)
-- [Most Kubernetes Alerts Are Noise Because They Ignore Change Events.](https://dev.to/kubeha_18/most-kubernetes-alerts-are-noise-because-they-ignore-change-events-2ag3)
-- [I Built a Local Apex Runtime - Nimbus](https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o)
-- [Extending Our Mission With Developer Endpoint Protection](https://dev.to/gitguardian/extending-our-mission-with-developer-endpoint-protection-4j0d)
-- [How AWS CloudFormation Changed My Deployments Forever](https://dev.to/blessador/how-aws-cloudformation-changed-my-deployments-forever-55n0)
+- [Don&#39;t Let Your IPAM Drift: Managing Leased IPv4 the API-First Way](https://dev.to/kohanevich/dont-let-your-ipam-drift-managing-leased-ipv4-the-api-first-way-1pmo)
+- [SharePoint silently retired the EnableAzureADB2BIntegration setting in May — and your old guest links break in July](https://dev.to/flarecanary/sharepoint-silently-retired-the-enableazureadb2bintegration-setting-in-may-and-your-old-guest-4jnd)
+- [The Hidden Linux Routing Issue That Broke My Deployment](https://dev.to/mohhddhassan/the-hidden-linux-routing-issue-that-broke-my-deployment-5813)
+- [⚙️ Locking Terraform State in S3 with Python](https://dev.to/ptp2308/locking-terraform-state-in-s3-with-python-gjk)
+- [When Context Windows Stop Mattering: The AI Stack That Actually Works](https://dev.to/aibughunter/when-context-windows-stop-mattering-the-ai-stack-that-actually-works-26kk)
+- [Linux Disk Usage Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-disk-usage-explained-simply-46l2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
