@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Let Your IPAM Drift: Managing Leased IPv4 the API-First Way](https://dev.to/kohanevich/dont-let-your-ipam-drift-managing-leased-ipv4-the-api-first-way-1pmo)
-- [SharePoint silently retired the EnableAzureADB2BIntegration setting in May — and your old guest links break in July](https://dev.to/flarecanary/sharepoint-silently-retired-the-enableazureadb2bintegration-setting-in-may-and-your-old-guest-4jnd)
-- [The Hidden Linux Routing Issue That Broke My Deployment](https://dev.to/mohhddhassan/the-hidden-linux-routing-issue-that-broke-my-deployment-5813)
-- [⚙️ Locking Terraform State in S3 with Python](https://dev.to/ptp2308/locking-terraform-state-in-s3-with-python-gjk)
-- [When Context Windows Stop Mattering: The AI Stack That Actually Works](https://dev.to/aibughunter/when-context-windows-stop-mattering-the-ai-stack-that-actually-works-26kk)
-- [Linux Disk Usage Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-disk-usage-explained-simply-46l2)
+- [Why AI Ops Still Needs a human in the loop at 50k Monthly Blast Radius](https://dev.to/muskan_8abedcc7e12/why-ai-ops-still-needs-a-human-in-the-loop-at-50k-monthly-blast-radius-3m80)
+- [AI ops is not aiops the closed loop distinction that changes everything](https://dev.to/muskan_8abedcc7e12/ai-ops-is-not-aiops-the-closed-loop-distinction-that-changes-everything-11kk)
+- [Postgres on Kubernetes in 2026: production setup](https://dev.to/muskan_8abedcc7e12/postgres-on-kubernetes-in-2026-production-setup-329d)
+- [Building POS Lite: A Full Stack Point of Sale System with Spring Boot, React and AWS](https://dev.to/guadalupe182/building-pos-lite-a-full-stack-point-of-sale-system-with-spring-boot-react-and-aws-4eh6)
+- [Building voice + AI agents from a backend background and how AI got me there](https://dev.to/indra_wk_9ee71ae747b30e58/building-voice-ai-agents-from-a-backend-background-and-how-ai-got-me-there-5ggm)
+- [How to Set Up GitHub Authentication and Repository Access in Salesforce DevOps](https://dev.to/ayaninsights/how-to-set-up-github-authentication-and-repository-access-in-salesforce-devops-5aga)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
