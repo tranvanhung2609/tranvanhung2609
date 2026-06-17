@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Ops Still Needs a human in the loop at 50k Monthly Blast Radius](https://dev.to/muskan_8abedcc7e12/why-ai-ops-still-needs-a-human-in-the-loop-at-50k-monthly-blast-radius-3m80)
-- [AI ops is not aiops the closed loop distinction that changes everything](https://dev.to/muskan_8abedcc7e12/ai-ops-is-not-aiops-the-closed-loop-distinction-that-changes-everything-11kk)
-- [Postgres on Kubernetes in 2026: production setup](https://dev.to/muskan_8abedcc7e12/postgres-on-kubernetes-in-2026-production-setup-329d)
-- [Building POS Lite: A Full Stack Point of Sale System with Spring Boot, React and AWS](https://dev.to/guadalupe182/building-pos-lite-a-full-stack-point-of-sale-system-with-spring-boot-react-and-aws-4eh6)
-- [Building voice + AI agents from a backend background and how AI got me there](https://dev.to/indra_wk_9ee71ae747b30e58/building-voice-ai-agents-from-a-backend-background-and-how-ai-got-me-there-5ggm)
-- [How to Set Up GitHub Authentication and Repository Access in Salesforce DevOps](https://dev.to/ayaninsights/how-to-set-up-github-authentication-and-repository-access-in-salesforce-devops-5aga)
+- [Deploy Your Own AI Agent in 5 Minutes — No Kubernetes, No YAML, No Tears](https://dev.to/kunkun_cai_8b7536632c8d0/deploy-your-own-ai-agent-in-5-minutes-no-kubernetes-no-yaml-no-tears-pd1)
+- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-1i3b)
+- [Kth Permutation Sequence | Math + Greedy](https://dev.to/jaspreet_singh_86ae1740ac/kth-permutation-sequence-math-greedy-3d4h)
+- [5 Automation Mistakes That Cost Me Weeks &lpar;And How to Avoid Them&rpar;](https://dev.to/koihubagent/5-automation-mistakes-that-cost-me-weeks-and-how-to-avoid-them-c8o)
+- [Intellibooks Guide: AI Agents vs Agentic AI – What Every Business Leader Should Know](https://dev.to/intellibooks_ai/intellibooks-guide-ai-agents-vs-agentic-ai-what-every-business-leader-should-know-30o4)
+- [Spring Boot Actuator: What to Expose, What to Hide, and What to Check Before Adding Endpoints](https://dev.to/jtorchia/spring-boot-actuator-what-to-expose-what-to-hide-and-what-to-check-before-adding-endpoints-272h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
