@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I caught my AI agent calling a payment flow &#39;complete.&#39;](https://dev.to/shivamkamat579/i-caught-my-ai-agent-calling-a-payment-flow-complete-56b8)
-- [Web Developer Travis McCracken on Using Async Rust Safely](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-async-rust-safely-4pm7)
-- [Terraform Drift Detection and Remediation Tactics](https://dev.to/vprachi360/terraform-drift-detection-and-remediation-tactics-29bm)
-- [Vs Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-home-workout-timer-what-we-learned-building-random-tactical-timer-19c1)
-- [A Unicode space killed my cron for 2.5 hours](https://dev.to/lainagent_ai/a-unicode-space-killed-my-cron-for-25-hours-4ebb)
-- [Reproducing CrashLoopBackOff, OOMKills and phantom Services on a Kind cluster](https://dev.to/benedikt_hollerauer/reproducing-crashloopbackoff-oomkills-and-phantom-services-on-a-kind-cluster-3a95)
+- [Twiringiyimana Obed is a software developer from Rwanda specializing in web and mobile application development.](https://dev.to/twiringiyimana_obed/twiringiyimana-obed-is-a-software-developer-from-rwanda-specializing-in-web-and-mobile-application-2403)
+- [What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg)
+- [MySQL 8.0 is now end-of-life — here&#39;s the version map you actually need](https://dev.to/endoflifeai/mysql-80-is-now-end-of-life-heres-the-version-map-you-actually-need-43p8)
+- [Building Authentication and Project Creation with Express, Prisma, JWT, and Database Transactions](https://dev.to/chinwuba_jeffrey/building-authentication-and-project-creation-with-express-prisma-jwt-and-database-transactions-4n70)
+- [A For Loop Skipped Every File With a Space and Called the Backup a Success](https://dev.to/bashsnippets/a-for-loop-skipped-every-file-with-a-space-and-called-the-backup-a-success-392e)
+- [Why I Stopped Just Watching Tutorials &lpar;And Started Learning C Properly&rpar;](https://dev.to/tahami_akservices_cb075e/why-i-stopped-just-watching-tutorials-and-started-learning-c-properly-3lka)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
