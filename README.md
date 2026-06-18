@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AWS SAA: 10 Core Concepts &lpar;Explained for Infrastructure Engineers&rpar;](https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7)
-- [How to Add AI to Your Existing SaaS Product — Without Rebuilding It](https://dev.to/outworktech/scaling-to-1m-users-the-architecture-decisions-that-actually-matter-2nkk)
-- [How to Handle 1M+ Users Without Breaking Your System](https://dev.to/outworktech/how-to-handle-1m-users-without-breaking-your-system-lf9)
-- [Secrets at Rest, Schemas at Scale — What&#39;s New in CtroEnv v1.1.0](https://dev.to/ctrotech/secrets-at-rest-schemas-at-scale-whats-new-in-ctroenv-v110-3gjf)
-- [5-Minute Post-Deploy Postmortem with SignalPilot](https://dev.to/aashu320/5-minute-post-deploy-postmortem-with-signalpilot-32je)
-- [Monorepo Environment Management at Scale](https://dev.to/ctrotech/monorepo-environment-management-at-scale-459o)
+- [⚙️ Kubernetes RBAC vs ServiceAccount permissions — which provides tighter security?](https://dev.to/ptp2308/kubernetes-rbac-vs-serviceaccount-permissions-which-provides-tighter-security-207k)
+- [Learning Java Became Easier When I Stopped Memorizing Code](https://dev.to/catnight_a_9f8d4f2f05a1b1/learning-java-became-easier-when-i-stopped-memorizing-code-1l10)
+- [Production CRUD in Java Without the Framework Tax](https://dev.to/sqlfirst_dev/production-crud-in-java-without-the-framework-tax-2n82)
+- [A passing security audit is a timestamp, not a verdict](https://dev.to/earthbound_misfit/a-passing-security-audit-is-a-timestamp-not-a-verdict-11h2)
+- [Deploy FastAPI to Cloud Run in Under 30 Minutes — With Terraform, WIF, and Secret Manager](https://dev.to/kdra-dev/deploy-fastapi-to-cloud-run-in-under-30-minutes-with-terraform-wif-and-secret-manager-5h6i)
+- [AI in the SDLC: What Engineering Leaders Get Wrong](https://dev.to/cponsonby/ai-in-the-sdlc-what-engineering-leaders-get-wrong-1822)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
