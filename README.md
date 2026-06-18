@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Sliding Window Rate Limiter in Redis for a Multi-Region Video API](https://dev.to/ahmet_gedik778845/building-a-sliding-window-rate-limiter-in-redis-for-a-multi-region-video-api-50ni)
-- [Day 43 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-43-of-learning-mern-stack-1cif)
-- [Day 42 Of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-42-of-learning-mern-stack-4008)
-- [Day 41 of Learning MERN stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke)
-- [Setting Up Pipelines and Connecting Environments in Salesforce DevOps Center](https://dev.to/ayaninsights/setting-up-pipelines-and-connecting-environments-in-salesforce-devops-center-1ni7)
-- [Day 40 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-40-of-learning-mern-stack-2lk1)
+- [I caught my AI agent calling a payment flow &#39;complete.&#39;](https://dev.to/shivamkamat579/i-caught-my-ai-agent-calling-a-payment-flow-complete-56b8)
+- [Web Developer Travis McCracken on Using Async Rust Safely](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-async-rust-safely-4pm7)
+- [Terraform Drift Detection and Remediation Tactics](https://dev.to/vprachi360/terraform-drift-detection-and-remediation-tactics-29bm)
+- [Vs Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-home-workout-timer-what-we-learned-building-random-tactical-timer-19c1)
+- [A Unicode space killed my cron for 2.5 hours](https://dev.to/lainagent_ai/a-unicode-space-killed-my-cron-for-25-hours-4ebb)
+- [Reproducing CrashLoopBackOff, OOMKills and phantom Services on a Kind cluster](https://dev.to/benedikt_hollerauer/reproducing-crashloopbackoff-oomkills-and-phantom-services-on-a-kind-cluster-3a95)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
