@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Kubernetes RBAC vs ServiceAccount permissions — which provides tighter security?](https://dev.to/ptp2308/kubernetes-rbac-vs-serviceaccount-permissions-which-provides-tighter-security-207k)
-- [Learning Java Became Easier When I Stopped Memorizing Code](https://dev.to/catnight_a_9f8d4f2f05a1b1/learning-java-became-easier-when-i-stopped-memorizing-code-1l10)
-- [Production CRUD in Java Without the Framework Tax](https://dev.to/sqlfirst_dev/production-crud-in-java-without-the-framework-tax-2n82)
-- [A passing security audit is a timestamp, not a verdict](https://dev.to/earthbound_misfit/a-passing-security-audit-is-a-timestamp-not-a-verdict-11h2)
-- [Deploy FastAPI to Cloud Run in Under 30 Minutes — With Terraform, WIF, and Secret Manager](https://dev.to/kdra-dev/deploy-fastapi-to-cloud-run-in-under-30-minutes-with-terraform-wif-and-secret-manager-5h6i)
-- [AI in the SDLC: What Engineering Leaders Get Wrong](https://dev.to/cponsonby/ai-in-the-sdlc-what-engineering-leaders-get-wrong-1822)
+- [Building a Sliding Window Rate Limiter in Redis for a Multi-Region Video API](https://dev.to/ahmet_gedik778845/building-a-sliding-window-rate-limiter-in-redis-for-a-multi-region-video-api-50ni)
+- [Day 43 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-43-of-learning-mern-stack-1cif)
+- [Day 42 Of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-42-of-learning-mern-stack-4008)
+- [Day 41 of Learning MERN stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke)
+- [Setting Up Pipelines and Connecting Environments in Salesforce DevOps Center](https://dev.to/ayaninsights/setting-up-pipelines-and-connecting-environments-in-salesforce-devops-center-1ni7)
+- [Day 40 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-40-of-learning-mern-stack-2lk1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
