@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Twiringiyimana Obed is a software developer from Rwanda specializing in web and mobile application development.](https://dev.to/twiringiyimana_obed/twiringiyimana-obed-is-a-software-developer-from-rwanda-specializing-in-web-and-mobile-application-2403)
-- [What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg)
-- [MySQL 8.0 is now end-of-life — here&#39;s the version map you actually need](https://dev.to/endoflifeai/mysql-80-is-now-end-of-life-heres-the-version-map-you-actually-need-43p8)
-- [Building Authentication and Project Creation with Express, Prisma, JWT, and Database Transactions](https://dev.to/chinwuba_jeffrey/building-authentication-and-project-creation-with-express-prisma-jwt-and-database-transactions-4n70)
-- [A For Loop Skipped Every File With a Space and Called the Backup a Success](https://dev.to/bashsnippets/a-for-loop-skipped-every-file-with-a-space-and-called-the-backup-a-success-392e)
-- [Why I Stopped Just Watching Tutorials &lpar;And Started Learning C Properly&rpar;](https://dev.to/tahami_akservices_cb075e/why-i-stopped-just-watching-tutorials-and-started-learning-c-properly-3lka)
+- [Construyendo Arquitecturas Eficientes: Microservicios en Java con Spring Boot Reactivo](https://dev.to/comunidad-vallegrande/construyendo-arquitecturas-eficientes-microservicios-en-java-con-spring-boot-reactivo-o1c)
+- [Putting a file in .gitignore does nothing if git already tracks it. I built a CLI to find the leftovers.](https://dev.to/_06a3df6b50aec966668fb/putting-a-file-in-gitignore-does-nothing-if-git-already-tracks-it-i-built-a-cli-to-find-the-31cl)
+- [☁️ Deploy MinIO on Kubernetes with Helm made easy](https://dev.to/ptp2308/deploy-minio-on-kubernetes-with-helm-made-easy-5clg)
+- [Caching Strategies Explained: CDN, Redis &amp; DB Cache](https://dev.to/dev_encyclopedia/caching-strategies-explained-cdn-redis-db-cache-4fkm)
+- [Best Python Libraries for Building REST APIs Without a Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-framework-in-2026-2i75)
+- [Your 99.99% Uptime SLO Is Probably a Lie — Here&#39;s How to Fix It](https://dev.to/ajaydevineni/your-9999-uptime-slo-is-probably-a-lie-heres-how-to-fix-it-2i6o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
