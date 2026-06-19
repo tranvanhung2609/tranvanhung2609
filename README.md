@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Construyendo Arquitecturas Eficientes: Microservicios en Java con Spring Boot Reactivo](https://dev.to/comunidad-vallegrande/construyendo-arquitecturas-eficientes-microservicios-en-java-con-spring-boot-reactivo-o1c)
-- [Putting a file in .gitignore does nothing if git already tracks it. I built a CLI to find the leftovers.](https://dev.to/_06a3df6b50aec966668fb/putting-a-file-in-gitignore-does-nothing-if-git-already-tracks-it-i-built-a-cli-to-find-the-31cl)
-- [☁️ Deploy MinIO on Kubernetes with Helm made easy](https://dev.to/ptp2308/deploy-minio-on-kubernetes-with-helm-made-easy-5clg)
-- [Caching Strategies Explained: CDN, Redis &amp; DB Cache](https://dev.to/dev_encyclopedia/caching-strategies-explained-cdn-redis-db-cache-4fkm)
-- [Best Python Libraries for Building REST APIs Without a Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-framework-in-2026-2i75)
-- [Your 99.99% Uptime SLO Is Probably a Lie — Here&#39;s How to Fix It](https://dev.to/ajaydevineni/your-9999-uptime-slo-is-probably-a-lie-heres-how-to-fix-it-2i6o)
+- [AWS DevOps Certification in 2026: Everything You Need to Know Before You Start](https://dev.to/olivia_49ea689da1a2bc7f87/aws-devops-certification-in-2026-everything-you-need-to-know-before-you-start-2bgd)
+- [Getting started with Git remotes](https://dev.to/fj_palacios/getting-started-with-git-remotes-3agg)
+- [Why Cron Jobs Break Down as Automation Grows](https://dev.to/unmeshed/why-cron-jobs-break-down-as-automation-grows-3lh)
+- [Day 46 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-46-of-learning-mern-stack-15dh)
+- [How A IoT Is Revolutionizing the Functioning of Industrial Companies](https://dev.to/fathimath_fida_ffbda72c61/how-a-iot-is-revolutionizing-the-functioning-of-industrial-companies-4ne3)
+- [I built a GitHub App that auto-generates adversarial tests for AI-written code — here&#39;s how it works](https://dev.to/fahadhafeeezofficial/i-built-a-github-app-that-auto-generates-adversarial-tests-for-ai-written-code-heres-how-it-works-3371)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
