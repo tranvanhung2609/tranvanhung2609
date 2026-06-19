@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Certification in 2026: Everything You Need to Know Before You Start](https://dev.to/olivia_49ea689da1a2bc7f87/aws-devops-certification-in-2026-everything-you-need-to-know-before-you-start-2bgd)
-- [Getting started with Git remotes](https://dev.to/fj_palacios/getting-started-with-git-remotes-3agg)
-- [Why Cron Jobs Break Down as Automation Grows](https://dev.to/unmeshed/why-cron-jobs-break-down-as-automation-grows-3lh)
-- [Day 46 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-46-of-learning-mern-stack-15dh)
-- [How A IoT Is Revolutionizing the Functioning of Industrial Companies](https://dev.to/fathimath_fida_ffbda72c61/how-a-iot-is-revolutionizing-the-functioning-of-industrial-companies-4ne3)
-- [I built a GitHub App that auto-generates adversarial tests for AI-written code — here&#39;s how it works](https://dev.to/fahadhafeeezofficial/i-built-a-github-app-that-auto-generates-adversarial-tests-for-ai-written-code-heres-how-it-works-3371)
+- [Retune Fraud Thresholds and Payment Routes in Real Time — No Java Restart &lpar;Kiponos SDK&rpar;](https://dev.to/kiponos/retune-fraud-thresholds-and-payment-routes-in-real-time-no-java-restart-kiponos-sdk-13nf)
+- [The Tests Are Green](https://dev.to/imacto/the-tests-are-green-3h9k)
+- [AsyncIO in production: event loop, tasks, and the traps no one warns you about](https://dev.to/lbraun7/asyncio-in-production-event-loop-tasks-and-the-traps-no-one-warns-you-about-3788)
+- [I set up a Node.js production server on Hetzner CX22 for €4.35/mo — here&#39;s exactly what I ran](https://dev.to/vpsfordev/i-set-up-a-nodejs-production-server-on-hetzner-cx22-for-eu435mo-heres-exactly-what-i-ran-2gp8)
+- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-2j74)
+- [I built an open-source AI that security-reviews every pull request — and maps each bug to PCI-DSS, SOC 2 &amp; GDPR](https://dev.to/noobbatman/i-built-an-open-source-ai-that-security-reviews-every-pull-request-and-maps-each-bug-to-pci-dss-49ob)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
