@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Retune Fraud Thresholds and Payment Routes in Real Time — No Java Restart &lpar;Kiponos SDK&rpar;](https://dev.to/kiponos/retune-fraud-thresholds-and-payment-routes-in-real-time-no-java-restart-kiponos-sdk-13nf)
-- [The Tests Are Green](https://dev.to/imacto/the-tests-are-green-3h9k)
-- [AsyncIO in production: event loop, tasks, and the traps no one warns you about](https://dev.to/lbraun7/asyncio-in-production-event-loop-tasks-and-the-traps-no-one-warns-you-about-3788)
-- [I set up a Node.js production server on Hetzner CX22 for €4.35/mo — here&#39;s exactly what I ran](https://dev.to/vpsfordev/i-set-up-a-nodejs-production-server-on-hetzner-cx22-for-eu435mo-heres-exactly-what-i-ran-2gp8)
-- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-2j74)
-- [I built an open-source AI that security-reviews every pull request — and maps each bug to PCI-DSS, SOC 2 &amp; GDPR](https://dev.to/noobbatman/i-built-an-open-source-ai-that-security-reviews-every-pull-request-and-maps-each-bug-to-pci-dss-49ob)
+- [44/60 Days System Design Questions](https://dev.to/thejoud1997/4460-days-system-design-questions-2p0j)
+- [My API Responded in 4 ms, but Navigation Still Felt Slow](https://dev.to/ahikmah/my-api-responded-in-4-ms-but-navigation-still-felt-slow-1hk8)
+- [We&#39;re building an open-source agentic workflow platform for faith-based ministry — and nothing is built yet](https://dev.to/sjones2177/were-building-an-open-source-agentic-workflow-platform-for-faith-based-ministry-and-nothing-is-4im5)
+- [Git Engineering Workflow 1](https://dev.to/rahimah_dev/git-engineering-workflow-1-2l0k)
+- [The Alert Never Fired Because the Loop Skipped the Last Line of the File](https://dev.to/bashsnippets/the-alert-never-fired-because-the-loop-skipped-the-last-line-of-the-file-3il8)
+- [&quot;Kubernetes Sidecar Pattern Explained: The Secret Helper Container Running Beside Your App&quot;](https://dev.to/jatin09/kubernetes-sidecar-pattern-explained-the-secret-helper-container-running-beside-your-app-3l2b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
