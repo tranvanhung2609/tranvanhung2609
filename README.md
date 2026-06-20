@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [44/60 Days System Design Questions](https://dev.to/thejoud1997/4460-days-system-design-questions-2p0j)
-- [My API Responded in 4 ms, but Navigation Still Felt Slow](https://dev.to/ahikmah/my-api-responded-in-4-ms-but-navigation-still-felt-slow-1hk8)
-- [We&#39;re building an open-source agentic workflow platform for faith-based ministry — and nothing is built yet](https://dev.to/sjones2177/were-building-an-open-source-agentic-workflow-platform-for-faith-based-ministry-and-nothing-is-4im5)
-- [Git Engineering Workflow 1](https://dev.to/rahimah_dev/git-engineering-workflow-1-2l0k)
-- [The Alert Never Fired Because the Loop Skipped the Last Line of the File](https://dev.to/bashsnippets/the-alert-never-fired-because-the-loop-skipped-the-last-line-of-the-file-3il8)
-- [&quot;Kubernetes Sidecar Pattern Explained: The Secret Helper Container Running Beside Your App&quot;](https://dev.to/jatin09/kubernetes-sidecar-pattern-explained-the-secret-helper-container-running-beside-your-app-3l2b)
+- [AI Tools in 2026: Building Smarter Workflows Instead of Collecting More Apps](https://dev.to/productwatch/ai-tools-in-2026-building-smarter-workflows-instead-of-collecting-more-apps-5549)
+- [What&#39;s the Most Annoying Part of Incident Response? I Built 5 AI Tools Trying to Solve It](https://dev.to/praveenballari/whats-the-most-annoying-part-of-incident-response-i-built-5-ai-tools-trying-to-solve-it-27gi)
+- [SQL-First Paradigm: Rethinking Persistence Layer Design from First Principles](https://dev.to/sqlfirst_dev/sql-first-paradigm-rethinking-persistence-layer-design-from-first-principles-4kne)
+- [Dựng Cluster Kubernetes cục bộ trên Core Ultra 200V hay Ryzen AI 300](https://dev.to/hungphatlaptop/dung-cluster-kubernetes-cuc-bo-tren-core-ultra-200v-hay-ryzen-ai-300-3dcp)
+- [I Made Claude Code Think Before It Codes. Then I Gave It a Team.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8)
+- [Homelab AI Agent Costs Down 60% with Ollama Quantized Models](https://dev.to/susiloharjo/homelab-ai-agent-costs-down-60-with-ollama-quantized-models-40hd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
