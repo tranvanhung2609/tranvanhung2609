@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools in 2026: Building Smarter Workflows Instead of Collecting More Apps](https://dev.to/productwatch/ai-tools-in-2026-building-smarter-workflows-instead-of-collecting-more-apps-5549)
-- [What&#39;s the Most Annoying Part of Incident Response? I Built 5 AI Tools Trying to Solve It](https://dev.to/praveenballari/whats-the-most-annoying-part-of-incident-response-i-built-5-ai-tools-trying-to-solve-it-27gi)
-- [SQL-First Paradigm: Rethinking Persistence Layer Design from First Principles](https://dev.to/sqlfirst_dev/sql-first-paradigm-rethinking-persistence-layer-design-from-first-principles-4kne)
-- [Dựng Cluster Kubernetes cục bộ trên Core Ultra 200V hay Ryzen AI 300](https://dev.to/hungphatlaptop/dung-cluster-kubernetes-cuc-bo-tren-core-ultra-200v-hay-ryzen-ai-300-3dcp)
-- [I Made Claude Code Think Before It Codes. Then I Gave It a Team.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8)
-- [Homelab AI Agent Costs Down 60% with Ollama Quantized Models](https://dev.to/susiloharjo/homelab-ai-agent-costs-down-60-with-ollama-quantized-models-40hd)
+- [Goroutines &amp; Channels — Concurrency Without the JVM&#39;s Baggage](https://dev.to/mihirmohapatra/goroutines-channels-concurrency-without-the-jvms-baggage-52nn)
+- [How to Install and Configure Prometheus: A Quick Guide](https://dev.to/ctcservers/how-to-install-and-configure-prometheus-a-quick-guide-2jdo)
+- [From AWS Foundations to Microsoft Azure: My First Hands-on Azure Project &lpar;Part 1&rpar;](https://dev.to/smarty_joy/from-aws-foundations-to-microsoft-azure-my-first-hands-on-azure-project-part-1-5b38)
+- [Proteggere un sito web: le basi che troppe aziende ignorano](https://dev.to/dev_iadicola/proteggere-un-sito-web-le-basi-che-troppe-aziende-ignorano-2m1e)
+- [SSH Sessions Dropping Frequently? Here&#39;s Exactly How I Troubleshoot It](https://dev.to/sreekanth_kuruba_91721e5d/ssh-sessions-dropping-frequently-heres-exactly-how-i-troubleshoot-it-562p)
+- [The Authority Gate, Made Runnable: Fail-Closed Merge Admission for Agent-Written Code](https://dev.to/danmercede/the-authority-gate-made-runnable-fail-closed-merge-admission-for-agent-written-code-2199)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
