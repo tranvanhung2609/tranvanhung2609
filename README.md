@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ISO 8583 in Real Payment Systems](https://dev.to/nchika/iso-8583-in-real-payment-systems-5ehm)
-- [Vs Combat Conditioning: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-combat-conditioning-what-we-learned-building-random-tactical-timer-fcp)
-- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
-- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
-- [Auto-Healing Server Monitoring: What It Is and Why You Need It](https://dev.to/yanlong_wang/auto-healing-server-monitoring-what-it-is-and-why-you-need-it-381o)
-- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach)
+- [We Cut Our LLM API Bill 30% With Four Lines of YAML](https://dev.to/paultwist/we-cut-our-llm-api-bill-30-with-four-lines-of-yaml-2p79)
+- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb)
+- [Shieldly Launch Offer: AI-Powered AWS IAM Security from $1.90/Month](https://dev.to/jeff_shieldly/shieldly-launch-offer-ai-powered-aws-iam-security-from-190month-29ml)
+- [quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key](https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9)
+- [quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key](https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9)
+- [1,820x Faster: What I Learned Optimizing 500,000 PostgreSQL Rows](https://dev.to/afshanqasim/1820x-faster-what-i-learned-optimizing-500000-postgresql-rows-43in)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
