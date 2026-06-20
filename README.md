@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Goroutines &amp; Channels — Concurrency Without the JVM&#39;s Baggage](https://dev.to/mihirmohapatra/goroutines-channels-concurrency-without-the-jvms-baggage-52nn)
-- [How to Install and Configure Prometheus: A Quick Guide](https://dev.to/ctcservers/how-to-install-and-configure-prometheus-a-quick-guide-2jdo)
-- [From AWS Foundations to Microsoft Azure: My First Hands-on Azure Project &lpar;Part 1&rpar;](https://dev.to/smarty_joy/from-aws-foundations-to-microsoft-azure-my-first-hands-on-azure-project-part-1-5b38)
-- [Proteggere un sito web: le basi che troppe aziende ignorano](https://dev.to/dev_iadicola/proteggere-un-sito-web-le-basi-che-troppe-aziende-ignorano-2m1e)
-- [SSH Sessions Dropping Frequently? Here&#39;s Exactly How I Troubleshoot It](https://dev.to/sreekanth_kuruba_91721e5d/ssh-sessions-dropping-frequently-heres-exactly-how-i-troubleshoot-it-562p)
-- [The Authority Gate, Made Runnable: Fail-Closed Merge Admission for Agent-Written Code](https://dev.to/danmercede/the-authority-gate-made-runnable-fail-closed-merge-admission-for-agent-written-code-2199)
+- [ISO 8583 in Real Payment Systems](https://dev.to/nchika/iso-8583-in-real-payment-systems-5ehm)
+- [Vs Combat Conditioning: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-combat-conditioning-what-we-learned-building-random-tactical-timer-fcp)
+- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
+- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
+- [Auto-Healing Server Monitoring: What It Is and Why You Need It](https://dev.to/yanlong_wang/auto-healing-server-monitoring-what-it-is-and-why-you-need-it-381o)
+- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
