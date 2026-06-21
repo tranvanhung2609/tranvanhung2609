@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Cut Our LLM API Bill 30% With Four Lines of YAML](https://dev.to/paultwist/we-cut-our-llm-api-bill-30-with-four-lines-of-yaml-2p79)
-- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb)
-- [Shieldly Launch Offer: AI-Powered AWS IAM Security from $1.90/Month](https://dev.to/jeff_shieldly/shieldly-launch-offer-ai-powered-aws-iam-security-from-190month-29ml)
-- [quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key](https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9)
-- [quarkus-http-idempotency: APIs seguras de reintentar con el header Idempotency-Key](https://dev.to/lu1tr0n/quarkus-http-idempotency-apis-seguras-de-reintentar-con-el-header-idempotency-key-23n9)
-- [1,820x Faster: What I Learned Optimizing 500,000 PostgreSQL Rows](https://dev.to/afshanqasim/1820x-faster-what-i-learned-optimizing-500000-postgresql-rows-43in)
+- [I Built FormAS — A Form Backend So You Never Have to Build One Again](https://dev.to/ayantik2006/i-built-formas-a-form-backend-so-you-never-have-to-build-one-again-hf9)
+- [☁️ aws cloudformation vs terraform for python deployments — which one should you use?](https://dev.to/ptp2308/aws-cloudformation-vs-terraform-for-python-deployments-which-one-should-you-use-5ej5)
+- [Why Companies Like Google Prefer gRPC for Microservices](https://dev.to/jatin09/why-companies-like-google-prefer-grpc-for-microservices-5flm)
+- [&quot;이제 완전히 고쳐졌나?&quot;에 정직한 답은 없다 — 작은 서버 이야기](https://dev.to/justjinoit/ije-wanjeonhi-gocyeojyeossnae-jeongjighan-dabeun-eobsda-jageun-seobeo-iyagi-4lih)
+- [How to Rewrite Your Software System Without Stopping Your Business](https://dev.to/spectredevxyz/how-to-rewrite-your-software-system-without-stopping-your-business-1afe)
+- [Why &quot;is it fully fixed?&quot; has no honest answer — a small-server story](https://dev.to/justjinoit/why-is-it-fully-fixed-has-no-honest-answer-a-small-server-story-5g2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
