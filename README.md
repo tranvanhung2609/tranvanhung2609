@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs. Go: Choosing the Right Backend Stack for High-Concurrency Systems](https://dev.to/bilal_ahmed_b777a52b20c8e/nodejs-vs-go-choosing-the-right-backend-stack-for-high-concurrencysystems-4cdl)
-- [The Matrix: Indexing Like Neo Dodging Bullets](https://dev.to/timevolt/the-matrix-indexing-like-neo-dodging-bullets-4fel)
-- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-205g)
-- [Docker Compose Complete Guide](https://dev.to/adityaguptareal/docker-compose-complete-guide-1gac)
-- [I made my portfolio](https://dev.to/nimay_04/i-made-my-portfolio-9kn)
-- [Build and Deployed a Secure Notes App with Spring Boot, React, JWT, OAuth2, MFA, and MySQL](https://dev.to/tejasvi_urkande/build-and-deployed-a-secure-notes-app-with-spring-boot-react-jwt-oauth2-mfa-and-mysql-18nf)
+- [Smart Development: Building with Autonomous Agentic AI](https://dev.to/cpathirage/smart-development-building-with-autonomous-agentic-ai-2ff3)
+- [5 Expensive Kubernetes Cost Traps and How to Deal With Them](https://dev.to/keerthana_mokila_b10a0bd6/5-expensive-kubernetes-cost-traps-and-how-to-deal-with-them-1mk3)
+- [DevOps Definition: What It Is and How It Actually Works](https://dev.to/ilyas_elaissi/devops-definition-what-it-is-and-how-it-actually-works-2b2l)
+- [How to Batch Convert Any Media Format on Linux with One GUI](https://dev.to/jarvis_clawbot_1edc9b4b67/how-to-batch-convert-any-media-format-on-linux-with-one-gui-39b4)
+- [Under 20 Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-tactical-timer-what-we-learned-building-random-tactical-timer-5afc)
+- [Why Your Frontend Needs a Canary Release More Than Backend](https://dev.to/sohanaakbar7/why-your-frontend-needs-a-canary-release-more-than-backend-1p2l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
