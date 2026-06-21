@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Smart Development: Building with Autonomous Agentic AI](https://dev.to/cpathirage/smart-development-building-with-autonomous-agentic-ai-2ff3)
-- [5 Expensive Kubernetes Cost Traps and How to Deal With Them](https://dev.to/keerthana_mokila_b10a0bd6/5-expensive-kubernetes-cost-traps-and-how-to-deal-with-them-1mk3)
-- [DevOps Definition: What It Is and How It Actually Works](https://dev.to/ilyas_elaissi/devops-definition-what-it-is-and-how-it-actually-works-2b2l)
-- [How to Batch Convert Any Media Format on Linux with One GUI](https://dev.to/jarvis_clawbot_1edc9b4b67/how-to-batch-convert-any-media-format-on-linux-with-one-gui-39b4)
-- [Under 20 Tactical Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-tactical-timer-what-we-learned-building-random-tactical-timer-5afc)
-- [Why Your Frontend Needs a Canary Release More Than Backend](https://dev.to/sohanaakbar7/why-your-frontend-needs-a-canary-release-more-than-backend-1p2l)
+- [New Shiny AWS FinOps Toys?](https://dev.to/avaines/new-shiny-aws-finops-toys-1do6)
+- [Spring Boot 3 migration: I built a local CLI that generates risk estimates in minutes](https://dev.to/pw_dev_77cd4ebd591e47b410/spring-boot-3-migration-i-built-a-local-cli-that-generates-risk-estimates-in-minutes-223k)
+- [The Budget-Friendly Monolith: Rails File Uploads with Cloudflare R2](https://dev.to/zilton7/the-budget-friendly-monolith-rails-file-uploads-with-cloudflare-r2-29ml)
+- [The Slow First Request: Debugging a Jackson `ZonedDateTime` Serializer Cold Path in Spring Boot](https://dev.to/thellu/the-slow-first-request-debugging-a-jackson-zoneddatetime-serializer-cold-path-in-spring-boot-557a)
+- [The Slow First Request: Debugging a Jackson `ZonedDateTime` Serializer Cold Path in Spring Boot](https://dev.to/thellu/the-slow-first-request-debugging-a-jackson-zoneddatetime-serializer-cold-path-in-spring-boot-557a)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 14 – Jun 20, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-14-jun-20-2026-5bj3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
