@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built FormAS — A Form Backend So You Never Have to Build One Again](https://dev.to/ayantik2006/i-built-formas-a-form-backend-so-you-never-have-to-build-one-again-hf9)
-- [☁️ aws cloudformation vs terraform for python deployments — which one should you use?](https://dev.to/ptp2308/aws-cloudformation-vs-terraform-for-python-deployments-which-one-should-you-use-5ej5)
-- [Why Companies Like Google Prefer gRPC for Microservices](https://dev.to/jatin09/why-companies-like-google-prefer-grpc-for-microservices-5flm)
-- [&quot;이제 완전히 고쳐졌나?&quot;에 정직한 답은 없다 — 작은 서버 이야기](https://dev.to/justjinoit/ije-wanjeonhi-gocyeojyeossnae-jeongjighan-dabeun-eobsda-jageun-seobeo-iyagi-4lih)
-- [How to Rewrite Your Software System Without Stopping Your Business](https://dev.to/spectredevxyz/how-to-rewrite-your-software-system-without-stopping-your-business-1afe)
-- [Why &quot;is it fully fixed?&quot; has no honest answer — a small-server story](https://dev.to/justjinoit/why-is-it-fully-fixed-has-no-honest-answer-a-small-server-story-5g2)
+- [Node.js vs. Go: Choosing the Right Backend Stack for High-Concurrency Systems](https://dev.to/bilal_ahmed_b777a52b20c8e/nodejs-vs-go-choosing-the-right-backend-stack-for-high-concurrencysystems-4cdl)
+- [The Matrix: Indexing Like Neo Dodging Bullets](https://dev.to/timevolt/the-matrix-indexing-like-neo-dodging-bullets-4fel)
+- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-205g)
+- [Docker Compose Complete Guide](https://dev.to/adityaguptareal/docker-compose-complete-guide-1gac)
+- [I made my portfolio](https://dev.to/nimay_04/i-made-my-portfolio-9kn)
+- [Build and Deployed a Secure Notes App with Spring Boot, React, JWT, OAuth2, MFA, and MySQL](https://dev.to/tejasvi_urkande/build-and-deployed-a-secure-notes-app-with-spring-boot-react-jwt-oauth2-mfa-and-mysql-18nf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
