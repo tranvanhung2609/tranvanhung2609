@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling the Network: A Developer&#39;s Guide to SDN Architecture](https://dev.to/lightningdev123/decoupling-the-network-a-developers-guide-to-sdn-architecture-308o)
-- [47/60 Days System Design Questions](https://dev.to/thejoud1997/4760-days-system-design-questions-2jmh)
-- [What Is Shadow AI? Understanding the Enterprise Risk](https://dev.to/kuldeep_paul/what-is-shadow-ai-understanding-the-enterprise-risk-4pgk)
-- [What Is Shadow AI? The Growing Enterprise Security Risk](https://dev.to/kuldeep_paul/what-is-shadow-ai-the-growing-enterprise-security-risk-2pkm)
-- [Web Developer Travis McCracken on When Not to Use a Microservice](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-not-to-use-a-microservice-10ci)
-- [When Logs Aren&#39;t Enough: Using tcpdump to Debug Real Network Problems](https://dev.to/mohhddhassan/when-logs-arent-enough-using-tcpdump-to-debug-real-network-problems-2d39)
+- [The On-Call Schedule Math Nobody Does](https://dev.to/samson_tanimawo/the-on-call-schedule-math-nobody-does-1o82)
+- [How I Built the Cloud Resume Challenge &lpar;And What Actually Tripped Me Up&rpar;](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo)
+- [Building VS — 2026-06-21](https://dev.to/zaerohell/building-vs-2026-06-21-nm1)
+- [Building a Video Metadata Moderation Pipeline with Python and Claude API](https://dev.to/ahmet_gedik778845/building-a-video-metadata-moderation-pipeline-with-python-and-claude-api-pgp)
+- [Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production](https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83)
+- [How we found a bug in the hyper HTTP library](https://dev.to/rasne/how-we-found-a-bug-in-the-hyper-http-library-58jb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
