@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [New Shiny AWS FinOps Toys?](https://dev.to/avaines/new-shiny-aws-finops-toys-1do6)
-- [Spring Boot 3 migration: I built a local CLI that generates risk estimates in minutes](https://dev.to/pw_dev_77cd4ebd591e47b410/spring-boot-3-migration-i-built-a-local-cli-that-generates-risk-estimates-in-minutes-223k)
-- [The Budget-Friendly Monolith: Rails File Uploads with Cloudflare R2](https://dev.to/zilton7/the-budget-friendly-monolith-rails-file-uploads-with-cloudflare-r2-29ml)
-- [The Slow First Request: Debugging a Jackson `ZonedDateTime` Serializer Cold Path in Spring Boot](https://dev.to/thellu/the-slow-first-request-debugging-a-jackson-zoneddatetime-serializer-cold-path-in-spring-boot-557a)
-- [The Slow First Request: Debugging a Jackson `ZonedDateTime` Serializer Cold Path in Spring Boot](https://dev.to/thellu/the-slow-first-request-debugging-a-jackson-zoneddatetime-serializer-cold-path-in-spring-boot-557a)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 14 – Jun 20, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-14-jun-20-2026-5bj3)
+- [The Engineering Manager&#39;s Guide to AI Code Review](https://dev.to/crescevo/the-engineering-managers-guide-to-ai-code-review-2og5)
+- [How Your Code Actually Talks to the OS: System Calls, User Space &amp; Kernel Space](https://dev.to/sangyog2058/how-your-code-actually-talks-to-the-os-system-calls-user-space-kernel-space-1d43)
+- [Server and Events](https://dev.to/rishwantthi_2111/server-and-events-gd)
+- [Short Polling &amp; Long Polling](https://dev.to/nishanthini_t_2d8e49fa49e/short-polling-long-polling-3noe)
+- [1.2 Million WordPress Sites Were Hacked, and Not One Plugin Was Outdated](https://dev.to/dev_encyclopedia/12-million-wordpress-sites-were-hacked-and-not-one-plugin-was-outdated-4g49)
+- [HelmSharp: render Helm charts from .NET without shelling out to helm](https://dev.to/gatt_geng_ce6a8f5b3886c67/helmsharp-render-helm-charts-from-net-without-shelling-out-to-helm-1gng)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
