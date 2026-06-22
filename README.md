@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Manager&#39;s Guide to AI Code Review](https://dev.to/crescevo/the-engineering-managers-guide-to-ai-code-review-2og5)
-- [How Your Code Actually Talks to the OS: System Calls, User Space &amp; Kernel Space](https://dev.to/sangyog2058/how-your-code-actually-talks-to-the-os-system-calls-user-space-kernel-space-1d43)
-- [Server and Events](https://dev.to/rishwantthi_2111/server-and-events-gd)
-- [Short Polling &amp; Long Polling](https://dev.to/nishanthini_t_2d8e49fa49e/short-polling-long-polling-3noe)
-- [1.2 Million WordPress Sites Were Hacked, and Not One Plugin Was Outdated](https://dev.to/dev_encyclopedia/12-million-wordpress-sites-were-hacked-and-not-one-plugin-was-outdated-4g49)
-- [HelmSharp: render Helm charts from .NET without shelling out to helm](https://dev.to/gatt_geng_ce6a8f5b3886c67/helmsharp-render-helm-charts-from-net-without-shelling-out-to-helm-1gng)
+- [Your Django background scheduler is probably running twice. Here&#39;s why, and the migrate chicken-and-egg.](https://dev.to/hitoshi1964/your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-453c)
+- [Stop OpenAI Codex Writing 640 TB/Year to Your SSD](https://dev.to/indra_gustiprasetya_a80a/stop-openai-codex-writing-640-tbyear-to-your-ssd-2j8d)
+- [GB WhatsApp Latest Version 2026 Anti Ban All Features Unlocked Download](https://dev.to/leah_grace_4c4d43dde2105c/gb-whatsapp-latest-version-2026-anti-ban-all-features-unlocked-download-2hio)
+- [Why Is Demand for Forex Trading Software Growing Rapidly in 2026?](https://dev.to/steve_jonson_68a060c00e52/why-is-demand-for-forex-trading-software-growing-rapidly-in-2026-5798)
+- [A2A Protocol Implementation: 7 Common Mistakes and How to Avoid Them](https://dev.to/edith_heroux_aca4c9046ef5/a2a-protocol-implementation-7-common-mistakes-and-how-to-avoid-them-35l8)
+- [Why Your Reliability Breaks the night you ship a cost cut](https://dev.to/muskan_8abedcc7e12/why-your-reliability-breaks-the-night-you-ship-a-cost-cut-49p0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
