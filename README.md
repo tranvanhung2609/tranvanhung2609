@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Django background scheduler is probably running twice. Here&#39;s why, and the migrate chicken-and-egg.](https://dev.to/hitoshi1964/your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-453c)
-- [Stop OpenAI Codex Writing 640 TB/Year to Your SSD](https://dev.to/indra_gustiprasetya_a80a/stop-openai-codex-writing-640-tbyear-to-your-ssd-2j8d)
-- [GB WhatsApp Latest Version 2026 Anti Ban All Features Unlocked Download](https://dev.to/leah_grace_4c4d43dde2105c/gb-whatsapp-latest-version-2026-anti-ban-all-features-unlocked-download-2hio)
-- [Why Is Demand for Forex Trading Software Growing Rapidly in 2026?](https://dev.to/steve_jonson_68a060c00e52/why-is-demand-for-forex-trading-software-growing-rapidly-in-2026-5798)
-- [A2A Protocol Implementation: 7 Common Mistakes and How to Avoid Them](https://dev.to/edith_heroux_aca4c9046ef5/a2a-protocol-implementation-7-common-mistakes-and-how-to-avoid-them-35l8)
-- [Why Your Reliability Breaks the night you ship a cost cut](https://dev.to/muskan_8abedcc7e12/why-your-reliability-breaks-the-night-you-ship-a-cost-cut-49p0)
+- [Decoupling the Network: A Developer&#39;s Guide to SDN Architecture](https://dev.to/lightningdev123/decoupling-the-network-a-developers-guide-to-sdn-architecture-308o)
+- [47/60 Days System Design Questions](https://dev.to/thejoud1997/4760-days-system-design-questions-2jmh)
+- [What Is Shadow AI? Understanding the Enterprise Risk](https://dev.to/kuldeep_paul/what-is-shadow-ai-understanding-the-enterprise-risk-4pgk)
+- [What Is Shadow AI? The Growing Enterprise Security Risk](https://dev.to/kuldeep_paul/what-is-shadow-ai-the-growing-enterprise-security-risk-2pkm)
+- [Web Developer Travis McCracken on When Not to Use a Microservice](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-when-not-to-use-a-microservice-10ci)
+- [When Logs Aren&#39;t Enough: Using tcpdump to Debug Real Network Problems](https://dev.to/mohhddhassan/when-logs-arent-enough-using-tcpdump-to-debug-real-network-problems-2d39)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
