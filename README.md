@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The On-Call Schedule Math Nobody Does](https://dev.to/samson_tanimawo/the-on-call-schedule-math-nobody-does-1o82)
-- [How I Built the Cloud Resume Challenge &lpar;And What Actually Tripped Me Up&rpar;](https://dev.to/clos1180/how-i-built-the-cloud-resume-challenge-and-what-actually-tripped-me-up-eo)
-- [Building VS — 2026-06-21](https://dev.to/zaerohell/building-vs-2026-06-21-nm1)
-- [Building a Video Metadata Moderation Pipeline with Python and Claude API](https://dev.to/ahmet_gedik778845/building-a-video-metadata-moderation-pipeline-with-python-and-claude-api-pgp)
-- [Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production](https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83)
-- [How we found a bug in the hyper HTTP library](https://dev.to/rasne/how-we-found-a-bug-in-the-hyper-http-library-58jb)
+- [I Almost Hashed a Document Number That Needed to Be Read Again](https://dev.to/ravigupta97/i-almost-hashed-a-document-number-that-needed-to-be-read-again-3i8e)
+- [7 Security Practices That Lock Down Automated API Workflows](https://dev.to/mlxio_ai/7-security-practices-that-lock-down-automated-api-workflows-2i5d)
+- [7 Cybersecurity Practices DevOps Teams Must Adopt in 2026](https://dev.to/mlxio_ai/7-cybersecurity-practices-devops-teams-must-adopt-in-2026-3nnc)
+- [Securing Continuous Delivery: How to Verify Configuration Shifts Locally with Secure JFIF to PNG Before Deploying to Cloud Clusters](https://dev.to/will_indie/securing-continuous-delivery-how-to-verify-configuration-shifts-locally-with-secure-jfif-to-png-51ac)
+- [Kubernetes for Beginners: Deploy Your First App](https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2dj2)
+- [The $2,300 Weekend: When Fallback Routing Goes Wrong in AI Gateways](https://dev.to/ai-gateway-veteran/the-2300-weekend-when-fallback-routing-goes-wrong-in-ai-gateways-1iip)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
