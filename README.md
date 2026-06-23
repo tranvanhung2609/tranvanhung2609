@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Almost Hashed a Document Number That Needed to Be Read Again](https://dev.to/ravigupta97/i-almost-hashed-a-document-number-that-needed-to-be-read-again-3i8e)
-- [7 Security Practices That Lock Down Automated API Workflows](https://dev.to/mlxio_ai/7-security-practices-that-lock-down-automated-api-workflows-2i5d)
-- [7 Cybersecurity Practices DevOps Teams Must Adopt in 2026](https://dev.to/mlxio_ai/7-cybersecurity-practices-devops-teams-must-adopt-in-2026-3nnc)
-- [Securing Continuous Delivery: How to Verify Configuration Shifts Locally with Secure JFIF to PNG Before Deploying to Cloud Clusters](https://dev.to/will_indie/securing-continuous-delivery-how-to-verify-configuration-shifts-locally-with-secure-jfif-to-png-51ac)
-- [Kubernetes for Beginners: Deploy Your First App](https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2dj2)
-- [The $2,300 Weekend: When Fallback Routing Goes Wrong in AI Gateways](https://dev.to/ai-gateway-veteran/the-2300-weekend-when-fallback-routing-goes-wrong-in-ai-gateways-1iip)
+- [Chạy GitHub Actions Self-Hosted Runner trên Dell 16 Premium DA16250](https://dev.to/hungphatlaptop/chay-github-actions-self-hosted-runner-tren-dell-16-premium-da16250-333h)
+- [Building a Self-Hosted MLOps Platform from Scratch with FastAPI, PostgreSQL, GCS, and Docker](https://dev.to/upshivam786/building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker-46i0)
+- [How to Build a VPN App Without a DevOps Team](https://dev.to/fyre_way_8aa340ac6df987c1/how-to-build-a-vpn-app-without-a-devops-team-184m)
+- [How do you know if your AI agent is working or just burning money?](https://dev.to/renato_marinho/how-do-you-know-if-your-ai-agent-is-working-or-just-burning-money-9fi)
+- [Designing a Real-Time Chat System at Scale](https://dev.to/damir-karimov/designing-a-real-time-chat-system-at-scale-53k7)
+- [The World Cup Stress Test: Managing Agentic AI Infrastructure During Global Traffic Spikes](https://dev.to/omnithium/the-world-cup-stress-test-managing-agentic-ai-infrastructure-during-global-traffic-spikes-1h5n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
