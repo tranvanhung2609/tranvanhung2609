@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Guide to Watching Superbike 2026 Live Online](https://dev.to/worldl34463/ultimate-guide-to-watching-superbike-2026-live-online-1ep4)
-- [The Matter upgrade you’ve been waiting for](https://dev.to/rasne/the-matter-upgrade-youve-been-waiting-for-1njd)
-- [What&#39;s the difference between Manhattan OMNI and OMS ?](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
-- [Glama clones your repo. Smithery proxies your HTTP. mcp.so wants a markdown line.](https://dev.to/kfuras/glama-clones-your-repo-smithery-proxies-your-http-mcpso-wants-a-markdown-line-18f5)
-- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-2k1h)
-- [Cascading Agent Collapse: How a Single Runaway LLM Loop Takes Down Your Entire Production Architecture](https://dev.to/jarendev/cascading-agent-collapse-how-a-single-runaway-llm-loop-takes-down-your-entire-production-1om8)
+- [Everyone Is Building AI Agents. Nobody Is Talking About the Technical Debt](https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm)
+- [AI Automation Tools in 2026: How Businesses Are Saving Time by Automating Repetitive Work](https://dev.to/productwatch/ai-automation-tools-in-2026-how-businesses-are-saving-time-by-automating-repetitive-work-5cg2)
+- [The post-quantum EO is an important milestone. Now it’s time to get to work](https://dev.to/rasne/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-get-to-work-3f7f)
+- [Claude Code kept going down. So I built a router.](https://dev.to/eroslifestyle/claude-code-kept-going-down-so-i-built-a-router-1an7)
+- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
+- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
