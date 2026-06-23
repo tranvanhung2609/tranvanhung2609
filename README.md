@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Chạy GitHub Actions Self-Hosted Runner trên Dell 16 Premium DA16250](https://dev.to/hungphatlaptop/chay-github-actions-self-hosted-runner-tren-dell-16-premium-da16250-333h)
-- [Building a Self-Hosted MLOps Platform from Scratch with FastAPI, PostgreSQL, GCS, and Docker](https://dev.to/upshivam786/building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker-46i0)
-- [How to Build a VPN App Without a DevOps Team](https://dev.to/fyre_way_8aa340ac6df987c1/how-to-build-a-vpn-app-without-a-devops-team-184m)
-- [How do you know if your AI agent is working or just burning money?](https://dev.to/renato_marinho/how-do-you-know-if-your-ai-agent-is-working-or-just-burning-money-9fi)
-- [Designing a Real-Time Chat System at Scale](https://dev.to/damir-karimov/designing-a-real-time-chat-system-at-scale-53k7)
-- [The World Cup Stress Test: Managing Agentic AI Infrastructure During Global Traffic Spikes](https://dev.to/omnithium/the-world-cup-stress-test-managing-agentic-ai-infrastructure-during-global-traffic-spikes-1h5n)
+- [Ultimate Guide to Watching Superbike 2026 Live Online](https://dev.to/worldl34463/ultimate-guide-to-watching-superbike-2026-live-online-1ep4)
+- [The Matter upgrade you’ve been waiting for](https://dev.to/rasne/the-matter-upgrade-youve-been-waiting-for-1njd)
+- [What&#39;s the difference between Manhattan OMNI and OMS ?](https://dev.to/raheemamer/whats-the-difference-between-manhattan-omni-and-oms--2m24)
+- [Glama clones your repo. Smithery proxies your HTTP. mcp.so wants a markdown line.](https://dev.to/kfuras/glama-clones-your-repo-smithery-proxies-your-http-mcpso-wants-a-markdown-line-18f5)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-2k1h)
+- [Cascading Agent Collapse: How a Single Runaway LLM Loop Takes Down Your Entire Production Architecture](https://dev.to/jarendev/cascading-agent-collapse-how-a-single-runaway-llm-loop-takes-down-your-entire-production-1om8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
