@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Browser Testing in 2026: Better Tools, Smarter Triage, and Fewer False Alarms](https://dev.to/sleepyfalcon247/browser-testing-in-2026-better-tools-smarter-triage-and-fewer-false-alarms-1ggc)
-- [The Node.js bug that&#39;s invisible to your monitoring](https://dev.to/r9v/the-nodejs-bug-thats-invisible-to-your-monitoring-oo8)
-- [Minimus publica imágenes de contenedor con hasta 100% menos CVEs](https://dev.to/lu1tr0n/minimus-publica-imagenes-de-contenedor-con-hasta-100-menos-cves-5c1g)
-- [Life-Changing Shapewear Hacks: 15 Tips Every Brabic User Should Know](https://dev.to/yu_yang_f26414a1d7a176c97/life-changing-shapewear-hacks-15-tips-every-brabic-user-should-know-28m9)
-- [Understanding the Role of a Reverse Proxy in Software Engineering](https://dev.to/jefersoneiji/understanding-the-role-of-a-reverse-proxy-in-software-engineering-5cmf)
-- [How to build a DDNS updater with no API key](https://dev.to/vix_2f14d2f56c1/how-to-build-a-ddns-updater-with-no-api-key-k4h)
+- [How to Prevent Surprise Bills in Lovable and Other Vibe-Coding Apps](https://dev.to/_5038d984f7fffb2b6fe38/how-to-prevent-surprise-bills-in-lovable-and-other-vibe-coding-apps-1l2b)
+- [Share Skills Stay connected](https://dev.to/misha_berelidze_c88dd461a/share-skillsstay-connected-2ong)
+- [Why AI App Builders Break Old Features When You Add New Ones](https://dev.to/momen_hq/why-ai-app-builders-break-old-features-when-you-add-new-ones-1870)
+- [What I learned splitting a solo project into microservices &lpar;so you don&#39;t have to learn it the hard way&rpar;](https://dev.to/sen_sachiin/what-i-learned-splitting-a-solo-project-into-microservices-so-you-dont-have-to-learn-it-the-hard-45mf)
+- [Build-Time CDI in Quarkus: Why @IfBuildProperty Changed My Entire GSoC Design](https://dev.to/d1vyanshukumar/build-time-cdi-in-quarkus-why-ifbuildproperty-changed-my-entire-gsoc-design-3o9j)
+- [You Set Up HTTPS. You Still Forgot These 5 HTTP Security Headers.](https://dev.to/toolkitonline/you-set-up-https-you-still-forgot-these-5-http-security-headers-51ej)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
