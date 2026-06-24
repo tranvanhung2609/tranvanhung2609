@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Statement on the Nationwide Promotion Strategy of Aurelian Heritage Intelligent Alliance Office](https://dev.to/aurelianheritageoffice/statement-on-the-nationwide-promotion-strategy-of-aurelian-heritage-intelligent-alliance-office-2akl)
-- [Building Useful Online Tools for the FIFA World Cup 2026 Content Boom](https://dev.to/fast_convert/building-useful-online-tools-for-the-fifa-world-cup-2026-content-boom-84k)
-- [The Coming Loop: How AI Harness Engineering Is Quietly Rewriting Software Development](https://dev.to/tekmag/the-coming-loop-how-ai-harness-engineering-is-quietly-rewriting-software-development-4ejd)
-- [【2026】Auth0 代替 &lpar;Clerk/Supabase Auth/WorkOS&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4f3b)
-- [【2026】Algolia 代替の全文検索SaaS比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-42d1)
-- [docker init OCIR OKE: From Empty Folder to Production in 15 Minutes](https://dev.to/pavan_madduri/docker-init-ocir-oke-from-empty-folder-to-production-in-15-minutes-2o4e)
+- [Secure Docker Multi-Stage Builds with Trivy CVE Gates](https://dev.to/oleksandr_kuryzhev_42873f/secure-docker-multi-stage-builds-with-trivy-cve-gates-j9m)
+- [How to Change PDF Backgrounds in Java: Add Background Colors and Images](https://dev.to/leondavis1991/how-to-change-pdf-backgrounds-in-java-add-background-colors-and-images-10f0)
+- [Cloud Security Has a Cynefin Problem](https://dev.to/bala_paranj_059d338e44e7e/cloud-security-has-a-cynefin-problem-1ile)
+- [A single probe saying &quot;down&quot; shouldn&#39;t wake you at 3am](https://dev.to/fabio_ghidini_fb1c1cced68/a-single-probe-saying-down-shouldnt-wake-you-at-3am-1p1f)
+- [Getting Started with DevOps -What I Wish I Knew Earlier](https://dev.to/satyajitdas0033/getting-started-with-devops-what-i-wish-i-knew-earlier-3a9i)
+- [The Hidden Connection Between Biodiversity and Human Well-Being](https://dev.to/fortune_ogeh_270b5985a762/the-hidden-connection-between-biodiversity-and-human-well-being-3h12)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
