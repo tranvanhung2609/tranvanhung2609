@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Everyone Is Building AI Agents. Nobody Is Talking About the Technical Debt](https://dev.to/reetain_raina/everyone-is-building-ai-agents-nobody-is-talking-about-the-technical-debt-3ljm)
-- [AI Automation Tools in 2026: How Businesses Are Saving Time by Automating Repetitive Work](https://dev.to/productwatch/ai-automation-tools-in-2026-how-businesses-are-saving-time-by-automating-repetitive-work-5cg2)
-- [The post-quantum EO is an important milestone. Now it’s time to get to work](https://dev.to/rasne/the-post-quantum-eo-is-an-important-milestone-now-its-time-to-get-to-work-3f7f)
-- [Claude Code kept going down. So I built a router.](https://dev.to/eroslifestyle/claude-code-kept-going-down-so-i-built-a-router-1an7)
-- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
-- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
+- [Statement on the Nationwide Promotion Strategy of Aurelian Heritage Intelligent Alliance Office](https://dev.to/aurelianheritageoffice/statement-on-the-nationwide-promotion-strategy-of-aurelian-heritage-intelligent-alliance-office-2akl)
+- [Building Useful Online Tools for the FIFA World Cup 2026 Content Boom](https://dev.to/fast_convert/building-useful-online-tools-for-the-fifa-world-cup-2026-content-boom-84k)
+- [The Coming Loop: How AI Harness Engineering Is Quietly Rewriting Software Development](https://dev.to/tekmag/the-coming-loop-how-ai-harness-engineering-is-quietly-rewriting-software-development-4ejd)
+- [【2026】Auth0 代替 &lpar;Clerk/Supabase Auth/WorkOS&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4f3b)
+- [【2026】Algolia 代替の全文検索SaaS比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-42d1)
+- [docker init OCIR OKE: From Empty Folder to Production in 15 Minutes](https://dev.to/pavan_madduri/docker-init-ocir-oke-from-empty-folder-to-production-in-15-minutes-2o4e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
