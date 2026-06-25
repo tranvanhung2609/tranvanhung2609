@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a &quot;Write Once, Run Anywhere&quot; Hybrid Cloud SDK — Here&#39;s Why I Almost Regret It](https://dev.to/kevinten10/i-built-a-write-once-run-anywhere-hybrid-cloud-sdk-heres-why-i-almost-regret-it-15ba)
-- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
-- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
-- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-5b31)
-- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-5b31)
-- [Zero-Cost BFF After Three Months: Why I Still Believe In This Pattern &lpar;But Here&#39;s What They Don&#39;t Tell You&rpar;](https://dev.to/kevinten10/zero-cost-bff-after-three-months-why-i-still-believe-in-this-pattern-but-heres-what-they-dont-2mcb)
+- [Cloud Native Architecture Fundamentals: Building for the Modern Era](https://dev.to/derrickryangiggs/cloud-native-architecture-fundamentals-building-for-the-modern-era-15lo)
+- [On programming languages, targets, and platforms](https://dev.to/nfrankel/on-programming-languages-targets-and-platforms-1g9o)
+- [Rate-Limited Webhook Delivery for Video Events with PHP 8.4 and SQLite](https://dev.to/ahmet_gedik778845/rate-limited-webhook-delivery-for-video-events-with-php-84-and-sqlite-3mch)
+- [Salesforce DevOps Center vs Azure DevOps: Which Is Better?](https://dev.to/ayaninsights/salesforce-devops-center-vs-azure-devops-which-is-better-27ba)
+- [Secrets sprawl: how we cleaned up 412 leaked tokens and stopped the latency bleed](https://dev.to/isabelle_dubuis_d858453d7/secrets-sprawl-how-we-cleaned-up-412-leaked-tokens-and-stopped-the-latency-bleed-k71)
+- [My First Internship: Still Searching, Still Building](https://dev.to/asb_it/my-first-internship-still-searching-still-building-1bn1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
