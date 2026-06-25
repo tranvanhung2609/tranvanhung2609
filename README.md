@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Prevent Surprise Bills in Lovable and Other Vibe-Coding Apps](https://dev.to/_5038d984f7fffb2b6fe38/how-to-prevent-surprise-bills-in-lovable-and-other-vibe-coding-apps-1l2b)
-- [Share Skills Stay connected](https://dev.to/misha_berelidze_c88dd461a/share-skillsstay-connected-2ong)
-- [Why AI App Builders Break Old Features When You Add New Ones](https://dev.to/momen_hq/why-ai-app-builders-break-old-features-when-you-add-new-ones-1870)
-- [What I learned splitting a solo project into microservices &lpar;so you don&#39;t have to learn it the hard way&rpar;](https://dev.to/sen_sachiin/what-i-learned-splitting-a-solo-project-into-microservices-so-you-dont-have-to-learn-it-the-hard-45mf)
-- [Build-Time CDI in Quarkus: Why @IfBuildProperty Changed My Entire GSoC Design](https://dev.to/d1vyanshukumar/build-time-cdi-in-quarkus-why-ifbuildproperty-changed-my-entire-gsoc-design-3o9j)
-- [You Set Up HTTPS. You Still Forgot These 5 HTTP Security Headers.](https://dev.to/toolkitonline/you-set-up-https-you-still-forgot-these-5-http-security-headers-51ej)
+- [I Built a &quot;Write Once, Run Anywhere&quot; Hybrid Cloud SDK — Here&#39;s Why I Almost Regret It](https://dev.to/kevinten10/i-built-a-write-once-run-anywhere-hybrid-cloud-sdk-heres-why-i-almost-regret-it-15ba)
+- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
+- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-16d7)
+- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-5b31)
+- [Why I Still Believe in Zero-Cost BFF Layers After 6 Months &lpar;And What Broke&rpar;](https://dev.to/kevinten10/why-i-still-believe-in-zero-cost-bff-layers-after-6-months-and-what-broke-5b31)
+- [Zero-Cost BFF After Three Months: Why I Still Believe In This Pattern &lpar;But Here&#39;s What They Don&#39;t Tell You&rpar;](https://dev.to/kevinten10/zero-cost-bff-after-three-months-why-i-still-believe-in-this-pattern-but-heres-what-they-dont-2mcb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
