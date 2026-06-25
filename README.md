@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Can Ship to Production: A Deployment Case Study](https://dev.to/nucleusos/ai-agents-can-ship-to-production-a-deployment-case-study-43ac)
-- [MCP Server Validation: What I Learned Adding Proper Request Validation to My MCP Server After 89 Production Outages](https://dev.to/kevinten10/mcp-server-validation-what-i-learned-adding-proper-request-validation-to-my-mcp-server-after-89-4aio)
-- [I Published a New Protocol for AI Context Efficiency: ZRCP](https://dev.to/rahatarch/i-published-a-new-protocol-for-ai-context-efficiency-zrcp-i6a)
-- [MCP Server Validation: What I Learned Adding Proper Request Validation to My MCP Server After 89 Production Outages](https://dev.to/kevinten10/mcp-server-validation-what-i-learned-adding-proper-request-validation-to-my-mcp-server-after-89-5amh)
-- [-hda vs virtio-blk: Match the Disk Bus to the Guest Image](https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc)
-- [Is OpenAI&#39;s new custom chip the beginning of the end for cloud computing as we know it? By processing AI workloads at the edge,](https://dev.to/atheerium/is-openais-new-custom-chip-the-beginning-of-the-end-for-cloud-computing-as-we-know-it-by-3793)
+- [I Built an Interactive Visualizer of the Spring Boot Request Lifecycle](https://dev.to/dev48v/i-built-an-interactive-visualizer-of-the-spring-boot-request-lifecycle-5b5h)
+- [The Future of Java Backend Engineering in the AI Era](https://dev.to/sibghat_laghari/the-future-of-java-backend-engineering-in-the-ai-era-43d4)
+- [OrderHub Day 6: Pagination, Sorting &amp; Filtering in Spring Boot](https://dev.to/dev48v/orderhub-day-6-pagination-sorting-filtering-in-spring-boot-2j2e)
+- [Why I Stopped Building CRUD Apps and Started Building Production-Grade Backend Systems](https://dev.to/sibghat_laghari/why-i-stopped-building-crud-apps-and-started-building-production-grade-backend-systems-12b7)
+- [Why I Stopped Building CRUD Apps and Started Building Production-Grade Backend Systems](https://dev.to/sibghat_laghari/why-i-stopped-building-crud-apps-and-started-building-production-grade-backend-systems-12b7)
+- [Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions &lpar;A Beginner&#39;s Runbook&rpar;](https://dev.to/saint_vandora/deploying-a-containerized-backend-to-a-vps-with-docker-compose-github-actions-a-beginners-39m5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
