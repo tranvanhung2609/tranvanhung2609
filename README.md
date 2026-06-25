@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Native Architecture Fundamentals: Building for the Modern Era](https://dev.to/derrickryangiggs/cloud-native-architecture-fundamentals-building-for-the-modern-era-15lo)
-- [On programming languages, targets, and platforms](https://dev.to/nfrankel/on-programming-languages-targets-and-platforms-1g9o)
-- [Rate-Limited Webhook Delivery for Video Events with PHP 8.4 and SQLite](https://dev.to/ahmet_gedik778845/rate-limited-webhook-delivery-for-video-events-with-php-84-and-sqlite-3mch)
-- [Salesforce DevOps Center vs Azure DevOps: Which Is Better?](https://dev.to/ayaninsights/salesforce-devops-center-vs-azure-devops-which-is-better-27ba)
-- [Secrets sprawl: how we cleaned up 412 leaked tokens and stopped the latency bleed](https://dev.to/isabelle_dubuis_d858453d7/secrets-sprawl-how-we-cleaned-up-412-leaked-tokens-and-stopped-the-latency-bleed-k71)
-- [My First Internship: Still Searching, Still Building](https://dev.to/asb_it/my-first-internship-still-searching-still-building-1bn1)
+- [AI Agents Can Ship to Production: A Deployment Case Study](https://dev.to/nucleusos/ai-agents-can-ship-to-production-a-deployment-case-study-43ac)
+- [MCP Server Validation: What I Learned Adding Proper Request Validation to My MCP Server After 89 Production Outages](https://dev.to/kevinten10/mcp-server-validation-what-i-learned-adding-proper-request-validation-to-my-mcp-server-after-89-4aio)
+- [I Published a New Protocol for AI Context Efficiency: ZRCP](https://dev.to/rahatarch/i-published-a-new-protocol-for-ai-context-efficiency-zrcp-i6a)
+- [MCP Server Validation: What I Learned Adding Proper Request Validation to My MCP Server After 89 Production Outages](https://dev.to/kevinten10/mcp-server-validation-what-i-learned-adding-proper-request-validation-to-my-mcp-server-after-89-5amh)
+- [-hda vs virtio-blk: Match the Disk Bus to the Guest Image](https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc)
+- [Is OpenAI&#39;s new custom chip the beginning of the end for cloud computing as we know it? By processing AI workloads at the edge,](https://dev.to/atheerium/is-openais-new-custom-chip-the-beginning-of-the-end-for-cloud-computing-as-we-know-it-by-3793)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
