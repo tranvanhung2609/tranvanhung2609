@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Fleet Management Software &amp; App Development Companies in Buffalo](https://dev.to/sneha_shri/7-best-fleet-management-software-app-development-companies-in-buffalo-39h9)
-- [How AI Is Transforming Accounting Practice Management](https://dev.to/ecaterinateodo3/how-ai-is-transforming-accounting-practice-management-2jng)
-- [Durcir un Active Directory de A à Z : construire, attaquer, défendre, auditer](https://dev.to/hadimouter/durcir-un-active-directory-de-a-a-z-construire-attaquer-defendre-auditer-3b4c)
-- [MPPSC Assistant Professor Economics Preparation 2026: Complete Guide to Crack the Exam with MS Study Guru](https://dev.to/msstudyguru/mppsc-assistant-professor-economics-preparation-2026-complete-guide-to-crack-the-exam-with-ms-36c3)
-- [MySQL не запускается в BitrixVM: ошибка Unix socket lock file is empty](https://dev.to/_vproger_/mysql-nie-zapuskaietsia-v-bitrixvm-oshibka-unix-socket-lock-file-is-empty-14a2)
-- [The Production-Ready Guide to Self-Hosting LLaMA 3 on a GPU Dedicated Server](https://dev.to/shannon_dias_927e8f0d0d18/the-production-ready-guide-to-self-hosting-llama-3-on-a-gpu-dedicated-server-5hld)
+- [Is There a Backend-as-a-Service for AI Coding Agents?](https://dev.to/dmaxdev/is-there-a-backend-as-a-service-for-ai-coding-agents-3jh7)
+- [DevOps Security Best Practices Every Engineering Team Should Follow](https://dev.to/devopsaitoolkit/devops-security-best-practices-every-engineering-team-should-follow-18k5)
+- [Stop Paying the &quot;Rebuild Tax&quot;: Introducing Cachely for Nx](https://dev.to/cachely-admin/stop-paying-the-rebuild-tax-introducing-cachely-for-nx-4o0e)
+- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3oh5)
+- [Best Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/best-crossfit-timer-what-we-learned-building-random-tactical-timer-2bi5)
+- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
