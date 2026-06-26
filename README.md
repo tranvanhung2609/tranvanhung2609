@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is There a Backend-as-a-Service for AI Coding Agents?](https://dev.to/dmaxdev/is-there-a-backend-as-a-service-for-ai-coding-agents-3jh7)
-- [DevOps Security Best Practices Every Engineering Team Should Follow](https://dev.to/devopsaitoolkit/devops-security-best-practices-every-engineering-team-should-follow-18k5)
-- [Stop Paying the &quot;Rebuild Tax&quot;: Introducing Cachely for Nx](https://dev.to/cachely-admin/stop-paying-the-rebuild-tax-introducing-cachely-for-nx-4o0e)
-- [Web Developer Travis McCracken on Learning to Love Simple Code](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-learning-to-love-simple-code-3oh5)
-- [Best Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/best-crossfit-timer-what-we-learned-building-random-tactical-timer-2bi5)
-- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam)
+- [Prepare a node for kubeadm with cri-dockerd &lpar;CKA Installation&rpar;](https://dev.to/thecybersidekick/prepare-a-node-for-kubeadm-with-cri-dockerd-cka-installation-3936)
+- [OSS India 2026: Notes from a Full Day at the Linux Foundation&#39;s Open Source Summit Mumbai](https://dev.to/ultrabot05/oss-india-2026-notes-from-a-full-day-at-the-linux-foundations-open-source-summit-mumbai-40bl)
+- [BannerGrapV2 — The Open-Source Network Recon Tool Built in Go That Security Professionals Actually Need](https://dev.to/tanjib_isham_f10d7c4a7eb4/bannergrapv2-the-open-source-network-recon-tool-built-in-go-that-security-professionals-actually-3j55)
+- [Why I Built Capa-BFF: A Zero-Cost BFF Solution That Won My Hackathon Gold](https://dev.to/kevinten10/why-i-built-capa-bff-a-zero-cost-bff-solution-that-won-my-hackathon-gold-3l8e)
+- [Why I Built Capa-BFF: A Zero-Cost BFF Solution That Won My Hackathon Gold](https://dev.to/kevinten10/why-i-built-capa-bff-a-zero-cost-bff-solution-that-won-my-hackathon-gold-3l8e)
+- [Production-Ready CodeIgniter 4 + Docker Stack with CI/CD in Less than 10 Minutes](https://dev.to/viavi_dev/production-ready-codeigniter-4-docker-stack-with-cicd-in-less-than-10-minutes-221j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
