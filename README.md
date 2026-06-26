@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Only 1 Post to Help You Understand the Big Picture of System Design](https://dev.to/aws-builders/only-1-post-to-help-you-understand-the-big-picture-of-system-design-3ihf)
-- [When --cap-drop ALL Broke the Gate Socket](https://dev.to/jeremy_longshore/when-cap-drop-all-broke-the-gate-socket-1p6h)
-- [Why Is Aurelian Heritage Intelligent Alliance Office Lighting the Path of Nationwide Promotion Across the United States?](https://dev.to/aurelianheritageoffice/why-is-aurelian-heritage-intelligent-alliance-office-lighting-the-path-of-nationwide-promotion-29f2)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-45il)
-- [Your Webhook Tool Can&#39;t Tell You What Actually Happened](https://dev.to/zenmesh/your-webhook-tool-cant-tell-you-what-actually-happened-4g06)
-- [Shipping Cadernos e Planner Digital Brasil: Systems Thinking Behind a Digital Product](https://dev.to/topstar_ai/shipping-cadernos-e-planner-digital-brasil-systems-thinking-behind-a-digital-product-4opb)
+- [7 Best Fleet Management Software &amp; App Development Companies in Buffalo](https://dev.to/sneha_shri/7-best-fleet-management-software-app-development-companies-in-buffalo-39h9)
+- [How AI Is Transforming Accounting Practice Management](https://dev.to/ecaterinateodo3/how-ai-is-transforming-accounting-practice-management-2jng)
+- [Durcir un Active Directory de A à Z : construire, attaquer, défendre, auditer](https://dev.to/hadimouter/durcir-un-active-directory-de-a-a-z-construire-attaquer-defendre-auditer-3b4c)
+- [MPPSC Assistant Professor Economics Preparation 2026: Complete Guide to Crack the Exam with MS Study Guru](https://dev.to/msstudyguru/mppsc-assistant-professor-economics-preparation-2026-complete-guide-to-crack-the-exam-with-ms-36c3)
+- [MySQL не запускается в BitrixVM: ошибка Unix socket lock file is empty](https://dev.to/_vproger_/mysql-nie-zapuskaietsia-v-bitrixvm-oshibka-unix-socket-lock-file-is-empty-14a2)
+- [The Production-Ready Guide to Self-Hosting LLaMA 3 on a GPU Dedicated Server](https://dev.to/shannon_dias_927e8f0d0d18/the-production-ready-guide-to-self-hosting-llama-3-on-a-gpu-dedicated-server-5hld)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
