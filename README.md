@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Interactive Visualizer of the Spring Boot Request Lifecycle](https://dev.to/dev48v/i-built-an-interactive-visualizer-of-the-spring-boot-request-lifecycle-5b5h)
-- [The Future of Java Backend Engineering in the AI Era](https://dev.to/sibghat_laghari/the-future-of-java-backend-engineering-in-the-ai-era-43d4)
-- [OrderHub Day 6: Pagination, Sorting &amp; Filtering in Spring Boot](https://dev.to/dev48v/orderhub-day-6-pagination-sorting-filtering-in-spring-boot-2j2e)
-- [Why I Stopped Building CRUD Apps and Started Building Production-Grade Backend Systems](https://dev.to/sibghat_laghari/why-i-stopped-building-crud-apps-and-started-building-production-grade-backend-systems-12b7)
-- [Why I Stopped Building CRUD Apps and Started Building Production-Grade Backend Systems](https://dev.to/sibghat_laghari/why-i-stopped-building-crud-apps-and-started-building-production-grade-backend-systems-12b7)
-- [Deploying a Containerized Backend to a VPS with Docker Compose + GitHub Actions &lpar;A Beginner&#39;s Runbook&rpar;](https://dev.to/saint_vandora/deploying-a-containerized-backend-to-a-vps-with-docker-compose-github-actions-a-beginners-39m5)
+- [Only 1 Post to Help You Understand the Big Picture of System Design](https://dev.to/aws-builders/only-1-post-to-help-you-understand-the-big-picture-of-system-design-3ihf)
+- [When --cap-drop ALL Broke the Gate Socket](https://dev.to/jeremy_longshore/when-cap-drop-all-broke-the-gate-socket-1p6h)
+- [Why Is Aurelian Heritage Intelligent Alliance Office Lighting the Path of Nationwide Promotion Across the United States?](https://dev.to/aurelianheritageoffice/why-is-aurelian-heritage-intelligent-alliance-office-lighting-the-path-of-nationwide-promotion-29f2)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-45il)
+- [Your Webhook Tool Can&#39;t Tell You What Actually Happened](https://dev.to/zenmesh/your-webhook-tool-cant-tell-you-what-actually-happened-4g06)
+- [Shipping Cadernos e Planner Digital Brasil: Systems Thinking Behind a Digital Product](https://dev.to/topstar_ai/shipping-cadernos-e-planner-digital-brasil-systems-thinking-behind-a-digital-product-4opb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
