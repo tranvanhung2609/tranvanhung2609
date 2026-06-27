@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Prepare a node for kubeadm with cri-dockerd &lpar;CKA Installation&rpar;](https://dev.to/thecybersidekick/prepare-a-node-for-kubeadm-with-cri-dockerd-cka-installation-3936)
-- [OSS India 2026: Notes from a Full Day at the Linux Foundation&#39;s Open Source Summit Mumbai](https://dev.to/ultrabot05/oss-india-2026-notes-from-a-full-day-at-the-linux-foundations-open-source-summit-mumbai-40bl)
-- [BannerGrapV2 — The Open-Source Network Recon Tool Built in Go That Security Professionals Actually Need](https://dev.to/tanjib_isham_f10d7c4a7eb4/bannergrapv2-the-open-source-network-recon-tool-built-in-go-that-security-professionals-actually-3j55)
-- [Why I Built Capa-BFF: A Zero-Cost BFF Solution That Won My Hackathon Gold](https://dev.to/kevinten10/why-i-built-capa-bff-a-zero-cost-bff-solution-that-won-my-hackathon-gold-3l8e)
-- [Why I Built Capa-BFF: A Zero-Cost BFF Solution That Won My Hackathon Gold](https://dev.to/kevinten10/why-i-built-capa-bff-a-zero-cost-bff-solution-that-won-my-hackathon-gold-3l8e)
-- [Production-Ready CodeIgniter 4 + Docker Stack with CI/CD in Less than 10 Minutes](https://dev.to/viavi_dev/production-ready-codeigniter-4-docker-stack-with-cicd-in-less-than-10-minutes-221j)
+- [Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)
+- [Junior Python Backend Developer: Building a Standout Portfolio to Showcase Skills and Differentiate from Competitors](https://dev.to/romdevin/junior-python-backend-developer-building-a-standout-portfolio-to-showcase-skills-and-differentiate-3kpf)
+- [Terraform for Beginners: Your First Infrastructure as Code Project](https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd)
+- [I Built a Claude Code Skill That Finds Broken Callers Before You Deploy](https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2)
+- [DevOps vs SRE: Key Differences Explained [2026 Guide]](https://dev.to/citadel_cloudmanagement_/devops-vs-sre-key-differences-explained-2026-guide-4i6)
+- [Replace SaaS Subscriptions with Your Own Server: 8 Open Source Options](https://dev.to/merbayerp/replace-saas-subscriptions-with-your-own-server-8-open-source-options-265a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
