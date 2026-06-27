@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://dev.to/codenameone/java-to-native-linux-app-one-5mb-binary-x64-and-arm-3cio)
-- [My First Java Community Event – Java June](https://dev.to/dev_saravanan_journey/my-first-java-community-event-java-june-77o)
-- [Getting Started with DevOps Training At Marathahalli: A 2026 Roadmap — #6](https://dev.to/lm_pg_ae695f1a4c717f/getting-started-with-devops-training-at-marathahalli-a-2026-roadmap-6-2egp)
-- [Unlock DevOps Training At Marathahalli: Expert Knowledge for 2026 — Part 5](https://dev.to/h2_lmt_318f611464212f9336/unlock-devops-training-at-marathahalli-expert-knowledge-for-2026-part-5-3bo5)
-- [Why DevOps Training At Marathahalli Is the #4 Skill to Learn This June](https://dev.to/lmt_new_5ff6b33c7/why-devops-training-at-marathahalli-is-the-4-skill-to-learn-this-june-2l9p)
-- [How to Excel at DevOps Training Marathahalli: Insights for June 2026](https://dev.to/h1_lmt_582a030968e32867be/how-to-excel-at-devops-training-marathahalli-insights-for-june-2026-27hi)
+- [Pagination, filtering, and sorting in a Rails JSON API](https://dev.to/hasan_dev/pagination-filtering-and-sorting-in-a-rails-json-api-22p3)
+- [Capa-Java: Why Sidecar Isn&#39;t Always the Answer for Hybrid Cloud](https://dev.to/kevinten10/capa-java-why-sidecar-isnt-always-the-answer-for-hybrid-cloud-2lbp)
+- [Building a production-ready create endpoint in Rails](https://dev.to/hasan_dev/building-a-production-ready-create-endpoint-in-rails-4dko)
+- [A practical GitHub Actions baseline for Python projects](https://dev.to/thomas_reid_ebd566e4d12ce/a-practical-github-actions-baseline-for-python-projects-276a)
+- [6 years of frontend, then I jumped to DevOps. The roadmap I&#39;d actually follow in 2026](https://dev.to/opscanopy/6-years-of-frontend-then-i-jumped-to-devops-the-roadmap-id-actually-follow-in-2026-1ljg)
+- [Code On JVM &lpar;My First JAVA Meetup&rpar;](https://dev.to/vigneshwaran_v/code-on-jvm-my-first-java-meetup-ba2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
