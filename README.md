@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)
-- [Junior Python Backend Developer: Building a Standout Portfolio to Showcase Skills and Differentiate from Competitors](https://dev.to/romdevin/junior-python-backend-developer-building-a-standout-portfolio-to-showcase-skills-and-differentiate-3kpf)
-- [Terraform for Beginners: Your First Infrastructure as Code Project](https://dev.to/citadel_cloudmanagement_/terraform-for-beginners-your-first-infrastructure-as-code-project-54gd)
-- [I Built a Claude Code Skill That Finds Broken Callers Before You Deploy](https://dev.to/dominic_harmon_18363706c7/i-built-a-claude-code-skill-that-finds-broken-callers-before-you-deploy-52a2)
-- [DevOps vs SRE: Key Differences Explained [2026 Guide]](https://dev.to/citadel_cloudmanagement_/devops-vs-sre-key-differences-explained-2026-guide-4i6)
-- [Replace SaaS Subscriptions with Your Own Server: 8 Open Source Options](https://dev.to/merbayerp/replace-saas-subscriptions-with-your-own-server-8-open-source-options-265a)
+- [Day 43 – ClickHouse® Join Types and Performance Implications](https://dev.to/kanishga_subramani_49ad73/day-43-clickhouser-join-types-and-performance-implications-1dlm)
+- [What Happens When Your AI Agent Actually Remembers Past Incidents](https://dev.to/renesh_goud/what-happens-when-your-ai-agent-actually-remembers-past-incidents-5cd0)
+- [What I got wrong about Git for years](https://dev.to/saboorajat/what-i-got-wrong-about-git-for-years-2me1)
+- [Why Your @Transactional Sometimes Does Nothing &lpar;And How to Fix It&rpar;](https://dev.to/abhishekpratapsingh2601arch/why-your-transactional-sometimes-does-nothing-and-how-to-fix-it-1c95)
+- [Airflow vs n8n vs Temporal for API workflow orchestration](https://dev.to/chasebot/airflow-vs-n8n-vs-temporal-for-api-workflow-orchestration-19j)
+- [When Do You Choose SQL Over NoSQL?](https://dev.to/dharitri_jena_23cafcde4ba/when-do-you-choose-sql-over-nosql-39ii)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
