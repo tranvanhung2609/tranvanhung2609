@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 43 – ClickHouse® Join Types and Performance Implications](https://dev.to/kanishga_subramani_49ad73/day-43-clickhouser-join-types-and-performance-implications-1dlm)
-- [What Happens When Your AI Agent Actually Remembers Past Incidents](https://dev.to/renesh_goud/what-happens-when-your-ai-agent-actually-remembers-past-incidents-5cd0)
-- [What I got wrong about Git for years](https://dev.to/saboorajat/what-i-got-wrong-about-git-for-years-2me1)
-- [Why Your @Transactional Sometimes Does Nothing &lpar;And How to Fix It&rpar;](https://dev.to/abhishekpratapsingh2601arch/why-your-transactional-sometimes-does-nothing-and-how-to-fix-it-1c95)
-- [Airflow vs n8n vs Temporal for API workflow orchestration](https://dev.to/chasebot/airflow-vs-n8n-vs-temporal-for-api-workflow-orchestration-19j)
-- [When Do You Choose SQL Over NoSQL?](https://dev.to/dharitri_jena_23cafcde4ba/when-do-you-choose-sql-over-nosql-39ii)
+- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://dev.to/codenameone/java-to-native-linux-app-one-5mb-binary-x64-and-arm-3cio)
+- [My First Java Community Event – Java June](https://dev.to/dev_saravanan_journey/my-first-java-community-event-java-june-77o)
+- [Getting Started with DevOps Training At Marathahalli: A 2026 Roadmap — #6](https://dev.to/lm_pg_ae695f1a4c717f/getting-started-with-devops-training-at-marathahalli-a-2026-roadmap-6-2egp)
+- [Unlock DevOps Training At Marathahalli: Expert Knowledge for 2026 — Part 5](https://dev.to/h2_lmt_318f611464212f9336/unlock-devops-training-at-marathahalli-expert-knowledge-for-2026-part-5-3bo5)
+- [Why DevOps Training At Marathahalli Is the #4 Skill to Learn This June](https://dev.to/lmt_new_5ff6b33c7/why-devops-training-at-marathahalli-is-the-4-skill-to-learn-this-june-2l9p)
+- [How to Excel at DevOps Training Marathahalli: Insights for June 2026](https://dev.to/h1_lmt_582a030968e32867be/how-to-excel-at-devops-training-marathahalli-insights-for-june-2026-27hi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
