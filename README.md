@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Pagination, filtering, and sorting in a Rails JSON API](https://dev.to/hasan_dev/pagination-filtering-and-sorting-in-a-rails-json-api-22p3)
-- [Capa-Java: Why Sidecar Isn&#39;t Always the Answer for Hybrid Cloud](https://dev.to/kevinten10/capa-java-why-sidecar-isnt-always-the-answer-for-hybrid-cloud-2lbp)
-- [Building a production-ready create endpoint in Rails](https://dev.to/hasan_dev/building-a-production-ready-create-endpoint-in-rails-4dko)
-- [A practical GitHub Actions baseline for Python projects](https://dev.to/thomas_reid_ebd566e4d12ce/a-practical-github-actions-baseline-for-python-projects-276a)
-- [6 years of frontend, then I jumped to DevOps. The roadmap I&#39;d actually follow in 2026](https://dev.to/opscanopy/6-years-of-frontend-then-i-jumped-to-devops-the-roadmap-id-actually-follow-in-2026-1ljg)
-- [Code On JVM &lpar;My First JAVA Meetup&rpar;](https://dev.to/vigneshwaran_v/code-on-jvm-my-first-java-meetup-ba2)
+- [⚙️ Building a CI/CD pipeline with Git, Jenkins, and Docker made easy](https://dev.to/ptp2308/building-a-cicd-pipeline-with-git-jenkins-and-docker-made-easy-gie)
+- [Response Building and Sending in Hyperlane](https://dev.to/tengxgfyrz67s/response-building-and-sending-in-hyperlane-3909)
+- [40 Kubernetes Interview Questions and Answers &lpar;2026&rpar;](https://dev.to/dev_encyclopedia/40-kubernetes-interview-questions-and-answers-2026-5hk7)
+- [I let Claude Code run autonomously for a month. &quot;Productive&quot; was a story my own logs didn&#39;t support](https://dev.to/yurukusa/i-let-claude-code-run-autonomously-for-a-month-productive-was-a-story-my-own-logs-didnt-support-24i6)
+- [Enter Pro: Instant AI Vibe Coding Online – Free, Fast &amp; No Sign-Up](https://dev.to/voltrea_ec62d0dd6af3b84be/enter-pro-instant-ai-vibe-coding-online-free-fast-no-sign-up-1lei)
+- [Chạy nhiều container microservice cùng lúc trên Asus TUF Gaming A17 và Lenovo LOQ 15AHP10](https://dev.to/hungphatlaptop/chay-nhieu-container-microservice-cung-luc-tren-asus-tuf-gaming-a17-va-lenovo-loq-15ahp10-3ejb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
