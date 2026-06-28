@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [⚙️ Building a CI/CD pipeline with Git, Jenkins, and Docker made easy](https://dev.to/ptp2308/building-a-cicd-pipeline-with-git-jenkins-and-docker-made-easy-gie)
-- [Response Building and Sending in Hyperlane](https://dev.to/tengxgfyrz67s/response-building-and-sending-in-hyperlane-3909)
-- [40 Kubernetes Interview Questions and Answers &lpar;2026&rpar;](https://dev.to/dev_encyclopedia/40-kubernetes-interview-questions-and-answers-2026-5hk7)
-- [I let Claude Code run autonomously for a month. &quot;Productive&quot; was a story my own logs didn&#39;t support](https://dev.to/yurukusa/i-let-claude-code-run-autonomously-for-a-month-productive-was-a-story-my-own-logs-didnt-support-24i6)
-- [Enter Pro: Instant AI Vibe Coding Online – Free, Fast &amp; No Sign-Up](https://dev.to/voltrea_ec62d0dd6af3b84be/enter-pro-instant-ai-vibe-coding-online-free-fast-no-sign-up-1lei)
-- [Chạy nhiều container microservice cùng lúc trên Asus TUF Gaming A17 và Lenovo LOQ 15AHP10](https://dev.to/hungphatlaptop/chay-nhieu-container-microservice-cung-luc-tren-asus-tuf-gaming-a17-va-lenovo-loq-15ahp10-3ejb)
+- [I Automated My Freelance Ops with n8n — 12 hrs/week to 2 hrs &lpar;Templates Included&rpar;](https://dev.to/fyruz12/i-automated-my-freelance-ops-with-n8n-12-hrsweek-to-2-hrs-templates-included-235o)
+- [Day 2 — I Stopped Being a Student and Started Acting Like a DevOps Engineer](https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid)
+- [6 Spring Boot Patterns Every Java Developer Should Know &lpar;with working code&rpar;](https://dev.to/prashantpiyush1111/6-spring-boot-patterns-every-java-developer-should-know-with-working-code-gfm)
+- [Terraform vs CloudFormation: The Infrastructure Awakens](https://dev.to/timevolt/terraform-vs-cloudformation-the-infrastructure-awakens-4pek)
+- [Stop Fighting Your CSS Framework: Markdown to Styled HTML in Java](https://dev.to/gaurav101/stop-fighting-your-css-framework-markdown-to-styled-html-in-java-5c06)
+- [Navigating the Anonymous GitHub Account Mass-Dropping 0-Days](https://dev.to/naveenmalothu/navigating-the-anonymous-github-account-mass-dropping-0-days-56n0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
