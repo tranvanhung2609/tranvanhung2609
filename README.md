@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Just Watch](https://dev.to/codenameone/just-watch-13j9)
-- [BAMBOO TOILET ROLL](https://dev.to/gnter_lachner_1cb135096f/bamboo-toilet-roll-j95)
-- [Hardcoded System Prompts: An Anti-Pattern in Production](https://dev.to/epicivo/hardcoded-system-prompts-an-anti-pattern-in-production-25ec)
-- [The Golden Signals: A Practical Implementation Guide](https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-4n8m)
-- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-1b1h)
-- [Leaving Vercel: hosting your Next.js app on a VPS](https://dev.to/riusmax/leaving-vercel-hosting-your-nextjs-app-on-a-vps-4in4)
+- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
+- [Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/maksuel_a7d5144bd578016b2/seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-no-ciclo-de-vida-do-49g0)
+- [Enterprise AI Execution Layer: What It Is and Why Your Agents Need One](https://dev.to/naman_k_70beacf9f14245a3b/enterprise-ai-execution-layer-what-it-is-and-why-your-agents-need-one-4il1)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 21 – Jun 27, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-21-jun-27-2026-259)
+- [How flexible is the Mill build tool?](https://dev.to/fmantz/how-flexible-is-the-mill-build-tool-elb)
+- [Postman Alternatives in 2026: 5 API Testing Tools Compared](https://dev.to/pku_bd13f856f0/postman-alternatives-in-2026-5-api-testing-tools-compared-15ic)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
