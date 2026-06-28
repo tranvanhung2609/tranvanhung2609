@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Automated My Freelance Ops with n8n — 12 hrs/week to 2 hrs &lpar;Templates Included&rpar;](https://dev.to/fyruz12/i-automated-my-freelance-ops-with-n8n-12-hrsweek-to-2-hrs-templates-included-235o)
-- [Day 2 — I Stopped Being a Student and Started Acting Like a DevOps Engineer](https://dev.to/highpee1991/day-2-i-stopped-being-a-student-and-started-acting-like-a-devops-engineer-4kid)
-- [6 Spring Boot Patterns Every Java Developer Should Know &lpar;with working code&rpar;](https://dev.to/prashantpiyush1111/6-spring-boot-patterns-every-java-developer-should-know-with-working-code-gfm)
-- [Terraform vs CloudFormation: The Infrastructure Awakens](https://dev.to/timevolt/terraform-vs-cloudformation-the-infrastructure-awakens-4pek)
-- [Stop Fighting Your CSS Framework: Markdown to Styled HTML in Java](https://dev.to/gaurav101/stop-fighting-your-css-framework-markdown-to-styled-html-in-java-5c06)
-- [Navigating the Anonymous GitHub Account Mass-Dropping 0-Days](https://dev.to/naveenmalothu/navigating-the-anonymous-github-account-mass-dropping-0-days-56n0)
+- [Just Watch](https://dev.to/codenameone/just-watch-13j9)
+- [BAMBOO TOILET ROLL](https://dev.to/gnter_lachner_1cb135096f/bamboo-toilet-roll-j95)
+- [Hardcoded System Prompts: An Anti-Pattern in Production](https://dev.to/epicivo/hardcoded-system-prompts-an-anti-pattern-in-production-25ec)
+- [The Golden Signals: A Practical Implementation Guide](https://dev.to/samson_tanimawo/the-golden-signals-a-practical-implementation-guide-4n8m)
+- [Web Developer Travis McCracken on Rust and WebAssembly for Edge Processing](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-and-webassembly-for-edge-processing-1b1h)
+- [Leaving Vercel: hosting your Next.js app on a VPS](https://dev.to/riusmax/leaving-vercel-hosting-your-nextjs-app-on-a-vps-4in4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
