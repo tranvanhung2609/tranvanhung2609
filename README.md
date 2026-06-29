@@ -103,14 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Background Jobs Fail in Production](https://dev.to/damir-karimov/why-your-background-jobs-fail-in-production-3nne)
-- [AI can scaffold an app in an afternoon. Getting it onto Kubernetes is still the hard part.
-- 82% of container users run K8s in prod, only 7% deploy AI models daily
-- GPU failures routinely slip past standard health checks](https://dev.to/8080_ai/ai-can-scaffold-an-app-in-an-afternoon-getting-it-onto-kubernetes-is-still-the-hard-part-82-4j1)
-- [NBI Clearance 2026: Complete Guide to Online Appointment, Requirements, Renewal, and Application Process](https://dev.to/nbiclearancesph/nbi-clearance-2026-complete-guide-to-online-appointment-requirements-renewal-and-application-4ei5)
-- [One Stack Machine, Two Runtimes: Cross-Validating Scala and Perl with a Shared JSON IR](https://dev.to/p_pumulo/one-stack-machine-two-runtimes-cross-validating-scala-and-perl-with-a-shared-json-ir-29jc)
-- [GCC AI Demo Submit Pack for Sales Engineers](https://dev.to/yash_pritwani_07a77613fd6/gcc-ai-demo-submit-pack-for-sales-engineers-3ell)
-- [JSON to POJO and Java Entity to JSON: A Practical Guide for Java Developers](https://dev.to/orbit_with_abhay/json-to-pojo-and-java-entity-to-json-a-practical-guide-for-java-developers-30m0)
+- [Web Developer Travis McCracken on How I Use Makefiles to Manage Backend Projects](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-use-makefiles-to-manage-backend-projects-3kjm)
+- [How to Pick a Monorepo Tool in 2026](https://dev.to/yobox/how-to-pick-a-monorepo-tool-in-2026-kko)
+- [Top Remote Tech Jobs This Week — June 29, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-june-29-2026-5clj)
+- [Layering — Separation of Concerns](https://dev.to/nguoidungai/layering-separation-of-concerns-31h6)
+- [What are the Different Ways @Autowired Annotation Can Be Used in Spring Boot?](https://dev.to/realnamehidden1_61/what-are-the-different-ways-autowired-annotation-can-be-used-in-spring-boot-5g3l)
+- [Setting Up Uptime Monitoring for Fastify with Vigilmon](https://dev.to/vigilmon/setting-up-uptime-monitoring-for-fastify-with-vigilmon-4d2b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
