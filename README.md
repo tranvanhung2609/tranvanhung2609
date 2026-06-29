@@ -103,12 +103,14 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Aurelian Heritage Intelligent Alliance Office: In-depth guide to the 403&lpar;b&rpar; plan 2](https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-in-depth-guide-to-the-403b-plan-2-46b7)
-- [n8n Execute Command Node: Run Shell Scripts and CLI Tools in Your Workflows &lpar;Free JSON&rpar;](https://dev.to/pirateprentice/n8n-execute-command-node-run-shell-scripts-and-cli-tools-in-your-workflows-free-json-p81)
-- [Best Python Libraries for Building REST APIs Without a Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-framework-in-2026-3dk1)
-- [Adding server monitoring to my SSH manager without opening a second connection](https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2)
-- [A Deactivated Admin Could Still Use Their Token. That&#39;s When Dual-Mode JWT Stopped Being About Speed.](https://dev.to/ravigupta97/a-deactivated-admin-could-still-use-their-token-thats-when-dual-mode-jwt-stopped-being-about-1o60)
-- [Go-Live Isn&#39;t the Finish Line... Here&#39;s What Actually Happens Next](https://dev.to/acuver_consulting/go-live-isnt-the-finish-line-heres-what-actually-happens-next-3jm3)
+- [Why Your Background Jobs Fail in Production](https://dev.to/damir-karimov/why-your-background-jobs-fail-in-production-3nne)
+- [AI can scaffold an app in an afternoon. Getting it onto Kubernetes is still the hard part.
+- 82% of container users run K8s in prod, only 7% deploy AI models daily
+- GPU failures routinely slip past standard health checks](https://dev.to/8080_ai/ai-can-scaffold-an-app-in-an-afternoon-getting-it-onto-kubernetes-is-still-the-hard-part-82-4j1)
+- [NBI Clearance 2026: Complete Guide to Online Appointment, Requirements, Renewal, and Application Process](https://dev.to/nbiclearancesph/nbi-clearance-2026-complete-guide-to-online-appointment-requirements-renewal-and-application-4ei5)
+- [One Stack Machine, Two Runtimes: Cross-Validating Scala and Perl with a Shared JSON IR](https://dev.to/p_pumulo/one-stack-machine-two-runtimes-cross-validating-scala-and-perl-with-a-shared-json-ir-29jc)
+- [GCC AI Demo Submit Pack for Sales Engineers](https://dev.to/yash_pritwani_07a77613fd6/gcc-ai-demo-submit-pack-for-sales-engineers-3ell)
+- [JSON to POJO and Java Entity to JSON: A Practical Guide for Java Developers](https://dev.to/orbit_with_abhay/json-to-pojo-and-java-entity-to-json-a-practical-guide-for-java-developers-30m0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
