@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Bookmark Organizer](https://dev.to/banh/how-i-built-a-secure-rest-api-to-organize-my-twitter-bookmarks-j96)
-- [Segurança e Qualidade na Prática: O Papel do SAST, DAST e Testes Automatizados no Ciclo de Vida do Software Moderno](https://dev.to/maksuel_a7d5144bd578016b2/seguranca-e-qualidade-na-pratica-o-papel-do-sast-dast-e-testes-automatizados-no-ciclo-de-vida-do-49g0)
-- [Enterprise AI Execution Layer: What It Is and Why Your Agents Need One](https://dev.to/naman_k_70beacf9f14245a3b/enterprise-ai-execution-layer-what-it-is-and-why-your-agents-need-one-4il1)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 21 – Jun 27, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-21-jun-27-2026-259)
-- [How flexible is the Mill build tool?](https://dev.to/fmantz/how-flexible-is-the-mill-build-tool-elb)
-- [Postman Alternatives in 2026: 5 API Testing Tools Compared](https://dev.to/pku_bd13f856f0/postman-alternatives-in-2026-5-api-testing-tools-compared-15ic)
+- [Aurelian Heritage Intelligent Alliance Office: In-depth guide to the 403&lpar;b&rpar; plan 2](https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-in-depth-guide-to-the-403b-plan-2-46b7)
+- [n8n Execute Command Node: Run Shell Scripts and CLI Tools in Your Workflows &lpar;Free JSON&rpar;](https://dev.to/pirateprentice/n8n-execute-command-node-run-shell-scripts-and-cli-tools-in-your-workflows-free-json-p81)
+- [Best Python Libraries for Building REST APIs Without a Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-framework-in-2026-3dk1)
+- [Adding server monitoring to my SSH manager without opening a second connection](https://dev.to/masitings/adding-server-monitoring-to-my-ssh-manager-without-opening-a-second-connection-3gp2)
+- [A Deactivated Admin Could Still Use Their Token. That&#39;s When Dual-Mode JWT Stopped Being About Speed.](https://dev.to/ravigupta97/a-deactivated-admin-could-still-use-their-token-thats-when-dual-mode-jwt-stopped-being-about-1o60)
+- [Go-Live Isn&#39;t the Finish Line... Here&#39;s What Actually Happens Next](https://dev.to/acuver_consulting/go-live-isnt-the-finish-line-heres-what-actually-happens-next-3jm3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
