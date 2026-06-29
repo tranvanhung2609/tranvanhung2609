@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on How I Use Makefiles to Manage Backend Projects](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-use-makefiles-to-manage-backend-projects-3kjm)
-- [How to Pick a Monorepo Tool in 2026](https://dev.to/yobox/how-to-pick-a-monorepo-tool-in-2026-kko)
-- [Top Remote Tech Jobs This Week — June 29, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-june-29-2026-5clj)
-- [Layering — Separation of Concerns](https://dev.to/nguoidungai/layering-separation-of-concerns-31h6)
-- [What are the Different Ways @Autowired Annotation Can Be Used in Spring Boot?](https://dev.to/realnamehidden1_61/what-are-the-different-ways-autowired-annotation-can-be-used-in-spring-boot-5g3l)
-- [Setting Up Uptime Monitoring for Fastify with Vigilmon](https://dev.to/vigilmon/setting-up-uptime-monitoring-for-fastify-with-vigilmon-4d2b)
+- [The $500M Claude Code Problem: Why Most Teams Pay 3x What They Should for AI Coding](https://dev.to/aplomb2/the-500m-claude-code-problem-why-most-teams-pay-3x-what-they-should-for-ai-coding-59cj)
+- [Building an Async Job Platform with BullMQ, Socket.io, and Webhooks](https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55)
+- [Building an Async Job Platform with BullMQ, Socket.io, and Webhooks](https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55)
+- [Resolving Zitadel Instance Conflicts: Separating Dev and Prod Environments with Unique Identifiers](https://dev.to/maricode/resolving-zitadel-instance-conflicts-separating-dev-and-prod-environments-with-unique-identifiers-3ibh)
+- [I wrote my first lib on Java but i don&#39;t know where to find people who really need it. Can some give an advise of his path?](https://dev.to/shiningpr1sm/i-wrote-my-first-lib-on-java-but-i-dont-know-where-to-find-people-who-really-need-it-can-some-1hck)
+- [🗄️ The JPA Enum Default Quietly Corrupts Your Data](https://dev.to/code_with_kyryl/u0001f5c4-the-jpa-enum-default-quietly-corrupts-your-data-20pe)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
