@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The $500M Claude Code Problem: Why Most Teams Pay 3x What They Should for AI Coding](https://dev.to/aplomb2/the-500m-claude-code-problem-why-most-teams-pay-3x-what-they-should-for-ai-coding-59cj)
-- [Building an Async Job Platform with BullMQ, Socket.io, and Webhooks](https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55)
-- [Building an Async Job Platform with BullMQ, Socket.io, and Webhooks](https://dev.to/cypher682/building-an-async-job-platform-with-bullmq-socketio-and-webhooks-2m55)
-- [Resolving Zitadel Instance Conflicts: Separating Dev and Prod Environments with Unique Identifiers](https://dev.to/maricode/resolving-zitadel-instance-conflicts-separating-dev-and-prod-environments-with-unique-identifiers-3ibh)
-- [I wrote my first lib on Java but i don&#39;t know where to find people who really need it. Can some give an advise of his path?](https://dev.to/shiningpr1sm/i-wrote-my-first-lib-on-java-but-i-dont-know-where-to-find-people-who-really-need-it-can-some-1hck)
-- [🗄️ The JPA Enum Default Quietly Corrupts Your Data](https://dev.to/code_with_kyryl/u0001f5c4-the-jpa-enum-default-quietly-corrupts-your-data-20pe)
+- [TIL: How to Fix the &quot;Port Already in Use&quot; Error in Docker](https://dev.to/vatul16/til-how-to-fix-the-port-already-in-use-error-in-docker-1b65)
+- [Linux Logs Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-logs-explained-simply-3pjn)
+- [Tidal Locking and the Orbital Mechanics of Vendor Lock-in](https://dev.to/vibeagentmaking/tidal-locking-and-the-orbital-mechanics-of-vendor-lock-in-d75)
+- [Hardening Laptop Dev: Bảo mật tối giản cho Lunar/Panther Lake](https://dev.to/hungphatlaptop/hardening-laptop-dev-bao-mat-toi-gian-cho-lunarpanther-lake-5hn6)
+- [🚀 100 Days of GenAI is back, this time for DevOps Engineers!🚀](https://dev.to/lakhera2015/100-days-of-genai-is-back-this-time-for-devops-engineers-5go3)
+- [Your App Crashed. The Log Says &#39;137&#39;. What Does That Even Mean?](https://dev.to/dev_encyclopedia/your-app-crashed-the-log-says-137-what-does-that-even-mean-5h1f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
