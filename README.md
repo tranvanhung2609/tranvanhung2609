@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Is your VPN server as secure as you think? One simple best practice: keep your VPN software and](https://dev.to/monovm/is-your-vpn-server-as-secure-as-you-think-one-simple-best-practice-keep-your-vpn-software-and-kfa)
-- [When Notifications Are a Legal Obligation: The Architecture Behind Rule-Driven Event Pipelines Across Three Regulated Products](https://dev.to/pratham0704/when-notifications-are-a-legal-obligation-the-architecture-behind-rule-driven-event-pipelines-2ecn)
-- [🎉 New release of JD-GUI Duo 2.0.113 is out!](https://dev.to/nbauma109/new-release-of-jd-gui-duo-20113-is-out-oh6)
-- [Your AI Agent Works in the Demo and Breaks in Production. The Problem Is the Last Mile.](https://dev.to/marketing_wizr_f14586ace9/your-ai-agent-works-in-the-demo-and-breaks-in-production-the-problem-is-the-last-mile-1gnc)
-- [2026 Snapchat Advertising Guide: How to Launch and Optimize Snapchat Ads](https://dev.to/ipfoxy/2026-snapchat-advertising-guide-how-to-launch-and-optimize-snapchat-ads-5hgn)
-- [Your Checkout Redirect Is Not Payment Confirmation](https://dev.to/ecomtrad24/your-checkout-redirect-is-not-payment-confirmation-c4i)
+- [When Platform Engineering Drifts into Control](https://dev.to/gideon-sireling/when-platform-engineering-drifts-into-control-484c)
+- [Kubernetes FinOps: How to Align Engineering and Finance Teams](https://dev.to/nalluri_gowtham_c21a3b06a/kubernetes-finops-how-to-align-engineering-and-finance-teams-e48)
+- [Review Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-mma-timer-what-we-learned-building-random-tactical-timer-ac8)
+- [Web Developer Travis McCracken on Metrics First, Logging Second](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-metrics-first-logging-second-21df)
+- [Automation ROI, TCO Modeling, and Vendor Selection Framework](https://dev.to/beefedai/automation-roi-tco-modeling-and-vendor-selection-framework-kh9)
+- [The Codename One Game Builder: Draw The Level, Code The Rules](https://dev.to/codenameone/the-codename-one-game-builder-draw-the-level-code-the-rules-19gl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
