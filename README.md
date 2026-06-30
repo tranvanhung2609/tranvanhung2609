@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [TIL: How to Fix the &quot;Port Already in Use&quot; Error in Docker](https://dev.to/vatul16/til-how-to-fix-the-port-already-in-use-error-in-docker-1b65)
-- [Linux Logs Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-logs-explained-simply-3pjn)
-- [Tidal Locking and the Orbital Mechanics of Vendor Lock-in](https://dev.to/vibeagentmaking/tidal-locking-and-the-orbital-mechanics-of-vendor-lock-in-d75)
-- [Hardening Laptop Dev: Bảo mật tối giản cho Lunar/Panther Lake](https://dev.to/hungphatlaptop/hardening-laptop-dev-bao-mat-toi-gian-cho-lunarpanther-lake-5hn6)
-- [🚀 100 Days of GenAI is back, this time for DevOps Engineers!🚀](https://dev.to/lakhera2015/100-days-of-genai-is-back-this-time-for-devops-engineers-5go3)
-- [Your App Crashed. The Log Says &#39;137&#39;. What Does That Even Mean?](https://dev.to/dev_encyclopedia/your-app-crashed-the-log-says-137-what-does-that-even-mean-5h1f)
+- [Is your VPN server as secure as you think? One simple best practice: keep your VPN software and](https://dev.to/monovm/is-your-vpn-server-as-secure-as-you-think-one-simple-best-practice-keep-your-vpn-software-and-kfa)
+- [When Notifications Are a Legal Obligation: The Architecture Behind Rule-Driven Event Pipelines Across Three Regulated Products](https://dev.to/pratham0704/when-notifications-are-a-legal-obligation-the-architecture-behind-rule-driven-event-pipelines-2ecn)
+- [🎉 New release of JD-GUI Duo 2.0.113 is out!](https://dev.to/nbauma109/new-release-of-jd-gui-duo-20113-is-out-oh6)
+- [Your AI Agent Works in the Demo and Breaks in Production. The Problem Is the Last Mile.](https://dev.to/marketing_wizr_f14586ace9/your-ai-agent-works-in-the-demo-and-breaks-in-production-the-problem-is-the-last-mile-1gnc)
+- [2026 Snapchat Advertising Guide: How to Launch and Optimize Snapchat Ads](https://dev.to/ipfoxy/2026-snapchat-advertising-guide-how-to-launch-and-optimize-snapchat-ads-5hgn)
+- [Your Checkout Redirect Is Not Payment Confirmation](https://dev.to/ecomtrad24/your-checkout-redirect-is-not-payment-confirmation-c4i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
