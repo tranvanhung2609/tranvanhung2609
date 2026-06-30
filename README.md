@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [When Platform Engineering Drifts into Control](https://dev.to/gideon-sireling/when-platform-engineering-drifts-into-control-484c)
-- [Kubernetes FinOps: How to Align Engineering and Finance Teams](https://dev.to/nalluri_gowtham_c21a3b06a/kubernetes-finops-how-to-align-engineering-and-finance-teams-e48)
-- [Review Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-mma-timer-what-we-learned-building-random-tactical-timer-ac8)
-- [Web Developer Travis McCracken on Metrics First, Logging Second](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-metrics-first-logging-second-21df)
-- [Automation ROI, TCO Modeling, and Vendor Selection Framework](https://dev.to/beefedai/automation-roi-tco-modeling-and-vendor-selection-framework-kh9)
-- [The Codename One Game Builder: Draw The Level, Code The Rules](https://dev.to/codenameone/the-codename-one-game-builder-draw-the-level-code-the-rules-19gl)
+- [&quot;🧪 Good Enough Tests Died When AI Started Writing Them&quot;](https://dev.to/code_with_kyryl/-good-enough-tests-died-when-ai-started-writing-them-1l2)
+- [Building a multi-step AI agent in Java with Spring AI 2.0](https://dev.to/davebrown1975/building-a-multi-step-ai-agent-in-java-with-spring-ai-20-4nk3)
+- [What’s New in Oracle Backend for Microservices and AI 2.1.0](https://dev.to/oracledevs/whats-new-in-oracle-backend-for-microservices-and-ai-210-3hmf)
+- [String in Java](https://dev.to/hariharan_sj_2003/string-in-java-1ecd)
+- [String in Java](https://dev.to/hariharan_sj_2003/string-in-java-1ecd)
+- [FinOps Cloud Cost Optimization: How Smart Engineering Teams Cut Cloud Bills](https://dev.to/triotechsystems/finops-cloud-cost-optimization-how-smart-engineering-teams-cut-cloud-bills-32h8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
