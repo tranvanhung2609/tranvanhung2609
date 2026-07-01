@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Jira the Right Way &lpar;Most Teams Get This Wrong&rpar;](https://dev.to/nisha1/how-to-set-up-jira-the-right-way-most-teams-get-this-wrong-3d80)
-- [How to right-size RDS instances without downtime](https://dev.to/muskan_8abedcc7e12/how-to-right-size-rds-instances-without-downtime-1lhp)
-- [EC2 Spot vs On-Demand: the true cost difference in 2026](https://dev.to/muskan_8abedcc7e12/ec2-spot-vs-on-demand-the-true-cost-difference-in-2026-2maj)
-- [HPA vs VPA vs KEDA: when to use which &lpar;decision tree&rpar;](https://dev.to/muskan_8abedcc7e12/hpa-vs-vpa-vs-keda-when-to-use-which-decision-tree-3k06)
-- [The Real Cost of a Bad First Week](https://dev.to/syms_mation/the-real-cost-of-a-bad-first-week-1ljn)
-- [Build a Vector Search Cocktail Picker with Claude Code and Momen BaaS](https://dev.to/_5038d984f7fffb2b6fe38/build-a-vector-search-cocktail-picker-with-claude-code-and-momen-baas-5cbi)
+- [The Deploy Shipped. The Route Got Worse. Now What?](https://dev.to/jakexkim/the-deploy-shipped-the-route-got-worse-now-what-1189)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-17c4)
+- [Your site, your rules: new AI traffic options for all customers](https://dev.to/rasne/your-site-your-rules-new-ai-traffic-options-for-all-customers-2cfn)
+- [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://dev.to/rasne/announcing-the-monetization-gateway-charge-for-any-resource-behind-cloudflare-via-x402-90f)
+- [Aiinak AI IT Ops Agent vs BigPanda: MSP Guide](https://dev.to/afzaal_a/aiinak-ai-it-ops-agent-vs-bigpanda-msp-guide-jge)
+- [Under 20 Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-crossfit-timer-what-we-learned-building-random-tactical-timer-4jmb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
