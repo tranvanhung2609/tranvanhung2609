@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🐍 kubectl exec hangs when running Python scripts — what&#39;s going on](https://dev.to/ptp2308/kubectl-exec-hangs-when-running-python-scripts-whats-going-on-44b4)
-- [Cancel duplicate GitHub Actions runs with one block &lpar;and the one place you shouldn&#39;t&rpar;](https://dev.to/ace2932/cancel-duplicate-github-actions-runs-with-one-block-and-the-one-place-you-shouldnt-2m3k)
-- [The 7 IAM Misconfigurations We See in Almost Every AWS Account](https://dev.to/shieldlyio/the-7-iam-misconfigurations-we-see-in-almost-every-aws-account-35fm)
-- [【2026】Auth0 代替 &lpar;Clerk/Supabase Auth/WorkOS&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-45em)
-- [【2026】Algolia 代替の全文検索SaaS比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-332)
-- [【2026】Notion 代替の開発者向けドキュメントツール：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-notion-dai-ti-nokai-fa-zhe-xiang-kedokiyumentoturuliao-jin-yi-xing-kosutodexuan-bu-501p)
+- [How to Set Up Jira the Right Way &lpar;Most Teams Get This Wrong&rpar;](https://dev.to/nisha1/how-to-set-up-jira-the-right-way-most-teams-get-this-wrong-3d80)
+- [How to right-size RDS instances without downtime](https://dev.to/muskan_8abedcc7e12/how-to-right-size-rds-instances-without-downtime-1lhp)
+- [EC2 Spot vs On-Demand: the true cost difference in 2026](https://dev.to/muskan_8abedcc7e12/ec2-spot-vs-on-demand-the-true-cost-difference-in-2026-2maj)
+- [HPA vs VPA vs KEDA: when to use which &lpar;decision tree&rpar;](https://dev.to/muskan_8abedcc7e12/hpa-vs-vpa-vs-keda-when-to-use-which-decision-tree-3k06)
+- [The Real Cost of a Bad First Week](https://dev.to/syms_mation/the-real-cost-of-a-bad-first-week-1ljn)
+- [Build a Vector Search Cocktail Picker with Claude Code and Momen BaaS](https://dev.to/_5038d984f7fffb2b6fe38/build-a-vector-search-cocktail-picker-with-claude-code-and-momen-baas-5cbi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
