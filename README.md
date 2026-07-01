@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Deploy Shipped. The Route Got Worse. Now What?](https://dev.to/jakexkim/the-deploy-shipped-the-route-got-worse-now-what-1189)
-- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-17c4)
-- [Your site, your rules: new AI traffic options for all customers](https://dev.to/rasne/your-site-your-rules-new-ai-traffic-options-for-all-customers-2cfn)
-- [Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402](https://dev.to/rasne/announcing-the-monetization-gateway-charge-for-any-resource-behind-cloudflare-via-x402-90f)
-- [Aiinak AI IT Ops Agent vs BigPanda: MSP Guide](https://dev.to/afzaal_a/aiinak-ai-it-ops-agent-vs-bigpanda-msp-guide-jge)
-- [Under 20 Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-crossfit-timer-what-we-learned-building-random-tactical-timer-4jmb)
+- [Fable 5 is back.](https://dev.to/alexgetmancom/fable-5-is-back-2n6f)
+- [Ideas for your startups](https://dev.to/launchallyceo/ideas-for-your-startups-17fk)
+- [Today I got a very painful reminder of the importance of using transactions in database migrations.](https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f)
+- [Unhappy Path Changed My Backend Perspective...](https://dev.to/sourav_mahato_3900/unhappy-path-changed-my-backend-perspective-25lc)
+- [How to Watch Free NHL Live Stream 2026 – Fast, Free &amp; Easy](https://dev.to/nextplaylive/how-to-watch-free-nhl-live-stream-2026-fast-free-easy-43lf)
+- [AI already automates 16% of freelance tasks](https://dev.to/alexgetmancom/ai-already-automates-16-of-freelance-tasks-5h28)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
