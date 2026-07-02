@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 40 Minutes at 11pm Debugging a Deploy That Wasn&#39;t Broken](https://dev.to/bashsnippets/i-spent-40-minutes-at-11pm-debugging-a-deploy-that-wasnt-broken-1p2)
-- [⏳ 48 Hours Left — GenAI for DevOps Engineers kicks off this week!⏳](https://dev.to/lakhera2015/48-hours-left-genai-for-devops-engineers-kicks-off-this-week-60n)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3c86)
-- [A Practical Linux Operations Roadmap for 2026](https://dev.to/huo_huo_ba0fc42b443732322/a-practical-linux-operations-roadmap-for-2026-2145)
-- [Monitoramento de Logs com Grafana + Loki + Promtail + Prometheus](https://dev.to/edivan/monitoramento-de-logs-com-grafana-loki-promtail-prometheus-25a8)
-- [10 Docker Commands That Save Me Hours Every Week &lpar;And You&#39;re Probably Not Using&rpar;](https://dev.to/the_aiproducer_5ec354687/10-docker-commands-that-save-me-hours-every-week-and-youre-probably-not-using-57ph)
+- [🧩How we built a Telegram automation system using Make,Nation,Webhooks,and Payhip](https://dev.to/eva-nomados/how-we-built-a-telegram-automation-system-using-makenationwebhooksand-payhip-6nj)
+- [How I Reduced API Response Times by 70% Without Changing My Database](https://dev.to/mittal_technologies/how-i-reduced-api-response-times-by-70-without-changing-my-database-56cl)
+- [The LLM Gateway &amp; Router Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-llm-gateway-router-index-2026-16fm)
+- [Step-by-Step Tutorial - DOCX to PDF Conversion in Java](https://dev.to/groupdocs-cloud/step-by-step-tutorial-docx-to-pdf-conversion-in-java-385p)
+- [Make vs n8n vs Zapier Webhook Automation Comparison](https://dev.to/chasebot/make-vs-n8n-vs-zapier-webhook-automation-comparison-13n)
+- [The Cost of Guesswork in Kubernetes](https://dev.to/puneetha_jalagam/the-cost-of-guesswork-in-kubernetes-2d27)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
