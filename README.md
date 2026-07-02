@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fable 5 is back.](https://dev.to/alexgetmancom/fable-5-is-back-2n6f)
-- [Ideas for your startups](https://dev.to/launchallyceo/ideas-for-your-startups-17fk)
-- [Today I got a very painful reminder of the importance of using transactions in database migrations.](https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f)
-- [Unhappy Path Changed My Backend Perspective...](https://dev.to/sourav_mahato_3900/unhappy-path-changed-my-backend-perspective-25lc)
-- [How to Watch Free NHL Live Stream 2026 – Fast, Free &amp; Easy](https://dev.to/nextplaylive/how-to-watch-free-nhl-live-stream-2026-fast-free-easy-43lf)
-- [AI already automates 16% of freelance tasks](https://dev.to/alexgetmancom/ai-already-automates-16-of-freelance-tasks-5h28)
+- [I Spent 40 Minutes at 11pm Debugging a Deploy That Wasn&#39;t Broken](https://dev.to/bashsnippets/i-spent-40-minutes-at-11pm-debugging-a-deploy-that-wasnt-broken-1p2)
+- [⏳ 48 Hours Left — GenAI for DevOps Engineers kicks off this week!⏳](https://dev.to/lakhera2015/48-hours-left-genai-for-devops-engineers-kicks-off-this-week-60n)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3c86)
+- [A Practical Linux Operations Roadmap for 2026](https://dev.to/huo_huo_ba0fc42b443732322/a-practical-linux-operations-roadmap-for-2026-2145)
+- [Monitoramento de Logs com Grafana + Loki + Promtail + Prometheus](https://dev.to/edivan/monitoramento-de-logs-com-grafana-loki-promtail-prometheus-25a8)
+- [10 Docker Commands That Save Me Hours Every Week &lpar;And You&#39;re Probably Not Using&rpar;](https://dev.to/the_aiproducer_5ec354687/10-docker-commands-that-save-me-hours-every-week-and-youre-probably-not-using-57ph)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
