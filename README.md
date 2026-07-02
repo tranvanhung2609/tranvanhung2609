@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Review Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-boxing-drills-what-we-learned-building-random-tactical-timer-2gha)
-- [The failure that looks like success: how an unattended agent loop dies](https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba)
-- [Community Docker Images: keeping the operator open without a vendor registry lock-in](https://dev.to/vyacheslav_sarzhan_3c1767/community-docker-images-keeping-the-operator-open-without-a-vendor-registry-lock-in-532g)
-- [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://dev.to/codenameone/game-builder-tutorial-1-build-a-2d-platformer-dukes-coffee-run-45b0)
-- [[AI] Optimizing vLLM Serving: AWQ, GPTQ, &amp; GGUF | SLM Playbook](https://dev.to/vesviet/ai-optimizing-vllm-serving-awq-gptq-gguf-slm-playbook-5756)
-- [Why Your SAST Scanner Misses 86% of Real Vulnerabilities](https://dev.to/mattybellx/why-your-sast-scanner-misses-86-of-real-vulnerabilities-2ab7)
+- [Why Snap CD: Modular Deployments](https://dev.to/karlschriek/why-snap-cd-modular-deployments-4k4j)
+- [Why Snap CD: Self-Hosted Terraform Runners with Credential Isolation](https://dev.to/karlschriek/why-snap-cd-self-hosted-terraform-runners-with-credential-isolation-407e)
+- [The Shadow Ledger Pattern: How to Keep a Bank Live on FedNow During Core Maintenance Windows](https://dev.to/daniel_mori/the-shadow-ledger-pattern-how-to-keep-a-bank-live-on-fednow-during-core-maintenance-windows-3o60)
+- [Buy GitHub Consulting Services from Experienced Developers](https://dev.to/charleschristian/buy-github-consulting-services-from-experienced-developers-4o26)
+- [Why Deploying Your First App Is So Hard &lpar;And How I’m Fixing It at 17&rpar;](https://dev.to/launchallyceo/why-deploying-your-first-app-is-so-hard-and-how-im-fixing-it-at-17-20ba)
+- [I Almost Built a Grafana Stack—Then AgentGateway Shipped Everything I Needed](https://dev.to/anup_sharma_86fa94612fe3c/i-almost-built-a-grafana-stack-then-agentgateway-shipped-everything-i-needed-2fae)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
