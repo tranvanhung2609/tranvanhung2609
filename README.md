@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🧩How we built a Telegram automation system using Make,Nation,Webhooks,and Payhip](https://dev.to/eva-nomados/how-we-built-a-telegram-automation-system-using-makenationwebhooksand-payhip-6nj)
-- [How I Reduced API Response Times by 70% Without Changing My Database](https://dev.to/mittal_technologies/how-i-reduced-api-response-times-by-70-without-changing-my-database-56cl)
-- [The LLM Gateway &amp; Router Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-llm-gateway-router-index-2026-16fm)
-- [Step-by-Step Tutorial - DOCX to PDF Conversion in Java](https://dev.to/groupdocs-cloud/step-by-step-tutorial-docx-to-pdf-conversion-in-java-385p)
-- [Make vs n8n vs Zapier Webhook Automation Comparison](https://dev.to/chasebot/make-vs-n8n-vs-zapier-webhook-automation-comparison-13n)
-- [The Cost of Guesswork in Kubernetes](https://dev.to/puneetha_jalagam/the-cost-of-guesswork-in-kubernetes-2d27)
+- [Review Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/review-boxing-drills-what-we-learned-building-random-tactical-timer-2gha)
+- [The failure that looks like success: how an unattended agent loop dies](https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba)
+- [Community Docker Images: keeping the operator open without a vendor registry lock-in](https://dev.to/vyacheslav_sarzhan_3c1767/community-docker-images-keeping-the-operator-open-without-a-vendor-registry-lock-in-532g)
+- [Game Builder Tutorial 1: Build a 2D Platformer — Duke&#39;s Coffee Run](https://dev.to/codenameone/game-builder-tutorial-1-build-a-2d-platformer-dukes-coffee-run-45b0)
+- [[AI] Optimizing vLLM Serving: AWQ, GPTQ, &amp; GGUF | SLM Playbook](https://dev.to/vesviet/ai-optimizing-vllm-serving-awq-gptq-gguf-slm-playbook-5756)
+- [Why Your SAST Scanner Misses 86% of Real Vulnerabilities](https://dev.to/mattybellx/why-your-sast-scanner-misses-86-of-real-vulnerabilities-2ab7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
