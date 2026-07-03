@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Scarab Diagnostic Field Test #035 - Electron Linux Message Box UI Theme Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-035-electron-linux-message-box-ui-theme-boundary-2mm8)
-- [Aurelian Heritage Intelligent Alliance Office: The critical tax-exempt status of 501&lpar;c&rpar;&lpar;3&rpar; organizations](https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-the-critical-tax-exempt-status-of-501c3-3hb6)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3n6f)
-- [Jujutsu &lpar;jj&rpar; — ทางเลือก Git ที่ไม่ได้มาแทนที่ แต่มาเติมเต็ม](https://dev.to/gophernment/jujutsu-jj-thaangeluuek-git-thiiaimaidmaaaethnthii-aetmaaetimetm-2i29)
-- [【2026】Postman 代替の軽量APIクライアント比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-postman-dai-ti-noqing-liang-apikuraiantobi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1pn3)
-- [【2026】Heroku 代替 2026 &lpar;Render/Railway/Fly.io&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-heroku-dai-ti-2026-renderrailwayflyioliao-jin-yi-xing-kosutodexuan-bu-4knk)
+- [Are You Measuring DevOps Success or Just Counting Deployments?](https://dev.to/marcom/are-you-measuring-devops-success-or-just-counting-deployments-m3l)
+- [One client shouldn&#39;t be able to drown your API: rate limiting with Bucket4j and Redis](https://dev.to/dev48v/one-client-shouldnt-be-able-to-drown-your-api-rate-limiting-with-bucket4j-and-redis-213f)
+- [One client shouldn&#39;t be able to drown your API: rate limiting with Bucket4j and Redis](https://dev.to/dev48v/one-client-shouldnt-be-able-to-drown-your-api-rate-limiting-with-bucket4j-and-redis-213f)
+- [Day 55 of #100DaysOfClickHouse - Security Best Practices for ClickHouse® Deployments](https://dev.to/kanishga_subramani_49ad73/day-55-of-100daysofclickhouse-security-best-practices-for-clickhouser-deployments-2aad)
+- [The MCP Paradox: How to Secure the Agentic Supply Chain](https://dev.to/agdex_ai/the-mcp-paradox-how-to-secure-the-agentic-supply-chain-4lbm)
+- [The one-click gap nobody was solving: why I built HTML Deployer](https://dev.to/juliedechili/the-one-click-gap-nobody-was-solving-why-i-built-html-deployer-4016)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
