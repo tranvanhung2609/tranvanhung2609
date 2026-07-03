@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Snap CD: Modular Deployments](https://dev.to/karlschriek/why-snap-cd-modular-deployments-4k4j)
-- [Why Snap CD: Self-Hosted Terraform Runners with Credential Isolation](https://dev.to/karlschriek/why-snap-cd-self-hosted-terraform-runners-with-credential-isolation-407e)
-- [The Shadow Ledger Pattern: How to Keep a Bank Live on FedNow During Core Maintenance Windows](https://dev.to/daniel_mori/the-shadow-ledger-pattern-how-to-keep-a-bank-live-on-fednow-during-core-maintenance-windows-3o60)
-- [Buy GitHub Consulting Services from Experienced Developers](https://dev.to/charleschristian/buy-github-consulting-services-from-experienced-developers-4o26)
-- [Why Deploying Your First App Is So Hard &lpar;And How I’m Fixing It at 17&rpar;](https://dev.to/launchallyceo/why-deploying-your-first-app-is-so-hard-and-how-im-fixing-it-at-17-20ba)
-- [I Almost Built a Grafana Stack—Then AgentGateway Shipped Everything I Needed](https://dev.to/anup_sharma_86fa94612fe3c/i-almost-built-a-grafana-stack-then-agentgateway-shipped-everything-i-needed-2fae)
+- [Scarab Diagnostic Field Test #035 - Electron Linux Message Box UI Theme Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-035-electron-linux-message-box-ui-theme-boundary-2mm8)
+- [Aurelian Heritage Intelligent Alliance Office: The critical tax-exempt status of 501&lpar;c&rpar;&lpar;3&rpar; organizations](https://dev.to/aurelianheritageoffice/aurelian-heritage-intelligent-alliance-office-the-critical-tax-exempt-status-of-501c3-3hb6)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3n6f)
+- [Jujutsu &lpar;jj&rpar; — ทางเลือก Git ที่ไม่ได้มาแทนที่ แต่มาเติมเต็ม](https://dev.to/gophernment/jujutsu-jj-thaangeluuek-git-thiiaimaidmaaaethnthii-aetmaaetimetm-2i29)
+- [【2026】Postman 代替の軽量APIクライアント比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-postman-dai-ti-noqing-liang-apikuraiantobi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1pn3)
+- [【2026】Heroku 代替 2026 &lpar;Render/Railway/Fly.io&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-heroku-dai-ti-2026-renderrailwayflyioliao-jin-yi-xing-kosutodexuan-bu-4knk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
