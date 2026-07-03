@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Are You Measuring DevOps Success or Just Counting Deployments?](https://dev.to/marcom/are-you-measuring-devops-success-or-just-counting-deployments-m3l)
-- [One client shouldn&#39;t be able to drown your API: rate limiting with Bucket4j and Redis](https://dev.to/dev48v/one-client-shouldnt-be-able-to-drown-your-api-rate-limiting-with-bucket4j-and-redis-213f)
-- [One client shouldn&#39;t be able to drown your API: rate limiting with Bucket4j and Redis](https://dev.to/dev48v/one-client-shouldnt-be-able-to-drown-your-api-rate-limiting-with-bucket4j-and-redis-213f)
-- [Day 55 of #100DaysOfClickHouse - Security Best Practices for ClickHouse® Deployments](https://dev.to/kanishga_subramani_49ad73/day-55-of-100daysofclickhouse-security-best-practices-for-clickhouser-deployments-2aad)
-- [The MCP Paradox: How to Secure the Agentic Supply Chain](https://dev.to/agdex_ai/the-mcp-paradox-how-to-secure-the-agentic-supply-chain-4lbm)
-- [The one-click gap nobody was solving: why I built HTML Deployer](https://dev.to/juliedechili/the-one-click-gap-nobody-was-solving-why-i-built-html-deployer-4016)
+- [Under 20 Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-home-workout-timer-what-we-learned-building-random-tactical-timer-3np6)
+- [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)
+- [How to redact PDF text with the JPedal Viewer](https://dev.to/idrsolutions/how-to-redact-pdf-text-with-the-jpedal-viewer-1f9m)
+- [MTTR Optimization: The 7 Levers That Actually Move the Needle](https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-1me6)
+- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-4iep)
+- [Toolchain friction in development](https://dev.to/monolisafont/toolchain-friction-in-development-1njf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
