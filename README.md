@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Under 20 Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-home-workout-timer-what-we-learned-building-random-tactical-timer-3np6)
-- [Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)
-- [How to redact PDF text with the JPedal Viewer](https://dev.to/idrsolutions/how-to-redact-pdf-text-with-the-jpedal-viewer-1f9m)
-- [MTTR Optimization: The 7 Levers That Actually Move the Needle](https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-1me6)
-- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-4iep)
-- [Toolchain friction in development](https://dev.to/monolisafont/toolchain-friction-in-development-1njf)
+- [&quot;🚩 readOnly = true Is Not a Comment&quot;](https://dev.to/code_with_kyryl/-readonly-true-is-not-a-comment-4cki)
+- [&quot;🔇 Calling Your Own @Async Method Does Nothing&quot;](https://dev.to/code_with_kyryl/-calling-your-own-async-method-does-nothing-3aho)
+- [&quot;🥊 Your Retry Aspect Is Retrying a Dead Transaction&quot;](https://dev.to/code_with_kyryl/-your-retry-aspect-is-retrying-a-dead-transaction-4kbf)
+- [&quot;🔁 Your Prototype Bean Is a Singleton in Disguise&quot;](https://dev.to/code_with_kyryl/-your-prototype-bean-is-a-singleton-in-disguise-cni)
+- [eBPF Might Change Observability More Than OpenTelemetry.](https://dev.to/kubeha_18/ebpf-might-change-observability-more-than-opentelemetry-1f6f)
+- [The Right Way to Pair AI With Terraform Plans](https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
