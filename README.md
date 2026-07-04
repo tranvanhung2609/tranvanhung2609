@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cómo validar correos de Alertmanager tras rotar secretos en Kubernetes](https://dev.to/alexcarteruk/como-validar-correos-de-alertmanager-tras-rotar-secretos-en-kubernetes-4fi5)
-- [8 Free CVE &amp; Vulnerability APIs With No Key &lpar;2026&rpar;](https://dev.to/0012303/8-free-cve-vulnerability-apis-with-no-key-2026-57b9)
-- [【2026】Auth0 代替 &lpar;Clerk/Supabase Auth/WorkOS&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4j5j)
-- [【2026】Algolia 代替の全文検索SaaS比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1eg7)
-- [Reverse Proxy](https://dev.to/gouranga-das-khulna/reverse-proxy-1o0j)
-- [Reverse Proxy](https://dev.to/gouranga-das-khulna/reverse-proxy-1o0j)
+- [Webhook Retry Logic: Exponential Backoff Best Practices](https://dev.to/anonymilyhq/webhook-retry-logic-exponential-backoff-best-practices-1de6)
+- [Testing REST API Verification Emails Without Polluting Shared Inboxes](https://dev.to/kevindev27/testing-rest-api-verification-emails-without-polluting-shared-inboxes-5693)
+- [Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)
+- [Role of statistics in data science.](https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp)
+- [Windmill vs n8n vs Temporal for API automation](https://dev.to/chasebot/windmill-vs-n8n-vs-temporal-for-api-automation-3lmi)
+- [Top AI Agents for DevOps Online Training | Visualpath](https://dev.to/vamsi_visualpath_826a9ad2/top-ai-agents-for-devops-online-training-visualpath-2pm0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
