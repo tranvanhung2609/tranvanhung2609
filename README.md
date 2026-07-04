@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Webhook Retry Logic: Exponential Backoff Best Practices](https://dev.to/anonymilyhq/webhook-retry-logic-exponential-backoff-best-practices-1de6)
-- [Testing REST API Verification Emails Without Polluting Shared Inboxes](https://dev.to/kevindev27/testing-rest-api-verification-emails-without-polluting-shared-inboxes-5693)
-- [Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)
-- [Role of statistics in data science.](https://dev.to/gigomkenya/role-of-statistics-in-data-science-17gp)
-- [Windmill vs n8n vs Temporal for API automation](https://dev.to/chasebot/windmill-vs-n8n-vs-temporal-for-api-automation-3lmi)
-- [Top AI Agents for DevOps Online Training | Visualpath](https://dev.to/vamsi_visualpath_826a9ad2/top-ai-agents-for-devops-online-training-visualpath-2pm0)
+- [Spring boot skills agent](https://dev.to/rrezart_prebreza/spring-boot-skills-agent-4bb2)
+- [Why your email goes to spam, and how to actually fix it](https://dev.to/lukethomas_tw/why-your-email-goes-to-spam-and-how-to-actually-fix-it-4oa0)
+- [The Cookie That Wouldn&#39;t Die &lpar;and How We Fixed It&rpar;](https://dev.to/sameer_saleem/the-cookie-that-wouldnt-die-and-how-we-fixed-it-38lm)
+- [Run the Readiness Audit Before You Flip DNS](https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07)
+- [Achieving Engineering Goals: Fine-Grained GitHub Permissions for Rulesets](https://dev.to/devactivity/achieving-engineering-goals-fine-grained-github-permissions-for-rulesets-25a6)
+- [Web Developer Travis McCracken on Designing High-Availability Systems with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-designing-high-availability-systems-with-go-5ap)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
