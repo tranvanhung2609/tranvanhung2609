@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Spring boot skills agent](https://dev.to/rrezart_prebreza/spring-boot-skills-agent-4bb2)
-- [Why your email goes to spam, and how to actually fix it](https://dev.to/lukethomas_tw/why-your-email-goes-to-spam-and-how-to-actually-fix-it-4oa0)
-- [The Cookie That Wouldn&#39;t Die &lpar;and How We Fixed It&rpar;](https://dev.to/sameer_saleem/the-cookie-that-wouldnt-die-and-how-we-fixed-it-38lm)
-- [Run the Readiness Audit Before You Flip DNS](https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07)
-- [Achieving Engineering Goals: Fine-Grained GitHub Permissions for Rulesets](https://dev.to/devactivity/achieving-engineering-goals-fine-grained-github-permissions-for-rulesets-25a6)
-- [Web Developer Travis McCracken on Designing High-Availability Systems with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-designing-high-availability-systems-with-go-5ap)
+- [What&#39;s All Am I Hosting? Full Infrastructure Breakdown](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8)
+- [Monolith vs. Microservices: Simplicity vs. Scalability ⚔️](https://dev.to/ganeshak11/monolith-vs-microservices-simplicity-vs-scalability-4mi8)
+- [Python Docker Containerization: From Dev to Production](https://dev.to/annalilith/python-docker-containerization-from-dev-to-production-4l0g)
+- [Both Delivery Paths Went Silent. Neither Was Broken.](https://dev.to/henry_dan_81513dd35a2f540/both-delivery-paths-went-silent-neither-was-broken-7cd)
+- [V2: Build a Dynamic Online Ordering System for a Local Café](https://dev.to/aws-builders/v2-build-a-dynamic-online-ordering-system-for-a-local-cafe-42n0)
+- [Building an Offline Document Search Engine for My University](https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
