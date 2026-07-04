@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [&quot;🚩 readOnly = true Is Not a Comment&quot;](https://dev.to/code_with_kyryl/-readonly-true-is-not-a-comment-4cki)
-- [&quot;🔇 Calling Your Own @Async Method Does Nothing&quot;](https://dev.to/code_with_kyryl/-calling-your-own-async-method-does-nothing-3aho)
-- [&quot;🥊 Your Retry Aspect Is Retrying a Dead Transaction&quot;](https://dev.to/code_with_kyryl/-your-retry-aspect-is-retrying-a-dead-transaction-4kbf)
-- [&quot;🔁 Your Prototype Bean Is a Singleton in Disguise&quot;](https://dev.to/code_with_kyryl/-your-prototype-bean-is-a-singleton-in-disguise-cni)
-- [eBPF Might Change Observability More Than OpenTelemetry.](https://dev.to/kubeha_18/ebpf-might-change-observability-more-than-opentelemetry-1f6f)
-- [The Right Way to Pair AI With Terraform Plans](https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c)
+- [Cómo validar correos de Alertmanager tras rotar secretos en Kubernetes](https://dev.to/alexcarteruk/como-validar-correos-de-alertmanager-tras-rotar-secretos-en-kubernetes-4fi5)
+- [8 Free CVE &amp; Vulnerability APIs With No Key &lpar;2026&rpar;](https://dev.to/0012303/8-free-cve-vulnerability-apis-with-no-key-2026-57b9)
+- [【2026】Auth0 代替 &lpar;Clerk/Supabase Auth/WorkOS&rpar;：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-auth0-dai-ti-clerksupabase-authworkosliao-jin-yi-xing-kosutodexuan-bu-4j5j)
+- [【2026】Algolia 代替の全文検索SaaS比較：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-algolia-dai-ti-noquan-wen-jian-suo-saasbi-jiao-liao-jin-yi-xing-kosutodexuan-bu-1eg7)
+- [Reverse Proxy](https://dev.to/gouranga-das-khulna/reverse-proxy-1o0j)
+- [Reverse Proxy](https://dev.to/gouranga-das-khulna/reverse-proxy-1o0j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
