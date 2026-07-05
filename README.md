@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Add a post-quantum readiness gate to your CI in 5 lines](https://dev.to/brandonsellam/add-a-post-quantum-readiness-gate-to-your-ci-in-5-lines-2bg3)
-- [Why You Don&#39;t Need 5 Database Admin Tools Anymore](https://dev.to/biz59_support/why-you-dont-need-5-database-admin-tools-anymore-49el)
-- [Osloq — ให้ AI reproduction เวลาเกิด bug](https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp)
-- [Chạy Docker Microservices trên Ryzen AI 9 HX 370](https://dev.to/hungphatlaptop/chay-docker-microservices-tren-ryzen-ai-9-hx-370-3kjo)
-- [【2026】Datadog 代替の低価格監視SaaS：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-datadog-dai-ti-nodi-jia-ge-jian-shi-saasliao-jin-yi-xing-kosutodexuan-bu-20mo)
-- [【2026】Mailchimp 代替のトランザクションメールAPI：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-2djj)
+- [Building an Online Anomaly Scoring Sidecar for Grafana Alerts](https://dev.to/oleksandr_kuryzhev_42873f/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts-3ckj)
+- [Full-Link Monitoring Tools: OTLP Ingest and Unified APM in Practice](https://dev.to/logan_zhang_8ca3575087c5b/full-link-monitoring-tools-otlp-ingest-and-unified-apm-in-practice-2ol7)
+- [The easiest way to download TikToks without the watermark](https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4)
+- [Temporal vs n8n vs Airflow Webhook Automation](https://dev.to/chasebot/temporal-vs-n8n-vs-airflow-webhook-automation-4loh)
+- [When Should a Startup Stop Maintaining Model Integrations?](https://dev.to/_9de8b28cd0a409b80cfdc/when-should-a-startup-stop-maintaining-model-integrations-1kc8)
+- [Node.js Performance Tips: From 100 to 10,000 Requests Per Second](https://dev.to/extensionbooster/nodejs-performance-tips-from-100-to-10000-requests-per-second-2bn2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
