@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s All Am I Hosting? Full Infrastructure Breakdown](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8)
-- [Monolith vs. Microservices: Simplicity vs. Scalability ⚔️](https://dev.to/ganeshak11/monolith-vs-microservices-simplicity-vs-scalability-4mi8)
-- [Python Docker Containerization: From Dev to Production](https://dev.to/annalilith/python-docker-containerization-from-dev-to-production-4l0g)
-- [Both Delivery Paths Went Silent. Neither Was Broken.](https://dev.to/henry_dan_81513dd35a2f540/both-delivery-paths-went-silent-neither-was-broken-7cd)
-- [V2: Build a Dynamic Online Ordering System for a Local Café](https://dev.to/aws-builders/v2-build-a-dynamic-online-ordering-system-for-a-local-cafe-42n0)
-- [Building an Offline Document Search Engine for My University](https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi)
+- [Add a post-quantum readiness gate to your CI in 5 lines](https://dev.to/brandonsellam/add-a-post-quantum-readiness-gate-to-your-ci-in-5-lines-2bg3)
+- [Why You Don&#39;t Need 5 Database Admin Tools Anymore](https://dev.to/biz59_support/why-you-dont-need-5-database-admin-tools-anymore-49el)
+- [Osloq — ให้ AI reproduction เวลาเกิด bug](https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp)
+- [Chạy Docker Microservices trên Ryzen AI 9 HX 370](https://dev.to/hungphatlaptop/chay-docker-microservices-tren-ryzen-ai-9-hx-370-3kjo)
+- [【2026】Datadog 代替の低価格監視SaaS：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-datadog-dai-ti-nodi-jia-ge-jian-shi-saasliao-jin-yi-xing-kosutodexuan-bu-20mo)
+- [【2026】Mailchimp 代替のトランザクションメールAPI：料金・移行コストで選ぶ](https://dev.to/_7fb6011b57d383122b5a/2026-mailchimp-dai-ti-notoranzakusiyonmeruapiliao-jin-yi-xing-kosutodexuan-bu-2djj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
