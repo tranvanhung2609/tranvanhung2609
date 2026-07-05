@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building an Online Anomaly Scoring Sidecar for Grafana Alerts](https://dev.to/oleksandr_kuryzhev_42873f/building-an-online-anomaly-scoring-sidecar-for-grafana-alerts-3ckj)
-- [Full-Link Monitoring Tools: OTLP Ingest and Unified APM in Practice](https://dev.to/logan_zhang_8ca3575087c5b/full-link-monitoring-tools-otlp-ingest-and-unified-apm-in-practice-2ol7)
-- [The easiest way to download TikToks without the watermark](https://dev.to/tiksssnettiktok/the-easiest-way-to-download-tiktoks-without-the-watermark-2if4)
-- [Temporal vs n8n vs Airflow Webhook Automation](https://dev.to/chasebot/temporal-vs-n8n-vs-airflow-webhook-automation-4loh)
-- [When Should a Startup Stop Maintaining Model Integrations?](https://dev.to/_9de8b28cd0a409b80cfdc/when-should-a-startup-stop-maintaining-model-integrations-1kc8)
-- [Node.js Performance Tips: From 100 to 10,000 Requests Per Second](https://dev.to/extensionbooster/nodejs-performance-tips-from-100-to-10000-requests-per-second-2bn2)
+- [A Practical Comparison of Modern CI/CD and Testing Management Tools](https://dev.to/cristhiancarlosmamanic/a-practical-comparison-of-modern-cicd-and-testing-management-tools-11bk)
+- [Top 10 Open Source APM Tools in 2026](https://dev.to/logan_zhang_8ca3575087c5b/top-10-open-source-apm-tools-in-2026-1fh9)
+- [Terraform at Scale: Lessons from Managing 500+ Resources](https://dev.to/samson_tanimawo/terraform-at-scale-lessons-from-managing-500-resources-191o)
+- [Gate Insecure AWS IAM in Pull Requests with a Free GitHub Action](https://dev.to/shieldlyio/gate-insecure-aws-iam-in-pull-requests-with-a-free-github-action-2pln)
+- [Would you?](https://dev.to/alexgetmancom/would-you-3l1m)
+- [Web Developer Travis McCracken on Using Go for Cloud Functions](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-cloud-functions-3ec3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
