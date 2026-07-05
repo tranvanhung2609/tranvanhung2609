@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Comparison of Modern CI/CD and Testing Management Tools](https://dev.to/cristhiancarlosmamanic/a-practical-comparison-of-modern-cicd-and-testing-management-tools-11bk)
-- [Top 10 Open Source APM Tools in 2026](https://dev.to/logan_zhang_8ca3575087c5b/top-10-open-source-apm-tools-in-2026-1fh9)
-- [Terraform at Scale: Lessons from Managing 500+ Resources](https://dev.to/samson_tanimawo/terraform-at-scale-lessons-from-managing-500-resources-191o)
-- [Gate Insecure AWS IAM in Pull Requests with a Free GitHub Action](https://dev.to/shieldlyio/gate-insecure-aws-iam-in-pull-requests-with-a-free-github-action-2pln)
-- [Would you?](https://dev.to/alexgetmancom/would-you-3l1m)
-- [Web Developer Travis McCracken on Using Go for Cloud Functions](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-cloud-functions-3ec3)
+- [Webhook Security Best Practices: HMAC, Replay Attacks &amp; Encryption](https://dev.to/instawebhook/webhook-security-best-practices-hmac-replay-attacks-encryption-2de1)
+- [Guardrails for LLM Apps in Java](https://dev.to/gpuneet/guardrails-for-llm-apps-in-java-3hd1)
+- [Prompt Caching and Cost Control in Java](https://dev.to/gpuneet/prompt-caching-and-cost-control-in-java-2cn0)
+- [Evaluating LLM Apps in Java](https://dev.to/gpuneet/evaluating-llm-apps-in-java-ab4)
+- [The Model Context Protocol in Java](https://dev.to/gpuneet/the-model-context-protocol-in-java-2n5h)
+- [LLM Frameworks vs. the Raw SDK in Java](https://dev.to/gpuneet/llm-frameworks-vs-the-raw-sdk-in-java-1ldj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
