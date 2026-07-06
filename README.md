@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Webhook Security Best Practices: HMAC, Replay Attacks &amp; Encryption](https://dev.to/instawebhook/webhook-security-best-practices-hmac-replay-attacks-encryption-2de1)
-- [Guardrails for LLM Apps in Java](https://dev.to/gpuneet/guardrails-for-llm-apps-in-java-3hd1)
-- [Prompt Caching and Cost Control in Java](https://dev.to/gpuneet/prompt-caching-and-cost-control-in-java-2cn0)
-- [Evaluating LLM Apps in Java](https://dev.to/gpuneet/evaluating-llm-apps-in-java-ab4)
-- [The Model Context Protocol in Java](https://dev.to/gpuneet/the-model-context-protocol-in-java-2n5h)
-- [LLM Frameworks vs. the Raw SDK in Java](https://dev.to/gpuneet/llm-frameworks-vs-the-raw-sdk-in-java-1ldj)
+- [Testing Management Tools: A Complete Comparative Guide with Real-World Examples](https://dev.to/jimmy_mijairllicamamani/testing-management-tools-a-complete-comparative-guide-with-real-world-examples-ago)
+- [Docker Postgres &amp; Redis trên laptop Radeon 890M và Arc 140V](https://dev.to/hungphatlaptop/docker-postgres-redis-tren-laptop-radeon-890m-va-arc-140v-563)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-374l)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-374l)
+- [The Difference Between Retry and Idempotency They&#39;re Not the Same](https://dev.to/aliasgarmk/the-difference-between-retry-and-idempotency-theyre-not-the-same-46p9)
+- [🚀 The wait is over! We are officially kicking off Day 1 of our 100 Days of GenAI for DevOps journey! 🎉](https://dev.to/lakhera2015/the-wait-is-over-we-are-officially-kicking-off-day-1-of-our-100-days-of-genai-for-devops-3i32)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
