@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [9 AWS IAM Privilege Escalation Methods You Can Check in 5 Minutes](https://dev.to/shieldlyio/9-aws-iam-privilege-escalation-methods-you-can-check-in-5-minutes-4n0p)
-- [Terraform vs. Pulumi in 2026: Which Should You Learn First?](https://dev.to/muskan_bandta/terraform-vs-pulumi-in-2026-which-should-you-learn-first-13m1)
-- [Designing a Content Distribution Pipeline — From Draft to Multi-Platform in Minutes](https://dev.to/claudia-ve/designing-a-content-distribution-pipeline-from-draft-to-multi-platform-in-minutes-26o0)
-- [ViciDial Disposition Statuses — Complete Reference &amp; Custom Setup](https://dev.to/moisi_trungu_31647b7ac300/vicidial-disposition-statuses-complete-reference-custom-setup-593g)
-- [How to Build a Scalable Fraud Detection Workflow](https://dev.to/unmeshed/how-to-build-a-scalable-fraud-detection-workflow-1ino)
-- [AI DevOps prompts](https://dev.to/zop_8abedcc7e12/ai-devops-prompts-22hc)
+- [WebSocket in Spring Boot, Explained Simply](https://dev.to/turboline_ai_/websocket-in-spring-boot-explained-simply-4kn0)
+- [Streaming Responses in Next.js App Router — Server-Sent Events and ReadableStream](https://dev.to/turboline_ai_/streaming-responses-in-nextjs-app-router-server-sent-events-and-readablestream-2c10)
+- [How I Built a Multi-Agent AI Research Suite with Human-in-the-Loop Validation](https://dev.to/emmanuel_ernest_7/how-i-built-a-multi-agent-ai-research-suite-with-human-in-the-loop-validation-n49)
+- [NestJS Fits Perfectly Into Modern Accounting and Invoicing Software, Here Is Why](https://dev.to/peacemelodi/nestjs-fits-perfectly-into-modern-accounting-and-invoicing-software-here-is-why-133e)
+- [Setting up a local Kubernetes cluster with minikube](https://dev.to/ferztyle/setting-up-a-local-kubernetes-cluster-with-minikube-11l2)
+- [Top Remote Tech Jobs This Week — July 6, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-july-6-2026-36d5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
