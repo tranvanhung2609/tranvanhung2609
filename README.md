@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket in Spring Boot, Explained Simply](https://dev.to/turboline_ai_/websocket-in-spring-boot-explained-simply-4kn0)
-- [Streaming Responses in Next.js App Router — Server-Sent Events and ReadableStream](https://dev.to/turboline_ai_/streaming-responses-in-nextjs-app-router-server-sent-events-and-readablestream-2c10)
-- [How I Built a Multi-Agent AI Research Suite with Human-in-the-Loop Validation](https://dev.to/emmanuel_ernest_7/how-i-built-a-multi-agent-ai-research-suite-with-human-in-the-loop-validation-n49)
-- [NestJS Fits Perfectly Into Modern Accounting and Invoicing Software, Here Is Why](https://dev.to/peacemelodi/nestjs-fits-perfectly-into-modern-accounting-and-invoicing-software-here-is-why-133e)
-- [Setting up a local Kubernetes cluster with minikube](https://dev.to/ferztyle/setting-up-a-local-kubernetes-cluster-with-minikube-11l2)
-- [Top Remote Tech Jobs This Week — July 6, 2026](https://dev.to/crescevo/top-remote-tech-jobs-this-week-july-6-2026-36d5)
+- [The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs](https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-fb8)
+- [AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code](https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-4g3p)
+- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)
+- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)
+- [Secure VM Access Without Public IPs: A Beginner&#39;s Guide to Azure Bastion Service for Secure And Efficient VM Access](https://dev.to/olakunle_makanjuola_92754/secure-vm-access-without-public-ips-a-beginners-guide-to-azure-bastion-service-for-secure-and-1c0h)
+- [AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code](https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-61k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
