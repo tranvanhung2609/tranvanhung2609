@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Testing Management Tools: A Complete Comparative Guide with Real-World Examples](https://dev.to/jimmy_mijairllicamamani/testing-management-tools-a-complete-comparative-guide-with-real-world-examples-ago)
-- [Docker Postgres &amp; Redis trên laptop Radeon 890M và Arc 140V](https://dev.to/hungphatlaptop/docker-postgres-redis-tren-laptop-radeon-890m-va-arc-140v-563)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-374l)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-374l)
-- [The Difference Between Retry and Idempotency They&#39;re Not the Same](https://dev.to/aliasgarmk/the-difference-between-retry-and-idempotency-theyre-not-the-same-46p9)
-- [🚀 The wait is over! We are officially kicking off Day 1 of our 100 Days of GenAI for DevOps journey! 🎉](https://dev.to/lakhera2015/the-wait-is-over-we-are-officially-kicking-off-day-1-of-our-100-days-of-genai-for-devops-3i32)
+- [9 AWS IAM Privilege Escalation Methods You Can Check in 5 Minutes](https://dev.to/shieldlyio/9-aws-iam-privilege-escalation-methods-you-can-check-in-5-minutes-4n0p)
+- [Terraform vs. Pulumi in 2026: Which Should You Learn First?](https://dev.to/muskan_bandta/terraform-vs-pulumi-in-2026-which-should-you-learn-first-13m1)
+- [Designing a Content Distribution Pipeline — From Draft to Multi-Platform in Minutes](https://dev.to/claudia-ve/designing-a-content-distribution-pipeline-from-draft-to-multi-platform-in-minutes-26o0)
+- [ViciDial Disposition Statuses — Complete Reference &amp; Custom Setup](https://dev.to/moisi_trungu_31647b7ac300/vicidial-disposition-statuses-complete-reference-custom-setup-593g)
+- [How to Build a Scalable Fraud Detection Workflow](https://dev.to/unmeshed/how-to-build-a-scalable-fraud-detection-workflow-1ino)
+- [AI DevOps prompts](https://dev.to/zop_8abedcc7e12/ai-devops-prompts-22hc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
