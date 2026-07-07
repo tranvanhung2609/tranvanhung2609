@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Éclat de l’Avenir Gestion S.A.R.L renforce la clarté des analyses grâce aux rapports intelligents](https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-renforce-la-clarte-des-analyses-grace-aux-rapports-intelligents-2o90)
-- [Linux Package Management Explained Simply &lpar;apt, dnf, yum &amp; rpm&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/linux-package-management-explained-simply-apt-dnf-yum-rpm-11gn)
-- [The Missing 65-Byte File That Broke My Production Celery Setup](https://dev.to/hir4k/the-missing-65-byte-file-that-broke-my-production-celery-setup-2keb)
-- [Cache Strategy](https://dev.to/ogak_dev/cache-strategy-2bo4)
-- [FastAPI: valida emails por entorno preview](https://dev.to/silviutech/fastapi-valida-emails-por-entorno-preview-40nd)
-- [Your AI Agent Has an IAM Role. That&#39;s Not a Feature It&#39;s an Uncontrolled Blast Radius.](https://dev.to/ajaydevineni/your-ai-agent-has-an-iam-role-thats-not-a-feature-its-an-uncontrolled-blast-radius-5bo3)
+- [Your AI API fallback is hiding your real bill](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-fallback-is-hiding-your-real-bill-jj6)
+- [Claude Code for Backup Automation: How I Stopped Trusting Backups I Had Never Actually Restored](https://dev.to/nextools/claude-code-for-backup-automation-how-i-stopped-trusting-backups-i-had-never-actually-restored-3m83)
+- [Claude Code for Runbook Automation: How I Turned My Dusty Wiki Pages Into Steps That Actually Run](https://dev.to/nextools/claude-code-for-runbook-automation-how-i-turned-my-dusty-wiki-pages-into-steps-that-actually-run-1338)
+- [From Localhost to Production: A Developer&#39;s Website Hardening Checklist for 2026](https://dev.to/mittal_technologies/from-localhost-to-production-a-developers-website-hardening-checklist-for-2026-a7h)
+- [Understanding the &quot;this&quot; Keyword in Java Using a SuperMarket Example](https://dev.to/athithya_sivasankarar/understanding-the-this-keyword-in-java-using-a-supermarket-example-5me)
+- [Adscs Digital Assets: The Security Engine of the New Era of Digital Assets, Connecting a Trusted Platform for Global Investors](https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-the-security-engine-of-the-new-era-of-digital-assets-connecting-a-trusted-47dg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
