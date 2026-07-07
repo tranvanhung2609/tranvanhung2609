@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs](https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-fb8)
-- [AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code](https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-4g3p)
-- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)
-- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)
-- [Secure VM Access Without Public IPs: A Beginner&#39;s Guide to Azure Bastion Service for Secure And Efficient VM Access](https://dev.to/olakunle_makanjuola_92754/secure-vm-access-without-public-ips-a-beginners-guide-to-azure-bastion-service-for-secure-and-1c0h)
-- [AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code](https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-61k)
+- [Éclat de l’Avenir Gestion S.A.R.L renforce la clarté des analyses grâce aux rapports intelligents](https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-renforce-la-clarte-des-analyses-grace-aux-rapports-intelligents-2o90)
+- [Linux Package Management Explained Simply &lpar;apt, dnf, yum &amp; rpm&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/linux-package-management-explained-simply-apt-dnf-yum-rpm-11gn)
+- [The Missing 65-Byte File That Broke My Production Celery Setup](https://dev.to/hir4k/the-missing-65-byte-file-that-broke-my-production-celery-setup-2keb)
+- [Cache Strategy](https://dev.to/ogak_dev/cache-strategy-2bo4)
+- [FastAPI: valida emails por entorno preview](https://dev.to/silviutech/fastapi-valida-emails-por-entorno-preview-40nd)
+- [Your AI Agent Has an IAM Role. That&#39;s Not a Feature It&#39;s an Uncontrolled Blast Radius.](https://dev.to/ajaydevineni/your-ai-agent-has-an-iam-role-thats-not-a-feature-its-an-uncontrolled-blast-radius-5bo3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
