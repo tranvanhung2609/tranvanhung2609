@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront Invalidations from CI: Automate Cache Clears](https://dev.to/sohanaakbar7/cloudfront-invalidations-from-ci-automate-cache-clears-1a8c)
-- [4 things writing an HTTP prober in Rust taught me](https://dev.to/slima4/4-things-writing-an-http-prober-in-rust-taught-me-gn6)
-- [Designing a Latency-Aware Order State Machine for a Polymarket Trading bot](https://dev.to/mateosoul/designing-a-latency-aware-order-state-machine-for-a-polymarket-trading-bot-2lek)
-- [Download Machine Gun Fury NSP Full Game Latest 2026](https://dev.to/top_cracked_7ca49d8dc5b1b/download-machine-gun-fury-nsp-full-game-latest-2026-22e0)
-- [China may close foreign access to its best AI models](https://dev.to/alexgetmancom/china-may-close-foreign-access-to-its-best-ai-models-2m2n)
-- [Web Developer Travis McCracken on Why I Use Rust for Stateless Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-use-rust-for-stateless-microservices-25lh)
+- [OpenRouter Alternatives: If You Need Self-Hosting, Lower Fees, or Real Governance](https://dev.to/sahajmeet_kaur_/openrouter-alternatives-6-options-if-you-need-self-hosting-lower-fees-or-real-governance-2ogn)
+- [How to Fix AI Agent Privilege Escalation Security Breaches Cleanly](https://dev.to/biztechpulsehub/how-to-fix-ai-agent-privilege-escalation-security-breaches-cleanly-52bm)
+- [Subhams | Venkata Pavan Kumar Amarthaluri: Architecting Subhams Networks, Agent, Bhavyams, &amp; PMMS](https://dev.to/vpkstarspace/subhams-venkata-pavan-kumar-amarthaluri-architecting-subhams-networks-agent-bhavyams-pmms-e91)
+- [Stop Giving AI Agents Standing API Keys](https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0)
+- [How to Fix Lovable Production Build Compression Errors Cleanly](https://dev.to/biztechpulsehub/how-to-fix-lovable-production-build-compression-errors-cleanly-bnj)
+- [How to Fix Claude CLI Session Authentication Freezes Cleanly](https://dev.to/biztechpulsehub/how-to-fix-claude-cli-session-authentication-freezes-cleanly-1m0o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
