@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI API fallback is hiding your real bill](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-fallback-is-hiding-your-real-bill-jj6)
-- [Claude Code for Backup Automation: How I Stopped Trusting Backups I Had Never Actually Restored](https://dev.to/nextools/claude-code-for-backup-automation-how-i-stopped-trusting-backups-i-had-never-actually-restored-3m83)
-- [Claude Code for Runbook Automation: How I Turned My Dusty Wiki Pages Into Steps That Actually Run](https://dev.to/nextools/claude-code-for-runbook-automation-how-i-turned-my-dusty-wiki-pages-into-steps-that-actually-run-1338)
-- [From Localhost to Production: A Developer&#39;s Website Hardening Checklist for 2026](https://dev.to/mittal_technologies/from-localhost-to-production-a-developers-website-hardening-checklist-for-2026-a7h)
-- [Understanding the &quot;this&quot; Keyword in Java Using a SuperMarket Example](https://dev.to/athithya_sivasankarar/understanding-the-this-keyword-in-java-using-a-supermarket-example-5me)
-- [Adscs Digital Assets: The Security Engine of the New Era of Digital Assets, Connecting a Trusted Platform for Global Investors](https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-the-security-engine-of-the-new-era-of-digital-assets-connecting-a-trusted-47dg)
+- [CloudFront Invalidations from CI: Automate Cache Clears](https://dev.to/sohanaakbar7/cloudfront-invalidations-from-ci-automate-cache-clears-1a8c)
+- [4 things writing an HTTP prober in Rust taught me](https://dev.to/slima4/4-things-writing-an-http-prober-in-rust-taught-me-gn6)
+- [Designing a Latency-Aware Order State Machine for a Polymarket Trading bot](https://dev.to/mateosoul/designing-a-latency-aware-order-state-machine-for-a-polymarket-trading-bot-2lek)
+- [Download Machine Gun Fury NSP Full Game Latest 2026](https://dev.to/top_cracked_7ca49d8dc5b1b/download-machine-gun-fury-nsp-full-game-latest-2026-22e0)
+- [China may close foreign access to its best AI models](https://dev.to/alexgetmancom/china-may-close-foreign-access-to-its-best-ai-models-2m2n)
+- [Web Developer Travis McCracken on Why I Use Rust for Stateless Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-use-rust-for-stateless-microservices-25lh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
