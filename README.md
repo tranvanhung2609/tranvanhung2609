@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Windmill vs Make vs n8n: Enterprise Automation Pricing](https://dev.to/chasebot/windmill-vs-make-vs-n8n-enterprise-automation-pricing-4fhj)
-- [NH:STA S01E05 Log4j](https://dev.to/neighbourhoodie/nhsta-s01e05-log4j-3fk9)
-- [How My AI Handles Deployments Better Than I Do](https://dev.to/archantech/how-my-ai-handles-deployments-better-than-i-do-1l1j)
-- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-4km8)
-- [⚡ GPT-5.6 DROPS THURSDAY](https://dev.to/alexgetmancom/gpt-56-drops-thursday-4p3h)
-- [Top 10 Best Magento to WooCommerce Migration Companies](https://dev.to/oliverpitts/top-10-best-magento-to-woocommerce-migration-companies-2pd9)
+- [Under 20 Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-mma-timer-what-we-learned-building-random-tactical-timer-4jb1)
+- [Cron is too dumb. Airflow is too heavy. Meet cronova.](https://dev.to/zoyluofakeall/cron-is-too-dumb-airflow-is-too-heavy-meet-cronova-4chj)
+- [Time Data Series: Written In Our Stars](https://dev.to/leonadato/time-data-series-written-in-our-stars-2jhi)
+- [IP Transit: What Actually Happens Before Your Network Reaches the Internet](https://dev.to/kohanevich/ip-transit-what-actually-happens-before-your-network-reaches-the-internet-46dg)
+- [Why Your Kubernetes Dashboard Looks Healthy While Your Costs Keep Rising](https://dev.to/puneetha_jalagam/why-your-kubernetes-dashboard-looks-healthy-while-your-costs-keep-rising-16d3)
+- [Best Railway Alternatives for Production Apps in 2026](https://dev.to/engineeringjournal/railway-alternatives-production-h7l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
