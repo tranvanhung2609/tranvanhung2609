@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [OpenRouter Alternatives: If You Need Self-Hosting, Lower Fees, or Real Governance](https://dev.to/sahajmeet_kaur_/openrouter-alternatives-6-options-if-you-need-self-hosting-lower-fees-or-real-governance-2ogn)
-- [How to Fix AI Agent Privilege Escalation Security Breaches Cleanly](https://dev.to/biztechpulsehub/how-to-fix-ai-agent-privilege-escalation-security-breaches-cleanly-52bm)
-- [Subhams | Venkata Pavan Kumar Amarthaluri: Architecting Subhams Networks, Agent, Bhavyams, &amp; PMMS](https://dev.to/vpkstarspace/subhams-venkata-pavan-kumar-amarthaluri-architecting-subhams-networks-agent-bhavyams-pmms-e91)
-- [Stop Giving AI Agents Standing API Keys](https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0)
-- [How to Fix Lovable Production Build Compression Errors Cleanly](https://dev.to/biztechpulsehub/how-to-fix-lovable-production-build-compression-errors-cleanly-bnj)
-- [How to Fix Claude CLI Session Authentication Freezes Cleanly](https://dev.to/biztechpulsehub/how-to-fix-claude-cli-session-authentication-freezes-cleanly-1m0o)
+- [Build Go đa nền tảng trên Ryzen AI 9 HX 370 có nhanh không?](https://dev.to/hungphatlaptop/build-go-da-nen-tang-tren-ryzen-ai-9-hx-370-co-nhanh-khong-12o)
+- [We built a Rust EDR. macOS notarization tried to kill it.](https://dev.to/techstrtupninja/we-built-a-rust-edr-macos-notarization-tried-to-kill-it-363f)
+- [Pick your first AI model from evidence, not memory](https://dev.to/edward_li_71f26791eac62b8/pick-your-first-ai-model-from-evidence-not-memory-1c33)
+- [美股个人思路及看法](https://dev.to/palashghosh/mei-gu-ge-ren-si-lu-ji-kan-fa-4ej5)
+- [分布式系统一致性：CAP理论与工程实践深度指南](https://dev.to/tianxin/fen-bu-shi-xi-tong-zhi-xing-capli-lun-yu-gong-cheng-shi-jian-shen-du-zhi-nan-1bl8)
+- [Five Rules That Cut My Homelab Logs by 95%](https://dev.to/susiloharjo/five-rules-that-cut-my-homelab-logs-by-95-29ad)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
