@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Build Go đa nền tảng trên Ryzen AI 9 HX 370 có nhanh không?](https://dev.to/hungphatlaptop/build-go-da-nen-tang-tren-ryzen-ai-9-hx-370-co-nhanh-khong-12o)
-- [We built a Rust EDR. macOS notarization tried to kill it.](https://dev.to/techstrtupninja/we-built-a-rust-edr-macos-notarization-tried-to-kill-it-363f)
-- [Pick your first AI model from evidence, not memory](https://dev.to/edward_li_71f26791eac62b8/pick-your-first-ai-model-from-evidence-not-memory-1c33)
-- [美股个人思路及看法](https://dev.to/palashghosh/mei-gu-ge-ren-si-lu-ji-kan-fa-4ej5)
-- [分布式系统一致性：CAP理论与工程实践深度指南](https://dev.to/tianxin/fen-bu-shi-xi-tong-zhi-xing-capli-lun-yu-gong-cheng-shi-jian-shen-du-zhi-nan-1bl8)
-- [Five Rules That Cut My Homelab Logs by 95%](https://dev.to/susiloharjo/five-rules-that-cut-my-homelab-logs-by-95-29ad)
+- [Windmill vs Make vs n8n: Enterprise Automation Pricing](https://dev.to/chasebot/windmill-vs-make-vs-n8n-enterprise-automation-pricing-4fhj)
+- [NH:STA S01E05 Log4j](https://dev.to/neighbourhoodie/nhsta-s01e05-log4j-3fk9)
+- [How My AI Handles Deployments Better Than I Do](https://dev.to/archantech/how-my-ai-handles-deployments-better-than-i-do-1l1j)
+- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-4km8)
+- [⚡ GPT-5.6 DROPS THURSDAY](https://dev.to/alexgetmancom/gpt-56-drops-thursday-4p3h)
+- [Top 10 Best Magento to WooCommerce Migration Companies](https://dev.to/oliverpitts/top-10-best-magento-to-woocommerce-migration-companies-2pd9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
