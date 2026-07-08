@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Under 20 Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/under-20-mma-timer-what-we-learned-building-random-tactical-timer-4jb1)
-- [Cron is too dumb. Airflow is too heavy. Meet cronova.](https://dev.to/zoyluofakeall/cron-is-too-dumb-airflow-is-too-heavy-meet-cronova-4chj)
-- [Time Data Series: Written In Our Stars](https://dev.to/leonadato/time-data-series-written-in-our-stars-2jhi)
-- [IP Transit: What Actually Happens Before Your Network Reaches the Internet](https://dev.to/kohanevich/ip-transit-what-actually-happens-before-your-network-reaches-the-internet-46dg)
-- [Why Your Kubernetes Dashboard Looks Healthy While Your Costs Keep Rising](https://dev.to/puneetha_jalagam/why-your-kubernetes-dashboard-looks-healthy-while-your-costs-keep-rising-16d3)
-- [Best Railway Alternatives for Production Apps in 2026](https://dev.to/engineeringjournal/railway-alternatives-production-h7l)
+- [Oracle Patching, Demystified: CPU, RU, RUR — and What Changed in 2026](https://dev.to/uptimearchitect/oracle-patching-demystified-cpu-ru-rur-and-what-changed-in-2026-42nj)
+- [I Built a Resilience4j Lab: Watch a Circuit Breaker Trip &lpar;+ Retry With Backoff&rpar;](https://dev.to/dev48v/i-built-a-resilience4j-lab-watch-a-circuit-breaker-trip-retry-with-backoff-175i)
+- [I Built a Resilience4j Lab: Watch a Circuit Breaker Trip &lpar;+ Retry With Backoff&rpar;](https://dev.to/dev48v/i-built-a-resilience4j-lab-watch-a-circuit-breaker-trip-retry-with-backoff-175i)
+- [Automation: A Game Changer for Software Engineers in 2023](https://dev.to/ravi_roy_1222f9e6b2ea51bd/automation-a-game-changer-for-software-engineers-in-2023-3l1d)
+- [Announcing etcd v3.7.0](https://dev.to/rasne/announcing-etcd-v370-1pmc)
+- [OpenAI has introduced a new voice mode for ChatGPT](https://dev.to/alexgetmancom/openai-has-introduced-a-new-voice-mode-for-chatgpt-1g98)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
