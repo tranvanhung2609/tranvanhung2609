@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Butterfly Effect of a Compiler: Hunting an aarch64-only JVM SIGSEGV Down to the Source Line](https://dev.to/jvmind-devel/the-butterfly-effect-of-a-compiler-hunting-an-aarch64-only-jvm-sigsegv-down-to-the-source-line-4ll8)
-- [How I Cut a Docker Image From 1.2GB to 180MB](https://dev.to/devopsaitoolkit/how-i-cut-a-docker-image-from-12gb-to-180mb-2ah8)
-- [Build Go đa nền tảng có nhanh trên Surface Laptop 6?](https://dev.to/hungphatlaptop/build-go-da-nen-tang-co-nhanh-tren-surface-laptop-6-51a6)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3nc3)
-- [Supabase vs Firebase](https://dev.to/agenyc/supabase-vs-firebase-3i9o)
-- [仓储模式深度指南：构建数据访问层的抽象艺术](https://dev.to/tianxin/cang-chu-mo-shi-shen-du-zhi-nan-gou-jian-shu-ju-fang-wen-ceng-de-chou-xiang-yi-zhu-1bdo)
+- [Linux compliance checks with Sparrow plugin](https://dev.to/melezhik/linux-compliance-checks-with-sparrow-plugin-2160)
+- [How to Set Up a Reproducible Android Testing Environment](https://dev.to/deviceschanger/how-to-set-up-a-reproducible-android-testing-environment-3320)
+- [Everhayes Academy（Everhayes Omnis Academy） Builds Stronger Chart Interpretation Courses for Modern Financial Learning](https://dev.to/everhayesomnis/everhayes-academyeverhayes-omnis-academy-builds-stronger-chart-interpretation-courses-for-modern-4f61)
+- [9 LLM Gateway Configuration Mistakes to Avoid](https://dev.to/carvalhomateus/9-llm-gateway-configuration-mistakes-to-avoid-3285)
+- [When Do API Mocks Become Infrastructure?](https://dev.to/artibol/when-do-api-mocks-become-infrastructure-2ikb)
+- [Modernising the Lifted Workload: The Architectural Decisions That Separate Cloud-Native from Cloud-Hosted](https://dev.to/aloknecessary/modernising-the-lifted-workload-the-architectural-decisions-that-separate-cloud-native-from-2omp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
