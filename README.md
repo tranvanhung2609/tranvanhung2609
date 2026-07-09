@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Linux compliance checks with Sparrow plugin](https://dev.to/melezhik/linux-compliance-checks-with-sparrow-plugin-2160)
-- [How to Set Up a Reproducible Android Testing Environment](https://dev.to/deviceschanger/how-to-set-up-a-reproducible-android-testing-environment-3320)
-- [Everhayes Academy（Everhayes Omnis Academy） Builds Stronger Chart Interpretation Courses for Modern Financial Learning](https://dev.to/everhayesomnis/everhayes-academyeverhayes-omnis-academy-builds-stronger-chart-interpretation-courses-for-modern-4f61)
-- [9 LLM Gateway Configuration Mistakes to Avoid](https://dev.to/carvalhomateus/9-llm-gateway-configuration-mistakes-to-avoid-3285)
-- [When Do API Mocks Become Infrastructure?](https://dev.to/artibol/when-do-api-mocks-become-infrastructure-2ikb)
-- [Modernising the Lifted Workload: The Architectural Decisions That Separate Cloud-Native from Cloud-Hosted](https://dev.to/aloknecessary/modernising-the-lifted-workload-the-architectural-decisions-that-separate-cloud-native-from-2omp)
+- [PostHog Behavior, Sentry Breakage: Deploy Review Needs Both](https://dev.to/jakexkim/posthog-behavior-sentry-breakage-deploy-review-needs-both-2f2p)
+- [Home Lab AI Agents: Deploying Is Easy, Keeping Them Alive Is Not](https://dev.to/chemy_pvl/home-lab-ai-agents-deploying-is-easy-keeping-them-alive-is-not-d54)
+- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-50hk)
+- [AWS Rollback Emails as a CI/CD Gate](https://dev.to/jasonmills94/aws-rollback-emails-as-a-cicd-gate-31mj)
+- [The Dependency You Forgot You Had: Managing Third-Party Software Sprawl](https://dev.to/ryan_bell/the-dependency-you-forgot-you-had-managing-third-party-software-sprawl-5c90)
+- [The Biggest Kubernetes Myths Beginners Believe](https://dev.to/puneetha_jalagam/the-biggest-kubernetes-myths-beginners-believe-1746)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
