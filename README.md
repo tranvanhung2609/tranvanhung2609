@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Patching, Demystified: CPU, RU, RUR — and What Changed in 2026](https://dev.to/uptimearchitect/oracle-patching-demystified-cpu-ru-rur-and-what-changed-in-2026-42nj)
-- [I Built a Resilience4j Lab: Watch a Circuit Breaker Trip &lpar;+ Retry With Backoff&rpar;](https://dev.to/dev48v/i-built-a-resilience4j-lab-watch-a-circuit-breaker-trip-retry-with-backoff-175i)
-- [I Built a Resilience4j Lab: Watch a Circuit Breaker Trip &lpar;+ Retry With Backoff&rpar;](https://dev.to/dev48v/i-built-a-resilience4j-lab-watch-a-circuit-breaker-trip-retry-with-backoff-175i)
-- [Automation: A Game Changer for Software Engineers in 2023](https://dev.to/ravi_roy_1222f9e6b2ea51bd/automation-a-game-changer-for-software-engineers-in-2023-3l1d)
-- [Announcing etcd v3.7.0](https://dev.to/rasne/announcing-etcd-v370-1pmc)
-- [OpenAI has introduced a new voice mode for ChatGPT](https://dev.to/alexgetmancom/openai-has-introduced-a-new-voice-mode-for-chatgpt-1g98)
+- [The Butterfly Effect of a Compiler: Hunting an aarch64-only JVM SIGSEGV Down to the Source Line](https://dev.to/jvmind-devel/the-butterfly-effect-of-a-compiler-hunting-an-aarch64-only-jvm-sigsegv-down-to-the-source-line-4ll8)
+- [How I Cut a Docker Image From 1.2GB to 180MB](https://dev.to/devopsaitoolkit/how-i-cut-a-docker-image-from-12gb-to-180mb-2ah8)
+- [Build Go đa nền tảng có nhanh trên Surface Laptop 6?](https://dev.to/hungphatlaptop/build-go-da-nen-tang-co-nhanh-tren-surface-laptop-6-51a6)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3nc3)
+- [Supabase vs Firebase](https://dev.to/agenyc/supabase-vs-firebase-3i9o)
+- [仓储模式深度指南：构建数据访问层的抽象艺术](https://dev.to/tianxin/cang-chu-mo-shi-shen-du-zhi-nan-gou-jian-shu-ju-fang-wen-ceng-de-chou-xiang-yi-zhu-1bdo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
