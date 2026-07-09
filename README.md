@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [PostHog Behavior, Sentry Breakage: Deploy Review Needs Both](https://dev.to/jakexkim/posthog-behavior-sentry-breakage-deploy-review-needs-both-2f2p)
-- [Home Lab AI Agents: Deploying Is Easy, Keeping Them Alive Is Not](https://dev.to/chemy_pvl/home-lab-ai-agents-deploying-is-easy-keeping-them-alive-is-not-d54)
-- [Web Developer Travis McCracken on The Simplicity of Net/HTTP in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-simplicity-of-nethttp-in-go-50hk)
-- [AWS Rollback Emails as a CI/CD Gate](https://dev.to/jasonmills94/aws-rollback-emails-as-a-cicd-gate-31mj)
-- [The Dependency You Forgot You Had: Managing Third-Party Software Sprawl](https://dev.to/ryan_bell/the-dependency-you-forgot-you-had-managing-third-party-software-sprawl-5c90)
-- [The Biggest Kubernetes Myths Beginners Believe](https://dev.to/puneetha_jalagam/the-biggest-kubernetes-myths-beginners-believe-1746)
+- [An 8,000 trade settlement simulator shows where virtual threads win big and where CPU-bound work exposes the limit of Loom](https://dev.to/douglas_carmo_cd84c5548f2/an-8000-trade-settlement-simulator-shows-where-virtual-threads-win-big-and-where-cpu-bound-work-1a0b)
+- [Flaky Test Detection in 2026: From Manual Reruns to AI-Powered Classification](https://dev.to/prit_indiangamer_1dfa3c5/flaky-test-detection-in-2026-from-manual-reruns-to-ai-powered-classification-kb3)
+- [How Much Do Flaky Tests Actually Cost? We Did the Math for a 20-Person Team](https://dev.to/prit_indiangamer_1dfa3c5/how-much-do-flaky-tests-actually-cost-we-did-the-math-for-a-20-person-team-1c39)
+- [What Are Flaky Tests? The Complete 2026 Guide](https://dev.to/prit_indiangamer_1dfa3c5/what-are-flaky-tests-the-complete-2026-guide-anf)
+- [How To Set Up a VPN Server on Linux for Free](https://dev.to/sudhirt_bahadure_c17efb6/how-to-set-up-a-vpn-server-on-linux-for-free-1g6e)
+- [5 AI Agent Mistakes That Can Destroy Your Production Database &lpar;And How to Fix Them&rpar;](https://dev.to/prit_indiangamer_1dfa3c5/5-ai-agent-mistakes-that-can-destroy-your-production-database-and-how-to-fix-them-19o7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
