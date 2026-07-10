@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [An 8,000 trade settlement simulator shows where virtual threads win big and where CPU-bound work exposes the limit of Loom](https://dev.to/douglas_carmo_cd84c5548f2/an-8000-trade-settlement-simulator-shows-where-virtual-threads-win-big-and-where-cpu-bound-work-1a0b)
-- [Flaky Test Detection in 2026: From Manual Reruns to AI-Powered Classification](https://dev.to/prit_indiangamer_1dfa3c5/flaky-test-detection-in-2026-from-manual-reruns-to-ai-powered-classification-kb3)
-- [How Much Do Flaky Tests Actually Cost? We Did the Math for a 20-Person Team](https://dev.to/prit_indiangamer_1dfa3c5/how-much-do-flaky-tests-actually-cost-we-did-the-math-for-a-20-person-team-1c39)
-- [What Are Flaky Tests? The Complete 2026 Guide](https://dev.to/prit_indiangamer_1dfa3c5/what-are-flaky-tests-the-complete-2026-guide-anf)
-- [How To Set Up a VPN Server on Linux for Free](https://dev.to/sudhirt_bahadure_c17efb6/how-to-set-up-a-vpn-server-on-linux-for-free-1g6e)
-- [5 AI Agent Mistakes That Can Destroy Your Production Database &lpar;And How to Fix Them&rpar;](https://dev.to/prit_indiangamer_1dfa3c5/5-ai-agent-mistakes-that-can-destroy-your-production-database-and-how-to-fix-them-19o7)
+- [I Built a Load Balancer from Scratch &lpar;No Libraries, Just Vibes&rpar;](https://dev.to/rick13211/i-built-a-load-balancer-from-scratch-no-libraries-just-vibes-4587)
+- [Every table you create becomes an instant REST + GraphQL API](https://dev.to/__2944490ced25/every-table-you-create-becomes-an-instant-rest-graphql-api-2ile)
+- [I containerised a Romestead server because my friend never opened his](https://dev.to/toledkrw/i-containerised-a-romestead-server-because-my-friend-never-opened-his-4gk4)
+- [Stop Hardcoding AWS Credentials: How to Manage Secrets Securely](https://dev.to/vatul16/stop-hardcoding-aws-credentials-how-to-manage-secrets-securely-3bl)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3mek)
+- [Tối ưu Docker Compose dev stack trên laptop 16GB RAM](https://dev.to/hungphatlaptop/toi-uu-docker-compose-dev-stack-tren-laptop-16gb-ram-o0f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
