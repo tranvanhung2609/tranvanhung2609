@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code with Terraform: A Primer](https://dev.to/acquriotech/infrastructure-as-code-with-terraform-a-primer-3j5j)
-- [# Reflection – Week 2](https://dev.to/rubi_cloud/-reflection-week-2-4ach)
-- [How Spotify Streams Audio and Builds Discover Weekly](https://dev.to/roni_das_b1b76c5ee6583027/how-spotify-streams-audio-and-builds-discover-weekly-51po)
-- [How Airbnb Search and Booking Avoid Double-Booking](https://dev.to/roni_das_b1b76c5ee6583027/how-airbnb-search-and-booking-avoid-double-booking-3omf)
-- [The IDP Tax: How Much Developer Time Your Platform Actually Costs](https://dev.to/zop_8abedcc7e12/the-idp-tax-how-much-developer-time-your-platform-actually-costs-fk0)
-- [blast radius by default: how a missing SLO topology turned a single bad deploy into an 180k incident](https://dev.to/zop_8abedcc7e12/blast-radius-by-default-how-a-missing-slo-topology-turned-a-single-bad-deploy-into-an-180k-incident-4c46)
+- [The memory spike that left no trace in the logs&quot;](https://dev.to/fan_muratfanwei/the-memory-spike-that-left-no-trace-in-the-logs-3b2a)
+- [GPT-5.6 Cost Guide: Prompt Caching 90% Off, Reasoning Effort](https://dev.to/synthorai/gpt-56-cost-guide-prompt-caching-90-off-reasoning-effort-44mc)
+- [Improving Smart Tiered Cache for Public Cloud Regions](https://dev.to/rasne/improving-smart-tiered-cache-for-public-cloud-regions-1hp4)
+- [How to Build an Android App in Azure DevOps](https://dev.to/saschadev/how-to-build-an-android-app-in-azure-devops-f3d)
+- [Deploy Sharepoint solutions without downtime... Really!](https://dev.to/saschadev/deploy-sharepoint-solutions-without-downtime-really-2o4c)
+- [AI Agents for DevOps in 2026: Tools That Are Actually Worth Using](https://dev.to/ajey_k_b3b392e7c4138059db/ai-agents-for-devops-in-2026-tools-that-are-actually-worth-using-136j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
