@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The memory spike that left no trace in the logs&quot;](https://dev.to/fan_muratfanwei/the-memory-spike-that-left-no-trace-in-the-logs-3b2a)
-- [GPT-5.6 Cost Guide: Prompt Caching 90% Off, Reasoning Effort](https://dev.to/synthorai/gpt-56-cost-guide-prompt-caching-90-off-reasoning-effort-44mc)
-- [Improving Smart Tiered Cache for Public Cloud Regions](https://dev.to/rasne/improving-smart-tiered-cache-for-public-cloud-regions-1hp4)
-- [How to Build an Android App in Azure DevOps](https://dev.to/saschadev/how-to-build-an-android-app-in-azure-devops-f3d)
-- [Deploy Sharepoint solutions without downtime... Really!](https://dev.to/saschadev/deploy-sharepoint-solutions-without-downtime-really-2o4c)
-- [AI Agents for DevOps in 2026: Tools That Are Actually Worth Using](https://dev.to/ajey_k_b3b392e7c4138059db/ai-agents-for-devops-in-2026-tools-that-are-actually-worth-using-136j)
+- [CloudFormation: A Hands-On Journey Through Compute, Nesting, and Custom Resources](https://dev.to/puritychepkemoi/cloudformation-a-hands-on-journey-through-compute-nesting-and-custom-resources-117h)
+- [Give Your Auditor AWS Access — Without Sharing a Single Credential](https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k)
+- [9 Essential Terraform Practices That Save Your Infrastructure](https://dev.to/gtstudios/9-essential-terraform-practices-that-save-your-infrastructure-d15)
+- [7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching](https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0)
+- [HTTP/3: Why the Web Finally Moved Beyond TCP](https://dev.to/anik_sikder_313/http3-why-the-web-finally-moved-beyond-tcp-3hee)
+- [Project Object Model](https://dev.to/kathir_2911/project-object-model-5a6f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
