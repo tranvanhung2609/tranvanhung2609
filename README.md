@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Load Balancer from Scratch &lpar;No Libraries, Just Vibes&rpar;](https://dev.to/rick13211/i-built-a-load-balancer-from-scratch-no-libraries-just-vibes-4587)
-- [Every table you create becomes an instant REST + GraphQL API](https://dev.to/__2944490ced25/every-table-you-create-becomes-an-instant-rest-graphql-api-2ile)
-- [I containerised a Romestead server because my friend never opened his](https://dev.to/toledkrw/i-containerised-a-romestead-server-because-my-friend-never-opened-his-4gk4)
-- [Stop Hardcoding AWS Credentials: How to Manage Secrets Securely](https://dev.to/vatul16/stop-hardcoding-aws-credentials-how-to-manage-secrets-securely-3bl)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3mek)
-- [Tối ưu Docker Compose dev stack trên laptop 16GB RAM](https://dev.to/hungphatlaptop/toi-uu-docker-compose-dev-stack-tren-laptop-16gb-ram-o0f)
+- [Infrastructure as Code with Terraform: A Primer](https://dev.to/acquriotech/infrastructure-as-code-with-terraform-a-primer-3j5j)
+- [# Reflection – Week 2](https://dev.to/rubi_cloud/-reflection-week-2-4ach)
+- [How Spotify Streams Audio and Builds Discover Weekly](https://dev.to/roni_das_b1b76c5ee6583027/how-spotify-streams-audio-and-builds-discover-weekly-51po)
+- [How Airbnb Search and Booking Avoid Double-Booking](https://dev.to/roni_das_b1b76c5ee6583027/how-airbnb-search-and-booking-avoid-double-booking-3omf)
+- [The IDP Tax: How Much Developer Time Your Platform Actually Costs](https://dev.to/zop_8abedcc7e12/the-idp-tax-how-much-developer-time-your-platform-actually-costs-fk0)
+- [blast radius by default: how a missing SLO topology turned a single bad deploy into an 180k incident](https://dev.to/zop_8abedcc7e12/blast-radius-by-default-how-a-missing-slo-topology-turned-a-single-bad-deploy-into-an-180k-incident-4c46)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
