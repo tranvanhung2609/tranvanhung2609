@@ -103,12 +103,13 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Speed Mobile CI: Caching, Parallelization &amp; Test Sharding](https://dev.to/beefedai/speed-mobile-ci-caching-parallelization-test-sharding-5ega)
-- [Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what&#39;s confusing. 👇](https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda)
-- [Redis rate limiting in Go: INCR, the expiry race, and a limiter core that knows nothing about Redis](https://dev.to/yusufihsangorgel/redis-rate-limiting-in-go-incr-the-expiry-race-and-a-limiter-core-that-knows-nothing-about-redis-52h3)
-- [Kustomize bases &amp; overlays — one base, every environment](https://dev.to/secopsloghq/kustomize-bases-overlays-one-base-every-environment-2gim)
-- [Argo CD sync policies &amp; self-heal, explained](https://dev.to/secopsloghq/argo-cd-sync-policies-self-heal-explained-3eg5)
-- [Become a Java Backend Developer : Advanced Java with Spring Boot &amp; Microservices Course in Telugu](https://dev.to/abhinay_1a0ec714abad79368/become-a-java-backend-developer-advanced-java-with-spring-boot-microservices-course-in-telugu-403o)
+- [Authorization Explained: What Really Happens Before Your Card Payment Is Approved?](https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po)
+- [What&#39;s Actually in Redis When You Enqueue a Background Job](https://dev.to/yusufihsangorgel/whats-actually-in-redis-when-you-enqueue-a-background-job-51c7)
+- [New here. 
+Any Devops engineer aspirant to connect with?🖤](https://dev.to/henryigwe/new-here-any-devops-engineer-aspirant-to-connect-with-4hn8)
+- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-4m3f)
+- [I built an AI code reviewer with 6 parallel agents. Here’s the architecture, warts and all.](https://dev.to/looksgoodtomeow/i-built-an-ai-code-reviewer-with-6-parallel-agents-heres-the-architecture-warts-and-all-dfc)
+- [Rate Limiting Like a Jedi: Keeping Your API Safe from the Dark Side](https://dev.to/timevolt/rate-limiting-like-a-jedi-keeping-your-api-safe-from-the-dark-side-2n5o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
