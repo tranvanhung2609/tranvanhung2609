@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [When AI Reviewers Disagree: Building a Multi-Agent DevSecOps Tribunal with Qwen-Max](https://dev.to/yoges_mohan_511bda5afbe7d/when-ai-reviewers-disagree-building-a-multi-agent-devsecops-tribunal-with-qwen-max-bj3)
-- [My Agent Kept Writing sleep Loops. So I Gave It a Better Primitive](https://dev.to/antonio_zhu_e726fd856cd86/my-agent-kept-writing-sleep-loops-so-i-gave-it-a-better-primitive-f0j)
-- [Dựng cluster Kubernetes cục bộ trên laptop văn phòng di động](https://dev.to/hungphatlaptop/dung-cluster-kubernetes-cuc-bo-tren-laptop-van-phong-di-dong-5h6o)
-- [Redis](https://dev.to/gouranga-das-khulna/redis-3l06)
-- [Redis](https://dev.to/gouranga-das-khulna/redis-3l06)
-- [I built 47 free static dev tools with no backend — lessons learned](https://dev.to/vici/i-built-47-free-static-dev-tools-with-no-backend-lessons-learned-h52)
+- [Speed Mobile CI: Caching, Parallelization &amp; Test Sharding](https://dev.to/beefedai/speed-mobile-ci-caching-parallelization-test-sharding-5ega)
+- [Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what&#39;s confusing. 👇](https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda)
+- [Redis rate limiting in Go: INCR, the expiry race, and a limiter core that knows nothing about Redis](https://dev.to/yusufihsangorgel/redis-rate-limiting-in-go-incr-the-expiry-race-and-a-limiter-core-that-knows-nothing-about-redis-52h3)
+- [Kustomize bases &amp; overlays — one base, every environment](https://dev.to/secopsloghq/kustomize-bases-overlays-one-base-every-environment-2gim)
+- [Argo CD sync policies &amp; self-heal, explained](https://dev.to/secopsloghq/argo-cd-sync-policies-self-heal-explained-3eg5)
+- [Become a Java Backend Developer : Advanced Java with Spring Boot &amp; Microservices Course in Telugu](https://dev.to/abhinay_1a0ec714abad79368/become-a-java-backend-developer-advanced-java-with-spring-boot-microservices-course-in-telugu-403o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
