@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation: A Hands-On Journey Through Compute, Nesting, and Custom Resources](https://dev.to/puritychepkemoi/cloudformation-a-hands-on-journey-through-compute-nesting-and-custom-resources-117h)
-- [Give Your Auditor AWS Access — Without Sharing a Single Credential](https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k)
-- [9 Essential Terraform Practices That Save Your Infrastructure](https://dev.to/gtstudios/9-essential-terraform-practices-that-save-your-infrastructure-d15)
-- [7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching](https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0)
-- [HTTP/3: Why the Web Finally Moved Beyond TCP](https://dev.to/anik_sikder_313/http3-why-the-web-finally-moved-beyond-tcp-3hee)
-- [Project Object Model](https://dev.to/kathir_2911/project-object-model-5a6f)
+- [When AI Reviewers Disagree: Building a Multi-Agent DevSecOps Tribunal with Qwen-Max](https://dev.to/yoges_mohan_511bda5afbe7d/when-ai-reviewers-disagree-building-a-multi-agent-devsecops-tribunal-with-qwen-max-bj3)
+- [My Agent Kept Writing sleep Loops. So I Gave It a Better Primitive](https://dev.to/antonio_zhu_e726fd856cd86/my-agent-kept-writing-sleep-loops-so-i-gave-it-a-better-primitive-f0j)
+- [Dựng cluster Kubernetes cục bộ trên laptop văn phòng di động](https://dev.to/hungphatlaptop/dung-cluster-kubernetes-cuc-bo-tren-laptop-van-phong-di-dong-5h6o)
+- [Redis](https://dev.to/gouranga-das-khulna/redis-3l06)
+- [Redis](https://dev.to/gouranga-das-khulna/redis-3l06)
+- [I built 47 free static dev tools with no backend — lessons learned](https://dev.to/vici/i-built-47-free-static-dev-tools-with-no-backend-lessons-learned-h52)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
