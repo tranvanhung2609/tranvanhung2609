@@ -103,13 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Authorization Explained: What Really Happens Before Your Card Payment Is Approved?](https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po)
-- [What&#39;s Actually in Redis When You Enqueue a Background Job](https://dev.to/yusufihsangorgel/whats-actually-in-redis-when-you-enqueue-a-background-job-51c7)
-- [New here. 
-Any Devops engineer aspirant to connect with?🖤](https://dev.to/henryigwe/new-here-any-devops-engineer-aspirant-to-connect-with-4hn8)
-- [Web Developer Travis McCracken on Backend Architecture Trends in 2025](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-backend-architecture-trends-in-2025-4m3f)
-- [I built an AI code reviewer with 6 parallel agents. Here’s the architecture, warts and all.](https://dev.to/looksgoodtomeow/i-built-an-ai-code-reviewer-with-6-parallel-agents-heres-the-architecture-warts-and-all-dfc)
-- [Rate Limiting Like a Jedi: Keeping Your API Safe from the Dark Side](https://dev.to/timevolt/rate-limiting-like-a-jedi-keeping-your-api-safe-from-the-dark-side-2n5o)
+- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm)
+- [AWS Transform and Superwerker: same vocabulary, different problems](https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g)
+- [3 Things 120 Days of Autonomous Agents Taught Me That No Demo Prepares You For](https://dev.to/zwiserfit/3-things-120-days-of-autonomous-agents-taught-me-that-no-demo-prepares-you-for-2f9p)
+- [The Linux find Command: 20 Real-World Uses for Threat Hunting &amp; Incident Response](https://dev.to/xpert4cyber/the-linux-find-command-20-real-world-uses-for-threat-hunting-incident-response-2mka)
+- [🚀 Spring Boot Journey – Day 2: Setting Up My Development Environment &amp; Building My First REST API](https://dev.to/anticoder03/spring-boot-journey-day-2-setting-up-my-development-environment-building-my-first-rest-api-30ho)
+- [5 Kyverno Policies to Secure Your Kubernetes Cluster](https://dev.to/devarshishimpi/5-kyverno-policies-to-secure-your-kubernetes-cluster-3hb9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
