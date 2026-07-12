@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Async Image API Client That Does Not Lie About Completion](https://dev.to/hedging8563/designing-an-async-image-api-client-that-does-not-lie-about-completion-4blm)
-- [AWS Transform and Superwerker: same vocabulary, different problems](https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g)
-- [3 Things 120 Days of Autonomous Agents Taught Me That No Demo Prepares You For](https://dev.to/zwiserfit/3-things-120-days-of-autonomous-agents-taught-me-that-no-demo-prepares-you-for-2f9p)
-- [The Linux find Command: 20 Real-World Uses for Threat Hunting &amp; Incident Response](https://dev.to/xpert4cyber/the-linux-find-command-20-real-world-uses-for-threat-hunting-incident-response-2mka)
-- [🚀 Spring Boot Journey – Day 2: Setting Up My Development Environment &amp; Building My First REST API](https://dev.to/anticoder03/spring-boot-journey-day-2-setting-up-my-development-environment-building-my-first-rest-api-30ho)
-- [5 Kyverno Policies to Secure Your Kubernetes Cluster](https://dev.to/devarshishimpi/5-kyverno-policies-to-secure-your-kubernetes-cluster-3hb9)
+- [Message Queues &lpar;SQS&rpar;](https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7)
+- [Message Queues &lpar;SQS&rpar;](https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7)
+- [I finally found an always-on voice setup that my family wouldn’t abandon after 2 days](https://dev.to/lars_winstand/i-finally-found-an-always-on-voice-setup-that-my-family-wouldnt-abandon-after-2-days-4na4)
+- [贫血模型 vs 充血模型深度指南：领域模型设计的核心艺术](https://dev.to/tianxin/pin-xie-mo-xing-vs-chong-xie-mo-xing-shen-du-zhi-nan-ling-yu-mo-xing-she-ji-de-he-xin-yi-zhu-1kjg)
+- [The &quot;Invisible&quot; Server Bug: What Building a Bare-Metal Java Server Taught Me About I/O](https://dev.to/mohamed_anascharkaoui_b9/the-invisible-server-bug-what-building-a-bare-metal-java-server-taught-me-about-io-6fi)
+- [Docker Networking, Demystified: Bridge, Host, and Container DNS](https://dev.to/jjoyneriv/docker-networking-demystified-bridge-host-and-container-dns-5fac)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
