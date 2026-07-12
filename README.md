@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Caste of Intelligence and the Big Tech Blueprint: The Unfiltered Reality of LLM Infrastructure](https://dev.to/wsdn/the-caste-of-intelligence-and-the-big-tech-blueprint-the-unfiltered-reality-of-llm-infrastructure-392o)
-- [`instanceof` Operator in Java — Part 2](https://dev.to/rajeshbhola1/instanceof-operator-in-java-part-2-2gi8)
-- [The First Ransomware Attack With No Humans in the Loop Just Happened — and Your Playbook Isn’t Ready](https://dev.to/nithiyarajesh/the-first-ransomware-attack-with-no-humans-in-the-loop-just-happened-and-your-playbook-isnt-ready-2ph5)
-- [Shapewear Is Having a Moment: Why 2026 Is the Year of the &quot;Snatched&quot; Silhouette](https://dev.to/yu_yang_f26414a1d7a176c97/shapewear-is-having-a-moment-why-2026-is-the-year-of-the-snatched-silhouette-2kbb)
-- [Looker 26.12: How to QA row limits and KPI visual changes before your marketing dashboards break.](https://dev.to/tran_tienvan_e45fc26d655/looker-2612-how-to-qa-row-limits-and-kpi-visual-changes-before-your-marketing-dashboards-break-4kon)
-- [AI Agent Spend Governance: Controls, Policies, and Audit Trails](https://dev.to/spurhq/ai-agent-spend-governance-controls-policies-and-audit-trails-45ch)
+- [WebSocket Real-Time Architecture: From Connection Pooling to Graceful Reconnection](https://dev.to/uaslimcreate/websocket-real-time-architecture-from-connection-pooling-to-graceful-reconnection-5gej)
+- [Functions](https://dev.to/keerthana_2004/functions-2644)
+- [How to Run Your First Python Script in VS Code: A Beginner&#39;s Guide](https://dev.to/olamide_asogba/how-to-run-your-first-python-script-in-vs-code-a-beginners-guide-19a6)
+- [Web Developer Travis McCracken on A Case Study in Backend Rewrite &lpar;in Rust&rpar;](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-a-case-study-in-backend-rewrite-in-rust-931)
+- [A month of AI agents in production — June 2026: what broke, what got fixed](https://dev.to/lainagent_ai/a-month-of-ai-agents-in-production-june-2026-what-broke-what-got-fixed-361i)
+- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
