@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Message Queues &lpar;SQS&rpar;](https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7)
-- [Message Queues &lpar;SQS&rpar;](https://dev.to/gouranga-das-khulna/message-queues-sqs-nj7)
-- [I finally found an always-on voice setup that my family wouldn’t abandon after 2 days](https://dev.to/lars_winstand/i-finally-found-an-always-on-voice-setup-that-my-family-wouldnt-abandon-after-2-days-4na4)
-- [贫血模型 vs 充血模型深度指南：领域模型设计的核心艺术](https://dev.to/tianxin/pin-xie-mo-xing-vs-chong-xie-mo-xing-shen-du-zhi-nan-ling-yu-mo-xing-she-ji-de-he-xin-yi-zhu-1kjg)
-- [The &quot;Invisible&quot; Server Bug: What Building a Bare-Metal Java Server Taught Me About I/O](https://dev.to/mohamed_anascharkaoui_b9/the-invisible-server-bug-what-building-a-bare-metal-java-server-taught-me-about-io-6fi)
-- [Docker Networking, Demystified: Bridge, Host, and Container DNS](https://dev.to/jjoyneriv/docker-networking-demystified-bridge-host-and-container-dns-5fac)
+- [The Caste of Intelligence and the Big Tech Blueprint: The Unfiltered Reality of LLM Infrastructure](https://dev.to/wsdn/the-caste-of-intelligence-and-the-big-tech-blueprint-the-unfiltered-reality-of-llm-infrastructure-392o)
+- [`instanceof` Operator in Java — Part 2](https://dev.to/rajeshbhola1/instanceof-operator-in-java-part-2-2gi8)
+- [The First Ransomware Attack With No Humans in the Loop Just Happened — and Your Playbook Isn’t Ready](https://dev.to/nithiyarajesh/the-first-ransomware-attack-with-no-humans-in-the-loop-just-happened-and-your-playbook-isnt-ready-2ph5)
+- [Shapewear Is Having a Moment: Why 2026 Is the Year of the &quot;Snatched&quot; Silhouette](https://dev.to/yu_yang_f26414a1d7a176c97/shapewear-is-having-a-moment-why-2026-is-the-year-of-the-snatched-silhouette-2kbb)
+- [Looker 26.12: How to QA row limits and KPI visual changes before your marketing dashboards break.](https://dev.to/tran_tienvan_e45fc26d655/looker-2612-how-to-qa-row-limits-and-kpi-visual-changes-before-your-marketing-dashboards-break-4kon)
+- [AI Agent Spend Governance: Controls, Policies, and Audit Trails](https://dev.to/spurhq/ai-agent-spend-governance-controls-policies-and-audit-trails-45ch)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
