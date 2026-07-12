@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [WebSocket Real-Time Architecture: From Connection Pooling to Graceful Reconnection](https://dev.to/uaslimcreate/websocket-real-time-architecture-from-connection-pooling-to-graceful-reconnection-5gej)
-- [Functions](https://dev.to/keerthana_2004/functions-2644)
-- [How to Run Your First Python Script in VS Code: A Beginner&#39;s Guide](https://dev.to/olamide_asogba/how-to-run-your-first-python-script-in-vs-code-a-beginners-guide-19a6)
-- [Web Developer Travis McCracken on A Case Study in Backend Rewrite &lpar;in Rust&rpar;](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-a-case-study-in-backend-rewrite-in-rust-931)
-- [A month of AI agents in production — June 2026: what broke, what got fixed](https://dev.to/lainagent_ai/a-month-of-ai-agents-in-production-june-2026-what-broke-what-got-fixed-361i)
-- [I built HostShift to migrate Linux servers](https://dev.to/oguzhankrcb/i-built-hostshift-to-migrate-linux-servers-1nje)
+- [I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS](https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg)
+- [Nginx + Python: The Perfect Production Setup](https://dev.to/qingluan/nginx-python-the-perfect-production-setup-12f4)
+- [How to Deploy Your Python App on a $5/Month Server](https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-15g0)
+- [The Linux locate Command: A Faster Alternative to find &lpar;With Security Use Cases&rpar;](https://dev.to/xpert4cyber/the-linux-locate-command-a-faster-alternative-to-find-with-security-use-cases-3hd6)
+- [Swagger vs OpenAPI, explained in 30 seconds](https://dev.to/jkballa/swagger-vs-openapi-explained-in-30-seconds-3e3g)
+- [Killing the Shared Proxy: Direct Routing to Per-Customer Containers on Docker Swarm](https://dev.to/sourav_sarkar_78787d235fa/killing-the-shared-proxy-direct-routing-to-per-customer-containers-on-docker-swarm-2h79)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
