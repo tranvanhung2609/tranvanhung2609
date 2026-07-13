@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I thought OpenClaw would write my posts but its best trick is running content ops across 10 channels](https://dev.to/lars_winstand/i-thought-openclaw-would-write-my-posts-but-its-best-trick-is-running-content-ops-across-10-channels-4b97)
-- [Stop Measuring AI Agent ROI Like It&#39;s a Chatbot: A Developer&#39;s Guide](https://dev.to/icentric/stop-measuring-ai-agent-roi-like-its-a-chatbot-a-developers-guide-4bl1)
-- [MCP for Cloud &amp; DevOps Engineers: What Model Context Protocol Actually Does](https://dev.to/muskan_bandta/mcp-for-cloud-devops-engineers-what-model-context-protocol-actually-does-258o)
-- [How to Define a Backend Contract for a React App](https://dev.to/spalaai/how-to-define-a-backend-contract-for-a-react-app-3n9o)
-- [From AI Chatbots to AI Operators: Why Travel Doesn&#39;t Need Another Assistant](https://dev.to/christopher_mburu_7b7e0ba/from-ai-chatbots-to-ai-operators-why-travel-doesnt-need-another-assistant-gf)
-- [GhostCommit: the exploit your AI code reviewer can&#39;t see](https://dev.to/thegatewayguy/ghostcommit-the-exploit-your-ai-code-reviewer-cant-see-5d6a)
+- [The Millisecond Miracle: Why Databases Are the Unsung Heroes of Tech](https://dev.to/vasundhara_45c5d1fdc8d041/the-millisecond-miracle-why-databases-are-the-unsung-heroes-of-tech-aol)
+- [Analyze Server Logs with Python in Seconds for DevOps Teams](https://dev.to/intellitools/analyze-server-logs-with-python-in-seconds-for-devops-teams-4b30)
+- [Cómo auditar cohortes de onboarding en SaaS](https://dev.to/hannahdev56/como-auditar-cohortes-de-onboarding-en-saas-4dip)
+- [The Integration Decision Tree: Plugin vs MCP Server vs CLI Bridge](https://dev.to/ev3lynx727/the-integration-decision-tree-plugin-vs-mcp-server-vs-cli-bridge-124p)
+- [Turn the Linux GhostLock Report Into a Fleet Patch Plan](https://dev.to/odd_background_328/turn-the-linux-ghostlock-report-into-a-fleet-patch-plan-1i3g)
+- [Why Your Shipping Costs Don&#39;t Match Your Product Weight &lpar;And How to Fix It&rpar;](https://dev.to/fazeel_khalid/why-your-shipping-costs-dont-match-your-product-weight-and-how-to-fix-it-20eo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
