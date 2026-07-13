@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Millisecond Miracle: Why Databases Are the Unsung Heroes of Tech](https://dev.to/vasundhara_45c5d1fdc8d041/the-millisecond-miracle-why-databases-are-the-unsung-heroes-of-tech-aol)
-- [Analyze Server Logs with Python in Seconds for DevOps Teams](https://dev.to/intellitools/analyze-server-logs-with-python-in-seconds-for-devops-teams-4b30)
-- [Cómo auditar cohortes de onboarding en SaaS](https://dev.to/hannahdev56/como-auditar-cohortes-de-onboarding-en-saas-4dip)
-- [The Integration Decision Tree: Plugin vs MCP Server vs CLI Bridge](https://dev.to/ev3lynx727/the-integration-decision-tree-plugin-vs-mcp-server-vs-cli-bridge-124p)
-- [Turn the Linux GhostLock Report Into a Fleet Patch Plan](https://dev.to/odd_background_328/turn-the-linux-ghostlock-report-into-a-fleet-patch-plan-1i3g)
-- [Why Your Shipping Costs Don&#39;t Match Your Product Weight &lpar;And How to Fix It&rpar;](https://dev.to/fazeel_khalid/why-your-shipping-costs-dont-match-your-product-weight-and-how-to-fix-it-20eo)
+- [Day 22: Client-side load balancing with Spring Cloud LoadBalancer](https://dev.to/dev48v/day-22-client-side-load-balancing-with-spring-cloud-loadbalancer-55g1)
+- [Day 22: Client-side load balancing with Spring Cloud LoadBalancer](https://dev.to/dev48v/day-22-client-side-load-balancing-with-spring-cloud-loadbalancer-55g1)
+- [8 Powerful Bun Runtime Features Replacing Node Workflows](https://dev.to/gtstudios/8-powerful-bun-runtime-features-replacing-node-workflows-3jbo)
+- [Building a PostgreSQL Change-Event Relay](https://dev.to/kenneth_demanawa_fcc6581e/building-a-postgresql-change-event-relay-1mj1)
+- [Top Guide to Buy Old GitHub Accounts: Tips for Developers](https://dev.to/nomihubbardv6wr3/top-guide-to-buy-old-github-accounts-tips-for-developers-4pm7)
+- [We Already Built the Loop](https://dev.to/danielbutlerirl/we-already-built-the-loop-32ef)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
