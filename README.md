@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS](https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg)
-- [Nginx + Python: The Perfect Production Setup](https://dev.to/qingluan/nginx-python-the-perfect-production-setup-12f4)
-- [How to Deploy Your Python App on a $5/Month Server](https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-15g0)
-- [The Linux locate Command: A Faster Alternative to find &lpar;With Security Use Cases&rpar;](https://dev.to/xpert4cyber/the-linux-locate-command-a-faster-alternative-to-find-with-security-use-cases-3hd6)
-- [Swagger vs OpenAPI, explained in 30 seconds](https://dev.to/jkballa/swagger-vs-openapi-explained-in-30-seconds-3e3g)
-- [Killing the Shared Proxy: Direct Routing to Per-Customer Containers on Docker Swarm](https://dev.to/sourav_sarkar_78787d235fa/killing-the-shared-proxy-direct-routing-to-per-customer-containers-on-docker-swarm-2h79)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2pac)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-2pac)
+- [FastAPI: correos por tenant sin bandejas cruzadas](https://dev.to/silviutech/fastapi-correos-por-tenant-sin-bandejas-cruzadas-1p9a)
+- [Homelab Burnout: Sustainable Self-Hosting When the Hobby Starts Feeling Like Work](https://dev.to/techiemike/homelab-burnout-sustainable-self-hosting-when-the-hobby-starts-feeling-like-work-3nh7)
+- [I keep seeing OpenClaw users build self hosted team chat instead of stuffing every agent into Slack](https://dev.to/lars_winstand/i-keep-seeing-openclaw-users-build-self-hosted-team-chat-instead-of-stuffing-every-agent-into-slack-29fo)
+- [How My Love for Football Inspired Me to Build Ultimate Fan](https://dev.to/akeemomosanyaa/how-my-love-for-football-inspired-me-to-build-ultimate-fan-1e6a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
