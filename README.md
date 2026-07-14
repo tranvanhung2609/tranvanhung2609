@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ComposeHealthCheck: Catch Docker Compose Startup Bugs Before They Cost You an Hour](https://dev.to/dev_encyclopedia/composehealthcheck-catch-docker-compose-startup-bugs-before-they-cost-you-an-hour-45n4)
-- [Red Team vs. Blue Team: The Ultimate Tools of Modern Penetration Testers](https://dev.to/simpledrop/red-team-vs-blue-team-the-ultimate-tools-of-modern-penetration-testers-5ffi)
-- [The CISA GitHub Leak: What It Should Teach Homelab Owners](https://dev.to/techiemike/the-cisa-github-leak-what-it-should-teach-homelab-owners-2p1l)
-- [I Instrumented a System the OTel GenAI Conventions Weren&#39;t Built For - Here&#39;s Where They Broke](https://dev.to/dobybaxter127/i-instrumented-a-system-the-otel-genai-conventions-werent-built-for-heres-where-they-broke-40dh)
-- [How to install an enterprise-level software, WLOADCTL in 5min?](https://dev.to/wenli_wei_632477a9c141395/how-to-install-an-enterprise-level-software-wloadctl-in-5min-4nfl)
-- [Kill the Loop: Why `while true` Is Not Reliability](https://dev.to/agentiknet/kill-the-loop-why-while-true-is-not-reliability-59fk)
+- [Why Every Cybersecurity Product Needs Enterprise-Grade Connectors in 2026](https://dev.to/forshtec/why-every-cybersecurity-product-needs-enterprise-grade-connectors-in-2026-20i3)
+- [Twilio vs WebRTC: Choosing Video Infrastructure for a Telehealth App](https://dev.to/arpit_mishra1/twilio-vs-webrtc-choosing-video-infrastructure-for-a-telehealth-app-30lc)
+- [Self-hosting your email? SPF, DKIM and DMARC decide your inbox rate](https://dev.to/basictechnology/self-hosting-your-email-spf-dkim-and-dmarc-decide-your-inbox-rate-4f2l)
+- [GPT-5.6 Sol&#39;s file deletion isn&#39;t a bug you patch. It&#39;s proof that filtering an agent&#39;s actions doesn&#39;t contain it. Here&#39;s why, and what actually does.](https://dev.to/rbuckley_/gpt-56-sols-file-deletion-isnt-a-bug-you-patch-its-proof-that-filtering-an-agents-actions-n97)
+- [Discord Bot Docker Restart: 3 Mistakes That Bit Us in Prod](https://dev.to/oleksandr_kuryzhev_42873f/discord-bot-docker-restart-3-mistakes-that-bit-us-in-prod-19bm)
+- [What Are Golden Paths in Platform Engineering, and Why Do They Matter?](https://dev.to/supriyarao/what-are-golden-paths-in-platform-engineering-and-why-do-they-matter-2kj0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
