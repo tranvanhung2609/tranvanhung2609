@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 22: Client-side load balancing with Spring Cloud LoadBalancer](https://dev.to/dev48v/day-22-client-side-load-balancing-with-spring-cloud-loadbalancer-55g1)
-- [Day 22: Client-side load balancing with Spring Cloud LoadBalancer](https://dev.to/dev48v/day-22-client-side-load-balancing-with-spring-cloud-loadbalancer-55g1)
-- [8 Powerful Bun Runtime Features Replacing Node Workflows](https://dev.to/gtstudios/8-powerful-bun-runtime-features-replacing-node-workflows-3jbo)
-- [Building a PostgreSQL Change-Event Relay](https://dev.to/kenneth_demanawa_fcc6581e/building-a-postgresql-change-event-relay-1mj1)
-- [Top Guide to Buy Old GitHub Accounts: Tips for Developers](https://dev.to/nomihubbardv6wr3/top-guide-to-buy-old-github-accounts-tips-for-developers-4pm7)
-- [We Already Built the Loop](https://dev.to/danielbutlerirl/we-already-built-the-loop-32ef)
+- [ComposeHealthCheck: Catch Docker Compose Startup Bugs Before They Cost You an Hour](https://dev.to/dev_encyclopedia/composehealthcheck-catch-docker-compose-startup-bugs-before-they-cost-you-an-hour-45n4)
+- [Red Team vs. Blue Team: The Ultimate Tools of Modern Penetration Testers](https://dev.to/simpledrop/red-team-vs-blue-team-the-ultimate-tools-of-modern-penetration-testers-5ffi)
+- [The CISA GitHub Leak: What It Should Teach Homelab Owners](https://dev.to/techiemike/the-cisa-github-leak-what-it-should-teach-homelab-owners-2p1l)
+- [I Instrumented a System the OTel GenAI Conventions Weren&#39;t Built For - Here&#39;s Where They Broke](https://dev.to/dobybaxter127/i-instrumented-a-system-the-otel-genai-conventions-werent-built-for-heres-where-they-broke-40dh)
+- [How to install an enterprise-level software, WLOADCTL in 5min?](https://dev.to/wenli_wei_632477a9c141395/how-to-install-an-enterprise-level-software-wloadctl-in-5min-4nfl)
+- [Kill the Loop: Why `while true` Is Not Reliability](https://dev.to/agentiknet/kill-the-loop-why-while-true-is-not-reliability-59fk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
