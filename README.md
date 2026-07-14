@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why mocking your Vector DB in CI is a terrible idea &lpar;and a 200ms fix&rpar;](https://dev.to/lopz/why-mocking-your-vector-db-in-ci-is-a-terrible-idea-and-a-200ms-fix-4nmc)
-- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://dev.to/rasne/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won-3j5j)
-- [Как наладить определение города в локальном Docker и нормально тестировать GeoIP](https://dev.to/_vproger_/kak-naladit-opriedielieniie-ghoroda-v-lokalnom-docker-i-normalno-tiestirovat-geoip-3nak)
-- [Build a Website Health Checker with Python](https://dev.to/qingluan/build-a-website-health-checker-with-python-340o)
-- [Автоматические купоны ко дню рождения в 1С-Битрикс: batching, cron и защита от дублей](https://dev.to/_vproger_/avtomatichieskiie-kupony-ko-dniu-rozhdieniia-v-1s-bitriks-batching-cron-i-zashchita-ot-dubliei-3mha)
-- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ag9)
+- [Building a Reusable AWS SAM CI/CD Pipeline for Multi-Account Deployments](https://dev.to/viren_patel_4351db2f23035/building-a-reusable-aws-sam-cicd-pipeline-for-multi-account-deployments-167g)
+- [PostgreSQL EXPLAIN ANALYZE: Read Plans, Fix Slow Queries](https://dev.to/akshay272727/postgresql-explain-analyze-read-plans-fix-slow-queries-4bk)
+- [Sauvegardes WordPress automatiques sans plugin payant : guide technique 2026](https://dev.to/wpadminlab/sauvegardes-wordpress-automatiques-sans-plugin-payant-guide-technique-2026-2epi)
+- [Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster](https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m)
+- [[Open Source] AI Nexus Router v1 Released – Native Desktop App + OpenAI-Compatible API](https://dev.to/vibhuti019/open-source-ai-nexus-router-v1-released-native-desktop-app-openai-compatible-api-lkk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
