@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Cybersecurity Product Needs Enterprise-Grade Connectors in 2026](https://dev.to/forshtec/why-every-cybersecurity-product-needs-enterprise-grade-connectors-in-2026-20i3)
-- [Twilio vs WebRTC: Choosing Video Infrastructure for a Telehealth App](https://dev.to/arpit_mishra1/twilio-vs-webrtc-choosing-video-infrastructure-for-a-telehealth-app-30lc)
-- [Self-hosting your email? SPF, DKIM and DMARC decide your inbox rate](https://dev.to/basictechnology/self-hosting-your-email-spf-dkim-and-dmarc-decide-your-inbox-rate-4f2l)
-- [GPT-5.6 Sol&#39;s file deletion isn&#39;t a bug you patch. It&#39;s proof that filtering an agent&#39;s actions doesn&#39;t contain it. Here&#39;s why, and what actually does.](https://dev.to/rbuckley_/gpt-56-sols-file-deletion-isnt-a-bug-you-patch-its-proof-that-filtering-an-agents-actions-n97)
-- [Discord Bot Docker Restart: 3 Mistakes That Bit Us in Prod](https://dev.to/oleksandr_kuryzhev_42873f/discord-bot-docker-restart-3-mistakes-that-bit-us-in-prod-19bm)
-- [What Are Golden Paths in Platform Engineering, and Why Do They Matter?](https://dev.to/supriyarao/what-are-golden-paths-in-platform-engineering-and-why-do-they-matter-2kj0)
+- [Why mocking your Vector DB in CI is a terrible idea &lpar;and a 200ms fix&rpar;](https://dev.to/lopz/why-mocking-your-vector-db-in-ci-is-a-terrible-idea-and-a-200ms-fix-4nmc)
+- [AI Engineer World’s Fair 2026: The Runtime Is Where Agent Trust Is Won](https://dev.to/rasne/ai-engineer-worlds-fair-2026-the-runtime-is-where-agent-trust-is-won-3j5j)
+- [Как наладить определение города в локальном Docker и нормально тестировать GeoIP](https://dev.to/_vproger_/kak-naladit-opriedielieniie-ghoroda-v-lokalnom-docker-i-normalno-tiestirovat-geoip-3nak)
+- [Build a Website Health Checker with Python](https://dev.to/qingluan/build-a-website-health-checker-with-python-340o)
+- [Автоматические купоны ко дню рождения в 1С-Битрикс: batching, cron и защита от дублей](https://dev.to/_vproger_/avtomatichieskiie-kupony-ko-dniu-rozhdieniia-v-1s-bitriks-batching-cron-i-zashchita-ot-dubliei-3mha)
+- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
