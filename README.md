@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI: rastrea correos duplicados con run IDs](https://dev.to/silviutech/fastapi-rastrea-correos-duplicados-con-run-ids-eec)
-- [The same bug, fixed three times: all my guards lived on the write side](https://dev.to/dexterlung/the-same-bug-fixed-three-times-all-my-guards-lived-on-the-write-side-1ajf)
-- [The first successful AI API request is not the paid workflow](https://dev.to/edward_li_71f26791eac62b8/the-first-successful-ai-api-request-is-not-the-paid-workflow-c0k)
-- [Proxmox VE in Production — What Running It 24/7 for Over a Year Actually Teaches You](https://dev.to/techiemike/proxmox-ve-in-production-what-running-it-247-for-over-a-year-actually-teaches-you-iil)
-- [CI/CD Reliability: When Your Deploy Pipeline is Your SPOF](https://dev.to/samson_tanimawo/cicd-reliability-when-your-deploy-pipeline-is-your-spof-4mjn)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-40ck)
+- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
+- [Kubernetes ConfigMaps and Secrets — Complete Configuration Management Guide &lpar;2026&rpar;](https://dev.to/devopsrise_0607/kubernetes-configmaps-and-secrets-complete-configuration-management-guide-2026-2117)
+- [A DevOps Roadmap for Teams Starting from Zero](https://dev.to/acquriotech/a-devops-roadmap-for-teams-starting-from-zero-4og6)
+- [Kubernetes RBAC — Control Who Can Do What in Your Cluster &lpar;2026&rpar;](https://dev.to/devopsrise_0607/kubernetes-rbac-control-who-can-do-what-in-your-cluster-2026-3p0d)
+- [Docker Networking Explained — Bridge, Host and Custom Networks &lpar;2026&rpar;](https://dev.to/devopsrise_0607/docker-networking-explained-bridge-host-and-custom-networks-2026-1oo1)
+- [I replaced homelab bash with agents — and the DX got weirdly good](https://dev.to/shiva_kadiri/i-replaced-homelab-bash-with-agents-and-the-dx-got-weirdly-good-3f7e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
