@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ag9)
-- [Building a Reusable AWS SAM CI/CD Pipeline for Multi-Account Deployments](https://dev.to/viren_patel_4351db2f23035/building-a-reusable-aws-sam-cicd-pipeline-for-multi-account-deployments-167g)
-- [PostgreSQL EXPLAIN ANALYZE: Read Plans, Fix Slow Queries](https://dev.to/akshay272727/postgresql-explain-analyze-read-plans-fix-slow-queries-4bk)
-- [Sauvegardes WordPress automatiques sans plugin payant : guide technique 2026](https://dev.to/wpadminlab/sauvegardes-wordpress-automatiques-sans-plugin-payant-guide-technique-2026-2epi)
-- [Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster](https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m)
-- [[Open Source] AI Nexus Router v1 Released – Native Desktop App + OpenAI-Compatible API](https://dev.to/vibhuti019/open-source-ai-nexus-router-v1-released-native-desktop-app-openai-compatible-api-lkk)
+- [FastAPI: rastrea correos duplicados con run IDs](https://dev.to/silviutech/fastapi-rastrea-correos-duplicados-con-run-ids-eec)
+- [The same bug, fixed three times: all my guards lived on the write side](https://dev.to/dexterlung/the-same-bug-fixed-three-times-all-my-guards-lived-on-the-write-side-1ajf)
+- [The first successful AI API request is not the paid workflow](https://dev.to/edward_li_71f26791eac62b8/the-first-successful-ai-api-request-is-not-the-paid-workflow-c0k)
+- [Proxmox VE in Production — What Running It 24/7 for Over a Year Actually Teaches You](https://dev.to/techiemike/proxmox-ve-in-production-what-running-it-247-for-over-a-year-actually-teaches-you-iil)
+- [CI/CD Reliability: When Your Deploy Pipeline is Your SPOF](https://dev.to/samson_tanimawo/cicd-reliability-when-your-deploy-pipeline-is-your-spof-4mjn)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-40ck)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
