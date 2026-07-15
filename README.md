@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
-- [Kubernetes ConfigMaps and Secrets — Complete Configuration Management Guide &lpar;2026&rpar;](https://dev.to/devopsrise_0607/kubernetes-configmaps-and-secrets-complete-configuration-management-guide-2026-2117)
-- [A DevOps Roadmap for Teams Starting from Zero](https://dev.to/acquriotech/a-devops-roadmap-for-teams-starting-from-zero-4og6)
-- [Kubernetes RBAC — Control Who Can Do What in Your Cluster &lpar;2026&rpar;](https://dev.to/devopsrise_0607/kubernetes-rbac-control-who-can-do-what-in-your-cluster-2026-3p0d)
-- [Docker Networking Explained — Bridge, Host and Custom Networks &lpar;2026&rpar;](https://dev.to/devopsrise_0607/docker-networking-explained-bridge-host-and-custom-networks-2026-1oo1)
-- [I replaced homelab bash with agents — and the DX got weirdly good](https://dev.to/shiva_kadiri/i-replaced-homelab-bash-with-agents-and-the-dx-got-weirdly-good-3f7e)
+- [17 PRs a Day, One QA: How We Automated E2E Failure Triage](https://dev.to/denis_skvortsov/17-prs-a-day-one-qa-how-we-automated-e2e-failure-triage-260g)
+- [How Two Processes Fighting Over One WireGuard Interface Broke Our NetBird Mesh in Kubernetes](https://dev.to/jagoum/how-two-processes-fighting-over-one-wireguard-interface-broke-our-netbird-mesh-in-kubernetes-1b4o)
+- [4 IAM Misconfiguration Patterns That Keep Showing Up in Real AWS Accounts](https://dev.to/shieldlyio/4-iam-misconfiguration-patterns-that-keep-showing-up-in-real-aws-accounts-f9o)
+- [Why Data Center Monitoring Should Start Below the Operating System](https://dev.to/da-li-at-pl/why-data-center-monitoring-should-start-below-the-operating-system-571j)
+- [Building AI-Powered Web Applications](https://dev.to/sharafat_ali_8c9a8ff2bee7/building-ai-powered-web-applications-go4)
+- [macOS Never Got the File Manager Developers Deserved. So I Built It.](https://dev.to/dorien/macos-never-got-the-file-manager-developers-deserved-so-i-built-it-4b78)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
