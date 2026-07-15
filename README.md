@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [17 PRs a Day, One QA: How We Automated E2E Failure Triage](https://dev.to/denis_skvortsov/17-prs-a-day-one-qa-how-we-automated-e2e-failure-triage-260g)
-- [How Two Processes Fighting Over One WireGuard Interface Broke Our NetBird Mesh in Kubernetes](https://dev.to/jagoum/how-two-processes-fighting-over-one-wireguard-interface-broke-our-netbird-mesh-in-kubernetes-1b4o)
-- [4 IAM Misconfiguration Patterns That Keep Showing Up in Real AWS Accounts](https://dev.to/shieldlyio/4-iam-misconfiguration-patterns-that-keep-showing-up-in-real-aws-accounts-f9o)
-- [Why Data Center Monitoring Should Start Below the Operating System](https://dev.to/da-li-at-pl/why-data-center-monitoring-should-start-below-the-operating-system-571j)
-- [Building AI-Powered Web Applications](https://dev.to/sharafat_ali_8c9a8ff2bee7/building-ai-powered-web-applications-go4)
-- [macOS Never Got the File Manager Developers Deserved. So I Built It.](https://dev.to/dorien/macos-never-got-the-file-manager-developers-deserved-so-i-built-it-4b78)
+- [Turn redacted HarnessDelta findings into native CI review artifacts](https://dev.to/nekoautomata/turn-redacted-harnessdelta-findings-into-native-ci-review-artifacts-1dco)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 11: A WAR File Deploys Itself, and an ENI Is a Network Card You Can Move](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-11-a-war-file-deploys-itself-and-an-eni-is-a-network-card-45o0)
+- [Vercel AI Gateway: One Endpoint, Zero Token Markup, and Where It Stops](https://dev.to/sahajmeet_kaur_/vercel-ai-gateway-one-endpoint-zero-token-markup-and-where-it-stops-20pc)
+- [Cloud Cost Optimization: A Practical Guide for Leaders](https://dev.to/esparksit/cloud-cost-optimization-a-practical-guide-for-leaders-2ke9)
+- [Best LiteLLM Alternatives in 2026](https://dev.to/sahajmeet_kaur_/best-litellm-alternatives-in-2026-2b9l)
+- [I Switched from Postman to Bruno 🚀](https://dev.to/joodi/i-switched-from-postman-to-bruno-58io)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
