@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Explained: How to Build with Them Safely](https://dev.to/rasne/ai-agents-explained-how-to-build-with-them-safely-5628)
-- [The Developer Has Changed. So Should Developer Conferences](https://dev.to/rasne/the-developer-has-changed-so-should-developer-conferences-4ada)
-- [Web Developer Travis McCracken on Designing High-Availability Systems with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-designing-high-availability-systems-with-go-3k30)
-- [Why I replaced queue-based worker communication with gRPC](https://dev.to/xescugc/why-i-replaced-queue-based-worker-communication-with-grpc-32nd)
-- [Database Marketing](https://dev.to/jkms9009/database-marketing-36c4)
-- [Claude Code Made My Sprints 40% Slower: 3 Time Sinks I Only Found by Timing Myself](https://dev.to/kenimo49/claude-code-made-my-sprints-40-slower-3-time-sinks-i-only-found-by-timing-myself-4998)
+- [One blocking call freezes every request: FastAPI&#39;s def vs async def](https://dev.to/r9v/one-blocking-call-freezes-every-request-fastapis-def-vs-async-def-52lh)
+- [Commit Cron: A Simple Daily Commit Bot with GitHub Actions](https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b)
+- [I had an application taking 10 seconds to load. Turned out file ops functions on aren&#39;t real filesystem calls due S3 stream wrapper. This post brings the results of a POC that I built to demonstrate the impact of these invisible of these network calls.](https://dev.to/edpittol/i-had-an-application-taking-10-seconds-to-load-turned-out-file-ops-functions-on-arent-real-38j5)
+- [Building a Real SIEM Lab on a Mac Mini Fleet — What Actually Broke, and What I Learned Fixing It](https://dev.to/firststeptechnology/building-a-real-siem-lab-on-a-mac-mini-fleet-what-actually-broke-and-what-i-learned-fixing-it-4i50)
+- [Deploy Gemma 4 &lpar;26B&rpar; with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2](https://dev.to/atheerium/deploy-gemma-4-26b-with-qat-on-gce-g2-standard-uses-nvidia-l4-mcp-o5o)
+- [AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword](https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
