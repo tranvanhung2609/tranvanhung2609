@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Budibase vs n8n vs Retool: Self-Hosted Automation 2026](https://dev.to/chasebot/budibase-vs-n8n-vs-retool-self-hosted-automation-2026-15o1)
-- [Giveaway &amp; Rewards: How to Find Legitimate Opportunities Without Getting Scammed](https://dev.to/robert8814/giveaway-rewards-how-to-find-legitimate-opportunities-without-getting-scammed-40e)
-- [Build a Payment Automation Studio for Crypto Merchants](https://dev.to/kevins1988/build-a-payment-automation-studio-for-crypto-merchants-3k6m)
-- [n8n GitHub Node: Automate Issues, Pull Requests, and Releases in Your Workflows [Free Workflow JSON]](https://dev.to/pirateprentice/n8n-github-node-automate-issues-pull-requests-and-releases-in-your-workflows-free-workflow-json-30mn)
-- [How To Test On iOS Without Owning Every iPhone](https://dev.to/graceholloway_/how-to-test-on-ios-without-owning-every-iphone-561n)
-- [Can You Get Netflix for Free? Here&#39;s What You Should Know](https://dev.to/robert8814/can-you-get-netflix-for-free-heres-what-you-should-know-mpm)
+- [AI Agents Explained: How to Build with Them Safely](https://dev.to/rasne/ai-agents-explained-how-to-build-with-them-safely-5628)
+- [The Developer Has Changed. So Should Developer Conferences](https://dev.to/rasne/the-developer-has-changed-so-should-developer-conferences-4ada)
+- [Web Developer Travis McCracken on Designing High-Availability Systems with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-designing-high-availability-systems-with-go-3k30)
+- [Why I replaced queue-based worker communication with gRPC](https://dev.to/xescugc/why-i-replaced-queue-based-worker-communication-with-grpc-32nd)
+- [Database Marketing](https://dev.to/jkms9009/database-marketing-36c4)
+- [Claude Code Made My Sprints 40% Slower: 3 Time Sinks I Only Found by Timing Myself](https://dev.to/kenimo49/claude-code-made-my-sprints-40-slower-3-time-sinks-i-only-found-by-timing-myself-4998)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
