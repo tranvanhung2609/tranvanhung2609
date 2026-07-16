@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-569f)
-- [xAI publica en GitHub el código de Grok Build, su CLI en Rust](https://dev.to/lu1tr0n/xai-publica-en-github-el-codigo-de-grok-build-su-cli-en-rust-352a)
-- [SQLazy: Merging Overlapping Time Intervals](https://dev.to/esproc_spl/sqlazy-merging-overlapping-time-intervals-4fd0)
-- [Your ESXi Hosts Are on Two Clocks Now: Support Dates and the Broadcom Licensing Squeeze](https://dev.to/endoflifeai/your-esxi-hosts-are-on-two-clocks-now-support-dates-and-the-broadcom-licensing-squeeze-aaf)
-- [We Planted 10 Vulnerabilities to Test Free Semgrep. It Reported 3.](https://dev.to/kielltampubolon/we-planted-10-vulnerabilities-to-test-free-semgrep-it-reported-3-1k6j)
-- [Windows Server 2012 Loses Its Last Safety Net on October 13 - Here&#39;s the Actual Decision Tree](https://dev.to/endoflifeai/windows-server-2012-loses-its-last-safety-net-on-october-13-heres-the-actual-decision-tree-2f6a)
+- [Budibase vs n8n vs Retool: Self-Hosted Automation 2026](https://dev.to/chasebot/budibase-vs-n8n-vs-retool-self-hosted-automation-2026-15o1)
+- [Giveaway &amp; Rewards: How to Find Legitimate Opportunities Without Getting Scammed](https://dev.to/robert8814/giveaway-rewards-how-to-find-legitimate-opportunities-without-getting-scammed-40e)
+- [Build a Payment Automation Studio for Crypto Merchants](https://dev.to/kevins1988/build-a-payment-automation-studio-for-crypto-merchants-3k6m)
+- [n8n GitHub Node: Automate Issues, Pull Requests, and Releases in Your Workflows [Free Workflow JSON]](https://dev.to/pirateprentice/n8n-github-node-automate-issues-pull-requests-and-releases-in-your-workflows-free-workflow-json-30mn)
+- [How To Test On iOS Without Owning Every iPhone](https://dev.to/graceholloway_/how-to-test-on-ios-without-owning-every-iphone-561n)
+- [Can You Get Netflix for Free? Here&#39;s What You Should Know](https://dev.to/robert8814/can-you-get-netflix-for-free-heres-what-you-should-know-mpm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
