@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Turn redacted HarnessDelta findings into native CI review artifacts](https://dev.to/nekoautomata/turn-redacted-harnessdelta-findings-into-native-ci-review-artifacts-1dco)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 11: A WAR File Deploys Itself, and an ENI Is a Network Card You Can Move](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-11-a-war-file-deploys-itself-and-an-eni-is-a-network-card-45o0)
-- [Vercel AI Gateway: One Endpoint, Zero Token Markup, and Where It Stops](https://dev.to/sahajmeet_kaur_/vercel-ai-gateway-one-endpoint-zero-token-markup-and-where-it-stops-20pc)
-- [Cloud Cost Optimization: A Practical Guide for Leaders](https://dev.to/esparksit/cloud-cost-optimization-a-practical-guide-for-leaders-2ke9)
-- [Best LiteLLM Alternatives in 2026](https://dev.to/sahajmeet_kaur_/best-litellm-alternatives-in-2026-2b9l)
-- [I Switched from Postman to Bruno 🚀](https://dev.to/joodi/i-switched-from-postman-to-bruno-58io)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-569f)
+- [xAI publica en GitHub el código de Grok Build, su CLI en Rust](https://dev.to/lu1tr0n/xai-publica-en-github-el-codigo-de-grok-build-su-cli-en-rust-352a)
+- [SQLazy: Merging Overlapping Time Intervals](https://dev.to/esproc_spl/sqlazy-merging-overlapping-time-intervals-4fd0)
+- [Your ESXi Hosts Are on Two Clocks Now: Support Dates and the Broadcom Licensing Squeeze](https://dev.to/endoflifeai/your-esxi-hosts-are-on-two-clocks-now-support-dates-and-the-broadcom-licensing-squeeze-aaf)
+- [We Planted 10 Vulnerabilities to Test Free Semgrep. It Reported 3.](https://dev.to/kielltampubolon/we-planted-10-vulnerabilities-to-test-free-semgrep-it-reported-3-1k6j)
+- [Windows Server 2012 Loses Its Last Safety Net on October 13 - Here&#39;s the Actual Decision Tree](https://dev.to/endoflifeai/windows-server-2012-loses-its-last-safety-net-on-october-13-heres-the-actual-decision-tree-2f6a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
