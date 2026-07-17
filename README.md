@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways Self-Hosting Boosts Your Developer Skills](https://dev.to/merbayerp/5-ways-self-hosting-boosts-your-developer-skills-4pjm)
-- [Everything Was Green. Nothing Was Listening. — Self-Hosting SigNoz for MCP Tool-Error Traces](https://dev.to/thirumalaiboobathi_b_2b20/everything-was-green-nothing-was-listening-self-hosting-signoz-for-mcp-tool-error-traces-148p)
-- [AI Code Healer for Fixing Broken CI/CD Builds Fast](https://dev.to/geekyants/ai-code-healer-for-fixing-broken-cicd-builds-fast-cdi)
-- [How We Made Moderation Architecturally Impossible to Skip](https://dev.to/denofthives2026/how-we-made-moderation-architecturally-impossible-to-skip-7lo)
-- [Fourth challenge on DevOpsLedger](https://dev.to/b00mgr3rt/fourth-challenge-on-devopsledger-3k3a)
-- [SRE vs DevOps vs Platform Engineering: What&#39;s the Difference in 2026?](https://dev.to/devtocash/sre-vs-devops-vs-platform-engineering-whats-the-difference-in-2026-poi)
+- [Installing Apache Kafka 4.2 on Ubuntu &lpar;WSL2&rpar;: A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf)
+- [Installing Apache Kafka 4.2 on Ubuntu &lpar;WSL2&rpar;: A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf)
+- [Impact of deployment topology on rate-limiting and trust proxy](https://dev.to/rushier/impact-of-deployment-topology-on-rate-limiting-and-trust-proxy-4pfo)
+- [Your benign set should look malicious](https://dev.to/luckypipewrench/your-benign-set-should-look-malicious-pnk)
+- [A Practical Guide to API Types: REST, GraphQL, gRPC, SOAP, and WebSocket.](https://dev.to/apiyomargaret/a-practical-guide-to-api-types-rest-graphql-grpc-soap-and-websocket-850)
+- [Effective Automation Strategies for SaaS Development](https://dev.to/ravi_roy_1222f9e6b2ea51bd/effective-automation-strategies-for-saas-development-131k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
