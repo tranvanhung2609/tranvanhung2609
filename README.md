@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix PostgreSQL &#39;cannot execute CREATE TABLE in a read-only transaction&#39; Error](https://dev.to/abestdev/how-to-fix-postgresql-cannot-execute-create-table-in-a-read-only-transaction-error-3klj)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3nk4)
-- [Cómo auditar emails de upgrade en SaaS](https://dev.to/hannahdev56/como-auditar-emails-de-upgrade-en-saas-8h0)
-- [Microsoft libera el código fuente de Comic Chat, cuna de Comic Sans](https://dev.to/lu1tr0n/microsoft-libera-el-codigo-fuente-de-comic-chat-cuna-de-comic-sans-473i)
-- [GitLost: How AI Agents Can Leak Your Code Through a Single GitHub Issue](https://dev.to/techiemike/gitlost-how-ai-agents-can-leak-your-code-through-a-single-github-issue-53f0)
-- [How to Buy Snapchat Account A Step-by-Step Guide](https://dev.to/dulciefloydf1ieh/how-to-buy-snapchat-account-a-step-by-step-guide-3ljk)
+- [Self-hosting open source tools on budget VPS](https://dev.to/chasebot/self-hosting-open-source-tools-on-budget-vps-2od5)
+- [Top 10 Best Congressus to WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-congressus-to-wordpress-migration-companies-432a)
+- [Build a Production-Grade Mail Server with Mailcow &amp; Docker 🐋](https://dev.to/bytesrack/build-a-production-grade-mail-server-with-mailcow-docker-pmn)
+- [JDBC: Still the Foundation of Java Database Connectivity](https://dev.to/said_olano/jdbc-still-the-foundation-of-java-database-connectivity-bj3)
+- [Beyond Logs: Why Observability&#39;s Next Era Is Comprehension](https://dev.to/aws-builders/beyond-logs-why-observabilitys-next-era-is-comprehension-3l6)
+- [Spring Cloud: Microservices Architecture Patterns That Actually Work](https://dev.to/said_olano/spring-cloud-microservices-architecture-patterns-that-actually-work-47n1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
