@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [One blocking call freezes every request: FastAPI&#39;s def vs async def](https://dev.to/r9v/one-blocking-call-freezes-every-request-fastapis-def-vs-async-def-52lh)
-- [Commit Cron: A Simple Daily Commit Bot with GitHub Actions](https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b)
-- [I had an application taking 10 seconds to load. Turned out file ops functions on aren&#39;t real filesystem calls due S3 stream wrapper. This post brings the results of a POC that I built to demonstrate the impact of these invisible of these network calls.](https://dev.to/edpittol/i-had-an-application-taking-10-seconds-to-load-turned-out-file-ops-functions-on-arent-real-38j5)
-- [Building a Real SIEM Lab on a Mac Mini Fleet — What Actually Broke, and What I Learned Fixing It](https://dev.to/firststeptechnology/building-a-real-siem-lab-on-a-mac-mini-fleet-what-actually-broke-and-what-i-learned-fixing-it-4i50)
-- [Deploy Gemma 4 &lpar;26B&rpar; with QAT on GCE g2-standard. Uses NVIDIA L4, MCP. https://dev.to/gde/26b-gemma-4-qat-deployment-with-gce-g2](https://dev.to/atheerium/deploy-gemma-4-26b-with-qat-on-gce-g2-standard-uses-nvidia-l4-mcp-o5o)
-- [AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword](https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i)
+- [How to Fix PostgreSQL &#39;cannot execute CREATE TABLE in a read-only transaction&#39; Error](https://dev.to/abestdev/how-to-fix-postgresql-cannot-execute-create-table-in-a-read-only-transaction-error-3klj)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3nk4)
+- [Cómo auditar emails de upgrade en SaaS](https://dev.to/hannahdev56/como-auditar-emails-de-upgrade-en-saas-8h0)
+- [Microsoft libera el código fuente de Comic Chat, cuna de Comic Sans](https://dev.to/lu1tr0n/microsoft-libera-el-codigo-fuente-de-comic-chat-cuna-de-comic-sans-473i)
+- [GitLost: How AI Agents Can Leak Your Code Through a Single GitHub Issue](https://dev.to/techiemike/gitlost-how-ai-agents-can-leak-your-code-through-a-single-github-issue-53f0)
+- [How to Buy Snapchat Account A Step-by-Step Guide](https://dev.to/dulciefloydf1ieh/how-to-buy-snapchat-account-a-step-by-step-guide-3ljk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
