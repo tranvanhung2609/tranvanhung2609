@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting open source tools on budget VPS](https://dev.to/chasebot/self-hosting-open-source-tools-on-budget-vps-2od5)
-- [Top 10 Best Congressus to WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-congressus-to-wordpress-migration-companies-432a)
-- [Build a Production-Grade Mail Server with Mailcow &amp; Docker 🐋](https://dev.to/bytesrack/build-a-production-grade-mail-server-with-mailcow-docker-pmn)
-- [JDBC: Still the Foundation of Java Database Connectivity](https://dev.to/said_olano/jdbc-still-the-foundation-of-java-database-connectivity-bj3)
-- [Beyond Logs: Why Observability&#39;s Next Era Is Comprehension](https://dev.to/aws-builders/beyond-logs-why-observabilitys-next-era-is-comprehension-3l6)
-- [Spring Cloud: Microservices Architecture Patterns That Actually Work](https://dev.to/said_olano/spring-cloud-microservices-architecture-patterns-that-actually-work-47n1)
+- [5 Ways Self-Hosting Boosts Your Developer Skills](https://dev.to/merbayerp/5-ways-self-hosting-boosts-your-developer-skills-4pjm)
+- [Everything Was Green. Nothing Was Listening. — Self-Hosting SigNoz for MCP Tool-Error Traces](https://dev.to/thirumalaiboobathi_b_2b20/everything-was-green-nothing-was-listening-self-hosting-signoz-for-mcp-tool-error-traces-148p)
+- [AI Code Healer for Fixing Broken CI/CD Builds Fast](https://dev.to/geekyants/ai-code-healer-for-fixing-broken-cicd-builds-fast-cdi)
+- [How We Made Moderation Architecturally Impossible to Skip](https://dev.to/denofthives2026/how-we-made-moderation-architecturally-impossible-to-skip-7lo)
+- [Fourth challenge on DevOpsLedger](https://dev.to/b00mgr3rt/fourth-challenge-on-devopsledger-3k3a)
+- [SRE vs DevOps vs Platform Engineering: What&#39;s the Difference in 2026?](https://dev.to/devtocash/sre-vs-devops-vs-platform-engineering-whats-the-difference-in-2026-poi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
