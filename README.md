@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The EU Cyber Resilience Act Has an EOL Problem — and the Deadline Isn&#39;t the One You Think](https://dev.to/endoflifeai/the-eu-cyber-resilience-act-has-an-eol-problem-and-the-deadline-isnt-the-one-you-think-294b)
-- [Pub-Sub &lpar;SNS&rpar; &amp; Fan-out Architecture](https://dev.to/gouranga-das-khulna/pub-sub-sns-fan-out-architecture-14l5)
-- [Pub-Sub &lpar;SNS&rpar; &amp; Fan-out Architecture](https://dev.to/gouranga-das-khulna/pub-sub-sns-fan-out-architecture-14l5)
-- [There&#39;s no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6)
-- [I thought my agent needed a huge soul.md until a 52-word file worked better](https://dev.to/lars_winstand/i-thought-my-agent-needed-a-huge-soulmd-until-a-52-word-file-worked-better-l87)
-- [Flagsmith Alternative: Why Teams Switch to Rollgate](https://dev.to/domenico_giordano_e441224/flagsmith-alternative-why-teams-switch-to-rollgate-4kf1)
+- [Website Vulnerability Scanner: What It Checks and How to Read Results](https://dev.to/hkan_fgnell_322b4aba3d6/website-vulnerability-scanner-what-it-checks-and-how-to-read-results-1npk)
+- [Stop switching tabs: Managing Buildkite via MCP](https://dev.to/renato_marinho/stop-switching-tabs-managing-buildkite-via-mcp-5fcb)
+- [What Is Algo Trading Software? A Complete Beginner&#39;s Guide to Automated Trading in 2026](https://dev.to/upwork_floatinginfotech_/what-is-algo-trading-software-a-complete-beginners-guide-to-automated-trading-in-2026-1gad)
+- [Conversational AI platform evaluation beyond Gartner charts](https://dev.to/tran_tienvan_e45fc26d655/conversational-ai-platform-evaluation-beyond-gartner-charts-c3p)
+- [You fixed SPF, DKIM and DMARC and email still lands in spam. Here&#39;s why.](https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f)
+- [Stop Credential Stuffing on Login with Cloudflare WAF Rules](https://dev.to/oleksandr_kuryzhev_42873f/stop-credential-stuffing-on-login-with-cloudflare-waf-rules-2pak)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
