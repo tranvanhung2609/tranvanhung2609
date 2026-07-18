@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Installing Apache Kafka 4.2 on Ubuntu &lpar;WSL2&rpar;: A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf)
-- [Installing Apache Kafka 4.2 on Ubuntu &lpar;WSL2&rpar;: A Complete KRaft Step-by-Step Guide](https://dev.to/sanjayghosh/installing-apache-kafka-42-on-ubuntu-wsl2-a-complete-kraft-step-by-step-guide-4bmf)
-- [Impact of deployment topology on rate-limiting and trust proxy](https://dev.to/rushier/impact-of-deployment-topology-on-rate-limiting-and-trust-proxy-4pfo)
-- [Your benign set should look malicious](https://dev.to/luckypipewrench/your-benign-set-should-look-malicious-pnk)
-- [A Practical Guide to API Types: REST, GraphQL, gRPC, SOAP, and WebSocket.](https://dev.to/apiyomargaret/a-practical-guide-to-api-types-rest-graphql-grpc-soap-and-websocket-850)
-- [Effective Automation Strategies for SaaS Development](https://dev.to/ravi_roy_1222f9e6b2ea51bd/effective-automation-strategies-for-saas-development-131k)
+- [The EU Cyber Resilience Act Has an EOL Problem — and the Deadline Isn&#39;t the One You Think](https://dev.to/endoflifeai/the-eu-cyber-resilience-act-has-an-eol-problem-and-the-deadline-isnt-the-one-you-think-294b)
+- [Pub-Sub &lpar;SNS&rpar; &amp; Fan-out Architecture](https://dev.to/gouranga-das-khulna/pub-sub-sns-fan-out-architecture-14l5)
+- [Pub-Sub &lpar;SNS&rpar; &amp; Fan-out Architecture](https://dev.to/gouranga-das-khulna/pub-sub-sns-fan-out-architecture-14l5)
+- [There&#39;s no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6)
+- [I thought my agent needed a huge soul.md until a 52-word file worked better](https://dev.to/lars_winstand/i-thought-my-agent-needed-a-huge-soulmd-until-a-52-word-file-worked-better-l87)
+- [Flagsmith Alternative: Why Teams Switch to Rollgate](https://dev.to/domenico_giordano_e441224/flagsmith-alternative-why-teams-switch-to-rollgate-4kf1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
