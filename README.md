@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Website Vulnerability Scanner: What It Checks and How to Read Results](https://dev.to/hkan_fgnell_322b4aba3d6/website-vulnerability-scanner-what-it-checks-and-how-to-read-results-1npk)
-- [Stop switching tabs: Managing Buildkite via MCP](https://dev.to/renato_marinho/stop-switching-tabs-managing-buildkite-via-mcp-5fcb)
-- [What Is Algo Trading Software? A Complete Beginner&#39;s Guide to Automated Trading in 2026](https://dev.to/upwork_floatinginfotech_/what-is-algo-trading-software-a-complete-beginners-guide-to-automated-trading-in-2026-1gad)
-- [Conversational AI platform evaluation beyond Gartner charts](https://dev.to/tran_tienvan_e45fc26d655/conversational-ai-platform-evaluation-beyond-gartner-charts-c3p)
-- [You fixed SPF, DKIM and DMARC and email still lands in spam. Here&#39;s why.](https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f)
-- [Stop Credential Stuffing on Login with Cloudflare WAF Rules](https://dev.to/oleksandr_kuryzhev_42873f/stop-credential-stuffing-on-login-with-cloudflare-waf-rules-2pak)
+- [Kubernetes for Solo Developers: Stop Overthinking It &lpar;And Start Using It&rpar;](https://dev.to/le_beltagy/kubernetes-for-solo-developers-stop-overthinking-it-and-start-using-it-3m1e)
+- [SRE vs DevOps vs Platform Engineering: What&#39;s the Difference in 2026?](https://dev.to/devtocash/sre-vs-devops-vs-platform-engineering-whats-the-difference-in-2026-5h5k)
+- [GitHub Account Suspended? Protect Your Productivity &amp; Access to Your GitHub Dashboard](https://dev.to/devactivity/github-account-suspended-protect-your-productivity-access-to-your-github-dashboard-5cgm)
+- [Do you pin your base images in Dockerfile?](https://dev.to/nicolasv/do-you-pin-your-base-images-in-dockerfile-90a)
+- [Web Developer Travis McCracken on How I Use Makefiles to Manage Backend Projects](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-how-i-use-makefiles-to-manage-backend-projects-25b1)
+- [GitHub Actions Caching Strategy for Monorepos: Skipping Dependency Installation When Only Docs or Astro Marketing Changes](https://dev.to/uaslimcreate/github-actions-caching-strategy-for-monorepos-skipping-dependency-installation-when-only-docs-or-45pi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
