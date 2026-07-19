@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Vector Databases Search a Million Vectors Without Checking a Million](https://dev.to/dilip_v_p/how-vector-databases-search-a-million-vectors-without-checking-a-million-2ee1)
-- [Best Practices for Cloud-Native AI Applications](https://dev.to/ravi_roy_1222f9e6b2ea51bd/best-practices-for-cloud-native-ai-applications-1oi8)
-- [0.5 Best Website to Buy Old Telegram Accounts in Bulk &amp; PVA](https://dev.to/kaceycorreaucrvu/05-best-website-to-buy-old-telegram-accounts-in-bulk-pva-3ij9)
-- [Where to Buying Telegram Accounts in Bulk A Complete Guide 2026](https://dev.to/kaceycorreaucrvu/where-to-buying-telegram-accounts-in-bulk-a-complete-guide-2026-1a35)
-- [Best 0.4 Places to Buy Snapchat Accounts Securely Online](https://dev.to/kaceycorreaucrvu/best-04-places-to-buy-snapchat-accounts-securely-online-4ncd)
-- [I built an AI agent that watches my Kubernetes cluster &lpar;and can’t break it&rpar;](https://dev.to/emreoztoprak/i-built-an-ai-agent-that-watches-my-kubernetes-cluster-and-cant-break-it-44n7)
+- [Migrating a live IoT platform off self-hosted Kubernetes - without a single forced app update](https://dev.to/codebycinar/migrating-a-live-iot-platform-off-self-hosted-kubernetes-without-a-single-forced-app-update-1dma)
+- [I Documented All 7 Ways an AI Agent Can Die. Here is the One Fix That Stops Them All](https://dev.to/wzg0911/i-documented-all-7-ways-an-ai-agent-can-die-here-is-the-one-fix-that-stops-them-all-5b6d)
+- [Fan-out Architecture](https://dev.to/gouranga-das-khulna/fan-out-architecture-el2)
+- [Fan-out Architecture](https://dev.to/gouranga-das-khulna/fan-out-architecture-el2)
+- [Designing a Batteries-Included Observability SDK for Backend Services](https://dev.to/beefedai/designing-a-batteries-included-observability-sdk-for-backend-services-2fo7)
+- [I thought Grok subscriptions were the cheap way to run agents until the limits got weird](https://dev.to/lars_winstand/i-thought-grok-subscriptions-were-the-cheap-way-to-run-agents-until-the-limits-got-weird-1j11)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
