@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a live IoT platform off self-hosted Kubernetes - without a single forced app update](https://dev.to/codebycinar/migrating-a-live-iot-platform-off-self-hosted-kubernetes-without-a-single-forced-app-update-1dma)
-- [I Documented All 7 Ways an AI Agent Can Die. Here is the One Fix That Stops Them All](https://dev.to/wzg0911/i-documented-all-7-ways-an-ai-agent-can-die-here-is-the-one-fix-that-stops-them-all-5b6d)
-- [Fan-out Architecture](https://dev.to/gouranga-das-khulna/fan-out-architecture-el2)
-- [Fan-out Architecture](https://dev.to/gouranga-das-khulna/fan-out-architecture-el2)
-- [Designing a Batteries-Included Observability SDK for Backend Services](https://dev.to/beefedai/designing-a-batteries-included-observability-sdk-for-backend-services-2fo7)
-- [I thought Grok subscriptions were the cheap way to run agents until the limits got weird](https://dev.to/lars_winstand/i-thought-grok-subscriptions-were-the-cheap-way-to-run-agents-until-the-limits-got-weird-1j11)
+- [Deploying Docker Containers for Efficient Workflow Management](https://dev.to/chasebot/deploying-docker-containers-for-efficient-workflow-management-4e5k)
+- [Paid Surveys in 2026: A Smart Way to Earn Extra Cash Online Without Special Skills](https://dev.to/robert8814/paid-surveys-in-2026-a-smart-way-to-earn-extra-cash-online-without-special-skills-11n7)
+- [Maximize Your Career Potential with Comprehensive Insights from DevOps Training at Marathahalli in 2026](https://dev.to/pratik_kanzariya_fd2ad510/maximize-your-career-potential-with-comprehensive-insights-from-devops-training-at-marathahalli-in-5cgp)
+- [Revolutionize Your Skill Set: The Vital Role of DevOps Training at Marathahalli in 2026](https://dev.to/lm_pg_ae695f1a4c717f/revolutionize-your-skill-set-the-vital-role-of-devops-training-at-marathahalli-in-2026-4353)
+- [Uplift Your Expertise: Exploring Cutting-Edge DevOps Training at Marathahalli for Aspiring Professionals in 2026](https://dev.to/lm_pg_ae695f1a4c717f/uplift-your-expertise-exploring-cutting-edge-devops-training-at-marathahalli-for-aspiring-2g2j)
+- [Elevate Your Technical Prowess: Why Engaging in DevOps Training at Marathahalli is Essential for 2026 Success](https://dev.to/h2_lmt_318f611464212f9336/elevate-your-technical-prowess-why-engaging-in-devops-training-at-marathahalli-is-essential-for-3b00)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
