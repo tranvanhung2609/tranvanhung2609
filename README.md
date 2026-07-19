@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Sending Gmail from behind China&#39;s Great Firewall — six attempts that failed](https://dev.to/baolin_tikool_43da6f2b56f/sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed-1khf)
-- [IP Geolocation in your app without a local database: free REST API with MaxMind GeoLite2](https://dev.to/grenzfrei/ip-geolocation-in-your-app-without-a-local-database-free-rest-api-with-maxmind-geolite2-429i)
-- [Web Developer Travis McCracken on Zero Downtime Deploys in Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-zero-downtime-deploys-in-kubernetes-18o1)
-- [What Happens When an Ordinary Girl Decides to Document Her Journey to Becoming a Java Full Stack Developer?](https://dev.to/codebykumudha/what-happens-when-an-ordinary-girl-decides-to-document-her-journey-to-becoming-a-java-full-stack-48dh)
-- [MCP &lpar;Model Context Protocol&rpar; Explained: The Future of AI Integrations Every Developer Should Understand](https://dev.to/yash_sonawane25/mcp-model-context-protocol-explained-the-future-of-ai-integrations-every-developer-should-3729)
-- [I self-hosted SigNoz and fell in love with distributed tracing](https://dev.to/akshay_mehta_d11430adc73b/i-self-hosted-signoz-and-fell-in-love-with-distributed-tracing-2nnc)
+- [How to Install Java 26 on Windows 11 &lpar;Quick JDK Setup Guide&rpar; ⚡](https://dev.to/codesetuplab/how-to-install-java-26-on-windows-11-quick-jdk-setup-guide-345b)
+- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment &lpar;Setup Guide&rpar;](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h)
+- [Does Prisma respect Supabase RLS? No — here&#39;s why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53)
+- [12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week](https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d)
+- [Agentic AI Is Changing How Developers Write Code — Here&#39;s What You Need to Know](https://dev.to/haroonsaeed/agentic-ai-is-changing-how-developers-write-code-heres-what-you-need-to-know-3ldg)
+- [Building Logging V2 for Ticketon](https://dev.to/thelukez/building-logging-v2-for-ticketon-d60)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
