@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Docker Containers for Efficient Workflow Management](https://dev.to/chasebot/deploying-docker-containers-for-efficient-workflow-management-4e5k)
-- [Paid Surveys in 2026: A Smart Way to Earn Extra Cash Online Without Special Skills](https://dev.to/robert8814/paid-surveys-in-2026-a-smart-way-to-earn-extra-cash-online-without-special-skills-11n7)
-- [Maximize Your Career Potential with Comprehensive Insights from DevOps Training at Marathahalli in 2026](https://dev.to/pratik_kanzariya_fd2ad510/maximize-your-career-potential-with-comprehensive-insights-from-devops-training-at-marathahalli-in-5cgp)
-- [Revolutionize Your Skill Set: The Vital Role of DevOps Training at Marathahalli in 2026](https://dev.to/lm_pg_ae695f1a4c717f/revolutionize-your-skill-set-the-vital-role-of-devops-training-at-marathahalli-in-2026-4353)
-- [Uplift Your Expertise: Exploring Cutting-Edge DevOps Training at Marathahalli for Aspiring Professionals in 2026](https://dev.to/lm_pg_ae695f1a4c717f/uplift-your-expertise-exploring-cutting-edge-devops-training-at-marathahalli-for-aspiring-2g2j)
-- [Elevate Your Technical Prowess: Why Engaging in DevOps Training at Marathahalli is Essential for 2026 Success](https://dev.to/h2_lmt_318f611464212f9336/elevate-your-technical-prowess-why-engaging-in-devops-training-at-marathahalli-is-essential-for-3b00)
+- [Sending Gmail from behind China&#39;s Great Firewall — six attempts that failed](https://dev.to/baolin_tikool_43da6f2b56f/sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed-1khf)
+- [IP Geolocation in your app without a local database: free REST API with MaxMind GeoLite2](https://dev.to/grenzfrei/ip-geolocation-in-your-app-without-a-local-database-free-rest-api-with-maxmind-geolite2-429i)
+- [Web Developer Travis McCracken on Zero Downtime Deploys in Kubernetes](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-zero-downtime-deploys-in-kubernetes-18o1)
+- [What Happens When an Ordinary Girl Decides to Document Her Journey to Becoming a Java Full Stack Developer?](https://dev.to/codebykumudha/what-happens-when-an-ordinary-girl-decides-to-document-her-journey-to-becoming-a-java-full-stack-48dh)
+- [MCP &lpar;Model Context Protocol&rpar; Explained: The Future of AI Integrations Every Developer Should Understand](https://dev.to/yash_sonawane25/mcp-model-context-protocol-explained-the-future-of-ai-integrations-every-developer-should-3729)
+- [I self-hosted SigNoz and fell in love with distributed tracing](https://dev.to/akshay_mehta_d11430adc73b/i-self-hosted-signoz-and-fell-in-love-with-distributed-tracing-2nnc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
