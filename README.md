@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [⚰️Spring Boot Postmortem#5](https://dev.to/codelykagirl/spring-boot-postmortem5-2d7g)
-- [Tactical Timer For Beginners: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/tactical-timer-for-beginners-what-we-learned-building-random-tactical-timer-2elb)
-- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-1kle)
-- [⚰️Spring Boot Postmortem#4](https://dev.to/codelykagirl/spring-boot-postmortem4-aed)
-- [The Complete DevOps Roadmap: Go from Zero to Engineer in 10 Months](https://dev.to/ilyas_elaissi/the-complete-devops-roadmap-go-from-zero-to-engineer-in-10-months-10eo)
-- [Cutting Elasticsearch log storage roughly in half without changing queries](https://dev.to/dorlevi/cutting-elasticsearch-log-storage-roughly-in-half-without-changing-queries-3e2g)
+- [Scanning AWS Lambda for Vulnerabilities with Amazon Inspector](https://dev.to/muhammad-nadeem/scanning-aws-lambda-for-vulnerabilities-with-amazon-inspector-305m)
+- [Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads](https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7)
+- [Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay](https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l)
+- [🗑️ Kafka Keeps Data Longer Than retention.ms](https://dev.to/code_with_kyryl/kafka-keeps-data-longer-than-retentionms-16ak)
+- [PowerToys Hosts File Editor alternative &lpar;when you need more than an edit box&rpar;](https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3)
+- [We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud](https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
