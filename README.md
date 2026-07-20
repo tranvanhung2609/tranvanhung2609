@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CLAIIM: Governing AI Agents Before They Act](https://dev.to/sirinivask/claiim-governing-ai-agents-before-they-act-32b7)
-- [XVectra renforce son positionnement dans l’écosystème financier numérique](https://dev.to/xvectrareview/xvectra-renforce-son-positionnement-dans-lecosysteme-financier-numerique-4e8f)
-- [GitHub vs GitLab: Which One Should You Actually Use in 2026?](https://dev.to/hamidrazadev/github-vs-gitlab-which-one-should-you-actually-use-in-2026-2emb)
-- [Building Production AI Agents on the JVM: A Practical Guide to Java + Spring AI in 2026](https://dev.to/hrsvd/building-production-ai-agents-on-the-jvm-a-practical-guide-to-java-spring-ai-in-2026-4997)
-- [Whose ASN Goes on Your Leased IPv4 Prefix?](https://dev.to/kohanevich/whose-asn-goes-on-your-leased-ipv4-prefix-1l0h)
-- [Method-Level Security in Spring Security — How @PreAuthorize Actually Works Inside](https://dev.to/piyushsingh_dev/method-level-security-in-spring-security-how-preauthorize-actually-works-inside-7k)
+- [⚰️Spring Boot Postmortem#5](https://dev.to/codelykagirl/spring-boot-postmortem5-2d7g)
+- [Tactical Timer For Beginners: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/tactical-timer-for-beginners-what-we-learned-building-random-tactical-timer-2elb)
+- [Web Developer Travis McCracken on Building a Developer-Facing API in Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-developer-facing-api-in-go-1kle)
+- [⚰️Spring Boot Postmortem#4](https://dev.to/codelykagirl/spring-boot-postmortem4-aed)
+- [The Complete DevOps Roadmap: Go from Zero to Engineer in 10 Months](https://dev.to/ilyas_elaissi/the-complete-devops-roadmap-go-from-zero-to-engineer-in-10-months-10eo)
+- [Cutting Elasticsearch log storage roughly in half without changing queries](https://dev.to/dorlevi/cutting-elasticsearch-log-storage-roughly-in-half-without-changing-queries-3e2g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
