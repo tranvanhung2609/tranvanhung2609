@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Java 26 on Windows 11 &lpar;Quick JDK Setup Guide&rpar; ⚡](https://dev.to/codesetuplab/how-to-install-java-26-on-windows-11-quick-jdk-setup-guide-345b)
-- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment &lpar;Setup Guide&rpar;](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h)
-- [Does Prisma respect Supabase RLS? No — here&#39;s why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53)
-- [12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week](https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d)
-- [Agentic AI Is Changing How Developers Write Code — Here&#39;s What You Need to Know](https://dev.to/haroonsaeed/agentic-ai-is-changing-how-developers-write-code-heres-what-you-need-to-know-3ldg)
-- [Building Logging V2 for Ticketon](https://dev.to/thelukez/building-logging-v2-for-ticketon-d60)
+- [Open-Source AIOps, Finally Someone Built It](https://dev.to/databufflabs/open-source-aiops-finally-someone-built-it-55l7)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3h6o)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3h6o)
+- [API Design: REST vs GraphQL vs gRPC, Versioning, Idempotency, and Errors](https://dev.to/roni_das_b1b76c5ee6583027/api-design-rest-vs-graphql-vs-grpc-versioning-idempotency-and-errors-7i4)
+- [Replay Windows for Email Change Tokens](https://dev.to/kevindev27/replay-windows-for-email-change-tokens-1fm5)
+- [CI/CD Local Runner trên Laptop AI Intel Core Ultra 5 và Snapdragon X](https://dev.to/hungphatlaptop/cicd-local-runner-tren-laptop-ai-intel-core-ultra-5-va-snapdragon-x-bjh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
