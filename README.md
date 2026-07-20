@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source AIOps, Finally Someone Built It](https://dev.to/databufflabs/open-source-aiops-finally-someone-built-it-55l7)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3h6o)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-3h6o)
-- [API Design: REST vs GraphQL vs gRPC, Versioning, Idempotency, and Errors](https://dev.to/roni_das_b1b76c5ee6583027/api-design-rest-vs-graphql-vs-grpc-versioning-idempotency-and-errors-7i4)
-- [Replay Windows for Email Change Tokens](https://dev.to/kevindev27/replay-windows-for-email-change-tokens-1fm5)
-- [CI/CD Local Runner trên Laptop AI Intel Core Ultra 5 và Snapdragon X](https://dev.to/hungphatlaptop/cicd-local-runner-tren-laptop-ai-intel-core-ultra-5-va-snapdragon-x-bjh)
+- [CLAIIM: Governing AI Agents Before They Act](https://dev.to/sirinivask/claiim-governing-ai-agents-before-they-act-32b7)
+- [XVectra renforce son positionnement dans l’écosystème financier numérique](https://dev.to/xvectrareview/xvectra-renforce-son-positionnement-dans-lecosysteme-financier-numerique-4e8f)
+- [GitHub vs GitLab: Which One Should You Actually Use in 2026?](https://dev.to/hamidrazadev/github-vs-gitlab-which-one-should-you-actually-use-in-2026-2emb)
+- [Building Production AI Agents on the JVM: A Practical Guide to Java + Spring AI in 2026](https://dev.to/hrsvd/building-production-ai-agents-on-the-jvm-a-practical-guide-to-java-spring-ai-in-2026-4997)
+- [Whose ASN Goes on Your Leased IPv4 Prefix?](https://dev.to/kohanevich/whose-asn-goes-on-your-leased-ipv4-prefix-1l0h)
+- [Method-Level Security in Spring Security — How @PreAuthorize Actually Works Inside](https://dev.to/piyushsingh_dev/method-level-security-in-spring-security-how-preauthorize-actually-works-inside-7k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
