@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Scanning AWS Lambda for Vulnerabilities with Amazon Inspector](https://dev.to/muhammad-nadeem/scanning-aws-lambda-for-vulnerabilities-with-amazon-inspector-305m)
-- [Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads](https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7)
-- [Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay](https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l)
-- [🗑️ Kafka Keeps Data Longer Than retention.ms](https://dev.to/code_with_kyryl/kafka-keeps-data-longer-than-retentionms-16ak)
-- [PowerToys Hosts File Editor alternative &lpar;when you need more than an edit box&rpar;](https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3)
-- [We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud](https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip)
+- [pgwd 1.0: Cron Exit Codes for PostgreSQL Connection Alerts](https://dev.to/hrodrig/pgwd-10-cron-exit-codes-for-postgresql-connection-alerts-n3)
+- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8)
+- [Stop Re-Explaining Your Business to AI. Get a Partner with Total Recall.](https://dev.to/jerry_ballew_9add5e48965b/stop-re-explaining-your-business-to-ai-get-a-partner-with-total-recall-ol4)
+- [Every AWS project starts with copy-pasting last repo&#39;s Terraform. I built a generator instead.](https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg)
+- [Kubernetes Health Probes: Liveness, Readiness, and Startup Explained](https://dev.to/toothbrush/kubernetes-health-probes-liveness-readiness-and-startup-explained-5app)
+- [Writing a million-row .xlsx from Dart without running out of memory](https://dev.to/yusufihsangorgel/writing-a-million-row-xlsx-from-dart-without-running-out-of-memory-1672)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
