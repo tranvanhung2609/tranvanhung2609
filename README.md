@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [pgwd 1.0: Cron Exit Codes for PostgreSQL Connection Alerts](https://dev.to/hrodrig/pgwd-10-cron-exit-codes-for-postgresql-connection-alerts-n3)
-- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8)
-- [Stop Re-Explaining Your Business to AI. Get a Partner with Total Recall.](https://dev.to/jerry_ballew_9add5e48965b/stop-re-explaining-your-business-to-ai-get-a-partner-with-total-recall-ol4)
-- [Every AWS project starts with copy-pasting last repo&#39;s Terraform. I built a generator instead.](https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg)
-- [Kubernetes Health Probes: Liveness, Readiness, and Startup Explained](https://dev.to/toothbrush/kubernetes-health-probes-liveness-readiness-and-startup-explained-5app)
-- [Writing a million-row .xlsx from Dart without running out of memory](https://dev.to/yusufihsangorgel/writing-a-million-row-xlsx-from-dart-without-running-out-of-memory-1672)
+- [The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026](https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-4ank)
+- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
+- [Making a Service Survive an Availability Zone Outage — and Proving It for $0](https://dev.to/pradeep_kandepaneni/making-a-service-survive-an-availability-zone-outage-and-proving-it-for-0-565h)
+- [Clean up Docker images that are taking up space](https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem)
+- [Managing Environment Variables and Secrets](https://dev.to/moose978/managing-environment-variables-and-secrets-342f)
+- [Setting Up Docker for Local Development](https://dev.to/moose978/setting-up-docker-for-local-development-3n4e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
