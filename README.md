@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026](https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-4ank)
-- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
-- [Making a Service Survive an Availability Zone Outage — and Proving It for $0](https://dev.to/pradeep_kandepaneni/making-a-service-survive-an-availability-zone-outage-and-proving-it-for-0-565h)
-- [Clean up Docker images that are taking up space](https://dev.to/thomasbnt/clean-up-docker-images-that-are-taking-up-space-2oem)
-- [Managing Environment Variables and Secrets](https://dev.to/moose978/managing-environment-variables-and-secrets-342f)
-- [Setting Up Docker for Local Development](https://dev.to/moose978/setting-up-docker-for-local-development-3n4e)
+- [How to write incident status updates that build trust](https://dev.to/slima4/how-to-write-incident-status-updates-that-build-trust-7d4)
+- [Alert Fatigue: The Silent Productivity Killer](https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-105g)
+- [How I Use AI to Write Better Changelogs &lpar;With Examples&rpar;](https://dev.to/draftkit/how-i-use-ai-to-write-better-changelogs-with-examples-15l1)
+- [Why Modern CI/CD Needs Self-Healing Resilience: Moving Beyond &quot;Re-run Failed Jobs&quot;](https://dev.to/foldedodin/why-modern-cicd-needs-self-healing-resilience-moving-beyond-re-run-failed-jobs-38ld)
+- [Building Go CLIs with Cobra: a practical guide](https://dev.to/ferztyle/building-go-clis-with-cobra-a-practical-guide-40fi)
+- [Why Reviewing IAM Policies One at a Time Misses the Real Risk](https://dev.to/shieldlyio/why-reviewing-iam-policies-one-at-a-time-misses-the-real-risk-4nh2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
