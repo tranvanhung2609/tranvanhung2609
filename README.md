@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to write incident status updates that build trust](https://dev.to/slima4/how-to-write-incident-status-updates-that-build-trust-7d4)
-- [Alert Fatigue: The Silent Productivity Killer](https://dev.to/samson_tanimawo/alert-fatigue-the-silent-productivity-killer-105g)
-- [How I Use AI to Write Better Changelogs &lpar;With Examples&rpar;](https://dev.to/draftkit/how-i-use-ai-to-write-better-changelogs-with-examples-15l1)
-- [Why Modern CI/CD Needs Self-Healing Resilience: Moving Beyond &quot;Re-run Failed Jobs&quot;](https://dev.to/foldedodin/why-modern-cicd-needs-self-healing-resilience-moving-beyond-re-run-failed-jobs-38ld)
-- [Building Go CLIs with Cobra: a practical guide](https://dev.to/ferztyle/building-go-clis-with-cobra-a-practical-guide-40fi)
-- [Why Reviewing IAM Policies One at a Time Misses the Real Risk](https://dev.to/shieldlyio/why-reviewing-iam-policies-one-at-a-time-misses-the-real-risk-4nh2)
+- [The First Endpoint Is Easy. The Lifecycle Is the Real Backend Work](https://dev.to/buildbasekit/the-first-endpoint-is-easy-the-lifecycle-is-the-real-backend-work-3p3l)
+- [DEVOPS](https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi)
+- [Benchmarking API Rate Limiters at 35k+ RPS: Nginx vs. Python vs. Rust](https://dev.to/__mr__/benchmarking-api-rate-limiters-at-35k-rps-nginx-vs-python-vs-rust-3i5a)
+- [When Every Zstandard Library Failed on Android, I Built My Own](https://dev.to/mbobiosio/when-every-zstandard-library-failed-on-android-i-built-my-own-5glm)
+- [Automatisierte Wertermittlung und digitale Prozesse im modernen KFZ-Ankauf](https://dev.to/shekh_kbir_1b42dd2dfa2d69/automatisierte-wertermittlung-und-digitale-prozesse-im-modernen-kfz-ankauf-o73)
+- [AI&#39;s Guide to Building a Polybar: It&#39;s Complicated &lpar;But I Did It&rpar;](https://dev.to/electra-ai/ais-guide-to-building-a-polybar-its-complicated-but-i-did-it-115h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
