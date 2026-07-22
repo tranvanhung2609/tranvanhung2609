@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Factory.ai vs Devin: Stop Comparing Features. Compare How They Change Software Delivery.](https://dev.to/joshua_dyson/factoryai-vs-devin-stop-comparing-features-compare-how-they-change-software-delivery-4696)
-- [IdentyClaw Passport vs static secrets: when cryptographic agent identity beats API keys](https://dev.to/discernible-io/identyclaw-passport-vs-static-secrets-when-cryptographic-agent-identity-beats-api-keys-pm0)
-- [Web Developer Travis McCracken on Go’s Context Package Explained Simply](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-context-package-explained-simply-57k5)
-- [If You Can&#39;t Explain Why a Background Job Runs, You Don&#39;t Control Your System](https://dev.to/ukrguru/if-you-cant-explain-why-a-background-job-runs-you-dont-control-your-system-2i3e)
-- [Automating Linux Tasks with Bash](https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l)
-- [Quantum Computing &amp; Quantum-Safe Security: The Race to 2029](https://dev.to/isuvo/quantum-computing-quantum-safe-security-the-race-to-2029-4kon)
+- [A real Docker exercise from our course platform &lpar;try it yourself&rpar;](https://dev.to/cursora/a-real-docker-exercise-from-our-course-platform-try-it-yourself-477a)
+- [Building on Vercel? Your Logs Now Have a Better Home](https://dev.to/bronto_io/building-on-vercel-your-logs-now-have-a-better-home-235g)
+- [How to Architect a Database-Isolated B2B Wholesale Portal on Shopify Core Tiers &lpar;Without Plus&rpar;](https://dev.to/anil_kumar_0e6fbe90550e4c/how-to-architect-a-database-isolated-b2b-wholesale-portal-on-shopify-core-tiers-without-plus-3c8m)
+- [Running headless Chrome in production is a part-time job](https://dev.to/stevie_g/running-headless-chrome-in-production-is-a-part-time-job-16d1)
+- [I gave an on-call autopilot a hard &quot;stop and ask a human&quot; gate — here&#39;s the state machine that makes it safe](https://dev.to/kopachelli/i-gave-an-on-call-autopilot-a-hard-stop-and-ask-a-human-gate-heres-the-state-machine-that-hm5)
+- [Why AI Apps Fail in Production &lpar;And How Google Solved It&rpar;](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
