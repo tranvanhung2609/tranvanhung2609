@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The First Endpoint Is Easy. The Lifecycle Is the Real Backend Work](https://dev.to/buildbasekit/the-first-endpoint-is-easy-the-lifecycle-is-the-real-backend-work-3p3l)
-- [DEVOPS](https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi)
-- [Benchmarking API Rate Limiters at 35k+ RPS: Nginx vs. Python vs. Rust](https://dev.to/__mr__/benchmarking-api-rate-limiters-at-35k-rps-nginx-vs-python-vs-rust-3i5a)
-- [When Every Zstandard Library Failed on Android, I Built My Own](https://dev.to/mbobiosio/when-every-zstandard-library-failed-on-android-i-built-my-own-5glm)
-- [Automatisierte Wertermittlung und digitale Prozesse im modernen KFZ-Ankauf](https://dev.to/shekh_kbir_1b42dd2dfa2d69/automatisierte-wertermittlung-und-digitale-prozesse-im-modernen-kfz-ankauf-o73)
-- [AI&#39;s Guide to Building a Polybar: It&#39;s Complicated &lpar;But I Did It&rpar;](https://dev.to/electra-ai/ais-guide-to-building-a-polybar-its-complicated-but-i-did-it-115h)
+- [60% of SREs Don&#39;t Trust AI Agents Enough to Deploy Them. Here&#39;s How to Build the Trust Layer](https://dev.to/ajaydevineni/60-of-sres-dont-trust-ai-agents-enough-to-deploy-them-heres-how-to-build-the-trust-layer-1d3o)
+- [How we built the delivery evidence chain](https://dev.to/wagahai_dd0eeb5e9646/how-we-built-the-delivery-evidence-chain-3dd1)
+- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da)
+- [Melhoria Contínua de APIs: Contratos, Observabilidade e Testes que Funcionam](https://dev.to/dev-freelancer/melhoria-continua-de-apis-contratos-observabilidade-e-testes-que-funcionam-3llj)
+- [Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)
+- [SQL: Sub Queries](https://dev.to/yuripeixinho/sql-sub-queries-18c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
