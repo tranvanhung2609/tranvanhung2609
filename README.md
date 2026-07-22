@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [60% of SREs Don&#39;t Trust AI Agents Enough to Deploy Them. Here&#39;s How to Build the Trust Layer](https://dev.to/ajaydevineni/60-of-sres-dont-trust-ai-agents-enough-to-deploy-them-heres-how-to-build-the-trust-layer-1d3o)
-- [How we built the delivery evidence chain](https://dev.to/wagahai_dd0eeb5e9646/how-we-built-the-delivery-evidence-chain-3dd1)
-- [The OpenAI/Hugging Face Incident is a Wake-Up Call for Model Eval Security](https://dev.to/ashraf_chowdury09/the-openaihugging-face-incident-is-a-wake-up-call-for-model-eval-security-12da)
-- [Melhoria Contínua de APIs: Contratos, Observabilidade e Testes que Funcionam](https://dev.to/dev-freelancer/melhoria-continua-de-apis-contratos-observabilidade-e-testes-que-funcionam-3llj)
-- [Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)
-- [SQL: Sub Queries](https://dev.to/yuripeixinho/sql-sub-queries-18c)
+- [Change Data Capture in 2026: Supabase Webhooks, Prisma Pulse, and the &quot;Thundering Herd&quot; Problem](https://dev.to/instawebhook/change-data-capture-in-2026-supabase-webhooks-prisma-pulse-and-the-thundering-herd-problem-4f9a)
+- [Treating AI Operators As Untrusted Kubernetes Components](https://dev.to/abhinav2001/treating-ai-operators-as-untrusted-kubernetes-components-45oe)
+- [Data Expiry &amp; Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j)
+- [Bringing Convention over Configuration to Fastify with @syora/fastify](https://dev.to/domutala/bringing-convention-over-configuration-to-fastify-with-syorafastify-5bp0)
+- [95% of AI Agent Pilots Deliver Zero ROI. Here&#39;s What Actually Works in Production](https://dev.to/isuvo/95-of-ai-agent-pilots-deliver-zero-roi-heres-what-actually-works-in-production-209d)
+- [[Homelab AI Project] Ep.6 - Aiming for a 0MB Memory Footprint on Frontend Servers with Astro and React Islands](https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep6-aiming-for-a-0mb-memory-footprint-on-frontend-servers-with-astro-and-h0n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
