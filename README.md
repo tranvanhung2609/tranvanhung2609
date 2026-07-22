@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Change Data Capture in 2026: Supabase Webhooks, Prisma Pulse, and the &quot;Thundering Herd&quot; Problem](https://dev.to/instawebhook/change-data-capture-in-2026-supabase-webhooks-prisma-pulse-and-the-thundering-herd-problem-4f9a)
-- [Treating AI Operators As Untrusted Kubernetes Components](https://dev.to/abhinav2001/treating-ai-operators-as-untrusted-kubernetes-components-45oe)
-- [Data Expiry &amp; Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j)
-- [Bringing Convention over Configuration to Fastify with @syora/fastify](https://dev.to/domutala/bringing-convention-over-configuration-to-fastify-with-syorafastify-5bp0)
-- [95% of AI Agent Pilots Deliver Zero ROI. Here&#39;s What Actually Works in Production](https://dev.to/isuvo/95-of-ai-agent-pilots-deliver-zero-roi-heres-what-actually-works-in-production-209d)
-- [[Homelab AI Project] Ep.6 - Aiming for a 0MB Memory Footprint on Frontend Servers with Astro and React Islands](https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep6-aiming-for-a-0mb-memory-footprint-on-frontend-servers-with-astro-and-h0n)
+- [Factory.ai vs Devin: Stop Comparing Features. Compare How They Change Software Delivery.](https://dev.to/joshua_dyson/factoryai-vs-devin-stop-comparing-features-compare-how-they-change-software-delivery-4696)
+- [IdentyClaw Passport vs static secrets: when cryptographic agent identity beats API keys](https://dev.to/discernible-io/identyclaw-passport-vs-static-secrets-when-cryptographic-agent-identity-beats-api-keys-pm0)
+- [Web Developer Travis McCracken on Go’s Context Package Explained Simply](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-context-package-explained-simply-57k5)
+- [If You Can&#39;t Explain Why a Background Job Runs, You Don&#39;t Control Your System](https://dev.to/ukrguru/if-you-cant-explain-why-a-background-job-runs-you-dont-control-your-system-2i3e)
+- [Automating Linux Tasks with Bash](https://dev.to/rubi_cloud/automating-linux-tasks-with-bash-192l)
+- [Quantum Computing &amp; Quantum-Safe Security: The Race to 2029](https://dev.to/isuvo/quantum-computing-quantum-safe-security-the-race-to-2029-4kon)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
