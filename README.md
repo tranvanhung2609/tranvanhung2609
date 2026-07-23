@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A real Docker exercise from our course platform &lpar;try it yourself&rpar;](https://dev.to/cursora/a-real-docker-exercise-from-our-course-platform-try-it-yourself-477a)
-- [Building on Vercel? Your Logs Now Have a Better Home](https://dev.to/bronto_io/building-on-vercel-your-logs-now-have-a-better-home-235g)
-- [How to Architect a Database-Isolated B2B Wholesale Portal on Shopify Core Tiers &lpar;Without Plus&rpar;](https://dev.to/anil_kumar_0e6fbe90550e4c/how-to-architect-a-database-isolated-b2b-wholesale-portal-on-shopify-core-tiers-without-plus-3c8m)
-- [Running headless Chrome in production is a part-time job](https://dev.to/stevie_g/running-headless-chrome-in-production-is-a-part-time-job-16d1)
-- [I gave an on-call autopilot a hard &quot;stop and ask a human&quot; gate — here&#39;s the state machine that makes it safe](https://dev.to/kopachelli/i-gave-an-on-call-autopilot-a-hard-stop-and-ask-a-human-gate-heres-the-state-machine-that-hm5)
-- [Why AI Apps Fail in Production &lpar;And How Google Solved It&rpar;](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m)
+- [Gnosis Chain RPC: Chain Settings, Provider Selection, and Best Practices](https://dev.to/zhuoxin_sun_f2354597a82c2/gnosis-chain-rpc-chain-settings-provider-selection-and-best-practices-191b)
+- [Flexible &amp; Cost-Effective RPC Solutions for Web3 Teams](https://dev.to/zhuoxin_sun_f2354597a82c2/flexible-cost-effective-rpc-solutions-for-web3-teams-1ed3)
+- [BNB Chain Testnet: Developer Setup, Faucet, and RPC Endpoints](https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-chain-testnet-developer-setup-faucet-and-rpc-endpoints-4co3)
+- [BNB Smart Chain Testnet RPC Endpoints, Chain Settings &amp; Faucet](https://dev.to/zhuoxin_sun_f2354597a82c2/bnb-smart-chain-testnet-rpc-endpoints-chain-settings-faucet-3dho)
+- [Bittensor Node: Requirements, Setup, and When to Use Managed RPC](https://dev.to/zhuoxin_sun_f2354597a82c2/bittensor-node-requirements-setup-and-when-to-use-managed-rpc-4i9d)
+- [Topobuilder brings a cPanel website into an AWS multi-region containerized application with an HAProxy load balancer](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
