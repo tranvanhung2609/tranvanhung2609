@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Automation was dead for 3 days with zero errors — a broken launchd plist, and the &quot;monitor of the monitor&quot; that died too](https://dev.to/bigkijimon/automation-was-dead-for-3-days-with-zero-errors-a-broken-launchd-plist-and-the-monitor-of-the-1799)
-- [Observability for Serverless: What&#39;s Different](https://dev.to/samson_tanimawo/observability-for-serverless-whats-different-ibm)
-- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
-- [Issue In, PR Out: maestro Orchestrates Claude Agents for GitHub &amp; Linear](https://dev.to/rluisr/issue-in-pr-out-maestro-orchestrates-claude-agents-for-github-linear-2l1n)
-- [I Looked Under the Hood of a Fintech Backend and Found Debits That Did Not Match Credits](https://dev.to/peacemelodi/i-looked-under-the-hood-of-a-fintech-backend-and-found-debits-that-did-not-match-credits-1k3c)
-- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-2o6l)
+- [New Vulnerability &#39;Rogue Agent&#39; Highlights AI Agent Security Risks in Cloud Platforms](https://dev.to/isuvo/new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms-9j6)
+- [Autonomous agents are the easy part](https://dev.to/martinschenk/autonomous-agents-are-the-easy-part-4b8m)
+- [What Really Happens When PostgreSQL Runs Your Query?](https://dev.to/r4hul/what-really-happens-when-postgresql-runs-your-query-3829)
+- [I let an AI test my app 55 times in a week. Here&#39;s what it broke &lpar;and what I broke&rpar;.](https://dev.to/lxcario/i-let-an-ai-test-my-app-55-times-in-a-week-heres-what-it-broke-and-what-i-broke-51eh)
+- [Introducing Cache Response Rules](https://dev.to/rasne/introducing-cache-response-rules-bij)
+- [How I Built a Universal Cross-Device Clipboard with Zero Dependencies](https://dev.to/odinlog/how-i-built-a-universal-cross-device-clipboard-with-zero-dependencies-1425)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
