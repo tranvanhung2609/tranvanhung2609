@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing Your Tech Edge: The Unmatched Benefits of DevOps Training at Marathahalli in 2026](https://dev.to/lm_pg_ae695f1a4c717f/enhancing-your-tech-edge-the-unmatched-benefits-of-devops-training-at-marathahalli-in-2026-27a9)
-- [Achieve New Heights: A Comprehensive Guide to DevOps Training at Marathahalli for Future Leaders in 2026](https://dev.to/lm_pg_ae695f1a4c717f/achieve-new-heights-a-comprehensive-guide-to-devops-training-at-marathahalli-for-future-leaders-in-128b)
-- [Unleashing Innovation: Why Choosing DevOps Training at Marathahalli in 2026 is Your Smartest Move](https://dev.to/h2_lmt_318f611464212f9336/unleashing-innovation-why-choosing-devops-training-at-marathahalli-in-2026-is-your-smartest-move-enk)
-- [Maximizing Career Prospects: The Essential Components of DevOps Training at Marathahalli](https://dev.to/h2_lmt_318f611464212f9336/maximizing-career-prospects-the-essential-components-of-devops-training-at-marathahalli-599p)
-- [Revolutionizing Your Skills: The Transformative Outcomes of DevOps Training at Marathahalli for Future Innovators](https://dev.to/lmt_new_5ff6b33c7/revolutionizing-your-skills-the-transformative-outcomes-of-devops-training-at-marathahalli-for-41ll)
-- [KYBCR Exchange &lpar;Kyberon Core Group&rpar; Enhances Platform Reliability with Intelligent Management Frameworks](https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-enhances-platform-reliability-with-intelligent-management-lmo)
+- [Automation was dead for 3 days with zero errors — a broken launchd plist, and the &quot;monitor of the monitor&quot; that died too](https://dev.to/bigkijimon/automation-was-dead-for-3-days-with-zero-errors-a-broken-launchd-plist-and-the-monitor-of-the-1799)
+- [Observability for Serverless: What&#39;s Different](https://dev.to/samson_tanimawo/observability-for-serverless-whats-different-ibm)
+- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
+- [Issue In, PR Out: maestro Orchestrates Claude Agents for GitHub &amp; Linear](https://dev.to/rluisr/issue-in-pr-out-maestro-orchestrates-claude-agents-for-github-linear-2l1n)
+- [I Looked Under the Hood of a Fintech Backend and Found Debits That Did Not Match Credits](https://dev.to/peacemelodi/i-looked-under-the-hood-of-a-fintech-backend-and-found-debits-that-did-not-match-credits-1k3c)
+- [Web Developer Travis McCracken on The Cost of Complexity in Backend Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-cost-of-complexity-in-backend-architecture-2o6l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
