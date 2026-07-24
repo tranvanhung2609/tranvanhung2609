@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Treat Retrieved Content as Data, Not Instructions](https://dev.to/_9de8b28cd0a409b80cfdc/treat-retrieved-content-as-data-not-instructions-alj)
-- [ColdFusion CAR Archive Build Failures: The cfusion/packages Directory Bug and Its Fix](https://dev.to/deepak_sir__/coldfusion-car-archive-build-failures-the-cfusionpackages-directory-bug-and-its-fix-1fk3)
-- [How I Improved Code Quality with AI and Static Analysis &lpar;SonarQube Cloud + MCP&rpar;](https://dev.to/sixset/how-i-improved-code-quality-with-ai-and-static-analysis-sonarqube-cloud-mcp-16c3)
-- [82% wasn&#39;t good enough. Not for a bank.](https://dev.to/saud_siraj_09982480ce599e/82-wasnt-good-enough-not-for-a-bank-22nj)
-- [Which AI Certification Includes Hands-On Projects for Developers?](https://dev.to/ailearning/which-ai-certification-includes-hands-on-projects-for-developers-2c2f)
-- [ETHENEA &lpar;ETHENEA Americas LLC&rpar; Builds a More Connected Digital Experience for Global Audiences](https://dev.to/etheneaamericasinsights/ethenea-ethenea-americas-llc-builds-a-more-connected-digital-experience-for-global-audiences-37dp)
+- [Spring Boot for Beginners: The Java Concepts Hiding Under the Hood](https://dev.to/brendan_akudo_voldie/spring-boot-for-beginners-the-java-concepts-hiding-under-the-hood-2pjl)
+- [Top 5 Legitimate Cryptocurrency Recovery Companies: Best Firm to Retrieve Stolen Digital Assets, ZEUS CRYPTO RECOVERY SERVICES](https://dev.to/zhiqiang_weilong_9f3d91ce/top-5-legitimate-cryptocurrency-recovery-companies-best-firm-to-retrieve-stolen-digital-assets-hgc)
+- [The Upload Succeeded, but the Application Still Didn’t Know What the File Was For](https://dev.to/miran969/the-upload-succeeded-but-the-application-still-didnt-know-what-the-file-was-for-pmk)
+- [AWS Integrates Native Multi-Cloud Support for Microsoft Azure and Launches GuardDuty AI Protection in Security Hub](https://dev.to/isuvo/aws-integrates-native-multi-cloud-support-for-microsoft-azure-and-launches-guardduty-ai-protection-1led)
+- [Web Developer Travis McCracken on Why Rust Is Worth the Steep Learning Curve](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-rust-is-worth-the-steep-learning-curve-1mag)
+- [Ansible Automation: Complete Linux Server Management Tutorial](https://dev.to/devtocash/ansible-automation-complete-linux-server-management-tutorial-2fg3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
