@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [New Vulnerability &#39;Rogue Agent&#39; Highlights AI Agent Security Risks in Cloud Platforms](https://dev.to/isuvo/new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms-9j6)
-- [Autonomous agents are the easy part](https://dev.to/martinschenk/autonomous-agents-are-the-easy-part-4b8m)
-- [What Really Happens When PostgreSQL Runs Your Query?](https://dev.to/r4hul/what-really-happens-when-postgresql-runs-your-query-3829)
-- [I let an AI test my app 55 times in a week. Here&#39;s what it broke &lpar;and what I broke&rpar;.](https://dev.to/lxcario/i-let-an-ai-test-my-app-55-times-in-a-week-heres-what-it-broke-and-what-i-broke-51eh)
-- [Introducing Cache Response Rules](https://dev.to/rasne/introducing-cache-response-rules-bij)
-- [How I Built a Universal Cross-Device Clipboard with Zero Dependencies](https://dev.to/odinlog/how-i-built-a-universal-cross-device-clipboard-with-zero-dependencies-1425)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1n4k)
+- [Run Manifests Make CLIs Easier to Trust](https://dev.to/mrdapperx/run-manifests-make-clis-easier-to-trust-169j)
+- [Reverse Proxy Your Containers with Caddy and Docker Compose on Ubuntu 26.04](https://dev.to/peculiarengineer/reverse-proxy-your-containers-with-caddy-and-docker-compose-on-ubuntu-2604-1n97)
+- [Redis Caching Best Practices and Pitfalls](https://dev.to/moose978/redis-caching-best-practices-and-pitfalls-2e83)
+- [Performance Tuning Before Launch](https://dev.to/moose978/performance-tuning-before-launch-912)
+- [Preventing Cache Stampede with Redis](https://dev.to/moose978/preventing-cache-stampede-with-redis-4aii)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
