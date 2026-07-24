@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot for Beginners: The Java Concepts Hiding Under the Hood](https://dev.to/brendan_akudo_voldie/spring-boot-for-beginners-the-java-concepts-hiding-under-the-hood-2pjl)
-- [Top 5 Legitimate Cryptocurrency Recovery Companies: Best Firm to Retrieve Stolen Digital Assets, ZEUS CRYPTO RECOVERY SERVICES](https://dev.to/zhiqiang_weilong_9f3d91ce/top-5-legitimate-cryptocurrency-recovery-companies-best-firm-to-retrieve-stolen-digital-assets-hgc)
-- [The Upload Succeeded, but the Application Still Didn’t Know What the File Was For](https://dev.to/miran969/the-upload-succeeded-but-the-application-still-didnt-know-what-the-file-was-for-pmk)
-- [AWS Integrates Native Multi-Cloud Support for Microsoft Azure and Launches GuardDuty AI Protection in Security Hub](https://dev.to/isuvo/aws-integrates-native-multi-cloud-support-for-microsoft-azure-and-launches-guardduty-ai-protection-1led)
-- [Web Developer Travis McCracken on Why Rust Is Worth the Steep Learning Curve](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-rust-is-worth-the-steep-learning-curve-1mag)
-- [Ansible Automation: Complete Linux Server Management Tutorial](https://dev.to/devtocash/ansible-automation-complete-linux-server-management-tutorial-2fg3)
+- [Securing the Boundary: Mitigating Zero-Day Vulnerabilities in Modern API Gateways](https://dev.to/isuvo/securing-the-boundary-mitigating-zero-day-vulnerabilities-in-modern-api-gateways-2dck)
+- [DevOps Engineer Professional Exam Guide](https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35)
+- [Migration Friction Is the Real Cost of Switching Tools](https://dev.to/theobrenner/migration-friction-is-the-real-cost-of-switching-tools-4cga)
+- [Kubernetes 1.36: What&#39;s New and What Breaks](https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11)
+- [File Uploads in Express: Multer, Cloudinary, and the Buffer Problem Nobody Warns You About](https://dev.to/chinwuba_jeffrey/file-uploads-in-express-multer-cloudinary-and-the-buffer-problem-nobody-warns-you-about-1njh)
+- [Camunda 7 - Processamento assíncrono global e testes](https://dev.to/denisgmarques/camunda-7-processamento-assincrono-global-e-testes-4gp1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
