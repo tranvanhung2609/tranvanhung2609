@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1n4k)
-- [Run Manifests Make CLIs Easier to Trust](https://dev.to/mrdapperx/run-manifests-make-clis-easier-to-trust-169j)
-- [Reverse Proxy Your Containers with Caddy and Docker Compose on Ubuntu 26.04](https://dev.to/peculiarengineer/reverse-proxy-your-containers-with-caddy-and-docker-compose-on-ubuntu-2604-1n97)
-- [Redis Caching Best Practices and Pitfalls](https://dev.to/moose978/redis-caching-best-practices-and-pitfalls-2e83)
-- [Performance Tuning Before Launch](https://dev.to/moose978/performance-tuning-before-launch-912)
-- [Preventing Cache Stampede with Redis](https://dev.to/moose978/preventing-cache-stampede-with-redis-4aii)
+- [Treat Retrieved Content as Data, Not Instructions](https://dev.to/_9de8b28cd0a409b80cfdc/treat-retrieved-content-as-data-not-instructions-alj)
+- [ColdFusion CAR Archive Build Failures: The cfusion/packages Directory Bug and Its Fix](https://dev.to/deepak_sir__/coldfusion-car-archive-build-failures-the-cfusionpackages-directory-bug-and-its-fix-1fk3)
+- [How I Improved Code Quality with AI and Static Analysis &lpar;SonarQube Cloud + MCP&rpar;](https://dev.to/sixset/how-i-improved-code-quality-with-ai-and-static-analysis-sonarqube-cloud-mcp-16c3)
+- [82% wasn&#39;t good enough. Not for a bank.](https://dev.to/saud_siraj_09982480ce599e/82-wasnt-good-enough-not-for-a-bank-22nj)
+- [Which AI Certification Includes Hands-On Projects for Developers?](https://dev.to/ailearning/which-ai-certification-includes-hands-on-projects-for-developers-2c2f)
+- [ETHENEA &lpar;ETHENEA Americas LLC&rpar; Builds a More Connected Digital Experience for Global Audiences](https://dev.to/etheneaamericasinsights/ethenea-ethenea-americas-llc-builds-a-more-connected-digital-experience-for-global-audiences-37dp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
