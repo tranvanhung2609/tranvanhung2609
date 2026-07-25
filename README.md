@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Spring Batch DB Cluster Partitioning 3.0.0 — distributed partitioning with just a database, now on Spring Boot 4 &amp; Java 21](https://dev.to/jchejarla/spring-batch-db-cluster-partitioning-300-distributed-partitioning-with-just-a-database-now-on-31bi)
-- [Six Categories, Some Locked: Designing a Legal Chart of Accounts](https://dev.to/son_do_3543eb233b59d424bc/six-categories-some-locked-designing-a-legal-chart-of-accounts-417c)
-- [Building MyCase Accounting: Trust Books That Can Look Right While Being Wrong](https://dev.to/son_do_3543eb233b59d424bc/building-mycase-accounting-trust-books-that-can-look-right-while-being-wrong-2a2c)
-- [Microservices](https://dev.to/gouranga-das-khulna/microservices-1gfn)
-- [Microservices](https://dev.to/gouranga-das-khulna/microservices-1gfn)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plk)
+- [Deploying Self Hosted Coolify on Linux Server](https://dev.to/chasebot/deploying-self-hosted-coolify-on-linux-server-4o73)
+- [Unlocking New Horizons: How Java Training at Bangalore Prepares You for Tomorrow&#39;s Tech Opportunities](https://dev.to/lm_pg_ae695f1a4c717f/unlocking-new-horizons-how-java-training-at-bangalore-prepares-you-for-tomorrows-tech-2472)
+- [The Ultimate Pathway to Innovation: Choosing Java Training at Bangalore for Unmatched Skill Development](https://dev.to/lm_pg_ae695f1a4c717f/the-ultimate-pathway-to-innovation-choosing-java-training-at-bangalore-for-unmatched-skill-d0l)
+- [Discover Your Next Career Leap: The Impact of Java Training at Bangalore on Professional Growth](https://dev.to/h2_lmt_318f611464212f9336/discover-your-next-career-leap-the-impact-of-java-training-at-bangalore-on-professional-growth-1105)
+- [Seize Your Future: Revolutionary Benefits of Java Training at Bangalore for Tech Professionals in 2026](https://dev.to/h2_lmt_318f611464212f9336/seize-your-future-revolutionary-benefits-of-java-training-at-bangalore-for-tech-professionals-in-2h14)
+- [Revitalize Your Tech Career: The Transformational Journey of Java Training at Bangalore](https://dev.to/lmt_new_5ff6b33c7/revitalize-your-tech-career-the-transformational-journey-of-java-training-at-bangalore-54dj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
