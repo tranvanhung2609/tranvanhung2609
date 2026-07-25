@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Self Hosted Coolify on Linux Server](https://dev.to/chasebot/deploying-self-hosted-coolify-on-linux-server-4o73)
-- [Unlocking New Horizons: How Java Training at Bangalore Prepares You for Tomorrow&#39;s Tech Opportunities](https://dev.to/lm_pg_ae695f1a4c717f/unlocking-new-horizons-how-java-training-at-bangalore-prepares-you-for-tomorrows-tech-2472)
-- [The Ultimate Pathway to Innovation: Choosing Java Training at Bangalore for Unmatched Skill Development](https://dev.to/lm_pg_ae695f1a4c717f/the-ultimate-pathway-to-innovation-choosing-java-training-at-bangalore-for-unmatched-skill-d0l)
-- [Discover Your Next Career Leap: The Impact of Java Training at Bangalore on Professional Growth](https://dev.to/h2_lmt_318f611464212f9336/discover-your-next-career-leap-the-impact-of-java-training-at-bangalore-on-professional-growth-1105)
-- [Seize Your Future: Revolutionary Benefits of Java Training at Bangalore for Tech Professionals in 2026](https://dev.to/h2_lmt_318f611464212f9336/seize-your-future-revolutionary-benefits-of-java-training-at-bangalore-for-tech-professionals-in-2h14)
-- [Revitalize Your Tech Career: The Transformational Journey of Java Training at Bangalore](https://dev.to/lmt_new_5ff6b33c7/revitalize-your-tech-career-the-transformational-journey-of-java-training-at-bangalore-54dj)
+- [Azure DevOps: Microsoft&#39;s Platform for Repos, Pipelines, Boards, and Deployments](https://dev.to/rhuturaj_takle/azure-devops-microsofts-platform-for-repos-pipelines-boards-and-deployments-24b2)
+- [Securing the Edge: Mitigating Infrastructure Vulnerabilities with Zero Trust and Passkeys](https://dev.to/isuvo/securing-the-edge-mitigating-infrastructure-vulnerabilities-with-zero-trust-and-passkeys-2mm5)
+- [Several agents, one dirty index: disposable multi-repo workspaces for Claude Code](https://dev.to/riccardo_cereghino/several-agents-one-dirty-index-disposable-multi-repo-workspaces-for-claude-code-1936)
+- [Migrating &amp; Upgrading GitLab 15.6.1 to 19.2: New Box, Going Private, Cutover Behind Production](https://dev.to/aws-builders/migrating-upgrading-gitlab-1561-to-192-new-box-going-private-cutover-behind-production-4mee)
+- [Web Developer Travis McCracken on Rate Limiting at the Edge: A Backend Strategy](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rate-limiting-at-the-edge-a-backend-strategy-5366)
+- [Como crear Roles de Usuarios RBAC Plano PHP MySQL](https://dev.to/evilnapsis/como-crear-roles-de-usuarios-rbac-plano-php-mysql-p0h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
