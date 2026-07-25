@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Boundary: Mitigating Zero-Day Vulnerabilities in Modern API Gateways](https://dev.to/isuvo/securing-the-boundary-mitigating-zero-day-vulnerabilities-in-modern-api-gateways-2dck)
-- [DevOps Engineer Professional Exam Guide](https://dev.to/aws-builders/devops-engineer-professional-exam-guide-4j35)
-- [Migration Friction Is the Real Cost of Switching Tools](https://dev.to/theobrenner/migration-friction-is-the-real-cost-of-switching-tools-4cga)
-- [Kubernetes 1.36: What&#39;s New and What Breaks](https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11)
-- [File Uploads in Express: Multer, Cloudinary, and the Buffer Problem Nobody Warns You About](https://dev.to/chinwuba_jeffrey/file-uploads-in-express-multer-cloudinary-and-the-buffer-problem-nobody-warns-you-about-1njh)
-- [Camunda 7 - Processamento assíncrono global e testes](https://dev.to/denisgmarques/camunda-7-processamento-assincrono-global-e-testes-4gp1)
+- [Spring Batch DB Cluster Partitioning 3.0.0 — distributed partitioning with just a database, now on Spring Boot 4 &amp; Java 21](https://dev.to/jchejarla/spring-batch-db-cluster-partitioning-300-distributed-partitioning-with-just-a-database-now-on-31bi)
+- [Six Categories, Some Locked: Designing a Legal Chart of Accounts](https://dev.to/son_do_3543eb233b59d424bc/six-categories-some-locked-designing-a-legal-chart-of-accounts-417c)
+- [Building MyCase Accounting: Trust Books That Can Look Right While Being Wrong](https://dev.to/son_do_3543eb233b59d424bc/building-mycase-accounting-trust-books-that-can-look-right-while-being-wrong-2a2c)
+- [Microservices](https://dev.to/gouranga-das-khulna/microservices-1gfn)
+- [Microservices](https://dev.to/gouranga-das-khulna/microservices-1gfn)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4plk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
