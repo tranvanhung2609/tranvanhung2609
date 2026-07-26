@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Secure by Design: Hardening API Gateways Against Memory Exploits and Logic Flaws](https://dev.to/isuvo/secure-by-design-hardening-api-gateways-against-memory-exploits-and-logic-flaws-4i9j)
-- [SRE vs DevOps: Key Differences That Actually Matter &lpar;2026&rpar;](https://dev.to/devtocash/sre-vs-devops-key-differences-that-actually-matter-2026-526d)
-- [Everything that software developer need](https://dev.to/santosh_nanavare_2baab6e9/everything-that-software-developer-need-1kj)
-- [Agentic Autofix: Revolutionizing Security Remediation for Your Software Project Goals](https://dev.to/devactivity/agentic-autofix-revolutionizing-security-remediation-for-your-software-project-goals-4pl)
-- [Web Developer Travis McCracken on Using Go for Cloud Functions](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-cloud-functions-3foi)
-- [Explain the concept of auto-configuration in Spring Boot.](https://dev.to/realnamehidden1_61/explain-the-concept-of-auto-configuration-in-spring-boot-5amf)
+- [I Built KubeAura: An AI-Powered Kubernetes Dashboard &lpar;and I&#39;m Open Sourcing It&rpar;](https://dev.to/ganesh_giri/i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it-2afn)
+- [Mastering Local Webhook Development: A Pro Guide to Testing and Debugging](https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b)
+- [Mastering Local Webhook Development: A Pro Guide to Testing and Debugging](https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b)
+- [From AI Proposal to Undo: Tracing Sidechalk’s Trust Boundary End to End with SigNoz](https://dev.to/tyson1234/from-ai-proposal-to-undo-tracing-sidechalks-trust-boundary-end-to-end-with-signoz-1o1l)
+- [Building AI Agents That Actually Investigate Production Incidents: My Journey with TattvaAI and SigNoz](https://dev.to/animbargi5art/building-ai-agents-that-actually-investigate-production-incidents-my-journey-with-tattvaai-and-414c)
+- [&quot;Server Down Hai, Try Later&quot;: What&#39;s Actually Happening When a Site Dies](https://dev.to/fuzzykidoo/server-down-hai-try-later-whats-actually-happening-when-a-site-dies-5hjb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
