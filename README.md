@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Best Approach to Dependency Vulnerability Scanning in CI Pipelines](https://dev.to/brino666/the-best-approach-to-dependency-vulnerability-scanning-in-ci-pipelines-4m64)
-- [Go Slice Initialization Gotchas: The Hole-Creating Bug I Keep Seeing &lpar;And a Linter That Catches It&rpar;](https://dev.to/prasadekke/go-slice-initialization-gotchas-the-hole-creating-bug-i-keep-seeing-and-a-linter-that-catches-it-2afl)
-- [I&#39;ll Fix Your Python Bug or Build Your Bot — Same Day, Pay What You Want](https://dev.to/kaparovbakay2001wq/ill-fix-your-python-bug-or-build-your-bot-same-day-pay-what-you-want-5ap0)
-- [Containers &amp; Docker](https://dev.to/gouranga-das-khulna/containers-docker-5le)
-- [Build a Prometheus MCP Server: Safe Read-Only PromQL for AI Agents](https://dev.to/devtocash/build-a-prometheus-mcp-server-safe-read-only-promql-for-ai-agents-19mc)
-- [LiteSpeed vs Nginx for WordPress: 3 months of production benchmarks](https://dev.to/shuki_vaknin/litespeed-vs-nginx-for-wordpress-3-months-of-production-benchmarks-46ab)
+- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
+- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
+- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
+- [Protecting Self Hosted Endpoints with Rate Limiting](https://dev.to/chasebot/protecting-self-hosted-endpoints-with-rate-limiting-33n8)
+- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-52kj)
+- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
