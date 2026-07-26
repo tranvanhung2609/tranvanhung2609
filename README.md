@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
-- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
-- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
-- [Protecting Self Hosted Endpoints with Rate Limiting](https://dev.to/chasebot/protecting-self-hosted-endpoints-with-rate-limiting-33n8)
-- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-52kj)
-- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
+- [Secure by Design: Hardening API Gateways Against Memory Exploits and Logic Flaws](https://dev.to/isuvo/secure-by-design-hardening-api-gateways-against-memory-exploits-and-logic-flaws-4i9j)
+- [SRE vs DevOps: Key Differences That Actually Matter &lpar;2026&rpar;](https://dev.to/devtocash/sre-vs-devops-key-differences-that-actually-matter-2026-526d)
+- [Everything that software developer need](https://dev.to/santosh_nanavare_2baab6e9/everything-that-software-developer-need-1kj)
+- [Agentic Autofix: Revolutionizing Security Remediation for Your Software Project Goals](https://dev.to/devactivity/agentic-autofix-revolutionizing-security-remediation-for-your-software-project-goals-4pl)
+- [Web Developer Travis McCracken on Using Go for Cloud Functions](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-go-for-cloud-functions-3foi)
+- [Explain the concept of auto-configuration in Spring Boot.](https://dev.to/realnamehidden1_61/explain-the-concept-of-auto-configuration-in-spring-boot-5amf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
