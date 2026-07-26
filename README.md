@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Durable Actually Means for Money-Critical Code](https://dev.to/hardil_singh_08a1f0abf23d/what-durable-actually-means-for-money-critical-code-5c7m)
-- [Load Balancing: The Matrix of Traffic](https://dev.to/timevolt/load-balancing-the-matrix-of-traffic-kl6)
-- [The SSH Lockout That Made Me Close Port 22 For Good](https://dev.to/hardil_singh_08a1f0abf23d/the-ssh-lockout-that-made-me-close-port-22-for-good-3cde)
-- [I Run Bare-Metal Kubernetes on $200 of Scrap Hardware &lpar;And Why I Burned 3 SD Cards Learning&rpar;](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb)
-- [LLM Cost Controls That Actually Work: Budgets, Rate Limits, and Per-Team Attribution](https://dev.to/sahajmeet_kaur_/llm-cost-controls-that-actually-work-budgets-rate-limits-and-per-team-attribution-30c3)
-- [Long Polling : The First Time the Web Tried to Feel Alive](https://dev.to/anik_sikder_313/long-polling-the-first-time-the-web-tried-to-feel-alive-2f67)
+- [The Best Approach to Dependency Vulnerability Scanning in CI Pipelines](https://dev.to/brino666/the-best-approach-to-dependency-vulnerability-scanning-in-ci-pipelines-4m64)
+- [Go Slice Initialization Gotchas: The Hole-Creating Bug I Keep Seeing &lpar;And a Linter That Catches It&rpar;](https://dev.to/prasadekke/go-slice-initialization-gotchas-the-hole-creating-bug-i-keep-seeing-and-a-linter-that-catches-it-2afl)
+- [I&#39;ll Fix Your Python Bug or Build Your Bot — Same Day, Pay What You Want](https://dev.to/kaparovbakay2001wq/ill-fix-your-python-bug-or-build-your-bot-same-day-pay-what-you-want-5ap0)
+- [Containers &amp; Docker](https://dev.to/gouranga-das-khulna/containers-docker-5le)
+- [Build a Prometheus MCP Server: Safe Read-Only PromQL for AI Agents](https://dev.to/devtocash/build-a-prometheus-mcp-server-safe-read-only-promql-for-ai-agents-19mc)
+- [LiteSpeed vs Nginx for WordPress: 3 months of production benchmarks](https://dev.to/shuki_vaknin/litespeed-vs-nginx-for-wordpress-3-months-of-production-benchmarks-46ab)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
