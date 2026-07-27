@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating AI in DevOps: Strategies to Identify Effective Tools and Mitigate Risks](https://dev.to/maricode/evaluating-ai-in-devops-strategies-to-identify-effective-tools-and-mitigate-risks-35eg)
-- [Stop Hardcoding Secrets: Scan Your .env Files in 1 Command](https://dev.to/ke_jia_24bb2f9f84f14f728a/stop-hardcoding-secrets-scan-your-env-files-in-1-command-elo)
-- [Web Developer Travis McCracken on Logging and Observability in Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-logging-and-observability-in-backend-systems-59i9)
-- [The Twenty-Minute Problem](https://dev.to/nk2552003/the-twenty-minute-problem-37ja)
-- [No Ads Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-home-workout-timer-what-we-learned-building-random-tactical-timer-54ah)
-- [Rate Limiting Like a Jedi: Mastering System Design Basics](https://dev.to/timevolt/rate-limiting-like-a-jedi-mastering-system-design-basics-4cg)
+- [🧹 Kafka Is Deleting the Wrong Data: Retention vs Compaction](https://dev.to/code_with_kyryl/kafka-is-deleting-the-wrong-data-retention-vs-compaction-3lld)
+- [The ten-line binary search that balanced a four-million-item crawl](https://dev.to/shell412/the-ten-line-binary-search-that-balanced-a-four-million-item-crawl-321n)
+- [Balancing Threat Mitigation and Platform Evolution: The July 2026 Engineering Operations Briefing](https://dev.to/isuvo/balancing-threat-mitigation-and-platform-evolution-the-july-2026-engineering-operations-briefing-3ah0)
+- [JSON Edge Cases Your Parser Silently Ignores &lpar;And How to Fix Them&rpar;](https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg)
+- [The one rule that lets me run a company with no employees](https://dev.to/solo_operator/the-one-rule-that-lets-me-run-a-company-with-no-employees-3kid)
+- [I thought I needed a smarter coding prompt but I actually needed my agent to interrogate me for an hour](https://dev.to/lars_winstand/i-thought-i-needed-a-smarter-coding-prompt-but-i-actually-needed-my-agent-to-interrogate-me-for-an-2o1h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
