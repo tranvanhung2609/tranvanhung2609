@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Veo 3.0 vs GPT Image 2.0: What I Actually Shipped in 23 Minutes](https://dev.to/savielyamani_videoai/veo-30-vs-gpt-image-20-what-i-actually-shipped-in-23-minutes-3l50)
-- [Teaching an AI to Score: Reverse Items, Direction, and the Gap Between Knowing and Doing](https://dev.to/keofung/teaching-an-ai-to-score-reverse-items-direction-and-the-gap-between-knowing-and-doing-d7a)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1f29)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1f29)
-- [Building TNP: Why I Built an Enterprise-Realistic DevOps Lab &lpar;Part 0&rpar;](https://dev.to/tnptommy/building-tnp-why-i-built-an-enterprise-realistic-devops-lab-part-0-41ie)
-- [The Complete Roadmap to Become a Backend Developer in 2025](https://dev.to/qingluan/the-complete-roadmap-to-become-a-backend-developer-in-2025-55d2)
+- [From Code to Command Center: How DevOps Keeps an Entire Smart City Running 24 7](https://dev.to/ravi1727/from-code-to-command-center-how-devops-keeps-an-entire-smart-city-running-24x7-56ld)
+- [Top 10 Best Zen Cart To WooCommerce Migration Companies](https://dev.to/oliverpitts/top-10-best-zen-cart-to-woocommerce-migration-companies-oan)
+- [Cyber Security Tools for Beginners: Why Antivirus Fails in 2026 &lpar;Starter Guide&rpar;](https://dev.to/cyberupdates365/cyber-security-tools-for-beginners-why-antivirus-fails-in-2026-starter-guide-m0f)
+- [If You Want AI Agents to Run Unattended, Design How They Stop First](https://dev.to/anicca_301094325e/if-you-want-ai-agents-to-run-unattended-design-how-they-stop-first-1n3m)
+- [Your Agentic AI Pilot Is Probably Measuring the Wrong Things](https://dev.to/icentric/your-agentic-ai-pilot-is-probably-measuring-the-wrong-things-3hi8)
+- [Sovereign EU Self-Hosting: A Technical Playbook &lpar;Terraform and Ansible&rpar;](https://dev.to/julesrobineau/sovereign-eu-self-hosting-a-technical-playbook-terraform-and-ansible-31me)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
