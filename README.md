@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built KubeAura: An AI-Powered Kubernetes Dashboard &lpar;and I&#39;m Open Sourcing It&rpar;](https://dev.to/ganesh_giri/i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it-2afn)
-- [Mastering Local Webhook Development: A Pro Guide to Testing and Debugging](https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b)
-- [Mastering Local Webhook Development: A Pro Guide to Testing and Debugging](https://dev.to/devandrew/mastering-local-webhook-development-a-pro-guide-to-testing-and-debugging-1c0b)
-- [From AI Proposal to Undo: Tracing Sidechalk’s Trust Boundary End to End with SigNoz](https://dev.to/tyson1234/from-ai-proposal-to-undo-tracing-sidechalks-trust-boundary-end-to-end-with-signoz-1o1l)
-- [Building AI Agents That Actually Investigate Production Incidents: My Journey with TattvaAI and SigNoz](https://dev.to/animbargi5art/building-ai-agents-that-actually-investigate-production-incidents-my-journey-with-tattvaai-and-414c)
-- [&quot;Server Down Hai, Try Later&quot;: What&#39;s Actually Happening When a Site Dies](https://dev.to/fuzzykidoo/server-down-hai-try-later-whats-actually-happening-when-a-site-dies-5hjb)
+- [Veo 3.0 vs GPT Image 2.0: What I Actually Shipped in 23 Minutes](https://dev.to/savielyamani_videoai/veo-30-vs-gpt-image-20-what-i-actually-shipped-in-23-minutes-3l50)
+- [Teaching an AI to Score: Reverse Items, Direction, and the Gap Between Knowing and Doing](https://dev.to/keofung/teaching-an-ai-to-score-reverse-items-direction-and-the-gap-between-knowing-and-doing-d7a)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1f29)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-1f29)
+- [Building TNP: Why I Built an Enterprise-Realistic DevOps Lab &lpar;Part 0&rpar;](https://dev.to/tnptommy/building-tnp-why-i-built-an-enterprise-realistic-devops-lab-part-0-41ie)
+- [The Complete Roadmap to Become a Backend Developer in 2025](https://dev.to/qingluan/the-complete-roadmap-to-become-a-backend-developer-in-2025-55d2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
