@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Command Center: How DevOps Keeps an Entire Smart City Running 24 7](https://dev.to/ravi1727/from-code-to-command-center-how-devops-keeps-an-entire-smart-city-running-24x7-56ld)
-- [Top 10 Best Zen Cart To WooCommerce Migration Companies](https://dev.to/oliverpitts/top-10-best-zen-cart-to-woocommerce-migration-companies-oan)
-- [Cyber Security Tools for Beginners: Why Antivirus Fails in 2026 &lpar;Starter Guide&rpar;](https://dev.to/cyberupdates365/cyber-security-tools-for-beginners-why-antivirus-fails-in-2026-starter-guide-m0f)
-- [If You Want AI Agents to Run Unattended, Design How They Stop First](https://dev.to/anicca_301094325e/if-you-want-ai-agents-to-run-unattended-design-how-they-stop-first-1n3m)
-- [Your Agentic AI Pilot Is Probably Measuring the Wrong Things](https://dev.to/icentric/your-agentic-ai-pilot-is-probably-measuring-the-wrong-things-3hi8)
-- [Sovereign EU Self-Hosting: A Technical Playbook &lpar;Terraform and Ansible&rpar;](https://dev.to/julesrobineau/sovereign-eu-self-hosting-a-technical-playbook-terraform-and-ansible-31me)
+- [Evaluating AI in DevOps: Strategies to Identify Effective Tools and Mitigate Risks](https://dev.to/maricode/evaluating-ai-in-devops-strategies-to-identify-effective-tools-and-mitigate-risks-35eg)
+- [Stop Hardcoding Secrets: Scan Your .env Files in 1 Command](https://dev.to/ke_jia_24bb2f9f84f14f728a/stop-hardcoding-secrets-scan-your-env-files-in-1-command-elo)
+- [Web Developer Travis McCracken on Logging and Observability in Backend Systems](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-logging-and-observability-in-backend-systems-59i9)
+- [The Twenty-Minute Problem](https://dev.to/nk2552003/the-twenty-minute-problem-37ja)
+- [No Ads Home Workout Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-home-workout-timer-what-we-learned-building-random-tactical-timer-54ah)
+- [Rate Limiting Like a Jedi: Mastering System Design Basics](https://dev.to/timevolt/rate-limiting-like-a-jedi-mastering-system-design-basics-4cg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
