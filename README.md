@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I ran 156 real-world docker compose projects on Apple&#39;s container. The failures fell into patterns a machine can fix](https://dev.to/suruseas/i-ran-156-real-world-docker-compose-projects-on-apples-container-the-failures-fell-into-patterns-50dh)
-- [Your cron job fires on the wrong day](https://dev.to/abel-dev/your-cron-job-fires-on-the-wrong-day-5a71)
-- [Emails Are Landing in Spam ?Fix It in 10 Minutes...](https://dev.to/arshay_26/emails-are-landing-in-spam-fix-it-in-10-minutes-3lgb)
-- [The 2026 Cybersecurity Survival Manual: SMB Security Architecture &amp; The \ Career Blueprint](https://dev.to/cyberupdates365/the-2026-cybersecurity-survival-manual-smb-security-architecture-the-career-blueprint-l6h)
-- [Python - Introduction](https://dev.to/vidhya_murali_5aabe7784bd/python-introduction-e1i)
-- [Free Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-mma-timer-what-we-learned-building-random-tactical-timer-2gc0)
+- [Stop Sorting the Patch Queue by CVSS: Exploitation Evidence Should Decide What You Patch First](https://dev.to/adam_lewandowski_59674796/stop-sorting-the-patch-queue-by-cvss-exploitation-evidence-should-decide-what-you-patch-first-455n)
+- [Operationalizing Agentic AI: An Engineering Guide to OpenAI Presence](https://dev.to/isuvo/operationalizing-agentic-ai-an-engineering-guide-to-openai-presence-3dd7)
+- [Sync AI Agent Rules Across Repositories with GitHub Actions](https://dev.to/paladini/sync-ai-agent-rules-across-repositories-with-github-actions-5b9h)
+- [Foreman 101: agentic coding as Kubernetes resources](https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33)
+- [How Bastillion Streams Hundreds of MB of SSH Session Replay Without Melting the Browser](https://dev.to/loophole-company/how-bastillion-streams-hundreds-of-mb-of-ssh-session-replay-without-melting-the-browser-ob7)
+- [A ledger that only bills the dead](https://dev.to/ilya_mozerov_867dbdd91feb/a-ledger-that-only-bills-the-dead-31co)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
