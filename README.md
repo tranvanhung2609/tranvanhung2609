@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [No, Go 1.26 Did Not Make Your Service 40% Faster](https://dev.to/zmey56/no-go-126-did-not-make-your-service-40-faster-3a41)
-- [CI/CD pipelines](https://dev.to/acrdev/acrdev-article-l6c)
-- [Cancela ejecuciones anteriores si lanzas un nuevo commit en la misma PR](https://dev.to/acrdev/cancela-ejecuciones-anteriores-si-lanzas-un-nuevo-commit-en-la-misma-pr-9fe)
-- [Configuring PostgreSQL Connection Pooling on Linux Servers](https://dev.to/chasebot/configuring-postgresql-connection-pooling-on-linux-servers-472e)
-- [Aquí tienes una guía completa, optimizada para SEO y estructurada técnicamente para el nicho DevOps.](https://dev.to/acrdev/aqui-tienes-una-guia-completa-optimizada-para-seo-y-estructurada-tecnicamente-para-el-nicho-devops-579b)
-- [Microservices Best Practices &lpar;and Common Mistakes&rpar;](https://dev.to/acquriotech/microservices-best-practices-and-common-mistakes-2dn8)
+- [I ran 156 real-world docker compose projects on Apple&#39;s container. The failures fell into patterns a machine can fix](https://dev.to/suruseas/i-ran-156-real-world-docker-compose-projects-on-apples-container-the-failures-fell-into-patterns-50dh)
+- [Your cron job fires on the wrong day](https://dev.to/abel-dev/your-cron-job-fires-on-the-wrong-day-5a71)
+- [Emails Are Landing in Spam ?Fix It in 10 Minutes...](https://dev.to/arshay_26/emails-are-landing-in-spam-fix-it-in-10-minutes-3lgb)
+- [The 2026 Cybersecurity Survival Manual: SMB Security Architecture &amp; The \ Career Blueprint](https://dev.to/cyberupdates365/the-2026-cybersecurity-survival-manual-smb-security-architecture-the-career-blueprint-l6h)
+- [Python - Introduction](https://dev.to/vidhya_murali_5aabe7784bd/python-introduction-e1i)
+- [Free Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-mma-timer-what-we-learned-building-random-tactical-timer-2gc0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
