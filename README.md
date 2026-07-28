@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes: correos de rollback que si ayudan](https://dev.to/alexcarteruk/kubernetes-correos-de-rollback-que-si-ayudan-2737)
-- [DRA25 Dual-Band Outdoor Omni Antenna: A Reliable Component for Professional Wireless Projects](https://dev.to/alan_curry_6e6770c37c06c1/dra25-dual-band-outdoor-omni-antenna-a-reliable-component-for-professional-wireless-projects-3djk)
-- [Beyond System Prompts: Enforcing Policy &amp; Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
-- [The 85% Rule, Tested: What NHS Bed-Occupancy Data Says About Where Systems Start to Break](https://dev.to/vibeagentmaking/the-85-rule-tested-what-nhs-bed-occupancy-data-says-about-where-systems-start-to-break-2f79)
-- [How to Scale a Python App to Handle 1 Million Requests](https://dev.to/qingluan/how-to-scale-a-python-app-to-handle-1-million-requests-3a9j)
-- [Polygon Blockchain API: Methods, SDKs, and Best Practices](https://dev.to/zhuoxin_sun_f2354597a82c2/polygon-blockchain-api-methods-sdks-and-best-practices-52do)
+- [No, Go 1.26 Did Not Make Your Service 40% Faster](https://dev.to/zmey56/no-go-126-did-not-make-your-service-40-faster-3a41)
+- [CI/CD pipelines](https://dev.to/acrdev/acrdev-article-l6c)
+- [Cancela ejecuciones anteriores si lanzas un nuevo commit en la misma PR](https://dev.to/acrdev/cancela-ejecuciones-anteriores-si-lanzas-un-nuevo-commit-en-la-misma-pr-9fe)
+- [Configuring PostgreSQL Connection Pooling on Linux Servers](https://dev.to/chasebot/configuring-postgresql-connection-pooling-on-linux-servers-472e)
+- [Aquí tienes una guía completa, optimizada para SEO y estructurada técnicamente para el nicho DevOps.](https://dev.to/acrdev/aqui-tienes-una-guia-completa-optimizada-para-seo-y-estructurada-tecnicamente-para-el-nicho-devops-579b)
+- [Microservices Best Practices &lpar;and Common Mistakes&rpar;](https://dev.to/acquriotech/microservices-best-practices-and-common-mistakes-2dn8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
