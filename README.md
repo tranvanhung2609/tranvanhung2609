@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🧹 Kafka Is Deleting the Wrong Data: Retention vs Compaction](https://dev.to/code_with_kyryl/kafka-is-deleting-the-wrong-data-retention-vs-compaction-3lld)
-- [The ten-line binary search that balanced a four-million-item crawl](https://dev.to/shell412/the-ten-line-binary-search-that-balanced-a-four-million-item-crawl-321n)
-- [Balancing Threat Mitigation and Platform Evolution: The July 2026 Engineering Operations Briefing](https://dev.to/isuvo/balancing-threat-mitigation-and-platform-evolution-the-july-2026-engineering-operations-briefing-3ah0)
-- [JSON Edge Cases Your Parser Silently Ignores &lpar;And How to Fix Them&rpar;](https://dev.to/rasika_dangamuwa_ed1074fe/json-edge-cases-your-parser-silently-ignores-and-how-to-fix-them-2mkg)
-- [The one rule that lets me run a company with no employees](https://dev.to/solo_operator/the-one-rule-that-lets-me-run-a-company-with-no-employees-3kid)
-- [I thought I needed a smarter coding prompt but I actually needed my agent to interrogate me for an hour](https://dev.to/lars_winstand/i-thought-i-needed-a-smarter-coding-prompt-but-i-actually-needed-my-agent-to-interrogate-me-for-an-2o1h)
+- [Kubernetes: correos de rollback que si ayudan](https://dev.to/alexcarteruk/kubernetes-correos-de-rollback-que-si-ayudan-2737)
+- [DRA25 Dual-Band Outdoor Omni Antenna: A Reliable Component for Professional Wireless Projects](https://dev.to/alan_curry_6e6770c37c06c1/dra25-dual-band-outdoor-omni-antenna-a-reliable-component-for-professional-wireless-projects-3djk)
+- [Beyond System Prompts: Enforcing Policy &amp; Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+- [The 85% Rule, Tested: What NHS Bed-Occupancy Data Says About Where Systems Start to Break](https://dev.to/vibeagentmaking/the-85-rule-tested-what-nhs-bed-occupancy-data-says-about-where-systems-start-to-break-2f79)
+- [How to Scale a Python App to Handle 1 Million Requests](https://dev.to/qingluan/how-to-scale-a-python-app-to-handle-1-million-requests-3a9j)
+- [Polygon Blockchain API: Methods, SDKs, and Best Practices](https://dev.to/zhuoxin_sun_f2354597a82c2/polygon-blockchain-api-methods-sdks-and-best-practices-52do)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
