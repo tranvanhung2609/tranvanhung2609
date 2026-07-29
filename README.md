@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Artificial Intelligence becomes much easier to understand when you see the flow visually.](https://dev.to/ranujmahajan/artificial-intelligence-becomes-much-easier-to-understand-when-you-see-the-flow-visually-3804)
-- [How to Deploy AI Apps Successfully: A Practical Production Guide](https://dev.to/rasne/how-to-deploy-ai-apps-successfully-a-practical-production-guide-28i4)
-- [How to Use LLMs for Code Review Automation](https://dev.to/qingluan/how-to-use-llms-for-code-review-automation-4810)
-- [Build a Kubernetes Pod Autoscaler with Python](https://dev.to/qingluan/build-a-kubernetes-pod-autoscaler-with-python-2g9e)
-- [Event-Driven Integration: Why Real-Time Beats Batch Processing](https://dev.to/n3xgen/event-driven-integration-why-real-time-beats-batch-processing-o0j)
-- [Driving Digital Transformation in Education](https://dev.to/xapps/driving-digital-transformation-in-education-1726)
+- [Kubernetes On-Premise: Criando um Registro de Imagens Docker Local](https://dev.to/celsonery/kubernetes-on-premise-criando-um-registro-de-imagens-docker-local-a89)
+- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
+- [Montando um Cluster Kubernetes On-Premise — Parte 5: Fazendo o Deploy do Primeiro Container](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-5-fazendo-o-deploy-do-primeiro-container-3dm1)
+- [Montando um Cluster Kubernetes On-Premise — Parte 4: Ingressando os Nós Workers Nodes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-4-ingressando-os-nos-workers-nodes-3f6n)
+- [Montando um Cluster Kubernetes On-Premise — Parte 3: Inicializando o Master](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-3-inicializando-o-master-42l3)
+- [Montando um Cluster Kubernetes On-Premise — Parte 2: Instalando Containerd e Kubernetes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-2-instalando-containerd-e-kubernetes-ode)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
