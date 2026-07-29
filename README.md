@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Gmail 550 5.7.26 반송 오류 해결: SPF·DKIM 점검 체크리스트](https://dev.to/officialmailkr/gmail-550-5726-bansong-oryu-haegyeol-spfdkim-jeomgeom-cekeuriseuteu-27ed)
-- [Structuring An Automation Framework From Scratch](https://dev.to/daniel_reade123/structuring-an-automation-framework-from-scratch-2g01)
-- [We built a router to predict when a cheap model is enough. It does not work.](https://dev.to/tom_jones_230c4659491adcd/we-built-a-router-to-predict-when-a-cheap-model-is-enough-it-does-not-work-3j24)
-- [Twitch Title Generator: Create Better Stream Titles in Seconds](https://dev.to/techtekzo/twitch-title-generator-create-better-stream-titles-in-seconds-o35)
-- [Hotel for Sale in Udyog Vihar Gurgaon](https://dev.to/thehotelproperties/hotel-for-sale-in-udyog-vihar-gurgaon-j3h)
-- [Mitigating PLC Logic Tampering: Hardening Critical Infrastructure Against Configuration Exploitation](https://dev.to/isuvo/mitigating-plc-logic-tampering-hardening-critical-infrastructure-against-configuration-exploitation-4004)
+- [Vault cant found What a Live Audit Found That Code Review Never Would](https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e)
+- [How I Designed a Scalable Logo System for a SaaS Startup](https://dev.to/pixel_mosaic/how-i-designed-a-scalable-logo-system-for-a-saas-startup-492i)
+- [Facebook Signup APIs Need Inbox Isolation](https://dev.to/kevindev27/facebook-signup-apis-need-inbox-isolation-1468)
+- [Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser](https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg)
+- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
+- [Tired of Writing S3 Bucket Policies???](https://dev.to/tharvbytes/tired-of-writing-s3-bucket-policies-4mgg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
