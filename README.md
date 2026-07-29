@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Sorting the Patch Queue by CVSS: Exploitation Evidence Should Decide What You Patch First](https://dev.to/adam_lewandowski_59674796/stop-sorting-the-patch-queue-by-cvss-exploitation-evidence-should-decide-what-you-patch-first-455n)
-- [Operationalizing Agentic AI: An Engineering Guide to OpenAI Presence](https://dev.to/isuvo/operationalizing-agentic-ai-an-engineering-guide-to-openai-presence-3dd7)
-- [Sync AI Agent Rules Across Repositories with GitHub Actions](https://dev.to/paladini/sync-ai-agent-rules-across-repositories-with-github-actions-5b9h)
-- [Foreman 101: agentic coding as Kubernetes resources](https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33)
-- [How Bastillion Streams Hundreds of MB of SSH Session Replay Without Melting the Browser](https://dev.to/loophole-company/how-bastillion-streams-hundreds-of-mb-of-ssh-session-replay-without-melting-the-browser-ob7)
-- [A ledger that only bills the dead](https://dev.to/ilya_mozerov_867dbdd91feb/a-ledger-that-only-bills-the-dead-31co)
+- [Gmail 550 5.7.26 반송 오류 해결: SPF·DKIM 점검 체크리스트](https://dev.to/officialmailkr/gmail-550-5726-bansong-oryu-haegyeol-spfdkim-jeomgeom-cekeuriseuteu-27ed)
+- [Structuring An Automation Framework From Scratch](https://dev.to/daniel_reade123/structuring-an-automation-framework-from-scratch-2g01)
+- [We built a router to predict when a cheap model is enough. It does not work.](https://dev.to/tom_jones_230c4659491adcd/we-built-a-router-to-predict-when-a-cheap-model-is-enough-it-does-not-work-3j24)
+- [Twitch Title Generator: Create Better Stream Titles in Seconds](https://dev.to/techtekzo/twitch-title-generator-create-better-stream-titles-in-seconds-o35)
+- [Hotel for Sale in Udyog Vihar Gurgaon](https://dev.to/thehotelproperties/hotel-for-sale-in-udyog-vihar-gurgaon-j3h)
+- [Mitigating PLC Logic Tampering: Hardening Critical Infrastructure Against Configuration Exploitation](https://dev.to/isuvo/mitigating-plc-logic-tampering-hardening-critical-infrastructure-against-configuration-exploitation-4004)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
