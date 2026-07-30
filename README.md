@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Unleash Your Creativity: Exploring Unconventional Projects After Java Full Stack Training in Bangalore](https://dev.to/lm_pg_ae695f1a4c717f/unleash-your-creativity-exploring-unconventional-projects-after-java-full-stack-training-in-3gmk)
-- [Unlock Your Coding Genius: The Hidden Gems of Java Full Stack Training in Bangalore](https://dev.to/lm_pg_ae695f1a4c717f/unlock-your-coding-genius-the-hidden-gems-of-java-full-stack-training-in-bangalore-2ff9)
-- [Jumpstart Your IT Career: A Deep Dive into Java Full Stack Training in Bangalore](https://dev.to/h2_lmt_318f611464212f9336/jumpstart-your-it-career-a-deep-dive-into-java-full-stack-training-in-bangalore-j16)
-- [The Future is Now: Elevate Your Skill Set with Java Full Stack Training in Bangalore Today!](https://dev.to/lmt_new_5ff6b33c7/the-future-is-now-elevate-your-skill-set-with-java-full-stack-training-in-bangalore-today-g4o)
-- [Transformative Journeys: How Java Full Stack Training in Bangalore Can Revolutionize Your Career Path](https://dev.to/h2_lmt_318f611464212f9336/transformative-journeys-how-java-full-stack-training-in-bangalore-can-revolutionize-your-career-42mi)
-- [5 Reasons Why Java Full Stack Training in Bangalore is Essential for Aspiring Tech Professionals in 2026](https://dev.to/lmt_new_5ff6b33c7/5-reasons-why-java-full-stack-training-in-bangalore-is-essential-for-aspiring-tech-professionals-in-16kf)
+- [How I Tamed Legacy Docker &lpar;v1.29&rpar; for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)
+- [How I Tamed Legacy Docker &lpar;v1.29&rpar; for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)
+- [Free Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-boxing-drills-what-we-learned-building-random-tactical-timer-2edg)
+- [Staff Augmentation: The Smart Way to Build High-Performing Teams](https://dev.to/johansafred/staff-augmentation-the-smart-way-to-build-high-performing-teams-cn2)
+- [Building CyvoraX Suite: An Open-Source Web Security &amp; Penetration Testing Workbench](https://dev.to/jojin1709/building-cyvorax-suite-an-open-source-web-security-penetration-testing-workbench-jog)
+- [Scaling On-Call When You Only Have 5 Engineers](https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-507f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
