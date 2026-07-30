@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes On-Premise: Criando um Registro de Imagens Docker Local](https://dev.to/celsonery/kubernetes-on-premise-criando-um-registro-de-imagens-docker-local-a89)
-- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
-- [Montando um Cluster Kubernetes On-Premise — Parte 5: Fazendo o Deploy do Primeiro Container](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-5-fazendo-o-deploy-do-primeiro-container-3dm1)
-- [Montando um Cluster Kubernetes On-Premise — Parte 4: Ingressando os Nós Workers Nodes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-4-ingressando-os-nos-workers-nodes-3f6n)
-- [Montando um Cluster Kubernetes On-Premise — Parte 3: Inicializando o Master](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-3-inicializando-o-master-42l3)
-- [Montando um Cluster Kubernetes On-Premise — Parte 2: Instalando Containerd e Kubernetes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-2-instalando-containerd-e-kubernetes-ode)
+- [Stop letting your AI agents hallucinate test failures](https://dev.to/renato_marinho/stop-letting-your-ai-agents-hallucinate-test-failures-22h8)
+- [Docker Compose vs Cài Trực Tiếp: Tối Ưu PostgreSQL &amp; Redis Cục Bộ](https://dev.to/hungphatlaptop/docker-compose-vs-cai-truc-tiep-toi-uu-postgresql-redis-cuc-bo-1174)
+- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
+- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
+- [Solon AOT &amp; Native: From Zero to Native Executable in Three Phases](https://dev.to/solonjava/solon-aot-native-from-zero-to-native-executable-in-three-phases-2cf)
+- [Solon AOT &amp; Native: From Zero to Native Executable in Three Phases](https://dev.to/solonjava/solon-aot-native-from-zero-to-native-executable-in-three-phases-2cf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
