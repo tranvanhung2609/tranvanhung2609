@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Tamed Legacy Docker &lpar;v1.29&rpar; for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)
-- [How I Tamed Legacy Docker &lpar;v1.29&rpar; for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)
-- [Free Boxing Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-boxing-drills-what-we-learned-building-random-tactical-timer-2edg)
-- [Staff Augmentation: The Smart Way to Build High-Performing Teams](https://dev.to/johansafred/staff-augmentation-the-smart-way-to-build-high-performing-teams-cn2)
-- [Building CyvoraX Suite: An Open-Source Web Security &amp; Penetration Testing Workbench](https://dev.to/jojin1709/building-cyvorax-suite-an-open-source-web-security-penetration-testing-workbench-jog)
-- [Scaling On-Call When You Only Have 5 Engineers](https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-507f)
+- [Why Hypervisors Are Bottlenecking Your AI Inference Spikes](https://dev.to/sadaf_botanist/why-hypervisors-are-bottlenecking-your-ai-inference-spikes-1jab)
+- [Choosing the Right Infrastructure for BGP Routing and Development Environments](https://dev.to/sadaf_botanist/choosing-the-right-infrastructure-for-bgp-routing-and-development-environments-m9e)
+- [Laravel Herd vs Sail in 2026: Which Environment Holds Up for AI Workloads?](https://dev.to/dewaldhugo/laravel-herd-vs-sail-in-2026-which-environment-holds-up-for-ai-workloads-4a7a)
+- [Top MCP Gateway Options for Managing AI Tool Connections](https://dev.to/kuldeep_paul/top-mcp-gateway-options-for-managing-ai-tool-connections-1pc2)
+- [Best AI Gateway for Secure Data Routing &lpar;2025-2026&rpar;](https://dev.to/kuldeep_paul/best-ai-gateway-for-secure-data-routing-2025-2026-20ae)
+- [A Guide to the Best AI Gateway for Real-Time Traffic Management](https://dev.to/kuldeep_paul/a-guide-to-the-best-ai-gateway-for-real-time-traffic-management-4chg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
