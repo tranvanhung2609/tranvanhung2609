@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop letting your AI agents hallucinate test failures](https://dev.to/renato_marinho/stop-letting-your-ai-agents-hallucinate-test-failures-22h8)
-- [Docker Compose vs Cài Trực Tiếp: Tối Ưu PostgreSQL &amp; Redis Cục Bộ](https://dev.to/hungphatlaptop/docker-compose-vs-cai-truc-tiep-toi-uu-postgresql-redis-cuc-bo-1174)
-- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
-- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
-- [Solon AOT &amp; Native: From Zero to Native Executable in Three Phases](https://dev.to/solonjava/solon-aot-native-from-zero-to-native-executable-in-three-phases-2cf)
-- [Solon AOT &amp; Native: From Zero to Native Executable in Three Phases](https://dev.to/solonjava/solon-aot-native-from-zero-to-native-executable-in-three-phases-2cf)
+- [Unleash Your Creativity: Exploring Unconventional Projects After Java Full Stack Training in Bangalore](https://dev.to/lm_pg_ae695f1a4c717f/unleash-your-creativity-exploring-unconventional-projects-after-java-full-stack-training-in-3gmk)
+- [Unlock Your Coding Genius: The Hidden Gems of Java Full Stack Training in Bangalore](https://dev.to/lm_pg_ae695f1a4c717f/unlock-your-coding-genius-the-hidden-gems-of-java-full-stack-training-in-bangalore-2ff9)
+- [Jumpstart Your IT Career: A Deep Dive into Java Full Stack Training in Bangalore](https://dev.to/h2_lmt_318f611464212f9336/jumpstart-your-it-career-a-deep-dive-into-java-full-stack-training-in-bangalore-j16)
+- [The Future is Now: Elevate Your Skill Set with Java Full Stack Training in Bangalore Today!](https://dev.to/lmt_new_5ff6b33c7/the-future-is-now-elevate-your-skill-set-with-java-full-stack-training-in-bangalore-today-g4o)
+- [Transformative Journeys: How Java Full Stack Training in Bangalore Can Revolutionize Your Career Path](https://dev.to/h2_lmt_318f611464212f9336/transformative-journeys-how-java-full-stack-training-in-bangalore-can-revolutionize-your-career-42mi)
+- [5 Reasons Why Java Full Stack Training in Bangalore is Essential for Aspiring Tech Professionals in 2026](https://dev.to/lmt_new_5ff6b33c7/5-reasons-why-java-full-stack-training-in-bangalore-is-essential-for-aspiring-tech-professionals-in-16kf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
