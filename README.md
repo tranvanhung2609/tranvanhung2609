@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [When Crypto Gets Tough: A Smarter Way to Think About Investing](https://dev.to/alan_james_35e491d20632c8/when-crypto-gets-tough-a-smarter-way-to-think-about-investing-4a63)
-- [Palantir Made Ontology Hot — Can APM Troubleshooting Stop at Ontology Alone?](https://dev.to/databufflabs/palantir-made-ontology-hot-can-apm-troubleshooting-stop-at-ontology-alone-5dg5)
-- [How to List Users and Groups in Ubuntu Using Command Line](https://dev.to/serveravatar/how-to-list-users-and-groups-in-ubuntu-using-command-line-3760)
-- [Four Times Our Own Dashboards Lied To Us in Five Days](https://dev.to/yonatan_naor_5642e43447ea/four-times-our-own-dashboards-lied-to-us-in-five-days-127)
-- [# Custom Linen Curtains Dubai | Soft, Breathable &amp; Stylish Designs](https://dev.to/haya_hamdan_dbd8b2ed60fe8/-custom-linen-curtains-dubai-soft-breathable-stylish-designs-2d9e)
-- [# Why Machine Monitoring Doesn&#39;t Always Mean Production Is on Schedule](https://dev.to/phuc_bach_22e/-why-machine-monitoring-doesnt-always-mean-production-is-on-schedule-3aid)
+- [No Ads Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-crossfit-timer-what-we-learned-building-random-tactical-timer-4637)
+- [My Agent Ran 15 Minutes of Tests to Fix a Comma. GitHub Cut Me Off Mid-Migration.](https://dev.to/rentierdigital/my-agent-ran-15-minutes-of-tests-to-fix-a-comma-github-cut-me-off-mid-migration-1k30)
+- [How I Built My AWS Cloud Resume Challenge — A Complete Walkthrough](https://dev.to/tejtandel/how-i-built-my-aws-cloud-resume-challenge-a-complete-walkthrough-2mm6)
+- [I built an open source alternative to TimeAPI.io](https://dev.to/birukbelihu/i-built-an-open-source-alternative-to-timeapiio-1lll)
+- [An API for MoQ: provision your own isolated relays](https://dev.to/rasne/an-api-for-moq-provision-your-own-isolated-relays-5ba8)
+- [Vigilmon vs Freshping: Which Uptime Monitor Fits Your Budget?](https://dev.to/vigilmon/vigilmon-vs-freshping-which-uptime-monitor-fits-your-budget-398l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
