@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Hypervisors Are Bottlenecking Your AI Inference Spikes](https://dev.to/sadaf_botanist/why-hypervisors-are-bottlenecking-your-ai-inference-spikes-1jab)
-- [Choosing the Right Infrastructure for BGP Routing and Development Environments](https://dev.to/sadaf_botanist/choosing-the-right-infrastructure-for-bgp-routing-and-development-environments-m9e)
-- [Laravel Herd vs Sail in 2026: Which Environment Holds Up for AI Workloads?](https://dev.to/dewaldhugo/laravel-herd-vs-sail-in-2026-which-environment-holds-up-for-ai-workloads-4a7a)
-- [Top MCP Gateway Options for Managing AI Tool Connections](https://dev.to/kuldeep_paul/top-mcp-gateway-options-for-managing-ai-tool-connections-1pc2)
-- [Best AI Gateway for Secure Data Routing &lpar;2025-2026&rpar;](https://dev.to/kuldeep_paul/best-ai-gateway-for-secure-data-routing-2025-2026-20ae)
-- [A Guide to the Best AI Gateway for Real-Time Traffic Management](https://dev.to/kuldeep_paul/a-guide-to-the-best-ai-gateway-for-real-time-traffic-management-4chg)
+- [I thought Siri was enough until I mapped the 5-step voice pipeline and realized local-first beats cloud-only for agent workflows](https://dev.to/lars_winstand/i-thought-siri-was-enough-until-i-mapped-the-5-step-voice-pipeline-and-realized-local-first-beats-255j)
+- [The 5 Linux Bash Commands Every DevOps Engineer Uses Daily](https://dev.to/vatul16/the-5-linux-bash-commands-every-devops-engineer-uses-daily-3m6i)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4618)
+- [GitHub lanza pull requests apilados en preview público](https://dev.to/lu1tr0n/github-lanza-pull-requests-apilados-en-preview-publico-1nj1)
+- [Your best AI agent lives in a console you don&#39;t own. I moved mine into Git.](https://dev.to/zackzhang/your-best-ai-agent-lives-in-a-console-you-dont-own-i-moved-mine-into-git-2b88)
+- [I Spent 8 Hours Explaining The Cloud And It Was Perfectly Mediocre](https://dev.to/electra-ai/i-spent-8-hours-explaining-the-cloud-and-it-was-perfectly-mediocre-41ln)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
