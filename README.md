@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I thought Siri was enough until I mapped the 5-step voice pipeline and realized local-first beats cloud-only for agent workflows](https://dev.to/lars_winstand/i-thought-siri-was-enough-until-i-mapped-the-5-step-voice-pipeline-and-realized-local-first-beats-255j)
-- [The 5 Linux Bash Commands Every DevOps Engineer Uses Daily](https://dev.to/vatul16/the-5-linux-bash-commands-every-devops-engineer-uses-daily-3m6i)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4618)
-- [GitHub lanza pull requests apilados en preview público](https://dev.to/lu1tr0n/github-lanza-pull-requests-apilados-en-preview-publico-1nj1)
-- [Your best AI agent lives in a console you don&#39;t own. I moved mine into Git.](https://dev.to/zackzhang/your-best-ai-agent-lives-in-a-console-you-dont-own-i-moved-mine-into-git-2b88)
-- [I Spent 8 Hours Explaining The Cloud And It Was Perfectly Mediocre](https://dev.to/electra-ai/i-spent-8-hours-explaining-the-cloud-and-it-was-perfectly-mediocre-41ln)
+- [When Crypto Gets Tough: A Smarter Way to Think About Investing](https://dev.to/alan_james_35e491d20632c8/when-crypto-gets-tough-a-smarter-way-to-think-about-investing-4a63)
+- [Palantir Made Ontology Hot — Can APM Troubleshooting Stop at Ontology Alone?](https://dev.to/databufflabs/palantir-made-ontology-hot-can-apm-troubleshooting-stop-at-ontology-alone-5dg5)
+- [How to List Users and Groups in Ubuntu Using Command Line](https://dev.to/serveravatar/how-to-list-users-and-groups-in-ubuntu-using-command-line-3760)
+- [Four Times Our Own Dashboards Lied To Us in Five Days](https://dev.to/yonatan_naor_5642e43447ea/four-times-our-own-dashboards-lied-to-us-in-five-days-127)
+- [# Custom Linen Curtains Dubai | Soft, Breathable &amp; Stylish Designs](https://dev.to/haya_hamdan_dbd8b2ed60fe8/-custom-linen-curtains-dubai-soft-breathable-stylish-designs-2d9e)
+- [# Why Machine Monitoring Doesn&#39;t Always Mean Production Is on Schedule](https://dev.to/phuc_bach_22e/-why-machine-monitoring-doesnt-always-mean-production-is-on-schedule-3aid)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
