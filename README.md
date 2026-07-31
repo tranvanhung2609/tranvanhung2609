@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [No Ads Crossfit Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-crossfit-timer-what-we-learned-building-random-tactical-timer-4637)
-- [My Agent Ran 15 Minutes of Tests to Fix a Comma. GitHub Cut Me Off Mid-Migration.](https://dev.to/rentierdigital/my-agent-ran-15-minutes-of-tests-to-fix-a-comma-github-cut-me-off-mid-migration-1k30)
-- [How I Built My AWS Cloud Resume Challenge — A Complete Walkthrough](https://dev.to/tejtandel/how-i-built-my-aws-cloud-resume-challenge-a-complete-walkthrough-2mm6)
-- [I built an open source alternative to TimeAPI.io](https://dev.to/birukbelihu/i-built-an-open-source-alternative-to-timeapiio-1lll)
-- [An API for MoQ: provision your own isolated relays](https://dev.to/rasne/an-api-for-moq-provision-your-own-isolated-relays-5ba8)
-- [Vigilmon vs Freshping: Which Uptime Monitor Fits Your Budget?](https://dev.to/vigilmon/vigilmon-vs-freshping-which-uptime-monitor-fits-your-budget-398l)
+- [Model Context Protocol 2.0: Architecting Stateless, Enterprise-Scale Agent Infrastructure](https://dev.to/isuvo/model-context-protocol-20-architecting-stateless-enterprise-scale-agent-infrastructure-3in5)
+- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h)
+- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523)
+- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d)
+- [Modern Automotive Data Pipelines: Processing Used and Damaged Car Acquisitions at Scale](https://dev.to/germanautoexpert_f1777898/modern-automotive-data-pipelines-processing-used-and-damaged-car-acquisitions-at-scale-18j0)
+- [Tailscale didn&#39;t stop the Hugging Face intrusion](https://dev.to/rasne/tailscale-didnt-stop-the-hugging-face-intrusion-2dc0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
