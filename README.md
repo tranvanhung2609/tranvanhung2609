@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol 2.0: Architecting Stateless, Enterprise-Scale Agent Infrastructure](https://dev.to/isuvo/model-context-protocol-20-architecting-stateless-enterprise-scale-agent-infrastructure-3in5)
-- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h)
-- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523)
-- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d)
-- [Modern Automotive Data Pipelines: Processing Used and Damaged Car Acquisitions at Scale](https://dev.to/germanautoexpert_f1777898/modern-automotive-data-pipelines-processing-used-and-damaged-car-acquisitions-at-scale-18j0)
-- [Tailscale didn&#39;t stop the Hugging Face intrusion](https://dev.to/rasne/tailscale-didnt-stop-the-hugging-face-intrusion-2dc0)
+- [Go 1.28: container/set, ordered.Map y heap/v2 llegan a la stdlib](https://dev.to/lu1tr0n/go-128-containerset-orderedmap-y-heapv2-llegan-a-la-stdlib-2jm0)
+- [SRE: correos de incidentes sin ruido operativo](https://dev.to/alexcarteruk/sre-correos-de-incidentes-sin-ruido-operativo-5bc6)
+- [Fixing 404 Errors on CSS/JS Files Served from a Relative Path in Flask](https://dev.to/codenamew/fixing-404-errors-on-cssjs-files-served-from-a-relative-path-in-flask-36o6)
+- [How to Run Two Python Bots on a Single Render or Railway Service](https://dev.to/codenamew/how-to-run-two-python-bots-on-a-single-render-or-railway-service-a7p)
+- [Why Does My Waitress Server Hang With threads=0?](https://dev.to/codenamew/why-does-my-waitress-server-hang-with-threads0-32ej)
+- [FixingModuleNotFoundError: No module named &#39;waitress&#39;](https://dev.to/codenamew/fixingmodulenotfounderror-no-module-named-waitress-2pdd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
