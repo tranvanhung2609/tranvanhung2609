@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc)
-- [A Word document can carry a task graph—and an add-in](https://dev.to/sybilgambleyyu/a-word-document-can-carry-a-task-graph-and-an-add-in-1362)
-- [Sending your git diffs to an HTTP endpoint from GitHub Actions, and the four things that broke it](https://dev.to/michael-yousrie/sending-your-git-diffs-to-an-http-endpoint-from-github-actions-and-the-four-things-that-broke-it-4lcf)
-- [Cloud vendor lock-in! How much should I be scared of? 😱](https://dev.to/prazian/cloud-vendor-lock-in-how-much-should-i-be-scared-of-19h0)
-- [Track MySQL LTS Updates with Renovate](https://dev.to/catatsuy/track-mysql-lts-updates-with-renovate-27f9)
-- [&quot;Why did my AWS deploy break with zero code changes?&quot;](https://dev.to/ntoledo319/why-did-my-aws-deploy-break-with-zero-code-changes-5dg9)
+- [Kafka for Engineers Who&#39;ve Only Used REST: What Actually Changes](https://dev.to/pankaj_batra/kafka-for-engineers-whove-only-used-rest-what-actually-changes-32lb)
+- [Day 117: Artifact Registry - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-117-artifact-registry-ai-system-design-in-seconds-1bk2)
+- [The Word picture hyperlink hiding in legacy VML](https://dev.to/sybilgambleyyu/the-word-picture-hyperlink-hiding-in-legacy-vml-1jnk)
+- [On-Demand Namespace Error Log Watcher in a Locked-Down Kubernetes Environment](https://dev.to/hannody/on-demand-namespace-error-log-watcher-in-a-locked-down-kubernetes-environment-5fji)
+- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)
+- [The legacy Word image link a relationship count cannot explain](https://dev.to/sybilgambleyyu/the-legacy-word-image-link-a-relationship-count-cannot-explain-9p2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
