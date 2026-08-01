@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Go 1.28: container/set, ordered.Map y heap/v2 llegan a la stdlib](https://dev.to/lu1tr0n/go-128-containerset-orderedmap-y-heapv2-llegan-a-la-stdlib-2jm0)
-- [SRE: correos de incidentes sin ruido operativo](https://dev.to/alexcarteruk/sre-correos-de-incidentes-sin-ruido-operativo-5bc6)
-- [Fixing 404 Errors on CSS/JS Files Served from a Relative Path in Flask](https://dev.to/codenamew/fixing-404-errors-on-cssjs-files-served-from-a-relative-path-in-flask-36o6)
-- [How to Run Two Python Bots on a Single Render or Railway Service](https://dev.to/codenamew/how-to-run-two-python-bots-on-a-single-render-or-railway-service-a7p)
-- [Why Does My Waitress Server Hang With threads=0?](https://dev.to/codenamew/why-does-my-waitress-server-hang-with-threads0-32ej)
-- [FixingModuleNotFoundError: No module named &#39;waitress&#39;](https://dev.to/codenamew/fixingmodulenotfounderror-no-module-named-waitress-2pdd)
+- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc)
+- [A Word document can carry a task graph—and an add-in](https://dev.to/sybilgambleyyu/a-word-document-can-carry-a-task-graph-and-an-add-in-1362)
+- [Sending your git diffs to an HTTP endpoint from GitHub Actions, and the four things that broke it](https://dev.to/michael-yousrie/sending-your-git-diffs-to-an-http-endpoint-from-github-actions-and-the-four-things-that-broke-it-4lcf)
+- [Cloud vendor lock-in! How much should I be scared of? 😱](https://dev.to/prazian/cloud-vendor-lock-in-how-much-should-i-be-scared-of-19h0)
+- [Track MySQL LTS Updates with Renovate](https://dev.to/catatsuy/track-mysql-lts-updates-with-renovate-27f9)
+- [&quot;Why did my AWS deploy break with zero code changes?&quot;](https://dev.to/ntoledo319/why-did-my-aws-deploy-break-with-zero-code-changes-5dg9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
