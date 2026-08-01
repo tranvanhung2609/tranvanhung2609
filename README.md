@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kafka for Engineers Who&#39;ve Only Used REST: What Actually Changes](https://dev.to/pankaj_batra/kafka-for-engineers-whove-only-used-rest-what-actually-changes-32lb)
-- [Day 117: Artifact Registry - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-117-artifact-registry-ai-system-design-in-seconds-1bk2)
-- [The Word picture hyperlink hiding in legacy VML](https://dev.to/sybilgambleyyu/the-word-picture-hyperlink-hiding-in-legacy-vml-1jnk)
-- [On-Demand Namespace Error Log Watcher in a Locked-Down Kubernetes Environment](https://dev.to/hannody/on-demand-namespace-error-log-watcher-in-a-locked-down-kubernetes-environment-5fji)
-- [jenkins pipeline for Github cloning and building](https://dev.to/nishant_bhardwaj_9135ba51/jenkins-pipeline-for-github-cloning-and-building-418e)
-- [The legacy Word image link a relationship count cannot explain](https://dev.to/sybilgambleyyu/the-legacy-word-image-link-a-relationship-count-cannot-explain-9p2)
+- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 21: A Bare Git Repo Is the Hub, and an Elastic IP Is the Anchor](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-21-a-bare-git-repo-is-the-hub-and-an-elastic-ip-is-the-21oj)
+- [Why Traditional Log Search Isn’t Enough for Modern Production Systems](https://dev.to/umbrelog/why-traditional-log-search-isnt-enough-for-modern-production-systems-5ao0)
+- [7 Best TRON to Ethereum USDT Bridges for 2026 Transfers](https://dev.to/saundra_bailey_74752fda77/7-best-tron-to-ethereum-usdt-bridges-for-2026-transfers-2478)
+- [4.4% of MCP servers changed their tool contract in 36 hours](https://dev.to/theopslog/44-of-mcp-servers-changed-their-tool-contract-in-36-hours-i3m)
+- [The Agent Safety Gap Nobody Budgets For](https://dev.to/paulcrinigan/the-agent-safety-gap-nobody-budgets-for-odp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
