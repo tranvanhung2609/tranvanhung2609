@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Manual Processor Export Still Needs an Interface Contract](https://dev.to/miran969/a-manual-processor-export-still-needs-an-interface-contract-4l99)
-- [My agent wasn’t flaky at all — it was booting 30-60 seconds before anything was actually ready](https://dev.to/lars_winstand/my-agent-wasnt-flaky-at-all-it-was-booting-30-60-seconds-before-anything-was-actually-ready-27cm)
-- [Tự host dịch vụ dev bằng Docker: Lựa chọn tối ưu hiệu năng cục bộ](https://dev.to/hungphatlaptop/tu-host-dich-vu-dev-bang-docker-lua-chon-toi-uu-hieu-nang-cuc-bo-2c8b)
-- [API Versioning](https://dev.to/gouranga-das-khulna/api-versioning-2h8m)
-- [Kubernetes Upgrades Without Downtime](https://dev.to/samson_tanimawo/kubernetes-upgrades-without-downtime-4kc3)
-- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef)
+- [The SSRF check that passed every test and still had a fail-open branch](https://dev.to/takeaseatventure/the-ssrf-check-that-passed-every-test-and-still-had-a-fail-open-branch-jj6)
+- [Setting Up Nginx Wildcard SSL With Certbot](https://dev.to/chasebot/setting-up-nginx-wildcard-ssl-with-certbot-2j6b)
+- [A Flaky Test Is More Expensive Than a Failing One](https://dev.to/sagar_jain4010/a-flaky-test-is-more-expensive-than-a-failing-one-2gc5)
+- [Spring Security CORS configuration with Spring Boot tutorial — Complete Guide](https://dev.to/rajesh1761/spring-security-cors-configuration-with-spring-boot-tutorial-complete-guide-423b)
+- [The Database Migration Interview Answer: Prove Old and New Code Can Coexist](https://dev.to/karuha/the-database-migration-interview-answer-prove-old-and-new-code-can-coexist-nod)
+- [Sovereign security AI: Mythos-class defense on your own GPUs &lpar;Chitos&rpar;](https://dev.to/ai_openfree_b23025ef075cf/sovereign-security-ai-mythos-class-defense-on-your-own-gpus-chitos-39d5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
