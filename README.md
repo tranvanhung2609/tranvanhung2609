@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 21: A Bare Git Repo Is the Hub, and an Elastic IP Is the Anchor](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-21-a-bare-git-repo-is-the-hub-and-an-elastic-ip-is-the-21oj)
-- [Why Traditional Log Search Isn’t Enough for Modern Production Systems](https://dev.to/umbrelog/why-traditional-log-search-isnt-enough-for-modern-production-systems-5ao0)
-- [7 Best TRON to Ethereum USDT Bridges for 2026 Transfers](https://dev.to/saundra_bailey_74752fda77/7-best-tron-to-ethereum-usdt-bridges-for-2026-transfers-2478)
-- [4.4% of MCP servers changed their tool contract in 36 hours](https://dev.to/theopslog/44-of-mcp-servers-changed-their-tool-contract-in-36-hours-i3m)
-- [The Agent Safety Gap Nobody Budgets For](https://dev.to/paulcrinigan/the-agent-safety-gap-nobody-budgets-for-odp)
+- [A Manual Processor Export Still Needs an Interface Contract](https://dev.to/miran969/a-manual-processor-export-still-needs-an-interface-contract-4l99)
+- [My agent wasn’t flaky at all — it was booting 30-60 seconds before anything was actually ready](https://dev.to/lars_winstand/my-agent-wasnt-flaky-at-all-it-was-booting-30-60-seconds-before-anything-was-actually-ready-27cm)
+- [Tự host dịch vụ dev bằng Docker: Lựa chọn tối ưu hiệu năng cục bộ](https://dev.to/hungphatlaptop/tu-host-dich-vu-dev-bang-docker-lua-chon-toi-uu-hieu-nang-cuc-bo-2c8b)
+- [API Versioning](https://dev.to/gouranga-das-khulna/api-versioning-2h8m)
+- [Kubernetes Upgrades Without Downtime](https://dev.to/samson_tanimawo/kubernetes-upgrades-without-downtime-4kc3)
+- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
