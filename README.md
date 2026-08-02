@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The SSRF check that passed every test and still had a fail-open branch](https://dev.to/takeaseatventure/the-ssrf-check-that-passed-every-test-and-still-had-a-fail-open-branch-jj6)
-- [Setting Up Nginx Wildcard SSL With Certbot](https://dev.to/chasebot/setting-up-nginx-wildcard-ssl-with-certbot-2j6b)
-- [A Flaky Test Is More Expensive Than a Failing One](https://dev.to/sagar_jain4010/a-flaky-test-is-more-expensive-than-a-failing-one-2gc5)
-- [Spring Security CORS configuration with Spring Boot tutorial — Complete Guide](https://dev.to/rajesh1761/spring-security-cors-configuration-with-spring-boot-tutorial-complete-guide-423b)
-- [The Database Migration Interview Answer: Prove Old and New Code Can Coexist](https://dev.to/karuha/the-database-migration-interview-answer-prove-old-and-new-code-can-coexist-nod)
-- [Sovereign security AI: Mythos-class defense on your own GPUs &lpar;Chitos&rpar;](https://dev.to/ai_openfree_b23025ef075cf/sovereign-security-ai-mythos-class-defense-on-your-own-gpus-chitos-39d5)
+- [Top 45 Sites to Buy Verified WebMoney Accounts Online for 2027 upcoming](https://dev.to/hughvely/top-45-sites-to-buy-verified-webmoney-accounts-online-for-2027-upcoming-2bli)
+- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o)
+- [Securing CI/CD with a Software Architecture Analysis Platform](https://dev.to/aabid_hussainwani_2bcb6a/securing-cicd-with-a-software-architecture-analysis-platform-51hm)
+- [Your Identity Controls Passed. Your Authorization Chain Failed.](https://dev.to/ntctech/your-identity-controls-passed-your-authorization-chain-failed-14fm)
+- [The background process that kept dying without a trace](https://dev.to/wrencalloway/the-background-process-that-kept-dying-without-a-trace-l3m)
+- [Your scraper isn&#39;t blocked — your proxy is. Stop treating every failure the same way](https://dev.to/aethyn_team/your-scraper-isnt-blocked-your-proxy-is-stop-treating-every-failure-the-same-way-330d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
