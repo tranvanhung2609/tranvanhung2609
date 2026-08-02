@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Top 45 Sites to Buy Verified WebMoney Accounts Online for 2027 upcoming](https://dev.to/hughvely/top-45-sites-to-buy-verified-webmoney-accounts-online-for-2027-upcoming-2bli)
-- [Great article for security concepts](https://dev.to/le_beltagy/great-article-for-security-concepts-3l7o)
-- [Securing CI/CD with a Software Architecture Analysis Platform](https://dev.to/aabid_hussainwani_2bcb6a/securing-cicd-with-a-software-architecture-analysis-platform-51hm)
-- [Your Identity Controls Passed. Your Authorization Chain Failed.](https://dev.to/ntctech/your-identity-controls-passed-your-authorization-chain-failed-14fm)
-- [The background process that kept dying without a trace](https://dev.to/wrencalloway/the-background-process-that-kept-dying-without-a-trace-l3m)
-- [Your scraper isn&#39;t blocked — your proxy is. Stop treating every failure the same way](https://dev.to/aethyn_team/your-scraper-isnt-blocked-your-proxy-is-stop-treating-every-failure-the-same-way-330d)
+- [Why Buying Server Hardware is a Financial Trap for Scaling Apps](https://dev.to/sadaf_botanist/why-buying-server-hardware-is-a-financial-trap-for-scaling-apps-35o3)
+- [I Gave an AI Agent Nightly Merge Rights to Every Repo I Own &lpar;With a Budget and a Kill Switch&rpar;](https://dev.to/jenatechio/i-gave-an-ai-agent-nightly-merge-rights-to-every-repo-i-own-with-a-budget-and-a-kill-switch-5b6k)
+- [I let OpenClaw babysit my home server for 2 weeks and it taught me the right way to trust an AI ops agent](https://dev.to/lars_winstand/i-let-openclaw-babysit-my-home-server-for-2-weeks-and-it-taught-me-the-right-way-to-trust-an-ai-ops-1ap8)
+- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
+- [Best 96 Places to Buy Gmail Accounts in the US in 2026](https://dev.to/hughvely/best-96-places-to-buy-gmail-accounts-in-the-us-in-2026-47oj)
+- [Your Engineering Team&#39;s Biggest Bottleneck is Slack](https://dev.to/kushagra-devs/your-engineering-teams-biggest-bottleneck-is-slack-48o3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
