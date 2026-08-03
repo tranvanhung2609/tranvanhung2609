@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Next-Gen Influencer Engagement with ShadowSocial.io Through Qwen-Max and Likeness Lock v2.4 Integration](https://dev.to/biffer_rowley_4cdbf203087/unlocking-next-gen-influencer-engagement-with-shadowsocialio-through-qwen-max-and-likeness-lock-6e3)
-- [Receipt Tables for Resend Email APIs](https://dev.to/kevindev27/receipt-tables-for-resend-email-apis-1k47)
-- [The AI that was smart on the bench suddenly started making mistakes in production](https://dev.to/lyr/the-ai-that-was-smart-on-the-bench-suddenly-started-making-mistakes-in-production-463j)
-- [Why My Cache Has No TTL](https://dev.to/shunya_shida/why-my-cache-has-no-ttl-oo7)
-- [Inside cloud-native Java: Exploring Quarkus](https://dev.to/pvsdev/inside-cloud-native-java-exploring-quarkus-2454)
-- [Optimizing ShadowSocialio with Caddy Reverse Proxy and Zero-Idle-RAM Queueing for Seamless AI Influencer Management](https://dev.to/biffer_rowley_4cdbf203087/optimizing-shadowsocialio-with-caddy-reverse-proxy-and-zero-idle-ram-queueing-for-seamless-ai-7m3)
+- [Database CI/CD with PostgreSQL — the Complete Lifecycle from Object File to Automated Deploy](https://dev.to/marcus1968/database-cicd-with-postgresql-the-complete-lifecycle-from-object-file-to-automated-deploy-5gi0)
+- [Engineering a Resilient AI Influencer Infrastructure on ShadowSocial.io with Qwen-Max Multi-Modal AI and Zero-Idle-RAM Queueing Techniques](https://dev.to/biffer_rowley_4cdbf203087/engineering-a-resilient-ai-influencer-infrastructure-on-shadowsocialio-with-qwen-max-multi-modal-26mn)
+- [Unauthenticated God-Mode: Bypassing the Patch in N-central RMM via CVE-2026-18577](https://dev.to/isuvo/unauthenticated-god-mode-bypassing-the-patch-in-n-central-rmm-via-cve-2026-18577-3fee)
+- [65 Best Tiktok Seller Center Services To Buy Online](https://dev.to/theamandaforum/65-best-tiktok-seller-center-services-to-buy-online-4hjj)
+- [How AI Agents Are Reshaping Software Engineering](https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-ai-agents-are-reshaping-software-engineering-lgh)
+- [Building a CircleCI Orb From Scratch: Test It Locally Before You Ever Publish](https://dev.to/mukesh_13/building-a-circleci-orb-from-scratch-test-it-locally-before-you-ever-publish-cln)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
