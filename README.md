@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Keep an Agent Reachable When Its IP Changes: What Has to Be True for the Address to Outlive the IP](https://dev.to/pstayet/keep-an-agent-reachable-when-its-ip-changes-what-has-to-be-true-for-the-address-to-outlive-the-ip-2fga)
-- [Don&#39;t Just Learn AI — Deploy It](https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-3f23)
-- [5 Most Important Programming Languages to Learn in 2026 &lpar;Based on Real Industry Demand&rpar;](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)
-- [From Bloat to Bare Metal: How to Run Java on a scratch Container &lpar;and Why You Should&rpar;](https://dev.to/unni_mana_d760476b6a16eda/from-bloat-to-bare-metal-how-to-run-java-on-a-scratch-container-and-why-you-should-3pal)
-- [From Bloat to Bare Metal: How to Run Java on a scratch Container &lpar;and Why You Should&rpar;](https://dev.to/unni_mana_d760476b6a16eda/from-bloat-to-bare-metal-how-to-run-java-on-a-scratch-container-and-why-you-should-3pal)
-- [Your AI Integration Just Got Deprecated: A Developer&#39;s Guide to Vendor Stability](https://dev.to/icentric/your-ai-integration-just-got-deprecated-a-developers-guide-to-vendor-stability-563j)
+- [Unlocking Next-Gen Influencer Engagement with ShadowSocial.io Through Qwen-Max and Likeness Lock v2.4 Integration](https://dev.to/biffer_rowley_4cdbf203087/unlocking-next-gen-influencer-engagement-with-shadowsocialio-through-qwen-max-and-likeness-lock-6e3)
+- [Receipt Tables for Resend Email APIs](https://dev.to/kevindev27/receipt-tables-for-resend-email-apis-1k47)
+- [The AI that was smart on the bench suddenly started making mistakes in production](https://dev.to/lyr/the-ai-that-was-smart-on-the-bench-suddenly-started-making-mistakes-in-production-463j)
+- [Why My Cache Has No TTL](https://dev.to/shunya_shida/why-my-cache-has-no-ttl-oo7)
+- [Inside cloud-native Java: Exploring Quarkus](https://dev.to/pvsdev/inside-cloud-native-java-exploring-quarkus-2454)
+- [Optimizing ShadowSocialio with Caddy Reverse Proxy and Zero-Idle-RAM Queueing for Seamless AI Influencer Management](https://dev.to/biffer_rowley_4cdbf203087/optimizing-shadowsocialio-with-caddy-reverse-proxy-and-zero-idle-ram-queueing-for-seamless-ai-7m3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
