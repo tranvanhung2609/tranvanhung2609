@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Choosing the Best EOR Provider Is a Strategic Decision, Not Just an HR One](https://dev.to/priyom_sarkar/why-choosing-the-best-eor-provider-is-a-strategic-decision-not-just-an-hr-one-220i)
-- [How to Set Up On-Call Alerting with Vigilmon &lpar;Without PagerDuty Pricing&rpar;](https://dev.to/vigilmon/how-to-set-up-on-call-alerting-with-vigilmon-without-pagerduty-pricing-4f83)
-- [exe.dev: por qué las devtools open source ganan terreno con agentes de IA](https://dev.to/lu1tr0n/exedev-por-que-las-devtools-open-source-ganan-terreno-con-agentes-de-ia-2k66)
-- [How to Monitor Your Hetzner VPS or Dedicated Server with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-hetzner-vps-or-dedicated-server-with-vigilmon-o52)
-- [Best Freshping Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-freshping-alternatives-in-2026-free-and-paid-5990)
-- [Best AppBeat Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-appbeat-alternatives-in-2026-free-and-paid-2kb1)
+- [Instrumenting Legacy Code Without Rewriting It](https://dev.to/samson_tanimawo/instrumenting-legacy-code-without-rewriting-it-47e1)
+- [durable execution is something you install](https://dev.to/pvgomes/durable-execution-is-something-you-install-jfe)
+- [I wrote down 61 rules, then failed my own repos](https://dev.to/svyatov/i-wrote-down-61-rules-then-failed-my-own-repos-5351)
+- [Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/mma-timer-what-we-learned-building-random-tactical-timer-pi)
+- [Designing REST APIs That Are Easy to Maintain](https://dev.to/dakshan_reddym_3a8b0a952/designing-rest-apis-that-are-easy-to-maintain-337g)
+- [Handling API Errors in Synchronous Verification Workflows](https://dev.to/ekycpro/handling-api-errors-in-synchronous-verification-workflows-2b48)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
