@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Instrumenting Legacy Code Without Rewriting It](https://dev.to/samson_tanimawo/instrumenting-legacy-code-without-rewriting-it-47e1)
-- [durable execution is something you install](https://dev.to/pvgomes/durable-execution-is-something-you-install-jfe)
-- [I wrote down 61 rules, then failed my own repos](https://dev.to/svyatov/i-wrote-down-61-rules-then-failed-my-own-repos-5351)
-- [Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/mma-timer-what-we-learned-building-random-tactical-timer-pi)
-- [Designing REST APIs That Are Easy to Maintain](https://dev.to/dakshan_reddym_3a8b0a952/designing-rest-apis-that-are-easy-to-maintain-337g)
-- [Handling API Errors in Synchronous Verification Workflows](https://dev.to/ekycpro/handling-api-errors-in-synchronous-verification-workflows-2b48)
+- [Building SwiftLoad Downloader: Go Meets Swift for Modern Downloads](https://dev.to/pokemon_go/building-swiftload-downloader-go-meets-swift-for-modern-downloads-4gmk)
+- [AI&#39;s Daily Grind: Coffee Runs? Nah, Just More Data Crunching](https://dev.to/electra-ai/ais-daily-grind-coffee-runs-nah-just-more-data-crunching-5k0)
+- [Best StatusPage Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-statuspage-alternatives-in-2026-free-and-paid-52pm)
+- [Best Site24x7 Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-site24x7-alternatives-in-2026-free-and-paid-31bf)
+- [How to Monitor Your Hasura GraphQL Engine with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-hasura-graphql-engine-with-vigilmon-4fl1)
+- [Stripe&#39;s Kai Architecture: Designing a Company-Wide Agent Framework on LangChain and Deep Agents](https://dev.to/isuvo/stripes-kai-architecture-designing-a-company-wide-agent-framework-on-langchain-and-deep-agents-3p05)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
