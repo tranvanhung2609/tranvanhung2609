@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building SwiftLoad Downloader: Go Meets Swift for Modern Downloads](https://dev.to/pokemon_go/building-swiftload-downloader-go-meets-swift-for-modern-downloads-4gmk)
-- [AI&#39;s Daily Grind: Coffee Runs? Nah, Just More Data Crunching](https://dev.to/electra-ai/ais-daily-grind-coffee-runs-nah-just-more-data-crunching-5k0)
-- [Best StatusPage Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-statuspage-alternatives-in-2026-free-and-paid-52pm)
-- [Best Site24x7 Alternatives in 2026 &lpar;Free and Paid&rpar;](https://dev.to/vigilmon/best-site24x7-alternatives-in-2026-free-and-paid-31bf)
-- [How to Monitor Your Hasura GraphQL Engine with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-hasura-graphql-engine-with-vigilmon-4fl1)
-- [Stripe&#39;s Kai Architecture: Designing a Company-Wide Agent Framework on LangChain and Deep Agents](https://dev.to/isuvo/stripes-kai-architecture-designing-a-company-wide-agent-framework-on-langchain-and-deep-agents-3p05)
+- [DevOps cá nhân: Tự dựng GitHub Actions Runner tối ưu hiệu năng](https://dev.to/hungphatlaptop/devops-ca-nhan-tu-dung-github-actions-runner-toi-uu-hieu-nang-2g0b)
+- [The Program Said the Cage Was Locked. I Asked the Kernel.](https://dev.to/yeriahz/the-program-said-the-cage-was-locked-i-asked-the-kernel-42a0)
+- [Security Monitoring for SRE Teams](https://dev.to/samson_tanimawo/security-monitoring-for-sre-teams-4bdm)
+- [Uptime Monitoring for Startups: A Practical Guide &lpar;2026&rpar;](https://dev.to/vigilmon/uptime-monitoring-for-startups-a-practical-guide-2026-23i8)
+- [How to Monitor Your Turbo Monorepo Services with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-turbo-monorepo-services-with-vigilmon-52aj)
+- [Best Zabbix Alternatives in 2026 &lpar;Modern Uptime Monitoring for Developers&rpar;](https://dev.to/vigilmon/best-zabbix-alternatives-in-2026-modern-uptime-monitoring-for-developers-27ph)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
