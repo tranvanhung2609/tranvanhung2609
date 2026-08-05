@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Free Interval Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-interval-timer-what-we-learned-building-random-tactical-timer-2492)
-- [Optimizing Auto-Acquisition Pipelines: A Technical Overview of Vehicle Valuation &amp; Lead Ingestion Systems](https://dev.to/germanautoexpert_f1777898/optimizing-auto-acquisition-pipelines-a-technical-overview-of-vehicle-valuation-lead-ingestion-4cc8)
-- [Four things get called &quot;someone is spoofing my domain&quot;. DMARC fixes one.](https://dev.to/jose_pollman_fa7c6ec43cdd/four-things-get-called-someone-is-spoofing-my-domain-dmarc-fixes-one-2ajb)
-- [How to search a PDF file in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-search-a-pdf-file-in-java-tutorial-5h3f)
-- [My unattended bot once pushed someone else&#39;s work in progress. So I banned git add -A](https://dev.to/takahiro_hashito_a1f3f0dc/my-unattended-bot-once-pushed-someone-elses-work-in-progress-so-i-banned-git-add-a-1dnh)
-- [Infrastructure as Code: The Terraform and CloudFormation Strikes Back](https://dev.to/timevolt/infrastructure-as-code-the-terraform-and-cloudformation-strikes-back-26o0)
+- [Bridging the PM-IDE Divide: GitHub Copilot Cloud Agent for Linear Hits General Availability](https://dev.to/isuvo/bridging-the-pm-ide-divide-github-copilot-cloud-agent-for-linear-hits-general-availability-362i)
+- [How to Monitor Your Qdrant Vector Database with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-qdrant-vector-database-with-vigilmon-5h3p)
+- [How to Monitor Your Keycloak Identity Server with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-keycloak-identity-server-with-vigilmon-858)
+- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)
+- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p)
+- [How to Monitor Your SurrealDB Instance with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-surrealdb-instance-with-vigilmon-48p3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
