@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day11-12: AWS Terraform Built-in Functions](https://dev.to/brian_mengo/day11-12-aws-terraform-built-in-functions-3i22)
-- [Top 5 Shadow AI Detection Tools for 2026](https://dev.to/kuldeep_paul/top-5-shadow-ai-detection-tools-for-2026-5ao7)
-- [Top 5 Open Source MCP Gateways in 2026: Deep Dive](https://dev.to/kuldeep_paul/top-5-open-source-mcp-gateways-in-2026-deep-dive-2pbb)
-- [7 Docker Compose Patterns Every Devops Engineer Should Know](https://dev.to/morizal/7-docker-compose-patterns-every-devops-engineer-should-know-2hf7)
-- [I Built a Private Software Registry, and Four Different Tools Now Publish to It](https://dev.to/vivian_okose/i-built-a-private-software-registry-and-four-different-tools-now-publish-to-it-2cjp)
-- [Kubernetes cost allocation with OpenCost](https://dev.to/bwlkr/kubernetes-cost-allocation-with-opencost-4dol)
+- [Free Interval Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/free-interval-timer-what-we-learned-building-random-tactical-timer-2492)
+- [Optimizing Auto-Acquisition Pipelines: A Technical Overview of Vehicle Valuation &amp; Lead Ingestion Systems](https://dev.to/germanautoexpert_f1777898/optimizing-auto-acquisition-pipelines-a-technical-overview-of-vehicle-valuation-lead-ingestion-4cc8)
+- [Four things get called &quot;someone is spoofing my domain&quot;. DMARC fixes one.](https://dev.to/jose_pollman_fa7c6ec43cdd/four-things-get-called-someone-is-spoofing-my-domain-dmarc-fixes-one-2ajb)
+- [How to search a PDF file in Java &lpar;Tutorial&rpar;](https://dev.to/idrsolutions/how-to-search-a-pdf-file-in-java-tutorial-5h3f)
+- [My unattended bot once pushed someone else&#39;s work in progress. So I banned git add -A](https://dev.to/takahiro_hashito_a1f3f0dc/my-unattended-bot-once-pushed-someone-elses-work-in-progress-so-i-banned-git-add-a-1dnh)
+- [Infrastructure as Code: The Terraform and CloudFormation Strikes Back](https://dev.to/timevolt/infrastructure-as-code-the-terraform-and-cloudformation-strikes-back-26o0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
