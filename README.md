@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [DevOps cá nhân: Tự dựng GitHub Actions Runner tối ưu hiệu năng](https://dev.to/hungphatlaptop/devops-ca-nhan-tu-dung-github-actions-runner-toi-uu-hieu-nang-2g0b)
-- [The Program Said the Cage Was Locked. I Asked the Kernel.](https://dev.to/yeriahz/the-program-said-the-cage-was-locked-i-asked-the-kernel-42a0)
-- [Security Monitoring for SRE Teams](https://dev.to/samson_tanimawo/security-monitoring-for-sre-teams-4bdm)
-- [Uptime Monitoring for Startups: A Practical Guide &lpar;2026&rpar;](https://dev.to/vigilmon/uptime-monitoring-for-startups-a-practical-guide-2026-23i8)
-- [How to Monitor Your Turbo Monorepo Services with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-turbo-monorepo-services-with-vigilmon-52aj)
-- [Best Zabbix Alternatives in 2026 &lpar;Modern Uptime Monitoring for Developers&rpar;](https://dev.to/vigilmon/best-zabbix-alternatives-in-2026-modern-uptime-monitoring-for-developers-27ph)
+- [Day11-12: AWS Terraform Built-in Functions](https://dev.to/brian_mengo/day11-12-aws-terraform-built-in-functions-3i22)
+- [Top 5 Shadow AI Detection Tools for 2026](https://dev.to/kuldeep_paul/top-5-shadow-ai-detection-tools-for-2026-5ao7)
+- [Top 5 Open Source MCP Gateways in 2026: Deep Dive](https://dev.to/kuldeep_paul/top-5-open-source-mcp-gateways-in-2026-deep-dive-2pbb)
+- [7 Docker Compose Patterns Every Devops Engineer Should Know](https://dev.to/morizal/7-docker-compose-patterns-every-devops-engineer-should-know-2hf7)
+- [I Built a Private Software Registry, and Four Different Tools Now Publish to It](https://dev.to/vivian_okose/i-built-a-private-software-registry-and-four-different-tools-now-publish-to-it-2cjp)
+- [Kubernetes cost allocation with OpenCost](https://dev.to/bwlkr/kubernetes-cost-allocation-with-opencost-4dol)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
