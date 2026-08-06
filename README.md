@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java CMYK to RGB Conversion – Speed Comparison](https://dev.to/idrsolutions/java-cmyk-to-rgb-conversion-speed-comparison-1onl)
-- [Build a Load Testing Tool with Python and asyncio](https://dev.to/qingluan/build-a-load-testing-tool-with-python-and-asyncio-h3j)
-- [Dify vs Custom Development: When Visual AI Workflows Actually Work &lpar;and When They Don&#39;t&rpar;](https://dev.to/zediot/dify-vs-custom-development-when-visual-ai-workflows-actually-work-and-when-they-dont-62h)
-- [85 Best Sites to Buy Google Reviews &lpar;Forget The Risk&rpar;](https://dev.to/dendihamim21/85-best-sites-to-buy-google-reviews-forget-the-risk-dng)
-- [Prometheus vs Datadog: Open Source vs SaaS Monitoring, Honestly Compared](https://dev.to/instadevops/prometheus-vs-datadog-open-source-vs-saas-monitoring-honestly-compared-3gjo)
-- [Buy Elite Yelp Reviews - Trusted &amp; Reliable Service 2026](https://dev.to/dendihamim21/buy-elite-yelp-reviews-trusted-reliable-service-2026-ei)
+- [The Redis &amp; Kafka Interview Questions I Got Asked 23 Times &lpar;And How I Finally Answered Them&rpar;](https://dev.to/moyuping/the-redis-kafka-interview-questions-i-got-asked-23-times-and-how-i-finally-answered-them-2ho)
+- [Why I Stopped Trusting &quot;It Works on My Machine&quot; and Actually Learned to Ship](https://dev.to/yassines99/why-i-stopped-trusting-it-works-on-my-machine-and-actually-learned-to-ship-41ml)
+- [Deploying AI Apps to Production &lpar;Costs, Scaling, and Not Getting Blindsided&rpar;](https://dev.to/syedmuhammadaliraza/deploying-ai-apps-to-production-costs-scaling-and-not-getting-blindsided-19eg)
+- [Optimizing Burstable ECS for Real-Time AI Video Pipelines: Zero-Idle-RAM Queueing with Caddy Reverse Proxy on ShadowSocial.io](https://dev.to/biffer_rowley_4cdbf203087/optimizing-burstable-ecs-for-real-time-ai-video-pipelines-zero-idle-ram-queueing-with-caddy-2f7n)
+- [Agent to Human Notification Without Email or SMS: A Recipe That Skips SMTP and SMS Gateways](https://dev.to/pstayet/agent-to-human-notification-without-email-or-sms-a-recipe-that-skips-smtp-and-sms-gateways-2afn)
+- [How E-Commerce Brands Eliminate Agency Costs Using Likeness Lock v2.4 and Continuous Apparel Rendering](https://dev.to/biffer_rowley_4cdbf203087/how-e-commerce-brands-eliminate-agency-costs-using-likeness-lock-v24-and-continuous-apparel-4e88)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
