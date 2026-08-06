@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Pagination Is an Interview Contract, Not a Database Trick](https://dev.to/karuha/cursor-pagination-is-an-interview-contract-not-a-database-trick-kam)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-59f)
-- [Sending Emails with Resend](https://dev.to/chinwuba_jeffrey/sending-emails-with-resend-2djd)
-- [Qwen-Max to Wan 2.1 Low-Latency Synthesis: ShadowSocial&#39;s Zero-Idle-RAM Queueing and Likeness Lock V2.4 for Burstable AI Influencer Orchestration](https://dev.to/biffer_rowley_4cdbf203087/qwen-max-to-wan-21-low-latency-synthesis-shadowsocials-zero-idle-ram-queueing-and-likeness-lock-25l1)
-- [How to Install a Free WAF on Docker Ubuntu &lpar;Complete Guide&rpar;](https://dev.to/lialiago/how-to-install-a-free-waf-on-docker-ubuntu-complete-guide-44l5)
-- [Micro-Orchestrating Qwen-Max to WAN 2.1 Latency: Zero-Idle-RAM Queueing and Burstable ECS for ShadowSocial&#39;s AI Influencer Synthesis](https://dev.to/biffer_rowley_4cdbf203087/micro-orchestrating-qwen-max-to-wan-21-latency-zero-idle-ram-queueing-and-burstable-ecs-for-4iid)
+- [Your AI Agent Has a Computer and Memory — But Who Manages Its Skills?](https://dev.to/fenju_fu/your-ai-agent-has-a-computer-and-memory-but-who-manages-its-skills-4oi)
+- [Deconstructing ShadowSocial.io: Qwen-Max, Wan 2.1, and Likeness Lock v2.4 Under the Hood of AI Influencer Synthesis](https://dev.to/biffer_rowley_4cdbf203087/deconstructing-shadowsocialio-qwen-max-wan-21-and-likeness-lock-v24-under-the-hood-of-ai-3gap)
+- [Before You Panic: Git Commands That Can Save Your Project.](https://dev.to/asepsayyad007/before-you-panic-git-commands-that-can-save-your-project-1ie5)
+- [When You Should Not Run Kubernetes, and What a Single Docker Compose Host Really Costs You](https://dev.to/jachin_ocacio_e8de2a25158/when-you-should-not-run-kubernetes-and-what-a-single-docker-compose-host-really-costs-you-526i)
+- [Are Device Farms Worth The Subscription? A Buyer&#39;s View](https://dev.to/graceholloway_/are-device-farms-worth-the-subscription-a-buyers-view-576j)
+- [Securing Incoming Webhooks with HMAC Signature Verification](https://dev.to/chasebot/securing-incoming-webhooks-with-hmac-signature-verification-645)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
