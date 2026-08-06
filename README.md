@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the PM-IDE Divide: GitHub Copilot Cloud Agent for Linear Hits General Availability](https://dev.to/isuvo/bridging-the-pm-ide-divide-github-copilot-cloud-agent-for-linear-hits-general-availability-362i)
-- [How to Monitor Your Qdrant Vector Database with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-qdrant-vector-database-with-vigilmon-5h3p)
-- [How to Monitor Your Keycloak Identity Server with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-keycloak-identity-server-with-vigilmon-858)
-- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)
-- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p)
-- [How to Monitor Your SurrealDB Instance with Vigilmon](https://dev.to/vigilmon/how-to-monitor-your-surrealdb-instance-with-vigilmon-48p3)
+- [Cursor Pagination Is an Interview Contract, Not a Database Trick](https://dev.to/karuha/cursor-pagination-is-an-interview-contract-not-a-database-trick-kam)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-59f)
+- [Sending Emails with Resend](https://dev.to/chinwuba_jeffrey/sending-emails-with-resend-2djd)
+- [Qwen-Max to Wan 2.1 Low-Latency Synthesis: ShadowSocial&#39;s Zero-Idle-RAM Queueing and Likeness Lock V2.4 for Burstable AI Influencer Orchestration](https://dev.to/biffer_rowley_4cdbf203087/qwen-max-to-wan-21-low-latency-synthesis-shadowsocials-zero-idle-ram-queueing-and-likeness-lock-25l1)
+- [How to Install a Free WAF on Docker Ubuntu &lpar;Complete Guide&rpar;](https://dev.to/lialiago/how-to-install-a-free-waf-on-docker-ubuntu-complete-guide-44l5)
+- [Micro-Orchestrating Qwen-Max to WAN 2.1 Latency: Zero-Idle-RAM Queueing and Burstable ECS for ShadowSocial&#39;s AI Influencer Synthesis](https://dev.to/biffer_rowley_4cdbf203087/micro-orchestrating-qwen-max-to-wan-21-latency-zero-idle-ram-queueing-and-burstable-ecs-for-4iid)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
