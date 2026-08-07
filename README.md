@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Quarkus + GitHub Actions: Reducing CI Time by Half Without Larger Runners](https://dev.to/aeells/quarkus-github-actions-reducing-ci-time-by-half-without-larger-runners-51ao)
-- [I thought OpenClaw was dead until I realized people were just tired of babysitting 18 cron jobs and a self-hosted runtime](https://dev.to/lars_winstand/i-thought-openclaw-was-dead-until-i-realized-people-were-just-tired-of-babysitting-18-cron-jobs-and-5g36)
-- [10 Simple Guide to Buying Old GitHub Accounts In](https://dev.to/lyducminhkb3bw/10-simple-guide-to-buying-old-github-accounts-in-2ak9)
-- [One interface, many runtimes: a build-preset registry in Laravel](https://dev.to/nasrulhazim/one-interface-many-runtimes-a-build-preset-registry-in-laravel-g3m)
-- [My Top 5 VS Code Extensions for DevOps and Cloud Engineering](https://dev.to/vatul16/my-top-5-vs-code-extensions-for-devops-and-cloud-engineering-4gdg)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4abn)
+- [Hard-Coding Secrets in ColdFusion: Why It’s Still Happening and How to Stop It for Good](https://dev.to/deepak_sir__/hard-coding-secrets-in-coldfusion-why-its-still-happening-and-how-to-stop-it-for-good-5g6d)
+- [Platform Engineering on AWS: Building an Internal Developer Platform That Developers Actually Use](https://dev.to/alpeshkumbhare/platform-engineering-on-aws-building-an-internal-developer-platform-that-developers-actually-use-184h)
+- [Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io&#39;s Qwen-Max and Wan 2.1](https://dev.to/biffer_rowley_4cdbf203087/caddy-proxied-zero-idle-ram-burstable-ecs-engineering-sub-50ms-multi-modal-ai-persona-generation-3212)
+- [Ante &lpar;by Antigma Labs&rpar;](https://dev.to/megha_ibhrampurkar_350ed3/ante-by-antigma-labs-ha2)
+- [Jenkins Shared Library Structure: vars/ vs src/ for Pipelines](https://dev.to/oleksandr_kuryzhev_42873f/jenkins-shared-library-structure-vars-vs-src-for-pipelines-2m8p)
+- [In-House vs Outsourced Web App Development: Weighing the Trade-offs](https://dev.to/justin_roy_b6015230c79108/in-house-vs-outsourced-web-app-development-weighing-the-trade-offs-2862)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
