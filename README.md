@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What to Remove from Logs Before Sharing Them](https://dev.to/tanya_monoware/what-to-remove-from-logs-before-sharing-them-3n6b)
-- [Serverless Voice Agents on AWS: Production Architecture](https://dev.to/tran_tienvan_e45fc26d655/serverless-voice-agents-on-aws-production-architecture-1bfi)
-- [When Governance Becomes Infrastructure, It Creates New Failure Domains](https://dev.to/ntctech/when-governance-becomes-infrastructure-it-creates-new-failure-domains-nnm)
-- [Elevate Your Expertise: How Java Full Stack Training in Bangalore Can Set You Apart in 2026](https://dev.to/lm_pg_ae695f1a4c717f/elevate-your-expertise-how-java-full-stack-training-in-bangalore-can-set-you-apart-in-2026-8a9)
-- [Journey to Success: Why Enrolling in Premier Java Full Stack Training in Bangalore is Essential for 2026](https://dev.to/h2_lmt_318f611464212f9336/journey-to-success-why-enrolling-in-premier-java-full-stack-training-in-bangalore-is-essential-for-5175)
-- [Your Roadmap to Career Success with Java Full Stack Training in Bangalore: What to Know for 2026](https://dev.to/lm_pg_ae695f1a4c717f/your-roadmap-to-career-success-with-java-full-stack-training-in-bangalore-what-to-know-for-2026-4mc)
+- [Qwen-Max &amp; Wan 2.1 Synergy: Engineering Sub-50ms AI Persona Generation on ShadowSocial.io&#39;s Caddy-Proxied, Zero-Idle-RAM Burstable ECS](https://dev.to/biffer_rowley_4cdbf203087/qwen-max-wan-21-synergy-engineering-sub-50ms-ai-persona-generation-on-shadowsocialios-55a8)
+- [The Gate Everyone Cited and Nobody Enforced: A War Story About Policy-as-Text vs. Policy-as-Code](https://dev.to/mukesh_13/the-gate-everyone-cited-and-nobody-enforced-a-war-story-about-policy-as-text-vs-policy-as-code-1gbo)
+- [How to Spot the Next NRC Before It Crashes](https://dev.to/adeniran_adebayoadekunle/how-to-spot-the-next-nrc-before-it-crashes-43n5)
+- [What 6 months of running a personal AI assistant on a $6 VPS actually costs](https://dev.to/samadhi_tattoo_7ed1c0d05b/what-6-months-of-running-a-personal-ai-assistant-on-a-6-vps-actually-costs-535a)
+- [Build a Service Discovery System with Python](https://dev.to/qingluan/build-a-service-discovery-system-with-python-17fg)
+- [DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX](https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
