@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Hard-Coding Secrets in ColdFusion: Why It’s Still Happening and How to Stop It for Good](https://dev.to/deepak_sir__/hard-coding-secrets-in-coldfusion-why-its-still-happening-and-how-to-stop-it-for-good-5g6d)
-- [Platform Engineering on AWS: Building an Internal Developer Platform That Developers Actually Use](https://dev.to/alpeshkumbhare/platform-engineering-on-aws-building-an-internal-developer-platform-that-developers-actually-use-184h)
-- [Caddy-Proxied, Zero-Idle-RAM Burstable ECS: Engineering Sub-50ms Multi-Modal AI Persona Generation with ShadowSocial.io&#39;s Qwen-Max and Wan 2.1](https://dev.to/biffer_rowley_4cdbf203087/caddy-proxied-zero-idle-ram-burstable-ecs-engineering-sub-50ms-multi-modal-ai-persona-generation-3212)
-- [Ante &lpar;by Antigma Labs&rpar;](https://dev.to/megha_ibhrampurkar_350ed3/ante-by-antigma-labs-ha2)
-- [Jenkins Shared Library Structure: vars/ vs src/ for Pipelines](https://dev.to/oleksandr_kuryzhev_42873f/jenkins-shared-library-structure-vars-vs-src-for-pipelines-2m8p)
-- [In-House vs Outsourced Web App Development: Weighing the Trade-offs](https://dev.to/justin_roy_b6015230c79108/in-house-vs-outsourced-web-app-development-weighing-the-trade-offs-2862)
+- [What to Remove from Logs Before Sharing Them](https://dev.to/tanya_monoware/what-to-remove-from-logs-before-sharing-them-3n6b)
+- [Serverless Voice Agents on AWS: Production Architecture](https://dev.to/tran_tienvan_e45fc26d655/serverless-voice-agents-on-aws-production-architecture-1bfi)
+- [When Governance Becomes Infrastructure, It Creates New Failure Domains](https://dev.to/ntctech/when-governance-becomes-infrastructure-it-creates-new-failure-domains-nnm)
+- [Elevate Your Expertise: How Java Full Stack Training in Bangalore Can Set You Apart in 2026](https://dev.to/lm_pg_ae695f1a4c717f/elevate-your-expertise-how-java-full-stack-training-in-bangalore-can-set-you-apart-in-2026-8a9)
+- [Journey to Success: Why Enrolling in Premier Java Full Stack Training in Bangalore is Essential for 2026](https://dev.to/h2_lmt_318f611464212f9336/journey-to-success-why-enrolling-in-premier-java-full-stack-training-in-bangalore-is-essential-for-5175)
+- [Your Roadmap to Career Success with Java Full Stack Training in Bangalore: What to Know for 2026](https://dev.to/lm_pg_ae695f1a4c717f/your-roadmap-to-career-success-with-java-full-stack-training-in-bangalore-what-to-know-for-2026-4mc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
