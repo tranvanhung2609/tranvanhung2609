@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Redis &amp; Kafka Interview Questions I Got Asked 23 Times &lpar;And How I Finally Answered Them&rpar;](https://dev.to/moyuping/the-redis-kafka-interview-questions-i-got-asked-23-times-and-how-i-finally-answered-them-2ho)
-- [Why I Stopped Trusting &quot;It Works on My Machine&quot; and Actually Learned to Ship](https://dev.to/yassines99/why-i-stopped-trusting-it-works-on-my-machine-and-actually-learned-to-ship-41ml)
-- [Deploying AI Apps to Production &lpar;Costs, Scaling, and Not Getting Blindsided&rpar;](https://dev.to/syedmuhammadaliraza/deploying-ai-apps-to-production-costs-scaling-and-not-getting-blindsided-19eg)
-- [Optimizing Burstable ECS for Real-Time AI Video Pipelines: Zero-Idle-RAM Queueing with Caddy Reverse Proxy on ShadowSocial.io](https://dev.to/biffer_rowley_4cdbf203087/optimizing-burstable-ecs-for-real-time-ai-video-pipelines-zero-idle-ram-queueing-with-caddy-2f7n)
-- [Agent to Human Notification Without Email or SMS: A Recipe That Skips SMTP and SMS Gateways](https://dev.to/pstayet/agent-to-human-notification-without-email-or-sms-a-recipe-that-skips-smtp-and-sms-gateways-2afn)
-- [How E-Commerce Brands Eliminate Agency Costs Using Likeness Lock v2.4 and Continuous Apparel Rendering](https://dev.to/biffer_rowley_4cdbf203087/how-e-commerce-brands-eliminate-agency-costs-using-likeness-lock-v24-and-continuous-apparel-4e88)
+- [Quarkus + GitHub Actions: Reducing CI Time by Half Without Larger Runners](https://dev.to/aeells/quarkus-github-actions-reducing-ci-time-by-half-without-larger-runners-51ao)
+- [I thought OpenClaw was dead until I realized people were just tired of babysitting 18 cron jobs and a self-hosted runtime](https://dev.to/lars_winstand/i-thought-openclaw-was-dead-until-i-realized-people-were-just-tired-of-babysitting-18-cron-jobs-and-5g36)
+- [10 Simple Guide to Buying Old GitHub Accounts In](https://dev.to/lyducminhkb3bw/10-simple-guide-to-buying-old-github-accounts-in-2ak9)
+- [One interface, many runtimes: a build-preset registry in Laravel](https://dev.to/nasrulhazim/one-interface-many-runtimes-a-build-preset-registry-in-laravel-g3m)
+- [My Top 5 VS Code Extensions for DevOps and Cloud Engineering](https://dev.to/vatul16/my-top-5-vs-code-extensions-for-devops-and-cloud-engineering-4gdg)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4abn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
