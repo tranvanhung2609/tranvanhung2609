@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The MCP server you choose should pass an exit test](https://dev.to/mads_hansen_27b33ebfee4c9/the-mcp-server-you-choose-should-pass-an-exit-test-4efb)
-- [Multi-Region AI Serving](https://dev.to/multigrid/multi-region-ai-serving-2n2a)
-- [Multi-GPU Inference: Tensor and Pipeline Parallelism](https://dev.to/multigrid/multi-gpu-inference-tensor-and-pipeline-parallelism-4mfj)
-- [Model Weights in CI/CD](https://dev.to/multigrid/model-weights-in-cicd-13c4)
-- [Secrets Management for DevOps AI Agents: Credentials Without Leaks](https://dev.to/devtocash/secrets-management-for-devops-ai-agents-credentials-without-leaks-5gb3)
-- [Feature Flags for Models and Prompts](https://dev.to/multigrid/feature-flags-for-models-and-prompts-p8h)
+- [The AI Agents Were Done. The Delivery Clock Wasn’t.](https://dev.to/dmytronasyrov/the-ai-agents-were-done-the-delivery-clock-wasnt-5ah5)
+- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j)
+- [Free, unlimited access to frontier computer-use agents](https://dev.to/prateek_yj_15603f79cafabc/free-unlimited-access-to-frontier-computer-use-agents-5d1n)
+- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs &amp; Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o)
+- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
+- [Docker for Beginners: Images, Containers, Ports, and Volumes Explained](https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
