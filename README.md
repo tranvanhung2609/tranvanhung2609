@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing Reliable APIs for Digital Lending Platforms](https://dev.to/snehawani/designing-reliable-apis-for-digital-lending-platforms-ja4)
-- [AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies &amp; Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)
-- [Token budget guardrails: enforcement, not just visibility](https://dev.to/opsveritas/token-budget-guardrails-enforcement-not-just-visibility-3k89)
-- [🌐 Linux for DevOps #3: Understanding Linux Networking Through Hands-On Practice](https://dev.to/arpit_mungone_0107/linux-for-devops-3-understanding-linux-networking-through-hands-on-practice-3hof)
-- [What AWS VPC Actually Does Under the Hood &lpar;I Rebuilt It on Linux to Find Out&rpar;](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)
-- [GitOps: Declarative Delivery with ArgoCD &amp; Flux](https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121)
+- [Kubernetes Hands-on hardcore : The Workqueue isn&#39;t your bottleneck](https://dev.to/akshath_agarwal/kubernetes-hands-on-hardcore-the-workqueue-isnt-your-bottleneck-5c1n)
+- [We wired a ‘cheap’ model into our CRM and accidentally made pricing changes a production risk](https://dev.to/lars_winstand/we-wired-a-cheap-model-into-our-crm-and-accidentally-made-pricing-changes-a-production-risk-1cg7)
+- [Stop Chasing Symptoms: How We Built an Autonomous Root Cause Analysis Engine in Rust 🦀](https://dev.to/muhammad_lutfimuzaki_/stop-chasing-symptoms-how-we-built-an-autonomous-root-cause-analysis-engine-in-rust-2g8d)
+- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074)
+- [Build a Custom Reverse Proxy with Python](https://dev.to/qingluan/build-a-custom-reverse-proxy-with-python-1034)
+- [How I moved from shared hosting to a private VPS — and what I learned about who actually knows you&#39;re there](https://dev.to/apitala0091/how-i-moved-from-shared-hosting-to-a-private-vps-and-what-i-learned-about-who-actually-knows-37kc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
