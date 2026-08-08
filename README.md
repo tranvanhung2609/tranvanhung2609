@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The AI Agents Were Done. The Delivery Clock Wasn’t.](https://dev.to/dmytronasyrov/the-ai-agents-were-done-the-delivery-clock-wasnt-5ah5)
-- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j)
-- [Free, unlimited access to frontier computer-use agents](https://dev.to/prateek_yj_15603f79cafabc/free-unlimited-access-to-frontier-computer-use-agents-5d1n)
-- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs &amp; Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o)
-- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
-- [Docker for Beginners: Images, Containers, Ports, and Volumes Explained](https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6)
+- [Designing Reliable APIs for Digital Lending Platforms](https://dev.to/snehawani/designing-reliable-apis-for-digital-lending-platforms-ja4)
+- [AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies &amp; Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)
+- [Token budget guardrails: enforcement, not just visibility](https://dev.to/opsveritas/token-budget-guardrails-enforcement-not-just-visibility-3k89)
+- [🌐 Linux for DevOps #3: Understanding Linux Networking Through Hands-On Practice](https://dev.to/arpit_mungone_0107/linux-for-devops-3-understanding-linux-networking-through-hands-on-practice-3hof)
+- [What AWS VPC Actually Does Under the Hood &lpar;I Rebuilt It on Linux to Find Out&rpar;](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)
+- [GitOps: Declarative Delivery with ArgoCD &amp; Flux](https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
