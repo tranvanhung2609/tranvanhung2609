@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Qwen-Max &amp; Wan 2.1 Synergy: Engineering Sub-50ms AI Persona Generation on ShadowSocial.io&#39;s Caddy-Proxied, Zero-Idle-RAM Burstable ECS](https://dev.to/biffer_rowley_4cdbf203087/qwen-max-wan-21-synergy-engineering-sub-50ms-ai-persona-generation-on-shadowsocialios-55a8)
-- [The Gate Everyone Cited and Nobody Enforced: A War Story About Policy-as-Text vs. Policy-as-Code](https://dev.to/mukesh_13/the-gate-everyone-cited-and-nobody-enforced-a-war-story-about-policy-as-text-vs-policy-as-code-1gbo)
-- [How to Spot the Next NRC Before It Crashes](https://dev.to/adeniran_adebayoadekunle/how-to-spot-the-next-nrc-before-it-crashes-43n5)
-- [What 6 months of running a personal AI assistant on a $6 VPS actually costs](https://dev.to/samadhi_tattoo_7ed1c0d05b/what-6-months-of-running-a-personal-ai-assistant-on-a-6-vps-actually-costs-535a)
-- [Build a Service Discovery System with Python](https://dev.to/qingluan/build-a-service-discovery-system-with-python-17fg)
-- [DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX](https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0)
+- [The MCP server you choose should pass an exit test](https://dev.to/mads_hansen_27b33ebfee4c9/the-mcp-server-you-choose-should-pass-an-exit-test-4efb)
+- [Multi-Region AI Serving](https://dev.to/multigrid/multi-region-ai-serving-2n2a)
+- [Multi-GPU Inference: Tensor and Pipeline Parallelism](https://dev.to/multigrid/multi-gpu-inference-tensor-and-pipeline-parallelism-4mfj)
+- [Model Weights in CI/CD](https://dev.to/multigrid/model-weights-in-cicd-13c4)
+- [Secrets Management for DevOps AI Agents: Credentials Without Leaks](https://dev.to/devtocash/secrets-management-for-devops-ai-agents-credentials-without-leaks-5gb3)
+- [Feature Flags for Models and Prompts](https://dev.to/multigrid/feature-flags-for-models-and-prompts-p8h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
