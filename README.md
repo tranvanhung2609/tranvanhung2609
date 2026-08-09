@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Agents Need a Handoff Contract, Not More Prompts](https://dev.to/dmytronasyrov/ai-coding-agents-need-a-handoff-contract-not-more-prompts-125o)
-- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
-- [Where Can i Buy Verified MEXC Account Online?](https://dev.to/mexcaccount148/where-can-i-buy-verified-mexc-account-online-h4m)
-- [Choisir entre ChatGPT ou Copilot : guide 2026: field controls that hold](https://dev.to/isabelle_dubuis_d858453d7/choisir-entre-chatgpt-ou-copilot-guide-2026-field-controls-that-hold-aga)
-- [Your Browser Agent Has State. Make It Prove Which State It Used](https://dev.to/zira125/your-browser-agent-has-state-make-it-prove-which-state-it-used-4jno)
-- [Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew](https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a)
+- [AmaliTech Apprenticeship Program &lpar;AAP&rpar; &lpar;AAP&rpar;](https://dev.to/rukundokevin/amalitech-apprenticeship-program-aap-aap-2ojd)
+- [Python Best Practices for Production Code](https://dev.to/acquriotech/python-best-practices-for-production-code-1fhl)
+- [Your Vendor Review Process Never Saw The Real Supplier](https://dev.to/ntctech/your-vendor-review-process-never-saw-the-real-supplier-5ell)
+- [Top Frequently Used AWS Services: A Beginner-Friendly Guide](https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1)
+- [Rate Limiting: The Sliding Window Approach](https://dev.to/aniket28dot/rate-limiting-the-sliding-window-approach-3fg2)
+- [I built kern – A CLI that replaces Docker with Unikernels &lpar;~10ms boot time, no daemon, pure QEMU&rpar;](https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
