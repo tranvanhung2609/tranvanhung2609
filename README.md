@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Cost Allocation Per Namespace: Showback That Teams Actually Trust](https://dev.to/devtocash/kubernetes-cost-allocation-per-namespace-showback-that-teams-actually-trust-4b43)
-- [🇺🇸 USA Remote Jobs Hiring Now 2026](https://dev.to/job_offer_74680b9f128121c/usa-remote-jobs-hiring-now-2026-m6k)
-- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-1aaf)
-- [The Matrix Reloaded: Securing Your App with Secrets, SSL, and Firewalls](https://dev.to/timevolt/the-matrix-reloaded-securing-your-app-with-secrets-ssl-and-firewalls-n63)
-- [Beyond the Cart: Using WooCommerce as an Event-Driven Application Engine](https://dev.to/aasimghaffar/beyond-the-cart-using-woocommerce-as-an-event-driven-application-engine-13j6)
-- [Load Balancer Tuning: Lessons from Production](https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-1k21)
+- [AI Coding Agents Need a Handoff Contract, Not More Prompts](https://dev.to/dmytronasyrov/ai-coding-agents-need-a-handoff-contract-not-more-prompts-125o)
+- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
+- [Where Can i Buy Verified MEXC Account Online?](https://dev.to/mexcaccount148/where-can-i-buy-verified-mexc-account-online-h4m)
+- [Choisir entre ChatGPT ou Copilot : guide 2026: field controls that hold](https://dev.to/isabelle_dubuis_d858453d7/choisir-entre-chatgpt-ou-copilot-guide-2026-field-controls-that-hold-aga)
+- [Your Browser Agent Has State. Make It Prove Which State It Used](https://dev.to/zira125/your-browser-agent-has-state-make-it-prove-which-state-it-used-4jno)
+- [Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew](https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
