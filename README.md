@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AmaliTech Apprenticeship Program &lpar;AAP&rpar; &lpar;AAP&rpar;](https://dev.to/rukundokevin/amalitech-apprenticeship-program-aap-aap-2ojd)
-- [Python Best Practices for Production Code](https://dev.to/acquriotech/python-best-practices-for-production-code-1fhl)
-- [Your Vendor Review Process Never Saw The Real Supplier](https://dev.to/ntctech/your-vendor-review-process-never-saw-the-real-supplier-5ell)
-- [Top Frequently Used AWS Services: A Beginner-Friendly Guide](https://dev.to/blackwatch021/top-frequently-used-aws-services-a-beginner-friendly-guide-5df1)
-- [Rate Limiting: The Sliding Window Approach](https://dev.to/aniket28dot/rate-limiting-the-sliding-window-approach-3fg2)
-- [I built kern – A CLI that replaces Docker with Unikernels &lpar;~10ms boot time, no daemon, pure QEMU&rpar;](https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0)
+- [Why the CDviz team open-sourced its GitLab, Bitbucket, Jira, and Jenkins integrations](https://dev.to/davidb31/why-the-cdviz-team-open-sourced-its-gitlab-bitbucket-jira-and-jenkins-integrations-m8f)
+- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
+- [Jump Host in Cloud Computing | Securely Access Private Servers in AWS](https://dev.to/kmsaifullah/jump-host-in-cloud-computing-securely-access-private-servers-in-aws-419j)
+- [Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
+- [nereida — a local multi-cluster Kubernetes client I built because on-call kept beating me](https://dev.to/cyb3rkn1ght/nereida-a-local-multi-cluster-kubernetes-client-i-built-because-on-call-kept-beating-me-22l3)
+- [Boosting Developer Efficiency with Automation Tools](https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-developer-efficiency-with-automation-tools-511j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
