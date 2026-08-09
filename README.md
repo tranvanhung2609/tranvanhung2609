@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Hands-on hardcore : The Workqueue isn&#39;t your bottleneck](https://dev.to/akshath_agarwal/kubernetes-hands-on-hardcore-the-workqueue-isnt-your-bottleneck-5c1n)
-- [We wired a ‘cheap’ model into our CRM and accidentally made pricing changes a production risk](https://dev.to/lars_winstand/we-wired-a-cheap-model-into-our-crm-and-accidentally-made-pricing-changes-a-production-risk-1cg7)
-- [Stop Chasing Symptoms: How We Built an Autonomous Root Cause Analysis Engine in Rust 🦀](https://dev.to/muhammad_lutfimuzaki_/stop-chasing-symptoms-how-we-built-an-autonomous-root-cause-analysis-engine-in-rust-2g8d)
-- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074)
-- [Build a Custom Reverse Proxy with Python](https://dev.to/qingluan/build-a-custom-reverse-proxy-with-python-1034)
-- [How I moved from shared hosting to a private VPS — and what I learned about who actually knows you&#39;re there](https://dev.to/apitala0091/how-i-moved-from-shared-hosting-to-a-private-vps-and-what-i-learned-about-who-actually-knows-37kc)
+- [Kubernetes Cost Allocation Per Namespace: Showback That Teams Actually Trust](https://dev.to/devtocash/kubernetes-cost-allocation-per-namespace-showback-that-teams-actually-trust-4b43)
+- [🇺🇸 USA Remote Jobs Hiring Now 2026](https://dev.to/job_offer_74680b9f128121c/usa-remote-jobs-hiring-now-2026-m6k)
+- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-1aaf)
+- [The Matrix Reloaded: Securing Your App with Secrets, SSL, and Firewalls](https://dev.to/timevolt/the-matrix-reloaded-securing-your-app-with-secrets-ssl-and-firewalls-n63)
+- [Beyond the Cart: Using WooCommerce as an Event-Driven Application Engine](https://dev.to/aasimghaffar/beyond-the-cart-using-woocommerce-as-an-event-driven-application-engine-13j6)
+- [Load Balancer Tuning: Lessons from Production](https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-1k21)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
