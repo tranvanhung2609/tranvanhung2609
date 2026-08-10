@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Blockchain Node Infrastructure: Build vs. Rent](https://dev.to/onfinality/blockchain-node-infrastructure-build-vs-rent-3d8f)
-- [I Gave My Agent One Signed Permission It Couldn’t Mint Itself](https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc)
-- [Scroll RPC Endpoint: Chain Settings and Provider Selection](https://dev.to/onfinality/scroll-rpc-endpoint-chain-settings-and-provider-selection-2khc)
-- [Astar Network: What It Is and How to Connect via RPC](https://dev.to/onfinality/astar-network-what-it-is-and-how-to-connect-via-rpc-12nn)
-- [Acala: What It Is, How It Works, and How to Connect Your dApp](https://dev.to/onfinality/acala-what-it-is-how-it-works-and-how-to-connect-your-dapp-31cj)
-- [H100 vs H200 vs B200: How to Choose a GPU for AI Workloads in 2026](https://dev.to/victor_azubuike_cbe29672b/h100-vs-h200-vs-b200-how-to-choose-a-gpu-for-ai-workloads-in-2026-4410)
+- [I Built an App to Manage My Servers From My Phone](https://dev.to/fatihkurtl/i-built-an-app-to-manage-my-servers-from-my-phone-5eob)
+- [Docker vs Kubernetes: When You Need One, the Other, or Both](https://dev.to/acquriotech/docker-vs-kubernetes-when-you-need-one-the-other-or-both-k6j)
+- [Bmup Multi-Asset Institute Builds a Stronger Framework for Operational Stability](https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-builds-a-stronger-framework-for-operational-stability-4pcf)
+- [&quot;401 from 169.254.169.254 — fixing EC2 instances after the IMDSv2 enforcement deadline&quot;](https://dev.to/ntoledo319/401-from-169254169254-fixing-ec2-instances-after-the-imdsv2-enforcement-deadline-1g4m)
+- [What Are the Best AI Certifications You Can Complete Online at Your Own Pace?](https://dev.to/ailearning/what-are-the-best-ai-certifications-you-can-complete-online-at-your-own-pace-340o)
+- [RDS Backup Restore Testing: 7 Checks Before You Trust It](https://dev.to/oleksandr_kuryzhev_42873f/rds-backup-restore-testing-7-checks-before-you-trust-it-oam)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
