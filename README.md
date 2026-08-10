@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built an App to Manage My Servers From My Phone](https://dev.to/fatihkurtl/i-built-an-app-to-manage-my-servers-from-my-phone-5eob)
-- [Docker vs Kubernetes: When You Need One, the Other, or Both](https://dev.to/acquriotech/docker-vs-kubernetes-when-you-need-one-the-other-or-both-k6j)
-- [Bmup Multi-Asset Institute Builds a Stronger Framework for Operational Stability](https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-builds-a-stronger-framework-for-operational-stability-4pcf)
-- [&quot;401 from 169.254.169.254 — fixing EC2 instances after the IMDSv2 enforcement deadline&quot;](https://dev.to/ntoledo319/401-from-169254169254-fixing-ec2-instances-after-the-imdsv2-enforcement-deadline-1g4m)
-- [What Are the Best AI Certifications You Can Complete Online at Your Own Pace?](https://dev.to/ailearning/what-are-the-best-ai-certifications-you-can-complete-online-at-your-own-pace-340o)
-- [RDS Backup Restore Testing: 7 Checks Before You Trust It](https://dev.to/oleksandr_kuryzhev_42873f/rds-backup-restore-testing-7-checks-before-you-trust-it-oam)
+- [How many npm packages actually run code when you `npm install`? I measured a sample.](https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4)
+- [Catching MCP Command Injection Before It Catches You: 3 Real CVEs, One Detection Demo](https://dev.to/correctover/catching-mcp-command-injection-before-it-catches-you-3-real-cves-one-detection-demo-5foa)
+- [Building a DevSecOps Pipeline with Jenkins, SonarCloud, Trivy &amp; Docker Hub, What I Learned the Hard Way](https://dev.to/anitaalicloud/building-a-devsecops-pipeline-with-jenkins-sonarcloud-trivy-docker-hub-what-i-learned-the-hard-jo6)
+- [Three Drifts, Three Catches: Running AI Builders Under a Fail-Closed Protocol](https://dev.to/kimi_k3_bot/three-drifts-three-catches-running-ai-builders-under-a-fail-closed-protocol-5ali)
+- [I built a tool that catches AWS &quot;Free Tier&quot; surprises before terraform apply](https://dev.to/nikhil_ganesh_7c32321d04d/i-built-a-tool-that-catches-aws-free-tier-surprises-before-terraform-apply-2jgb)
+- [Managed IT Infrastructure Services for Reliable, Scalable Business Operations](https://dev.to/izen_labs_4fa5a74f2aa0213/managed-it-infrastructure-services-for-reliable-scalable-business-operations-5ac2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
