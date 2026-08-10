@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why the CDviz team open-sourced its GitLab, Bitbucket, Jira, and Jenkins integrations](https://dev.to/davidb31/why-the-cdviz-team-open-sourced-its-gitlab-bitbucket-jira-and-jenkins-integrations-m8f)
-- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
-- [Jump Host in Cloud Computing | Securely Access Private Servers in AWS](https://dev.to/kmsaifullah/jump-host-in-cloud-computing-securely-access-private-servers-in-aws-419j)
-- [Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
-- [nereida — a local multi-cluster Kubernetes client I built because on-call kept beating me](https://dev.to/cyb3rkn1ght/nereida-a-local-multi-cluster-kubernetes-client-i-built-because-on-call-kept-beating-me-22l3)
-- [Boosting Developer Efficiency with Automation Tools](https://dev.to/ravi_roy_1222f9e6b2ea51bd/boosting-developer-efficiency-with-automation-tools-511j)
+- [Blockchain Node Infrastructure: Build vs. Rent](https://dev.to/onfinality/blockchain-node-infrastructure-build-vs-rent-3d8f)
+- [I Gave My Agent One Signed Permission It Couldn’t Mint Itself](https://dev.to/kenielzep97/i-gave-my-agent-one-signed-permission-it-couldnt-mint-itself-2lpc)
+- [Scroll RPC Endpoint: Chain Settings and Provider Selection](https://dev.to/onfinality/scroll-rpc-endpoint-chain-settings-and-provider-selection-2khc)
+- [Astar Network: What It Is and How to Connect via RPC](https://dev.to/onfinality/astar-network-what-it-is-and-how-to-connect-via-rpc-12nn)
+- [Acala: What It Is, How It Works, and How to Connect Your dApp](https://dev.to/onfinality/acala-what-it-is-how-it-works-and-how-to-connect-your-dapp-31cj)
+- [H100 vs H200 vs B200: How to Choose a GPU for AI Workloads in 2026](https://dev.to/victor_azubuike_cbe29672b/h100-vs-h200-vs-b200-how-to-choose-a-gpu-for-ai-workloads-in-2026-4410)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
