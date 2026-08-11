@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [2026 GEO Company Ranking: Leading Brand Visibility Providers in the AI Search Era](https://dev.to/zen7/2026-geo-company-ranking-leading-brand-visibility-providers-in-the-ai-search-era-2do8)
-- [GitHub Copilot&#39;s August Model Swap Is a Silent Regression Risk, Not a Feature Update](https://dev.to/danieltechlab/github-copilots-august-model-swap-is-a-silent-regression-risk-not-a-feature-update-bm0)
-- [How We Reduced Our LLM Token Bill by 80% Without Downgrading the Model](https://dev.to/unmeshed/how-we-reduced-our-llm-token-bill-by-80-without-downgrading-the-model-2pmi)
-- [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite &amp; Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac)
-- [🔐 Alfresco Authentication &amp; SSO Integration: LDAP, SAML &amp; Keycloak](https://dev.to/nirankari/alfresco-authentication-sso-integration-ldap-saml-keycloak-27hf)
-- [Your OpenClaw Deployment Is Not Portable Until You Rebuild It](https://dev.to/zira125/your-openclaw-deployment-is-not-portable-until-you-rebuild-it-25b5)
+- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
+- [Dealing with Orphaned GitHub Actions Runs: A Guide for Dev Leaders](https://dev.to/devactivity/dealing-with-orphaned-github-actions-runs-a-guide-for-dev-leaders-3e8i)
+- [Why AI-Generated Code Needs Independent Verification](https://dev.to/pangxueyuan2creator/why-ai-generated-code-needs-independent-verification-1j88)
+- [The Ultimate Guide to Buy Verified MEXC Accounts](https://dev.to/ktibq01/the-ultimate-guide-to-buy-verified-mexc-accounts-e67)
+- [MERN Full Stack Course Online &lpar;Noida&rpar; with Live Projects &amp; Interview Preparation](https://dev.to/webdevcommunity/mern-full-stack-course-online-noida-with-live-projects-interview-preparation-3fhm)
+- [Writing Maintainable TypeScript at Scale](https://dev.to/acquriotech/writing-maintainable-typescript-at-scale-25pd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
