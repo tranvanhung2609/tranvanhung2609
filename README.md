@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
-- [Dealing with Orphaned GitHub Actions Runs: A Guide for Dev Leaders](https://dev.to/devactivity/dealing-with-orphaned-github-actions-runs-a-guide-for-dev-leaders-3e8i)
-- [Why AI-Generated Code Needs Independent Verification](https://dev.to/pangxueyuan2creator/why-ai-generated-code-needs-independent-verification-1j88)
-- [The Ultimate Guide to Buy Verified MEXC Accounts](https://dev.to/ktibq01/the-ultimate-guide-to-buy-verified-mexc-accounts-e67)
-- [MERN Full Stack Course Online &lpar;Noida&rpar; with Live Projects &amp; Interview Preparation](https://dev.to/webdevcommunity/mern-full-stack-course-online-noida-with-live-projects-interview-preparation-3fhm)
-- [Writing Maintainable TypeScript at Scale](https://dev.to/acquriotech/writing-maintainable-typescript-at-scale-25pd)
+- [Why compile JavaScript to JVM bytecode](https://dev.to/v6js/why-compile-javascript-to-jvm-bytecode-2pp3)
+- [Your Cloud Isn&#39;t Compromised. Your Vendor Is. Now What?](https://dev.to/ntctech/your-cloud-isnt-compromised-your-vendor-is-now-what-425m)
+- [DDD no seu CRUD é canhão pra matar mosquito](https://dev.to/denisgusto1/ddd-no-seu-crud-e-canhao-pra-matar-mosquito-2jb6)
+- [Hello World: Building Clean, Scalable, and Modular Systems](https://dev.to/ak01redwan/hello-world-building-clean-scalable-and-modular-systems-3hjn)
+- [DevCloudOps1 Journey Begins...](https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58)
+- [Your Agent Queue Needs Backpressure, Not Just More Workers](https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
