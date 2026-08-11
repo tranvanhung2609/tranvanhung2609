@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Curate a CMS API into 7 Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/curate-a-cms-api-into-7-governed-agent-skills-with-nodejs-1ml6)
-- [Turn a DevOps API into Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05)
-- [Stop Waiting 10 Minutes to Fail: How CDK Comprehensive Validation Catches Misconfigurations Before Deploy](https://dev.to/pahud/stop-waiting-10-minutes-to-fail-how-cdk-comprehensive-validation-catches-misconfigurations-before-1907)
-- [One GPU, four ways to share it: ten scenarios, and the one number that inverts on your hardware](https://dev.to/defilan/one-gpu-four-ways-to-share-it-ten-scenarios-and-the-one-number-that-inverts-on-your-hardware-1bih)
-- [Stop context-switching to manage your distributed SQL infra](https://dev.to/renato_marinho/stop-context-switching-to-manage-your-distributed-sql-infra-28dg)
-- [Cloud infrastructure should make your business faster — not harder to manage.](https://dev.to/ridhampokiya2110/cloud-infrastructure-should-make-your-business-faster-not-harder-to-manage-5a3o)
+- [FloodCRM Explained: How Email, SMS, and Call Flooding Attacks Work and How to Respond](https://dev.to/debrah/floodcrm-explained-how-email-sms-and-call-flooding-attacks-work-and-how-to-respond-opd)
+- [Quant trading system architecture: a practical blueprint](https://dev.to/weston_carnes_d580b505e0c/quant-trading-system-architecture-a-practical-blueprint-b1b)
+- [Build a Canary Analysis Agent: An LLM Judge for Argo Rollouts Promotions](https://dev.to/devtocash/build-a-canary-analysis-agent-an-llm-judge-for-argo-rollouts-promotions-dkd)
+- [5 Linux Terminal Combos Every Developer Should Know &lpar;Plus Automation Scripts&rpar;](https://dev.to/astrosss/5-linux-terminal-combos-every-developer-should-know-plus-automation-scripts-1d12)
+- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)
+- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
