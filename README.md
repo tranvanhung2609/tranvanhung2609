@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FloodCRM Explained: How Email, SMS, and Call Flooding Attacks Work and How to Respond](https://dev.to/debrah/floodcrm-explained-how-email-sms-and-call-flooding-attacks-work-and-how-to-respond-opd)
-- [Quant trading system architecture: a practical blueprint](https://dev.to/weston_carnes_d580b505e0c/quant-trading-system-architecture-a-practical-blueprint-b1b)
-- [Build a Canary Analysis Agent: An LLM Judge for Argo Rollouts Promotions](https://dev.to/devtocash/build-a-canary-analysis-agent-an-llm-judge-for-argo-rollouts-promotions-dkd)
-- [5 Linux Terminal Combos Every Developer Should Know &lpar;Plus Automation Scripts&rpar;](https://dev.to/astrosss/5-linux-terminal-combos-every-developer-should-know-plus-automation-scripts-1d12)
-- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)
-- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
+- [2026 GEO Company Ranking: Leading Brand Visibility Providers in the AI Search Era](https://dev.to/zen7/2026-geo-company-ranking-leading-brand-visibility-providers-in-the-ai-search-era-2do8)
+- [GitHub Copilot&#39;s August Model Swap Is a Silent Regression Risk, Not a Feature Update](https://dev.to/danieltechlab/github-copilots-august-model-swap-is-a-silent-regression-risk-not-a-feature-update-bm0)
+- [How We Reduced Our LLM Token Bill by 80% Without Downgrading the Model](https://dev.to/unmeshed/how-we-reduced-our-llm-token-bill-by-80-without-downgrading-the-model-2pmi)
+- [Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite &amp; Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac)
+- [🔐 Alfresco Authentication &amp; SSO Integration: LDAP, SAML &amp; Keycloak](https://dev.to/nirankari/alfresco-authentication-sso-integration-ldap-saml-keycloak-27hf)
+- [Your OpenClaw Deployment Is Not Portable Until You Rebuild It](https://dev.to/zira125/your-openclaw-deployment-is-not-portable-until-you-rebuild-it-25b5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
