@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your publish pipeline is green. Nobody can install your plugin.](https://dev.to/heinrichneb/your-publish-pipeline-is-green-nobody-can-install-your-plugin-9ok)
-- [Bradford SEO Consultant Shortlist 2026: Webinfomatrix Leads the Pack](https://dev.to/business_visibilitypacka/bradford-seo-consultant-shortlist-2026-webinfomatrix-leads-the-pack-dgo)
-- [25 Best Pros Fav Sites to Buy Facebook Followers in 2026](https://dev.to/jolenehopkinsujgdp/25-best-pros-fav-sites-to-buy-facebook-followers-in-2026-1pmh)
-- [I read my competitor&#39;s generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h)
-- [Stop Hardening Your Server. Start Hiding It.](https://dev.to/dhruv_malaviya_cdcc71e595/stop-hardening-your-server-start-hiding-it-442o)
-- [Mocking Spring AI @Tool calls via record/replay](https://dev.to/rifatcakir/mocking-spring-ai-tool-calls-via-recordreplay-1lj4)
+- [Batch LLM Jobs vs Realtime APIs — Bulk Summarization Cost Attribution](https://dev.to/holdenfox8476/batch-llm-jobs-vs-realtime-apis-bulk-summarization-cost-attribution-41lp)
+- [53.9% of AI Security Patches Are Flawed — and &quot;Requires Human Review&quot; Only Counts When It&#39;s Enforced](https://dev.to/waxell/539-of-ai-security-patches-are-flawed-and-requires-human-review-only-counts-when-its-enforced-3jcf)
+- [Coolify with Self-Host PaaS Setup: A Current Approach](https://dev.to/merbayerp/coolify-with-self-host-paas-setup-a-current-approach-27ja)
+- [Your AI agent writes migrations that look safe. Here&#39;s what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)
+- [Detecting Drift in Infrastructure as Code](https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5)
+- [The npm Worm Does Not Start With Malicious Code](https://dev.to/relaysh_aea8bcf38177/the-npm-worm-does-not-start-with-malicious-code-4a7g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
