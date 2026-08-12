@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Stuck at Nginx? Instrument It with OpenTelemetry Too](https://dev.to/databufflabs/troubleshooting-stuck-at-nginx-instrument-it-with-opentelemetry-too-164c)
-- [Uptime Monitoring on a $0 Budget: OpsMate Free Tier vs The Competition](https://dev.to/yanlong_wang/uptime-monitoring-on-a-0-budget-opsmate-free-tier-vs-the-competition-43p5)
-- [What Is the Circuit Breaker Pattern? A Practical Guide](https://dev.to/avijitbera/what-is-the-circuit-breaker-pattern-a-practical-guide-20i4)
-- [Moderation Without an Endpoint: JSON Schema Labels for Chat Completions](https://dev.to/ottoneumann8425/moderation-without-an-endpoint-json-schema-labels-for-chat-completions-2hj0)
-- [Deployment strategies](https://dev.to/godinhojoao/deployment-strategies-51k8)
-- [API Rate Limiting: A Complete Guide for Developers](https://dev.to/avijitbera/api-rate-limiting-a-complete-guide-for-developers-pna)
+- [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd)
+- [OllaWrite: Exploring AI-Assisted Writing for Modern Content Creation](https://dev.to/sadhana2005/ollawrite-exploring-ai-assisted-writing-for-modern-content-creation-5dm7)
+- [Nginx Rate Limiting vs API Gateway: Picking the Right Layer](https://dev.to/oleksandr_kuryzhev_42873f/nginx-rate-limiting-vs-api-gateway-picking-the-right-layer-21kc)
+- [From Querydsl to Spring Filter: One Syntax, Three Backends](https://dev.to/torshid/from-querydsl-to-spring-filter-one-syntax-three-backends-2n14)
+- [Muse Glimmer Production Readiness: A Practical Test Plan](https://dev.to/tran_tienvan_e45fc26d655/muse-glimmer-production-readiness-a-practical-test-plan-mni)
+- [Top 10 Best Affino To WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-affino-to-wordpress-migration-companies-4p4e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
