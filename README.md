@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why compile JavaScript to JVM bytecode](https://dev.to/v6js/why-compile-javascript-to-jvm-bytecode-2pp3)
-- [Your Cloud Isn&#39;t Compromised. Your Vendor Is. Now What?](https://dev.to/ntctech/your-cloud-isnt-compromised-your-vendor-is-now-what-425m)
-- [DDD no seu CRUD é canhão pra matar mosquito](https://dev.to/denisgusto1/ddd-no-seu-crud-e-canhao-pra-matar-mosquito-2jb6)
-- [Hello World: Building Clean, Scalable, and Modular Systems](https://dev.to/ak01redwan/hello-world-building-clean-scalable-and-modular-systems-3hjn)
-- [DevCloudOps1 Journey Begins...](https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58)
-- [Your Agent Queue Needs Backpressure, Not Just More Workers](https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i)
+- [Troubleshooting Stuck at Nginx? Instrument It with OpenTelemetry Too](https://dev.to/databufflabs/troubleshooting-stuck-at-nginx-instrument-it-with-opentelemetry-too-164c)
+- [Uptime Monitoring on a $0 Budget: OpsMate Free Tier vs The Competition](https://dev.to/yanlong_wang/uptime-monitoring-on-a-0-budget-opsmate-free-tier-vs-the-competition-43p5)
+- [What Is the Circuit Breaker Pattern? A Practical Guide](https://dev.to/avijitbera/what-is-the-circuit-breaker-pattern-a-practical-guide-20i4)
+- [Moderation Without an Endpoint: JSON Schema Labels for Chat Completions](https://dev.to/ottoneumann8425/moderation-without-an-endpoint-json-schema-labels-for-chat-completions-2hj0)
+- [Deployment strategies](https://dev.to/godinhojoao/deployment-strategies-51k8)
+- [API Rate Limiting: A Complete Guide for Developers](https://dev.to/avijitbera/api-rate-limiting-a-complete-guide-for-developers-pna)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
