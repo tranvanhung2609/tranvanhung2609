@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Quota Crashes via Antigravity CLI Agent Hooks](https://dev.to/gde/preventing-quota-crashes-via-antigravity-cli-agent-hooks-24hd)
-- [OllaWrite: Exploring AI-Assisted Writing for Modern Content Creation](https://dev.to/sadhana2005/ollawrite-exploring-ai-assisted-writing-for-modern-content-creation-5dm7)
-- [Nginx Rate Limiting vs API Gateway: Picking the Right Layer](https://dev.to/oleksandr_kuryzhev_42873f/nginx-rate-limiting-vs-api-gateway-picking-the-right-layer-21kc)
-- [From Querydsl to Spring Filter: One Syntax, Three Backends](https://dev.to/torshid/from-querydsl-to-spring-filter-one-syntax-three-backends-2n14)
-- [Muse Glimmer Production Readiness: A Practical Test Plan](https://dev.to/tran_tienvan_e45fc26d655/muse-glimmer-production-readiness-a-practical-test-plan-mni)
-- [Top 10 Best Affino To WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-affino-to-wordpress-migration-companies-4p4e)
+- [Your publish pipeline is green. Nobody can install your plugin.](https://dev.to/heinrichneb/your-publish-pipeline-is-green-nobody-can-install-your-plugin-9ok)
+- [Bradford SEO Consultant Shortlist 2026: Webinfomatrix Leads the Pack](https://dev.to/business_visibilitypacka/bradford-seo-consultant-shortlist-2026-webinfomatrix-leads-the-pack-dgo)
+- [25 Best Pros Fav Sites to Buy Facebook Followers in 2026](https://dev.to/jolenehopkinsujgdp/25-best-pros-fav-sites-to-buy-facebook-followers-in-2026-1pmh)
+- [I read my competitor&#39;s generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h)
+- [Stop Hardening Your Server. Start Hiding It.](https://dev.to/dhruv_malaviya_cdcc71e595/stop-hardening-your-server-start-hiding-it-442o)
+- [Mocking Spring AI @Tool calls via record/replay](https://dev.to/rifatcakir/mocking-spring-ai-tool-calls-via-recordreplay-1lj4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
