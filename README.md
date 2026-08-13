@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Batch LLM Jobs vs Realtime APIs — Bulk Summarization Cost Attribution](https://dev.to/holdenfox8476/batch-llm-jobs-vs-realtime-apis-bulk-summarization-cost-attribution-41lp)
-- [53.9% of AI Security Patches Are Flawed — and &quot;Requires Human Review&quot; Only Counts When It&#39;s Enforced](https://dev.to/waxell/539-of-ai-security-patches-are-flawed-and-requires-human-review-only-counts-when-its-enforced-3jcf)
-- [Coolify with Self-Host PaaS Setup: A Current Approach](https://dev.to/merbayerp/coolify-with-self-host-paas-setup-a-current-approach-27ja)
-- [Your AI agent writes migrations that look safe. Here&#39;s what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)
-- [Detecting Drift in Infrastructure as Code](https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5)
-- [The npm Worm Does Not Start With Malicious Code](https://dev.to/relaysh_aea8bcf38177/the-npm-worm-does-not-start-with-malicious-code-4a7g)
+- [Guia Prático e Cheatsheet: Desenvolvimento de APIs REST com Django Rest Framework](https://dev.to/digitalzgld/guia-pratico-e-cheatsheet-desenvolvimento-de-apis-rest-com-django-rest-framework-6ih)
+- [OpsMate vs BetterStack: Latency, Status Pages, and Alerting for Global SaaS](https://dev.to/yanlong_wang/opsmate-vs-betterstack-latency-status-pages-and-alerting-for-global-saas-34g8)
+- [Homelab barato en Japón 2026](https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9)
+- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n)
+- [Build a CVE Triage Agent: Turn Noisy Container Scans into a Ranked Fix List](https://dev.to/devtocash/build-a-cve-triage-agent-turn-noisy-container-scans-into-a-ranked-fix-list-1mg7)
+- [Why Does My Windows PC Keep Waking Up by Itself?](https://dev.to/darkssel/why-does-my-windows-pc-keep-waking-up-by-itself-471e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
