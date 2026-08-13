@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Data Engineering Backlog Problem: Why Adding More Engineers Doesn&#39;t Fix It](https://dev.to/prakruti_biswas/the-data-engineering-backlog-problem-why-adding-more-engineers-doesnt-fix-it-1b3l)
-- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)
-- [Cloud Cost Sentinel: A Small Tool for Finding Wasteful Cloud Spend](https://dev.to/aakash_ahuja_1c8b6c4007cc/cloud-cost-sentinel-a-small-tool-for-finding-wasteful-cloud-spend-2nip)
-- [What Data Sources Does qData Support? A Complete Guide to Database Integration](https://dev.to/tongwu/what-data-sources-does-qdata-support-a-complete-guide-to-database-integration-1af9)
-- [Unlocking the &quot;One Map&quot; for Water Resources: Mastering the Complete Water Management Network](https://dev.to/tongwu/unlocking-the-one-map-for-water-resources-mastering-the-complete-water-management-network-3013)
-- [qData Open Source ETL Orchestration: Build Data Pipelines with Drag-and-Drop](https://dev.to/tongwu/qdata-open-source-etl-orchestration-build-data-pipelines-with-drag-and-drop-18l4)
+- [Building a Video API SDK in Rust with reqwest and serde for Multi-Region Feeds](https://dev.to/ahmet_gedik778845/building-a-video-api-sdk-in-rust-with-reqwest-and-serde-for-multi-region-feeds-4kjk)
+- [From Hardware to Software: Rethinking DR Networking in the Cloud Era](https://dev.to/seagaruda/from-hardware-to-software-rethinking-dr-networking-in-the-cloud-era-2hl3)
+- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
+- [KEDA 3.0 Scale-to-Zero: How We Cut Intermittent Kubernetes Workload Costs to Almost Nothing](https://dev.to/muskan_bandta/keda-30-scale-to-zero-how-we-cut-intermittent-kubernetes-workload-costs-to-almost-nothing-2egn)
+- [Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems](https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-561m)
+- [DeepSeek V4 Pro Is Out. Here&#39;s How to Wire It Into Spring Boot With Spring AI](https://dev.to/jamilxt/deepseek-v4-pro-is-out-heres-how-to-wire-it-into-spring-boot-with-spring-ai-213m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
