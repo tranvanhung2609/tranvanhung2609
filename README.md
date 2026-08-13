@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Video API SDK in Rust with reqwest and serde for Multi-Region Feeds](https://dev.to/ahmet_gedik778845/building-a-video-api-sdk-in-rust-with-reqwest-and-serde-for-multi-region-feeds-4kjk)
-- [From Hardware to Software: Rethinking DR Networking in the Cloud Era](https://dev.to/seagaruda/from-hardware-to-software-rethinking-dr-networking-in-the-cloud-era-2hl3)
-- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
-- [KEDA 3.0 Scale-to-Zero: How We Cut Intermittent Kubernetes Workload Costs to Almost Nothing](https://dev.to/muskan_bandta/keda-30-scale-to-zero-how-we-cut-intermittent-kubernetes-workload-costs-to-almost-nothing-2egn)
-- [Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems](https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-561m)
-- [DeepSeek V4 Pro Is Out. Here&#39;s How to Wire It Into Spring Boot With Spring AI](https://dev.to/jamilxt/deepseek-v4-pro-is-out-heres-how-to-wire-it-into-spring-boot-with-spring-ai-213m)
+- [I Shrank My Docker Image From 1.11GB to 133MB, and That Was the Easy Part](https://dev.to/vivian_okose/i-shrank-my-docker-image-from-111gb-to-133mb-and-that-was-the-easy-part-463f)
+- [Triage Open-Source Issues With a Model That Only Reads Public Text](https://dev.to/gitlab_3188/triage-open-source-issues-with-a-model-that-only-reads-public-text-be5)
+- [Tracking 200+ Hours: Automated Pipeline Infrastructure for 100% Heartbeat Acceptance](https://dev.to/3ni8ma/tracking-200-hours-automated-pipeline-infrastructure-for-100-heartbeat-acceptance-279d)
+- [We Health-Checked 86 Public MCP Servers. Not One Uses the Legacy Transport.](https://dev.to/merlonix/we-health-checked-86-public-mcp-servers-not-one-uses-the-legacy-transport-74n)
+- [Buy Google Ad Agency Accounts in 2026 2027 Best Places 10](https://dev.to/norrievictordmbxz/buy-google-ad-agency-accounts-in-2026-2027-best-places-10-ajc)
+- [Sales Call Automation: Testing In-App Chatbot API Context and JSON Mode](https://dev.to/sterlingvance2196/sales-call-automation-testing-in-app-chatbot-api-context-and-json-mode-14lg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
