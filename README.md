@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Guia Prático e Cheatsheet: Desenvolvimento de APIs REST com Django Rest Framework](https://dev.to/digitalzgld/guia-pratico-e-cheatsheet-desenvolvimento-de-apis-rest-com-django-rest-framework-6ih)
-- [OpsMate vs BetterStack: Latency, Status Pages, and Alerting for Global SaaS](https://dev.to/yanlong_wang/opsmate-vs-betterstack-latency-status-pages-and-alerting-for-global-saas-34g8)
-- [Homelab barato en Japón 2026](https://dev.to/kilydev/homelab-barato-en-japon-2026-1pb9)
-- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n)
-- [Build a CVE Triage Agent: Turn Noisy Container Scans into a Ranked Fix List](https://dev.to/devtocash/build-a-cve-triage-agent-turn-noisy-container-scans-into-a-ranked-fix-list-1mg7)
-- [Why Does My Windows PC Keep Waking Up by Itself?](https://dev.to/darkssel/why-does-my-windows-pc-keep-waking-up-by-itself-471e)
+- [The Data Engineering Backlog Problem: Why Adding More Engineers Doesn&#39;t Fix It](https://dev.to/prakruti_biswas/the-data-engineering-backlog-problem-why-adding-more-engineers-doesnt-fix-it-1b3l)
+- [Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL](https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan)
+- [Cloud Cost Sentinel: A Small Tool for Finding Wasteful Cloud Spend](https://dev.to/aakash_ahuja_1c8b6c4007cc/cloud-cost-sentinel-a-small-tool-for-finding-wasteful-cloud-spend-2nip)
+- [What Data Sources Does qData Support? A Complete Guide to Database Integration](https://dev.to/tongwu/what-data-sources-does-qdata-support-a-complete-guide-to-database-integration-1af9)
+- [Unlocking the &quot;One Map&quot; for Water Resources: Mastering the Complete Water Management Network](https://dev.to/tongwu/unlocking-the-one-map-for-water-resources-mastering-the-complete-water-management-network-3013)
+- [qData Open Source ETL Orchestration: Build Data Pipelines with Drag-and-Drop](https://dev.to/tongwu/qdata-open-source-etl-orchestration-build-data-pipelines-with-drag-and-drop-18l4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
