@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Contact APIs: Add a Contact or Send a vCard?](https://dev.to/unifyport/whatsapp-contact-apis-add-a-contact-or-send-a-vcard-3gj2)
-- [The cloud zombie index: every resource you&#39;re paying for that nothing uses](https://dev.to/zop_8abedcc7e12/the-cloud-zombie-index-every-resource-youre-paying-for-that-nothing-uses-2m1i)
-- [Cloud &amp; DevOps Mistakes Indian Businesses Make](https://dev.to/nazim_9b155ae71f1a7be4c43/cloud-devops-mistakes-indian-businesses-make-2n9p)
-- [Service Mesh Everywhere? The Operational Cost of Cluster-Wide mTLS](https://dev.to/aloknecessary/service-mesh-everywhere-the-operational-cost-of-cluster-wide-mtls-4pop)
-- [Ansible Zero-Downtime Deployment: Draining the Load Balancer Right](https://dev.to/oleksandr_kuryzhev_42873f/ansible-zero-downtime-deployment-draining-the-load-balancer-right-35j6)
-- [Why ColdFusion Applications Break After OS-Level Java Updates &lpar;And How to Control It&rpar;](https://dev.to/deepak_sir__/why-coldfusion-applications-break-after-os-level-java-updates-and-how-to-control-it-50f1)
+- [Comparing TIFF Compression Algorithms](https://dev.to/idrsolutions/comparing-tiff-compression-algorithms-32an)
+- [Are Azure Resource Groups Just Folders?](https://dev.to/chethanraj/are-azure-resource-groups-just-folders-4p9m)
+- [Why C-Suite Leaders Struggle With AI Consumption Pricing](https://dev.to/ntctech/why-c-suite-leaders-struggle-with-ai-consumption-pricing-34n0)
+- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
+- [How to Integrate a Payment Gateway into Your Web App: A Practical Guide](https://dev.to/aditi_holkar_dc03bd62e49f/how-to-integrate-a-payment-gateway-into-your-web-app-a-practical-guide-4ih5)
+- [Rehearse Agent Rollbacks on a Free Server Before You Approve Real Commands](https://dev.to/haaaaaley/rehearse-agent-rollbacks-on-a-free-server-before-you-approve-real-commands-3k9n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
