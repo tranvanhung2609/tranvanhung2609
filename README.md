@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Comparing TIFF Compression Algorithms](https://dev.to/idrsolutions/comparing-tiff-compression-algorithms-32an)
-- [Are Azure Resource Groups Just Folders?](https://dev.to/chethanraj/are-azure-resource-groups-just-folders-4p9m)
-- [Why C-Suite Leaders Struggle With AI Consumption Pricing](https://dev.to/ntctech/why-c-suite-leaders-struggle-with-ai-consumption-pricing-34n0)
-- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
-- [How to Integrate a Payment Gateway into Your Web App: A Practical Guide](https://dev.to/aditi_holkar_dc03bd62e49f/how-to-integrate-a-payment-gateway-into-your-web-app-a-practical-guide-4ih5)
-- [Rehearse Agent Rollbacks on a Free Server Before You Approve Real Commands](https://dev.to/haaaaaley/rehearse-agent-rollbacks-on-a-free-server-before-you-approve-real-commands-3k9n)
+- [How AIOps Transforms Software Engineering](https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-aiops-transforms-software-engineering-2pkk)
+- [Learning Docker: A Beginner Guide](https://dev.to/dowithsudo/learning-docker-a-beginner-guide-2n08)
+- [Docker Complete Guide: From Beginner to Production](https://dev.to/dowithsudo/docker-complete-guide-from-beginner-to-production-5aee)
+- [Top Tips To Buy LinkedIn Accounts: What Makes A Good Account](https://dev.to/onaccshop44/top-tips-to-buy-linkedin-accounts-what-makes-a-good-account-4787)
+- [A Closer Look To Buy LinkedIn Account: What To Consider](https://dev.to/onaccshop44/a-closer-look-to-buy-linkedin-account-what-to-consider-516m)
+- [Your Agent Logs Need a Secret Boundary, Not Just Redaction](https://dev.to/zira125/your-agent-logs-need-a-secret-boundary-not-just-redaction-804)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
