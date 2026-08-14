@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Indie SaaS Monitoring Stack: Uptime + Server Metrics + Status Page in One](https://dev.to/yanlong_wang/the-indie-saas-monitoring-stack-uptime-server-metrics-status-page-in-one-1m5k)
-- [Runbook Hygiene: Why Yours Are Lying to You](https://dev.to/samson_tanimawo/runbook-hygiene-why-yours-are-lying-to-you-4f80)
-- [Moonbeam Node: Run Your Own or Use a Managed RPC?](https://dev.to/onfinality/moonbeam-node-run-your-own-or-use-a-managed-rpc-14pm)
-- [Klaytn API: RPC, KAS, and Node Infrastructure Guide](https://dev.to/onfinality/klaytn-api-rpc-kas-and-node-infrastructure-guide-44ap)
-- [Gnosis RPC List: Endpoints, Chain Settings, and Provider Tips](https://dev.to/onfinality/gnosis-rpc-list-endpoints-chain-settings-and-provider-tips-45k5)
-- [ETH RPC Node: How to Connect to Ethereum](https://dev.to/onfinality/eth-rpc-node-how-to-connect-to-ethereum-2d2h)
+- [WhatsApp Contact APIs: Add a Contact or Send a vCard?](https://dev.to/unifyport/whatsapp-contact-apis-add-a-contact-or-send-a-vcard-3gj2)
+- [The cloud zombie index: every resource you&#39;re paying for that nothing uses](https://dev.to/zop_8abedcc7e12/the-cloud-zombie-index-every-resource-youre-paying-for-that-nothing-uses-2m1i)
+- [Cloud &amp; DevOps Mistakes Indian Businesses Make](https://dev.to/nazim_9b155ae71f1a7be4c43/cloud-devops-mistakes-indian-businesses-make-2n9p)
+- [Service Mesh Everywhere? The Operational Cost of Cluster-Wide mTLS](https://dev.to/aloknecessary/service-mesh-everywhere-the-operational-cost-of-cluster-wide-mtls-4pop)
+- [Ansible Zero-Downtime Deployment: Draining the Load Balancer Right](https://dev.to/oleksandr_kuryzhev_42873f/ansible-zero-downtime-deployment-draining-the-load-balancer-right-35j6)
+- [Why ColdFusion Applications Break After OS-Level Java Updates &lpar;And How to Control It&rpar;](https://dev.to/deepak_sir__/why-coldfusion-applications-break-after-os-level-java-updates-and-how-to-control-it-50f1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
