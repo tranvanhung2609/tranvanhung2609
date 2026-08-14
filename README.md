@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Shrank My Docker Image From 1.11GB to 133MB, and That Was the Easy Part](https://dev.to/vivian_okose/i-shrank-my-docker-image-from-111gb-to-133mb-and-that-was-the-easy-part-463f)
-- [Triage Open-Source Issues With a Model That Only Reads Public Text](https://dev.to/gitlab_3188/triage-open-source-issues-with-a-model-that-only-reads-public-text-be5)
-- [Tracking 200+ Hours: Automated Pipeline Infrastructure for 100% Heartbeat Acceptance](https://dev.to/3ni8ma/tracking-200-hours-automated-pipeline-infrastructure-for-100-heartbeat-acceptance-279d)
-- [We Health-Checked 86 Public MCP Servers. Not One Uses the Legacy Transport.](https://dev.to/merlonix/we-health-checked-86-public-mcp-servers-not-one-uses-the-legacy-transport-74n)
-- [Buy Google Ad Agency Accounts in 2026 2027 Best Places 10](https://dev.to/norrievictordmbxz/buy-google-ad-agency-accounts-in-2026-2027-best-places-10-ajc)
-- [Sales Call Automation: Testing In-App Chatbot API Context and JSON Mode](https://dev.to/sterlingvance2196/sales-call-automation-testing-in-app-chatbot-api-context-and-json-mode-14lg)
+- [The Indie SaaS Monitoring Stack: Uptime + Server Metrics + Status Page in One](https://dev.to/yanlong_wang/the-indie-saas-monitoring-stack-uptime-server-metrics-status-page-in-one-1m5k)
+- [Runbook Hygiene: Why Yours Are Lying to You](https://dev.to/samson_tanimawo/runbook-hygiene-why-yours-are-lying-to-you-4f80)
+- [Moonbeam Node: Run Your Own or Use a Managed RPC?](https://dev.to/onfinality/moonbeam-node-run-your-own-or-use-a-managed-rpc-14pm)
+- [Klaytn API: RPC, KAS, and Node Infrastructure Guide](https://dev.to/onfinality/klaytn-api-rpc-kas-and-node-infrastructure-guide-44ap)
+- [Gnosis RPC List: Endpoints, Chain Settings, and Provider Tips](https://dev.to/onfinality/gnosis-rpc-list-endpoints-chain-settings-and-provider-tips-45k5)
+- [ETH RPC Node: How to Connect to Ethereum](https://dev.to/onfinality/eth-rpc-node-how-to-connect-to-ethereum-2d2h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
