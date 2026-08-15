@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How AIOps Transforms Software Engineering](https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-aiops-transforms-software-engineering-2pkk)
-- [Learning Docker: A Beginner Guide](https://dev.to/dowithsudo/learning-docker-a-beginner-guide-2n08)
-- [Docker Complete Guide: From Beginner to Production](https://dev.to/dowithsudo/docker-complete-guide-from-beginner-to-production-5aee)
-- [Top Tips To Buy LinkedIn Accounts: What Makes A Good Account](https://dev.to/onaccshop44/top-tips-to-buy-linkedin-accounts-what-makes-a-good-account-4787)
-- [A Closer Look To Buy LinkedIn Account: What To Consider](https://dev.to/onaccshop44/a-closer-look-to-buy-linkedin-account-what-to-consider-516m)
-- [Your Agent Logs Need a Secret Boundary, Not Just Redaction](https://dev.to/zira125/your-agent-logs-need-a-secret-boundary-not-just-redaction-804)
+- [Turn a Free Token Quota Into a Rejection Rate Before You Merge the Route](https://dev.to/kongkong1/turn-a-free-token-quota-into-a-rejection-rate-before-you-merge-the-route-5a66)
+- [HTTP Deep Dive: What Every Backend Engineer Needs to Know](https://dev.to/0xmahmoudd/http-deep-dive-what-every-backend-engineer-needs-to-know-3h9i)
+- [Google Indexed 1 of Our 43 Pages. DuckDuckGo Sent More Visitors.](https://dev.to/kimcomplete/google-indexed-1-of-our-43-pages-duckduckgo-sent-more-visitors-277)
+- [A Contract Probe for Free Model Endpoints That Drift](https://dev.to/hackrs_6393/a-contract-probe-for-free-model-endpoints-that-drift-38j)
+- [Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid](https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e)
+- [How I Built 172 Guards After My AI Agent Tried to Delete Production Data](https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
