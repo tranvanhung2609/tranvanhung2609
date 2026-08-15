@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Turn a Free Token Quota Into a Rejection Rate Before You Merge the Route](https://dev.to/kongkong1/turn-a-free-token-quota-into-a-rejection-rate-before-you-merge-the-route-5a66)
-- [HTTP Deep Dive: What Every Backend Engineer Needs to Know](https://dev.to/0xmahmoudd/http-deep-dive-what-every-backend-engineer-needs-to-know-3h9i)
-- [Google Indexed 1 of Our 43 Pages. DuckDuckGo Sent More Visitors.](https://dev.to/kimcomplete/google-indexed-1-of-our-43-pages-duckduckgo-sent-more-visitors-277)
-- [A Contract Probe for Free Model Endpoints That Drift](https://dev.to/hackrs_6393/a-contract-probe-for-free-model-endpoints-that-drift-38j)
-- [Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid](https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e)
-- [How I Built 172 Guards After My AI Agent Tried to Delete Production Data](https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664)
+- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
+- [From &quot;It Works On My Machine&quot; to Docker Mastery: A Beginner&#39;s Guide](https://dev.to/harshil_drytu/from-it-works-on-my-machine-to-docker-mastery-a-beginners-guide-4291)
+- [Perplexity Open-Sourced a Supply-Chain Scanner That Never Touches npm, pip, or Your Shell](https://dev.to/danieltechlab/perplexity-open-sourced-a-supply-chain-scanner-that-never-touches-npm-pip-or-your-shell-4hhb)
+- [Middleware &amp; Request-Response Pipeline](https://dev.to/code_2/middleware-request-response-pipeline-kjj)
+- [Stop Hardcoding Ports: Automate Your Nginx Reverse Proxy with Docker Compose](https://dev.to/sadaf_botanist/stop-hardcoding-ports-automate-your-nginx-reverse-proxy-with-docker-compose-9m8)
+- [Stop Hardcoding Ports: Automate Your Nginx Reverse Proxy with Docker Compose](https://dev.to/sadaf_botanist/stop-hardcoding-ports-automate-your-nginx-reverse-proxy-with-docker-compose-9m8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
