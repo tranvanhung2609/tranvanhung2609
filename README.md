@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
-- [From &quot;It Works On My Machine&quot; to Docker Mastery: A Beginner&#39;s Guide](https://dev.to/harshil_drytu/from-it-works-on-my-machine-to-docker-mastery-a-beginners-guide-4291)
-- [Perplexity Open-Sourced a Supply-Chain Scanner That Never Touches npm, pip, or Your Shell](https://dev.to/danieltechlab/perplexity-open-sourced-a-supply-chain-scanner-that-never-touches-npm-pip-or-your-shell-4hhb)
-- [Middleware &amp; Request-Response Pipeline](https://dev.to/code_2/middleware-request-response-pipeline-kjj)
-- [Stop Hardcoding Ports: Automate Your Nginx Reverse Proxy with Docker Compose](https://dev.to/sadaf_botanist/stop-hardcoding-ports-automate-your-nginx-reverse-proxy-with-docker-compose-9m8)
-- [Stop Hardcoding Ports: Automate Your Nginx Reverse Proxy with Docker Compose](https://dev.to/sadaf_botanist/stop-hardcoding-ports-automate-your-nginx-reverse-proxy-with-docker-compose-9m8)
+- [Qwen 3.8 27B Topped Hacker News in a Day. Here&#39;s How to Run It Locally From Spring Boot](https://dev.to/jamilxt/qwen-38-27b-topped-hacker-news-in-a-day-heres-how-to-run-it-locally-from-spring-boot-cee)
+- [Why Your Postgres Migration Locked the Whole Table &lpar;and the Pattern That Doesn&#39;t&rpar;](https://dev.to/libme/why-your-postgres-migration-locked-the-whole-table-and-the-pattern-that-doesnt-38k4)
+- [My AI Agent Tried to Delete Every Customer Record. Here&#39;s What Stopped It.](https://dev.to/frederikvonderheyden/my-ai-agent-tried-to-delete-every-customer-record-heres-what-stopped-it-39ip)
+- [How Alibaba Cloud CDN Accelerates Your Global Applications](https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-nmp)
+- [KRISHI MITRA AI](https://dev.to/shreya_patel_02/krishi-mitra-ai-j74)
+- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-2bd0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
