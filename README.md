@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Python API Summaries in 2026 &lpar;Multilingual EU/US Tickets and Emails&rpar;](https://dev.to/ethanbrooks1647/how-to-validate-python-api-summaries-in-2026-multilingual-euus-tickets-and-emails-22ko)
-- [Capacity Planning Without ML: The 80/20 Approach](https://dev.to/samson_tanimawo/capacity-planning-without-ml-the-8020-approach-e52)
-- [Invoice Text-to-Image Endpoint in 2026: Prompt Validation, Signed URL or Base64](https://dev.to/donovanpierce4012/invoice-text-to-image-endpoint-in-2026-prompt-validation-signed-url-or-base64-337l)
-- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4ekf)
-- [OpenAI, Claude, Gemini Summarization Explained: One-Key API Trust Boundaries](https://dev.to/sterlingvance2196/openai-claude-gemini-summarization-explained-one-key-api-trust-boundaries-6pb)
-- [Getting 429 Too Many Requests? Fix the Client Before You Ask for a Higher Quota](https://dev.to/libme/getting-429-too-many-requests-fix-the-client-before-you-ask-for-a-higher-quota-7c1)
+- [We Executed Governed Quantum State Transitions on Real IBM Hardware — Here Is the Evidence](https://dev.to/knwoledgeekza_3224/we-executed-governed-quantum-state-transitions-on-real-ibm-hardware-here-is-the-evidence-3851)
+- [Characterise Your Workload Before You Compare Cloud Providers](https://dev.to/jam-techcirkle/characterise-your-workload-before-you-compare-cloud-providers-27ah)
+- [How to Build a Web App in 2026 - The UK Developer&#39;s Guide](https://dev.to/mecanik-dev/how-to-build-a-web-app-in-2026-the-uk-developers-guide-h29)
+- [Use What You Already Pay For: An AI Tooling Strategy for a Google Workspace Company](https://dev.to/soytuber/use-what-you-already-pay-for-an-ai-tooling-strategy-for-a-google-workspace-company-54c3)
+- [Seven Ways to Share What You Build: A Practical Taxonomy for AI-Era Teams](https://dev.to/soytuber/seven-ways-to-share-what-you-build-a-practical-taxonomy-for-ai-era-teams-2jc9)
+- [My 262k-token model kept faceplanting at 33k and the fix was nowhere near OpenClaw](https://dev.to/lars_winstand/my-262k-token-model-kept-faceplanting-at-33k-and-the-fix-was-nowhere-near-openclaw-50mg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
