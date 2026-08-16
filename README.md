@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Executed Governed Quantum State Transitions on Real IBM Hardware — Here Is the Evidence](https://dev.to/knwoledgeekza_3224/we-executed-governed-quantum-state-transitions-on-real-ibm-hardware-here-is-the-evidence-3851)
-- [Characterise Your Workload Before You Compare Cloud Providers](https://dev.to/jam-techcirkle/characterise-your-workload-before-you-compare-cloud-providers-27ah)
-- [How to Build a Web App in 2026 - The UK Developer&#39;s Guide](https://dev.to/mecanik-dev/how-to-build-a-web-app-in-2026-the-uk-developers-guide-h29)
-- [Use What You Already Pay For: An AI Tooling Strategy for a Google Workspace Company](https://dev.to/soytuber/use-what-you-already-pay-for-an-ai-tooling-strategy-for-a-google-workspace-company-54c3)
-- [Seven Ways to Share What You Build: A Practical Taxonomy for AI-Era Teams](https://dev.to/soytuber/seven-ways-to-share-what-you-build-a-practical-taxonomy-for-ai-era-teams-2jc9)
-- [My 262k-token model kept faceplanting at 33k and the fix was nowhere near OpenClaw](https://dev.to/lars_winstand/my-262k-token-model-kept-faceplanting-at-33k-and-the-fix-was-nowhere-near-openclaw-50mg)
+- [Your Staging Database Is a Compliance Violation Waiting to Happen](https://dev.to/mikh-shytsko/your-staging-database-is-a-compliance-violation-waiting-to-happen-1bgl)
+- [Database Seed File Maintenance: Stop Patching seed.sql](https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln)
+- [Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare](https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i)
+- [How to Fill 5 Databases That Reference Each Other](https://dev.to/mikh-shytsko/how-to-fill-5-databases-that-reference-each-other-e6l)
+- [Data Seeding Tools for Regulated Teams: What Actually Works](https://dev.to/mikh-shytsko/data-seeding-tools-for-regulated-teams-what-actually-works-ece)
+- [The Commit You Reverted Is Still There](https://dev.to/havenmessenger/the-commit-you-reverted-is-still-there-1ac8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
