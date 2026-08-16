@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Staging Database Is a Compliance Violation Waiting to Happen](https://dev.to/mikh-shytsko/your-staging-database-is-a-compliance-violation-waiting-to-happen-1bgl)
-- [Database Seed File Maintenance: Stop Patching seed.sql](https://dev.to/mikh-shytsko/database-seed-file-maintenance-stop-patching-seedsql-4oln)
-- [Review SQL Migrations in 30 Seconds: Seed, Migrate, Compare](https://dev.to/mikh-shytsko/review-sql-migrations-in-30-seconds-seed-migrate-compare-86i)
-- [How to Fill 5 Databases That Reference Each Other](https://dev.to/mikh-shytsko/how-to-fill-5-databases-that-reference-each-other-e6l)
-- [Data Seeding Tools for Regulated Teams: What Actually Works](https://dev.to/mikh-shytsko/data-seeding-tools-for-regulated-teams-what-actually-works-ece)
-- [The Commit You Reverted Is Still There](https://dev.to/havenmessenger/the-commit-you-reverted-is-still-there-1ac8)
+- [Transforming Software Development with Generative AI](https://dev.to/ravi_roy_1222f9e6b2ea51bd/transforming-software-development-with-generative-ai-1361)
+- [A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Aug 09 – Aug 15, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-09-aug-15-2026-184g)
+- [What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)
+- [What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)
+- [Dockerfiles: Build Your Own Images](https://dev.to/themdmohiuddin/dockerfiles-build-your-own-images-2l6m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
