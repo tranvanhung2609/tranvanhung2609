@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Marketplace Pricing Feature Flags for Simple Emergency API Rollback](https://dev.to/milohastings5316/marketplace-pricing-feature-flags-for-simple-emergency-api-rollback-em5)
-- [5 Easy Ways to Buy Old Gmail Accounts Smartly Start in](https://dev.to/carlafarleyjy57g/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-18ap)
-- [One payment protocol for every provider: hold, capture, refund](https://dev.to/shipmindlabs/one-payment-protocol-for-every-provider-hold-capture-refund-1067)
-- [Networking Foundations: From OSI Layers to TCP Handshakes](https://dev.to/dharam_in/networking-foundations-from-osi-layers-to-tcp-handshakes-31nh)
-- [How Do Websites Handle Millions of Requests at the Same Time?](https://dev.to/ajeetverma01/how-do-websites-handle-millions-of-requests-at-the-same-time-22ok)
-- [SaaS: soporte listo tras emails de trial](https://dev.to/hannahdev56/saas-soporte-listo-tras-emails-de-trial-465i)
+- [How to Validate Python API Summaries in 2026 &lpar;Multilingual EU/US Tickets and Emails&rpar;](https://dev.to/ethanbrooks1647/how-to-validate-python-api-summaries-in-2026-multilingual-euus-tickets-and-emails-22ko)
+- [Capacity Planning Without ML: The 80/20 Approach](https://dev.to/samson_tanimawo/capacity-planning-without-ml-the-8020-approach-e52)
+- [Invoice Text-to-Image Endpoint in 2026: Prompt Validation, Signed URL or Base64](https://dev.to/donovanpierce4012/invoice-text-to-image-endpoint-in-2026-prompt-validation-signed-url-or-base64-337l)
+- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4ekf)
+- [OpenAI, Claude, Gemini Summarization Explained: One-Key API Trust Boundaries](https://dev.to/sterlingvance2196/openai-claude-gemini-summarization-explained-one-key-api-trust-boundaries-6pb)
+- [Getting 429 Too Many Requests? Fix the Client Before You Ask for a Higher Quota](https://dev.to/libme/getting-429-too-many-requests-fix-the-client-before-you-ask-for-a-higher-quota-7c1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
