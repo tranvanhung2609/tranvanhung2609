@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [DNS 설정을 상태 머신처럼 보면 카페24 메일 연결이 덜 꼬인다](https://dev.to/officialmailkr/dns-seoljeongeul-sangtae-meosinceoreom-bomyeon-kape24-meil-yeongyeoli-deol-ggoinda-43k5)
-- [How to Store Generated Report Images Per User Folder for 30 Days in 2026](https://dev.to/sterlingvance2196/how-to-store-generated-report-images-per-user-folder-for-30-days-in-2026-4c5m)
-- [Welcome Email APIs Explained: Templates, Verification, and Delivery Event Polling](https://dev.to/hwpgsd503817/welcome-email-apis-explained-templates-verification-and-delivery-event-polling-5c6o)
-- [How Actively Are Self-Hosted Analytics Tools Maintained? How to Check for Yourself](https://dev.to/kimcomplete/how-actively-are-self-hosted-analytics-tools-maintained-how-to-check-for-yourself-54ho)
-- [I Reduced Our Alert Volume by 90% — Here&#39;s the Playbook](https://dev.to/samson_tanimawo/i-reduced-our-alert-volume-by-90-heres-the-playbook-3j1n)
-- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)
+- [How Developers Are Testing AI-Generated Code in 2026](https://dev.to/ail_akram_dcc5063c428734b/how-developers-are-testing-ai-generated-code-in-2026-3aal)
+- [How to Read a Stress Test Report: Metrics That Actually Matter](https://dev.to/zerodawnipstress/how-to-read-a-stress-test-report-metrics-that-actually-matter-33jn)
+- [Building One Enterprise SaaS Ecosystem: A Technical Approach to Connected Business Systems](https://dev.to/axixtech/building-one-enterprise-saas-ecosystem-a-technical-approach-to-connected-business-systems-1ke2)
+- [Monitor Your Server Health with Python and Telegram](https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-46n7)
+- [REST API vs GraphQL in 2026 - How to Choose the Right One](https://dev.to/mecanik-dev/rest-api-vs-graphql-in-2026-how-to-choose-the-right-one-3k1a)
+- [DevSecOps Certified Professional DSOCP: The Ultimate Guide](https://dev.to/komal-kumari/devsecops-certified-professional-dsocp-the-ultimate-guide-20oo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
