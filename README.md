@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Transforming Software Development with Generative AI](https://dev.to/ravi_roy_1222f9e6b2ea51bd/transforming-software-development-with-generative-ai-1361)
-- [A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Aug 09 – Aug 15, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-09-aug-15-2026-184g)
-- [What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)
-- [What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)
-- [Dockerfiles: Build Your Own Images](https://dev.to/themdmohiuddin/dockerfiles-build-your-own-images-2l6m)
+- [DNS 설정을 상태 머신처럼 보면 카페24 메일 연결이 덜 꼬인다](https://dev.to/officialmailkr/dns-seoljeongeul-sangtae-meosinceoreom-bomyeon-kape24-meil-yeongyeoli-deol-ggoinda-43k5)
+- [How to Store Generated Report Images Per User Folder for 30 Days in 2026](https://dev.to/sterlingvance2196/how-to-store-generated-report-images-per-user-folder-for-30-days-in-2026-4c5m)
+- [Welcome Email APIs Explained: Templates, Verification, and Delivery Event Polling](https://dev.to/hwpgsd503817/welcome-email-apis-explained-templates-verification-and-delivery-event-polling-5c6o)
+- [How Actively Are Self-Hosted Analytics Tools Maintained? How to Check for Yourself](https://dev.to/kimcomplete/how-actively-are-self-hosted-analytics-tools-maintained-how-to-check-for-yourself-54ho)
+- [I Reduced Our Alert Volume by 90% — Here&#39;s the Playbook](https://dev.to/samson_tanimawo/i-reduced-our-alert-volume-by-90-heres-the-playbook-3j1n)
+- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
