@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Smart Water Purification in the UAE: Understanding RO, UV &amp; Filtration System](https://dev.to/eureka_forbes_8313b868f85/smart-water-purification-in-the-uae-understanding-ro-uv-filtration-system-53fa)
-- [Unified Secrets Security with GitGuardian and AWS Secrets Manager](https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416)
-- [Replay Your Last Ten Bugfixes Before You Trust a New Coding Model](https://dev.to/appjs_7055/replay-your-last-ten-bugfixes-before-you-trust-a-new-coding-model-kl8)
-- [AI Agent Testing &amp; Evaluation in 2026: Tracing, Hallucination Benchmarks &amp; Evals](https://dev.to/agdex_ai/ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals-2jcc)
-- [Your Access Log Is a Location Database](https://dev.to/havenmessenger/your-access-log-is-a-location-database-eo7)
-- [What a Bitcoin Blockchain Explorer Taught Me About Reading Data I Didn&#39;t Write](https://dev.to/rjeff-sudo/what-a-bitcoin-blockchain-explorer-taught-me-about-reading-data-i-didnt-write-1hh6)
+- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
+- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
+- [Você criou uma tabela de tokens pra proteger PDF. O Laravel já fazia isso.](https://dev.to/denisgusto1/voce-criou-uma-tabela-de-tokens-pra-proteger-pdf-o-laravel-ja-fazia-isso-3ggo)
+- [Harnessing AI Agents in Software Development](https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-agents-in-software-development-2noa)
+- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
+- [Middleware é porteiro, não gerente](https://dev.to/denisgusto1/middleware-e-porteiro-nao-gerente-4aob)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
