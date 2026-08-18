@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your backup is not a backup until you have restored it](https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n)
-- [LLM Text Classification APIs: 4 Portability Gates for Structured JSON SaaS Batch Tagging](https://dev.to/mt41vb6/llm-text-classification-apis-4-portability-gates-for-structured-json-saas-batch-tagging-1lc7)
-- [25% of Requests to Our New Site Probed for Software and Files We Do Not Have](https://dev.to/kimcomplete/25-of-requests-to-our-new-site-probed-for-software-and-files-we-do-not-have-ji0)
-- [I built a lie-detector for my AI coding agent. Its first run caught me.](https://dev.to/aurumflux20/i-built-a-lie-detector-for-my-ai-coding-agent-its-first-run-caught-me-5a98)
-- [Why Ask-Your-Docs Chatbots Hallucinate — Fixing Retrieval, Chunking, and Context](https://dev.to/arthurfinley2291/why-ask-your-docs-chatbots-hallucinate-fixing-retrieval-chunking-and-context-54no)
-- [Stop manually babysitting your automation flows](https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8)
+- [Why Your Cloud Cost Report Never Matches the Invoice: Blended vs Unblended vs Amortized, Reconciled](https://dev.to/zop_8abedcc7e12/why-your-cloud-cost-report-never-matches-the-invoice-blended-vs-unblended-vs-amortized-reconciled-342j)
+- [Azure Cost Management Reader vs Billing Reader: The Exact Read-Only Permissions a Cost Tool Needs](https://dev.to/zop_8abedcc7e12/azure-cost-management-reader-vs-billing-reader-the-exact-read-only-permissions-a-cost-tool-needs-3h0o)
+- [From Read-Only Connect to Your First Cloud Waste Report in Five Minutes](https://dev.to/zop_8abedcc7e12/from-read-only-connect-to-your-first-cloud-waste-report-in-five-minutes-2nd4)
+- [How to Benchmark Complex AI Pipelines Without PII: Designing a 200+ Synthetic Scenario Test Suite](https://dev.to/sharma-sugurthi/how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite-987)
+- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
+- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
