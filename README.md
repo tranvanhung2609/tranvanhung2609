@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Cloud Cost Report Never Matches the Invoice: Blended vs Unblended vs Amortized, Reconciled](https://dev.to/zop_8abedcc7e12/why-your-cloud-cost-report-never-matches-the-invoice-blended-vs-unblended-vs-amortized-reconciled-342j)
-- [Azure Cost Management Reader vs Billing Reader: The Exact Read-Only Permissions a Cost Tool Needs](https://dev.to/zop_8abedcc7e12/azure-cost-management-reader-vs-billing-reader-the-exact-read-only-permissions-a-cost-tool-needs-3h0o)
-- [From Read-Only Connect to Your First Cloud Waste Report in Five Minutes](https://dev.to/zop_8abedcc7e12/from-read-only-connect-to-your-first-cloud-waste-report-in-five-minutes-2nd4)
-- [How to Benchmark Complex AI Pipelines Without PII: Designing a 200+ Synthetic Scenario Test Suite](https://dev.to/sharma-sugurthi/how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite-987)
-- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
-- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
+- [Private Video Delivery Without Breaking Seeking: Signed URLs, Range Requests, and Expiry](https://dev.to/gallerydock/private-video-delivery-without-breaking-seeking-signed-urls-range-requests-and-expiry-21db)
+- [We shipped the feature we are named for. It was off by default.](https://dev.to/trynocoder/we-shipped-the-feature-we-are-named-for-it-was-off-by-default-eho)
+- [Best Cheap LLM Text Classification API for Bulk CSV Tagging Batch Jobs](https://dev.to/ellisthornton7395/best-cheap-llm-text-classification-api-for-bulk-csv-tagging-batch-jobs-2icb)
+- [Most founders don&#39;t realize that manual data entry is silently killing their business growth.](https://dev.to/sakeekhan/most-founders-dont-realize-that-manual-data-entry-is-silently-killing-their-business-growth-2o6m)
+- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
+- [The Free Server Mattered More Than the Free Tokens: A Weekend Build Log](https://dev.to/bestbee/the-free-server-mattered-more-than-the-free-tokens-a-weekend-build-log-1mh6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
