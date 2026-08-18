@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
-- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
-- [Você criou uma tabela de tokens pra proteger PDF. O Laravel já fazia isso.](https://dev.to/denisgusto1/voce-criou-uma-tabela-de-tokens-pra-proteger-pdf-o-laravel-ja-fazia-isso-3ggo)
-- [Harnessing AI Agents in Software Development](https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-agents-in-software-development-2noa)
-- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
-- [Middleware é porteiro, não gerente](https://dev.to/denisgusto1/middleware-e-porteiro-nao-gerente-4aob)
+- [Your backup is not a backup until you have restored it](https://dev.to/ryuji_saas/your-backup-is-not-a-backup-until-you-have-restored-it-4p9n)
+- [LLM Text Classification APIs: 4 Portability Gates for Structured JSON SaaS Batch Tagging](https://dev.to/mt41vb6/llm-text-classification-apis-4-portability-gates-for-structured-json-saas-batch-tagging-1lc7)
+- [25% of Requests to Our New Site Probed for Software and Files We Do Not Have](https://dev.to/kimcomplete/25-of-requests-to-our-new-site-probed-for-software-and-files-we-do-not-have-ji0)
+- [I built a lie-detector for my AI coding agent. Its first run caught me.](https://dev.to/aurumflux20/i-built-a-lie-detector-for-my-ai-coding-agent-its-first-run-caught-me-5a98)
+- [Why Ask-Your-Docs Chatbots Hallucinate — Fixing Retrieval, Chunking, and Context](https://dev.to/arthurfinley2291/why-ask-your-docs-chatbots-hallucinate-fixing-retrieval-chunking-and-context-54no)
+- [Stop manually babysitting your automation flows](https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
