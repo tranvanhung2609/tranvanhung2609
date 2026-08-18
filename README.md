@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Private Video Delivery Without Breaking Seeking: Signed URLs, Range Requests, and Expiry](https://dev.to/gallerydock/private-video-delivery-without-breaking-seeking-signed-urls-range-requests-and-expiry-21db)
-- [We shipped the feature we are named for. It was off by default.](https://dev.to/trynocoder/we-shipped-the-feature-we-are-named-for-it-was-off-by-default-eho)
-- [Best Cheap LLM Text Classification API for Bulk CSV Tagging Batch Jobs](https://dev.to/ellisthornton7395/best-cheap-llm-text-classification-api-for-bulk-csv-tagging-batch-jobs-2icb)
-- [Most founders don&#39;t realize that manual data entry is silently killing their business growth.](https://dev.to/sakeekhan/most-founders-dont-realize-that-manual-data-entry-is-silently-killing-their-business-growth-2o6m)
-- [How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)
-- [The Free Server Mattered More Than the Free Tokens: A Weekend Build Log](https://dev.to/bestbee/the-free-server-mattered-more-than-the-free-tokens-a-weekend-build-log-1mh6)
+- [Media Moderation Triage: Small Models, JSON Correctness, Token Counting, and LLM Cost](https://dev.to/sterlingvance2196/media-moderation-triage-small-models-json-correctness-token-counting-and-llm-cost-43k)
+- [Hello World ❤️](https://dev.to/haya_alhosain/hello-world-3po9)
+- [Top 15 Places to Purchase Aged GitHub Accounts 2026](https://dev.to/livviegentry8d3l2/top-15-places-to-purchase-aged-github-accounts-2026-4opa)
+- [Java Spring boot performance issues and solutions](https://dev.to/thedogeg48/java-spring-boot-performance-issues-and-solutions-5ege)
+- [Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers](https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3)
+- [I Built a Secure REST API — Then I Tried to Break It](https://dev.to/pranav_0440/i-built-a-secure-rest-api-then-i-tried-to-break-it-2klf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
