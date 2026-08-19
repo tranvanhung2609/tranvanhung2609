@@ -103,12 +103,18 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Every Number On Our Site Was Typed Once](https://dev.to/minia2a/every-number-on-our-site-was-typed-once-2oe8)
-- [Cómo mantener siempre disponibles las sesiones de tu agente de código remoto &lpar;parte 2&rpar;](https://dev.to/aws-builders/mover-un-agente-de-ia-siempre-encendido-de-un-vps-de-24-a-fargate-spot-pt-2-o4f)
-- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-8ak)
-- [Logistics Code Review Backend: 3 Controls for Single-Key Model API Portability](https://dev.to/sawyerflynn1578/logistics-code-review-backend-3-controls-for-single-key-model-api-portability-12pf)
-- [Wiz&#39;s Red Agent Cracked Snowflake&#39;s Jira in 5 Days — After Two Other AI Tools Signed Off on the Bug](https://dev.to/jasondevlab/wizs-red-agent-cracked-snowflakes-jira-in-5-days-after-two-other-ai-tools-signed-off-on-the-bug-1hhk)
-- [Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data](https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-1ec)
+- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob)
+- [How Fintech Teams Are Quietly Cutting AWS Bills by 60% Without Touching Production](https://dev.to/haleyy/how-fintech-teams-are-quietly-cutting-aws-bills-by-60-without-touching-production-2okj)
+- [Hey everyone! 👋
+
+I’m Abdul Bari, a backend developer from Pakistan 🇵🇰.
+
+I’m excited to be here on DEV.to and looking forward to sharing my journey, lessons learned, projects, and everything I discover along the way as a developer.
+
+Let’s connect, learn,](https://dev.to/burirodev/hey-everyone-im-abdul-bari-a-backend-developer-from-pakistan-im-excited-to-be-here-1io7)
+- [You Can&#39;t Govern What You Can&#39;t See - Building an AI Bill of Materials](https://dev.to/mohit_kumar1/you-cant-govern-what-you-cant-see-building-an-ai-bill-of-materials-1e3a)
+- [I thought I needed Google Workspace for a phone agent. The real problem was my LLM router.](https://dev.to/lars_winstand/i-thought-i-needed-google-workspace-for-a-phone-agent-the-real-problem-was-my-llm-router-26hh)
+- [Node.js Invoice Text Summarization API: Chat Completions With Quality-Latency Controls](https://dev.to/sullivanreed1247/nodejs-invoice-text-summarization-api-chat-completions-with-quality-latency-controls-3m3l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
