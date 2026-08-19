@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here&#39;s the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1)
-- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3)
-- [What The Update Framework Assumes Will Go Wrong](https://dev.to/havenmessenger/what-the-update-framework-assumes-will-go-wrong-2p07)
-- [Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse](https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0)
-- [When GitHub Went Dark: What Broke and Why It Matters](https://dev.to/adilaidev/when-github-went-dark-what-broke-and-why-it-matters-349o)
-- [Turn Your Spring Boot App Into an MCP Server: A Hands-On Guide](https://dev.to/jamilxt/turn-your-spring-boot-app-into-an-mcp-server-a-hands-on-guide-324i)
+- [Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing](https://dev.to/paulcrinigan/fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing-2al)
+- [Exchange CU1 Delay: When AI Finds Flaws Faster Than Humans Can Validate](https://dev.to/waxell/exchange-cu1-delay-when-ai-finds-flaws-faster-than-humans-can-validate-50bj)
+- [Flaky Tests: O Problema Não São os Testes, É a Confiança](https://dev.to/victorholiveira/flaky-tests-o-problema-nao-sao-os-testes-e-a-confianca-b8l)
+- [FRRouting and the Linux Routing Table: How Routes Reach the Kernel](https://dev.to/subnetica/frrouting-and-the-linux-routing-table-how-routes-reach-the-kernel-4gpp)
+- [Build a Database Migration Tool with Python](https://dev.to/qingluan/build-a-database-migration-tool-with-python-3i80)
+- [Build a Real-Time Log Viewer with Python](https://dev.to/qingluan/build-a-real-time-log-viewer-with-python-14ik)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
