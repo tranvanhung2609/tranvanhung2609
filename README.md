@@ -103,18 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob)
-- [How Fintech Teams Are Quietly Cutting AWS Bills by 60% Without Touching Production](https://dev.to/haleyy/how-fintech-teams-are-quietly-cutting-aws-bills-by-60-without-touching-production-2okj)
-- [Hey everyone! 👋
-
-I’m Abdul Bari, a backend developer from Pakistan 🇵🇰.
-
-I’m excited to be here on DEV.to and looking forward to sharing my journey, lessons learned, projects, and everything I discover along the way as a developer.
-
-Let’s connect, learn,](https://dev.to/burirodev/hey-everyone-im-abdul-bari-a-backend-developer-from-pakistan-im-excited-to-be-here-1io7)
-- [You Can&#39;t Govern What You Can&#39;t See - Building an AI Bill of Materials](https://dev.to/mohit_kumar1/you-cant-govern-what-you-cant-see-building-an-ai-bill-of-materials-1e3a)
-- [I thought I needed Google Workspace for a phone agent. The real problem was my LLM router.](https://dev.to/lars_winstand/i-thought-i-needed-google-workspace-for-a-phone-agent-the-real-problem-was-my-llm-router-26hh)
-- [Node.js Invoice Text Summarization API: Chat Completions With Quality-Latency Controls](https://dev.to/sullivanreed1247/nodejs-invoice-text-summarization-api-chat-completions-with-quality-latency-controls-3m3l)
+- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here&#39;s the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1)
+- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3)
+- [What The Update Framework Assumes Will Go Wrong](https://dev.to/havenmessenger/what-the-update-framework-assumes-will-go-wrong-2p07)
+- [Cloud Cost Per Customer: Unit Economics Without Rebuilding Your Data Warehouse](https://dev.to/zop_8abedcc7e12/cloud-cost-per-customer-unit-economics-without-rebuilding-your-data-warehouse-5do0)
+- [When GitHub Went Dark: What Broke and Why It Matters](https://dev.to/adilaidev/when-github-went-dark-what-broke-and-why-it-matters-349o)
+- [Turn Your Spring Boot App Into an MCP Server: A Hands-On Guide](https://dev.to/jamilxt/turn-your-spring-boot-app-into-an-mcp-server-a-hands-on-guide-324i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
