@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Media Moderation Triage: Small Models, JSON Correctness, Token Counting, and LLM Cost](https://dev.to/sterlingvance2196/media-moderation-triage-small-models-json-correctness-token-counting-and-llm-cost-43k)
-- [Hello World ❤️](https://dev.to/haya_alhosain/hello-world-3po9)
-- [Top 15 Places to Purchase Aged GitHub Accounts 2026](https://dev.to/livviegentry8d3l2/top-15-places-to-purchase-aged-github-accounts-2026-4opa)
-- [Java Spring boot performance issues and solutions](https://dev.to/thedogeg48/java-spring-boot-performance-issues-and-solutions-5ege)
-- [Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers](https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3)
-- [I Built a Secure REST API — Then I Tried to Break It](https://dev.to/pranav_0440/i-built-a-secure-rest-api-then-i-tried-to-break-it-2klf)
+- [Every Number On Our Site Was Typed Once](https://dev.to/minia2a/every-number-on-our-site-was-typed-once-2oe8)
+- [Cómo mantener siempre disponibles las sesiones de tu agente de código remoto &lpar;parte 2&rpar;](https://dev.to/aws-builders/mover-un-agente-de-ia-siempre-encendido-de-un-vps-de-24-a-fargate-spot-pt-2-o4f)
+- [Runbook Automation: From 45-Minute Fixes to 90-Second Recoveries](https://dev.to/samson_tanimawo/runbook-automation-from-45-minute-fixes-to-90-second-recoveries-8ak)
+- [Logistics Code Review Backend: 3 Controls for Single-Key Model API Portability](https://dev.to/sawyerflynn1578/logistics-code-review-backend-3-controls-for-single-key-model-api-portability-12pf)
+- [Wiz&#39;s Red Agent Cracked Snowflake&#39;s Jira in 5 Days — After Two Other AI Tools Signed Off on the Bug](https://dev.to/jasondevlab/wizs-red-agent-cracked-snowflakes-jira-in-5-days-after-two-other-ai-tools-signed-off-on-the-bug-1hhk)
+- [Opinion: A Disposable Server Turns Free Model Mistakes Into Rollback Data](https://dev.to/github_7727/opinion-a-disposable-server-turns-free-model-mistakes-into-rollback-data-1ec)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
