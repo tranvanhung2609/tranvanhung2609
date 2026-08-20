@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Soul in Motion — 11:05 AM | 2026-08-20](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1105-am-2026-08-20-h9j)
-- [Turso: Free 9GB Distributed SQLite with Vector Search](https://dev.to/build996/turso-free-9gb-distributed-sqlite-with-vector-search-4k77)
-- [Okay so today is day 0 where I read my books and keep my work env ready by choosing 7 features in products on product hunt and 7 repositories on GitHub and that’s a wrap ….. Follow for more](https://dev.to/weenaithdev/okay-so-today-is-day-0-where-i-read-my-books-and-keep-my-work-env-ready-by-choosing-7-features-in-2b02)
-- [Hugging Face Spaces Free Tier: Host AI Demos &amp; ZeroGPU](https://dev.to/build996/hugging-face-spaces-free-tier-host-ai-demos-zerogpu-23i0)
-- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
-- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
+- [Pi4J LED Playground: A Community Resource for Learning Hardware Programming with Java](https://dev.to/igoriot/pi4j-led-playground-a-community-resource-for-learning-hardware-programming-with-java-2ip3)
+- [Academic social network developed to connect students through knowledge exchange.](https://dev.to/incarlosdaniel/academic-social-network-developed-to-connect-students-through-knowledge-exchange-59dp)
+- [Why is my Linux server slow? A practical checklist](https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e)
+- [Cloud Concentration Risk Has a Price Tag Now](https://dev.to/ntctech/cloud-concentration-risk-has-a-price-tag-now-3a47)
+- [Before You Add Kafka, Redis, and Elasticsearch: Try One Postgres First](https://dev.to/jamilxt/before-you-add-kafka-redis-and-elasticsearch-try-one-postgres-first-20g1)
+- [You&#39;ve Configured a Reverse Proxy, But Can You Explain Why It Works? &lpar;Part 1&rpar;](https://dev.to/shinagawa-web/youve-configured-a-reverse-proxy-but-can-you-explain-why-it-works-part-1-1lpf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
