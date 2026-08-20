@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing](https://dev.to/paulcrinigan/fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing-2al)
-- [Exchange CU1 Delay: When AI Finds Flaws Faster Than Humans Can Validate](https://dev.to/waxell/exchange-cu1-delay-when-ai-finds-flaws-faster-than-humans-can-validate-50bj)
-- [Flaky Tests: O Problema Não São os Testes, É a Confiança](https://dev.to/victorholiveira/flaky-tests-o-problema-nao-sao-os-testes-e-a-confianca-b8l)
-- [FRRouting and the Linux Routing Table: How Routes Reach the Kernel](https://dev.to/subnetica/frrouting-and-the-linux-routing-table-how-routes-reach-the-kernel-4gpp)
-- [Build a Database Migration Tool with Python](https://dev.to/qingluan/build-a-database-migration-tool-with-python-3i80)
-- [Build a Real-Time Log Viewer with Python](https://dev.to/qingluan/build-a-real-time-log-viewer-with-python-14ik)
+- [Stop Reading the Free-Model Diff. Inject the Fault It Assumes Away.](https://dev.to/github_7727/stop-reading-the-free-model-diff-inject-the-fault-it-assumes-away-454i)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
+- [PlanetScale vs Neon: Managed Database Platforms Compared &lpar;2026&rpar;](https://dev.to/kimcomplete/planetscale-vs-neon-managed-database-platforms-compared-2026-52h1)
+- [How to Track AI Code Assistant Spend Across Every Vendor &lpar;2026 Guide&rpar;](https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8)
+- [Build a Feature Flag System with Python](https://dev.to/qingluan/build-a-feature-flag-system-with-python-57n5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
