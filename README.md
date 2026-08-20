@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reading the Free-Model Diff. Inject the Fault It Assumes Away.](https://dev.to/github_7727/stop-reading-the-free-model-diff-inject-the-fault-it-assumes-away-454i)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [PlanetScale vs Neon: Managed Database Platforms Compared &lpar;2026&rpar;](https://dev.to/kimcomplete/planetscale-vs-neon-managed-database-platforms-compared-2026-52h1)
-- [How to Track AI Code Assistant Spend Across Every Vendor &lpar;2026 Guide&rpar;](https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8)
-- [Build a Feature Flag System with Python](https://dev.to/qingluan/build-a-feature-flag-system-with-python-57n5)
+- [Soul in Motion — 11:05 AM | 2026-08-20](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1105-am-2026-08-20-h9j)
+- [Turso: Free 9GB Distributed SQLite with Vector Search](https://dev.to/build996/turso-free-9gb-distributed-sqlite-with-vector-search-4k77)
+- [Okay so today is day 0 where I read my books and keep my work env ready by choosing 7 features in products on product hunt and 7 repositories on GitHub and that’s a wrap ….. Follow for more](https://dev.to/weenaithdev/okay-so-today-is-day-0-where-i-read-my-books-and-keep-my-work-env-ready-by-choosing-7-features-in-2b02)
+- [Hugging Face Spaces Free Tier: Host AI Demos &amp; ZeroGPU](https://dev.to/build996/hugging-face-spaces-free-tier-host-ai-demos-zerogpu-23i0)
+- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
+- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
