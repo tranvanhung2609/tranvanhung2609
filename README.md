@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Pi4J LED Playground: A Community Resource for Learning Hardware Programming with Java](https://dev.to/igoriot/pi4j-led-playground-a-community-resource-for-learning-hardware-programming-with-java-2ip3)
-- [Academic social network developed to connect students through knowledge exchange.](https://dev.to/incarlosdaniel/academic-social-network-developed-to-connect-students-through-knowledge-exchange-59dp)
-- [Why is my Linux server slow? A practical checklist](https://dev.to/opservo/why-is-my-linux-server-slow-a-practical-checklist-225e)
-- [Cloud Concentration Risk Has a Price Tag Now](https://dev.to/ntctech/cloud-concentration-risk-has-a-price-tag-now-3a47)
-- [Before You Add Kafka, Redis, and Elasticsearch: Try One Postgres First](https://dev.to/jamilxt/before-you-add-kafka-redis-and-elasticsearch-try-one-postgres-first-20g1)
-- [You&#39;ve Configured a Reverse Proxy, But Can You Explain Why It Works? &lpar;Part 1&rpar;](https://dev.to/shinagawa-web/youve-configured-a-reverse-proxy-but-can-you-explain-why-it-works-part-1-1lpf)
+- [Understanding the Linux Filesystem Hierarchy](https://dev.to/thenanjay/understanding-the-linux-filesystem-hierarchy-3c13)
+- [Stop a Malicious postinstall Script Cold With One CircleCI Config Change](https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168)
+- [Best Enterprise LLM Gateway for Budgets and Cost Control](https://dev.to/kuldeep_paul/best-enterprise-llm-gateway-for-budgets-and-cost-control-115h)
+- [One request per document: sync-mode API design](https://dev.to/docforge/one-request-per-document-sync-mode-api-design-5108)
+- [Best Enterprise AI Gateway to Reduce Your LLM Token Cost in 2026](https://dev.to/kuldeep_paul/best-enterprise-ai-gateway-to-reduce-your-llm-token-cost-in-2026-126p)
+- [Your agent isn&#39;t reckless. It just can&#39;t see the blast radius.](https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
