@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Linux Filesystem Hierarchy](https://dev.to/thenanjay/understanding-the-linux-filesystem-hierarchy-3c13)
-- [Stop a Malicious postinstall Script Cold With One CircleCI Config Change](https://dev.to/mukesh_13/stop-a-malicious-postinstall-script-cold-with-one-circleci-config-change-4168)
-- [Best Enterprise LLM Gateway for Budgets and Cost Control](https://dev.to/kuldeep_paul/best-enterprise-llm-gateway-for-budgets-and-cost-control-115h)
-- [One request per document: sync-mode API design](https://dev.to/docforge/one-request-per-document-sync-mode-api-design-5108)
-- [Best Enterprise AI Gateway to Reduce Your LLM Token Cost in 2026](https://dev.to/kuldeep_paul/best-enterprise-ai-gateway-to-reduce-your-llm-token-cost-in-2026-126p)
-- [Your agent isn&#39;t reckless. It just can&#39;t see the blast radius.](https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj)
+- [How to Cost 10,000 US/EU Web-App SMS Batch Alerts &lpar;Using Polling and Suppressions&rpar;](https://dev.to/yukikobayashi880/how-to-cost-10000-useu-web-app-sms-batch-alerts-using-polling-and-suppressions-2gkd)
+- [SendGrid, Resend, Postmark Alternatives — 4 Transactional Email API Checks](https://dev.to/silhouette72591483/sendgrid-resend-postmark-alternatives-4-transactional-email-api-checks-2g5f)
+- [goninja: code-first CRUD generation for Go, no reflection](https://dev.to/caspel26/goninja-code-first-crud-generation-for-go-no-reflection-41nm)
+- [Keep Every LangSmith Trace Without the 10 Retention Bill](https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1)
+- [What an idempotency key actually does](https://dev.to/allenarduino/what-an-idempotency-key-actually-does-2ban)
+- [Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE &lpar;2026&rpar;](https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
