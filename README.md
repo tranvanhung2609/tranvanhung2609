@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Cost 10,000 US/EU Web-App SMS Batch Alerts &lpar;Using Polling and Suppressions&rpar;](https://dev.to/yukikobayashi880/how-to-cost-10000-useu-web-app-sms-batch-alerts-using-polling-and-suppressions-2gkd)
-- [SendGrid, Resend, Postmark Alternatives — 4 Transactional Email API Checks](https://dev.to/silhouette72591483/sendgrid-resend-postmark-alternatives-4-transactional-email-api-checks-2g5f)
-- [goninja: code-first CRUD generation for Go, no reflection](https://dev.to/caspel26/goninja-code-first-crud-generation-for-go-no-reflection-41nm)
-- [Keep Every LangSmith Trace Without the 10 Retention Bill](https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1)
-- [What an idempotency key actually does](https://dev.to/allenarduino/what-an-idempotency-key-actually-does-2ban)
-- [Which Open-Source Notion Alternatives Are Actually Being Developed? AppFlowy vs AFFiNE &lpar;2026&rpar;](https://dev.to/kimcomplete/which-open-source-notion-alternatives-are-actually-being-developed-appflowy-vs-affine-2026-3h03)
+- [Java Full Stack Training in Pondicherry | Students Bazaar](https://dev.to/vedha/java-full-stack-training-in-pondicherry-students-bazaar-486j)
+- [How to Find Large Files and Directories in Linux](https://dev.to/serveravatar/how-to-find-large-files-and-directories-in-linux-3kp2)
+- [Model Context Protocol: Setup MCP Server on Bare Metal](https://dev.to/jaksontate/model-context-protocol-setup-mcp-server-on-bare-metal-1hdj)
+- [Advance skills with GTM Training Real-time Projects by GoLogica](https://dev.to/pardhu_c282182d625b7a414e/advance-skills-with-gtm-training-real-time-projects-by-gologica-5g9)
+- [How Much Does It Cost to Develop an Education App?](https://dev.to/upwork_floatinginfotech_/how-much-does-it-cost-to-develop-an-education-app-55gl)
+- [5 Control-M Alternatives in 2026](https://dev.to/weeli_632477a9c141395/5-control-m-alternatives-in-2026-4i85)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
