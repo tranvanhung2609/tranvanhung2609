@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Something that&#39;s easy to miss: cost tooling and observability data can feed into the same loop, not two separate concerns](https://dev.to/cloudcosttree/something-thats-easy-to-miss-cost-tooling-and-observability-data-can-feed-into-the-same-loop-not-25f3)
-- [Governance, die sich selbst erzwingt](https://dev.to/frederikvonderheyden/governance-die-sich-selbst-erzwingt-471m)
-- [Amazon S3 Hands-On Practicals](https://dev.to/tejas_shinkar/amazon-s3-hands-on-practicals-5f72)
-- [Best Small Business Loans for Entrepreneurs: Top Funding Choices](https://dev.to/matilda_bruce_ce4f12d7c39/best-small-business-loans-for-entrepreneurs-top-funding-choices-55hm)
-- [OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow &lpar;and what I built&rpar;](https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an)
-- [Infrastructure Already Has an Authority Layer. HCP Terraform Is Just Proving It First.](https://dev.to/ntctech/infrastructure-already-has-an-authority-layer-hcp-terraform-is-just-proving-it-first-3hl2)
+- [JavaScript SEO: How Search Engines Crawl Modern Web Applications](https://dev.to/synfinity-dynamics-pvt-ltd/javascript-seo-how-search-engines-crawl-modern-web-applications-6p5)
+- [The Local LLM Stack in 2026: What Actually Works](https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1)
+- [Node.js vs Python - Which Backend Language to Choose in 2026](https://dev.to/mecanik-dev/nodejs-vs-python-which-backend-language-to-choose-in-2026-1j4p)
+- [It Was A Choice #2: Person&#39;s name is the identity](https://dev.to/tomj/it-was-a-choice-2-persons-name-is-the-identity-2701)
+- [JSON Formatting Is Simple. Debugging Bad JSON Isn&#39;t.](https://dev.to/sadevz_labs_01f7996f92795/json-formatting-is-simple-debugging-bad-json-isnt-465k)
+- [OpenClaw Source Code Walkthrough &lpar;1&rpar; – Startup Flow: From Command Line to a Running Gateway](https://dev.to/homesickjava/openclaw-source-code-walkthrough-1-startup-flow-from-command-line-to-a-running-gateway-36a0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
