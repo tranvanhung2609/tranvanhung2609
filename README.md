@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Java Full Stack Training in Pondicherry | Students Bazaar](https://dev.to/vedha/java-full-stack-training-in-pondicherry-students-bazaar-486j)
-- [How to Find Large Files and Directories in Linux](https://dev.to/serveravatar/how-to-find-large-files-and-directories-in-linux-3kp2)
-- [Model Context Protocol: Setup MCP Server on Bare Metal](https://dev.to/jaksontate/model-context-protocol-setup-mcp-server-on-bare-metal-1hdj)
-- [Advance skills with GTM Training Real-time Projects by GoLogica](https://dev.to/pardhu_c282182d625b7a414e/advance-skills-with-gtm-training-real-time-projects-by-gologica-5g9)
-- [How Much Does It Cost to Develop an Education App?](https://dev.to/upwork_floatinginfotech_/how-much-does-it-cost-to-develop-an-education-app-55gl)
-- [5 Control-M Alternatives in 2026](https://dev.to/weeli_632477a9c141395/5-control-m-alternatives-in-2026-4i85)
+- [Something that&#39;s easy to miss: cost tooling and observability data can feed into the same loop, not two separate concerns](https://dev.to/cloudcosttree/something-thats-easy-to-miss-cost-tooling-and-observability-data-can-feed-into-the-same-loop-not-25f3)
+- [Governance, die sich selbst erzwingt](https://dev.to/frederikvonderheyden/governance-die-sich-selbst-erzwingt-471m)
+- [Amazon S3 Hands-On Practicals](https://dev.to/tejas_shinkar/amazon-s3-hands-on-practicals-5f72)
+- [Best Small Business Loans for Entrepreneurs: Top Funding Choices](https://dev.to/matilda_bruce_ce4f12d7c39/best-small-business-loans-for-entrepreneurs-top-funding-choices-55hm)
+- [OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow &lpar;and what I built&rpar;](https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an)
+- [Infrastructure Already Has an Authority Layer. HCP Terraform Is Just Proving It First.](https://dev.to/ntctech/infrastructure-already-has-an-authority-layer-hcp-terraform-is-just-proving-it-first-3hl2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
