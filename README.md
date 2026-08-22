@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Pulse: Building My First Deployment &amp; Infrastructure Dashboard](https://dev.to/najayee_naseer/devops-pulse-building-my-first-deployment-infrastructure-dashboard-hgc)
-- [DevOps Questions After We Broke The Release Handshake](https://dev.to/devops_oasis/devops-questions-after-we-broke-the-release-handshake-46j2)
-- [Password Reset Email Reliability with DKIM Suppression and Bounce Recovery Explained](https://dev.to/sullivanreed1247/password-reset-email-reliability-with-dkim-suppression-and-bounce-recovery-explained-5237)
-- [Buy Verified PayPal Accounts Available for Purchase](https://dev.to/paypalacc91/buy-verified-paypal-accounts-available-for-purchase-31jd)
-- [Optimizing API Workflows for Instant Digital Payouts in 2026](https://dev.to/james65/optimizing-api-workflows-for-instant-digital-payouts-in-2026-3ef0)
-- [Build a Custom Reverse Proxy with Python](https://dev.to/qingluan/build-a-custom-reverse-proxy-with-python-3j7)
+- [JavaScript Date: How to Work with Dates and Times](https://dev.to/rachit_joshi_3c54c32831e6/javascript-date-how-to-work-with-dates-and-times-44mk)
+- [The Help Desk Is Becoming The New Initial Access Broker](https://dev.to/ntctech/the-help-desk-is-becoming-the-new-initial-access-broker-5h6k)
+- [CVE-2026-69836: Entra ID CVSS 10.0 RCE — What Business Owners Should Know](https://dev.to/stanleya/cve-2026-69836-entra-id-cvss-100-rce-what-business-owners-should-know-lcc)
+- [Hermes Agent System Requirements — RAM, CPU, Disk, Python, OS 2026](https://dev.to/zackchew/hermes-agent-system-requirements-ram-cpu-disk-python-os-2026-56mp)
+- [Top 13 Places to Buy Old edu email Accounts in the World 2027](https://dev.to/karelleclwzr/top-13-places-to-buy-old-edu-email-accounts-in-the-world-2027-1dfe)
+- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
