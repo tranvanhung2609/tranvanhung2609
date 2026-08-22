@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript SEO: How Search Engines Crawl Modern Web Applications](https://dev.to/synfinity-dynamics-pvt-ltd/javascript-seo-how-search-engines-crawl-modern-web-applications-6p5)
-- [The Local LLM Stack in 2026: What Actually Works](https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1)
-- [Node.js vs Python - Which Backend Language to Choose in 2026](https://dev.to/mecanik-dev/nodejs-vs-python-which-backend-language-to-choose-in-2026-1j4p)
-- [It Was A Choice #2: Person&#39;s name is the identity](https://dev.to/tomj/it-was-a-choice-2-persons-name-is-the-identity-2701)
-- [JSON Formatting Is Simple. Debugging Bad JSON Isn&#39;t.](https://dev.to/sadevz_labs_01f7996f92795/json-formatting-is-simple-debugging-bad-json-isnt-465k)
-- [OpenClaw Source Code Walkthrough &lpar;1&rpar; – Startup Flow: From Command Line to a Running Gateway](https://dev.to/homesickjava/openclaw-source-code-walkthrough-1-startup-flow-from-command-line-to-a-running-gateway-36a0)
+- [SaaS Daily Report Email Scheduling: Cron Webhooks vs Airflow and Temporal](https://dev.to/olafjohansson3168/saas-daily-report-email-scheduling-cron-webhooks-vs-airflow-and-temporal-1gbp)
+- [Supabase vs Firebase: How the Two Backends Compare &lpar;2026&rpar;](https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3m3p)
+- [Build a Custom Object Storage System with Python](https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-3eme)
+- [Azure Cost Optimization: How I Cut a Production Bill by 41% with Cosmos DB Serverless](https://dev.to/starkprince/azure-cost-optimization-how-i-cut-a-production-bill-by-41-with-cosmos-db-serverless-9i4)
+- [Three guards to add before you let an agent run unattended](https://dev.to/fewparts/three-guards-to-add-before-you-let-an-agent-run-unattended-2oml)
+- [Terraform: alertas de drift con contexto](https://dev.to/alexcarteruk/terraform-alertas-de-drift-con-contexto-514k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
