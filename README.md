@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Daily Report Email Scheduling: Cron Webhooks vs Airflow and Temporal](https://dev.to/olafjohansson3168/saas-daily-report-email-scheduling-cron-webhooks-vs-airflow-and-temporal-1gbp)
-- [Supabase vs Firebase: How the Two Backends Compare &lpar;2026&rpar;](https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3m3p)
-- [Build a Custom Object Storage System with Python](https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-3eme)
-- [Azure Cost Optimization: How I Cut a Production Bill by 41% with Cosmos DB Serverless](https://dev.to/starkprince/azure-cost-optimization-how-i-cut-a-production-bill-by-41-with-cosmos-db-serverless-9i4)
-- [Three guards to add before you let an agent run unattended](https://dev.to/fewparts/three-guards-to-add-before-you-let-an-agent-run-unattended-2oml)
-- [Terraform: alertas de drift con contexto](https://dev.to/alexcarteruk/terraform-alertas-de-drift-con-contexto-514k)
+- [DevOps Pulse: Building My First Deployment &amp; Infrastructure Dashboard](https://dev.to/najayee_naseer/devops-pulse-building-my-first-deployment-infrastructure-dashboard-hgc)
+- [DevOps Questions After We Broke The Release Handshake](https://dev.to/devops_oasis/devops-questions-after-we-broke-the-release-handshake-46j2)
+- [Password Reset Email Reliability with DKIM Suppression and Bounce Recovery Explained](https://dev.to/sullivanreed1247/password-reset-email-reliability-with-dkim-suppression-and-bounce-recovery-explained-5237)
+- [Buy Verified PayPal Accounts Available for Purchase](https://dev.to/paypalacc91/buy-verified-paypal-accounts-available-for-purchase-31jd)
+- [Optimizing API Workflows for Instant Digital Payouts in 2026](https://dev.to/james65/optimizing-api-workflows-for-instant-digital-payouts-in-2026-3ef0)
+- [Build a Custom Reverse Proxy with Python](https://dev.to/qingluan/build-a-custom-reverse-proxy-with-python-3j7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
