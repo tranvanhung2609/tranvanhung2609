@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Date: How to Work with Dates and Times](https://dev.to/rachit_joshi_3c54c32831e6/javascript-date-how-to-work-with-dates-and-times-44mk)
-- [The Help Desk Is Becoming The New Initial Access Broker](https://dev.to/ntctech/the-help-desk-is-becoming-the-new-initial-access-broker-5h6k)
-- [CVE-2026-69836: Entra ID CVSS 10.0 RCE — What Business Owners Should Know](https://dev.to/stanleya/cve-2026-69836-entra-id-cvss-100-rce-what-business-owners-should-know-lcc)
-- [Hermes Agent System Requirements — RAM, CPU, Disk, Python, OS 2026](https://dev.to/zackchew/hermes-agent-system-requirements-ram-cpu-disk-python-os-2026-56mp)
-- [Top 13 Places to Buy Old edu email Accounts in the World 2027](https://dev.to/karelleclwzr/top-13-places-to-buy-old-edu-email-accounts-in-the-world-2027-1dfe)
-- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
+- [Authentication is who you are. Authorization is what you can touch.](https://dev.to/divyakush/authentication-is-who-you-are-authorization-is-what-you-can-touch-22fp)
+- [An order isn&#39;t a row — it&#39;s a state machine](https://dev.to/divyakush/an-order-isnt-a-row-its-a-state-machine-2kj1)
+- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko)
+- [Azure App Service: 4-Step Guide to Deploy and Secure Web Apps](https://dev.to/devstackhubtech/azure-app-service-4-step-guide-to-deploy-and-secure-web-apps-2b7c)
+- [What Are DevOps Consulting Services? Explained!](https://dev.to/edwardsinclair/what-are-devops-consulting-services-explained-2ckm)
+- [Understanding Laravel Service Providers](https://dev.to/fatima_fatima_d511fc4e550/understanding-laravel-service-providers-33m9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
