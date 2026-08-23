@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Generated Reports via Transactional Email: SMS Fallback and Polling &lpar;Template-Owned&rpar;](https://dev.to/arthurfinley2291/generated-reports-via-transactional-email-sms-fallback-and-polling-template-owned-46jl)
-- [Never let a model take the irreversible step](https://dev.to/academy_agineai/never-let-a-model-take-the-irreversible-step-5e8n)
-- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-3e0m)
-- [The Impact Receipt: Carbon Should Travel With Every AI Request](https://dev.to/carbonlayer/the-impact-receipt-carbon-should-travel-with-every-ai-request-d99)
-- [How I Cut an Azure Bill by 55%](https://dev.to/sarupy/how-i-cut-an-azure-bill-by-55-4l65)
-- [Secure Password Reset Flow: Hashed-Token Expiry Ledger for Node.js Express Gaming Compliance](https://dev.to/valenciamoss6824/secure-password-reset-flow-hashed-token-expiry-ledger-for-nodejs-express-gaming-compliance-563m)
+- [Are We Treating Cybersecurity as an Afterthought?](https://dev.to/omni_fys/are-we-treating-cybersecurity-as-an-afterthought-b3o)
+- [Build a Custom Log Parser and Analyzer](https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-5440)
+- [Transactional Email List Hygiene — Suppression Sync, Event Polling, and Auditable Delivery](https://dev.to/ethanbrooks1647/transactional-email-list-hygiene-suppression-sync-event-polling-and-auditable-delivery-20ag)
+- [Idempotency is not a key, it&#39;s a contract](https://dev.to/mashhadi/idempotency-is-not-a-key-its-a-contract-534h)
+- [Top 23 Sites to Buy old Gmail Accounts PVA Bulk in 2026](https://dev.to/shirleyspd3f5/top-23-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026-1c2m)
+- [Self-Hosted LLM Inference &amp; Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI &lpar;+ Open WebUI&rpar;](https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
