@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Authentication is who you are. Authorization is what you can touch.](https://dev.to/divyakush/authentication-is-who-you-are-authorization-is-what-you-can-touch-22fp)
-- [An order isn&#39;t a row — it&#39;s a state machine](https://dev.to/divyakush/an-order-isnt-a-row-its-a-state-machine-2kj1)
-- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko)
-- [Azure App Service: 4-Step Guide to Deploy and Secure Web Apps](https://dev.to/devstackhubtech/azure-app-service-4-step-guide-to-deploy-and-secure-web-apps-2b7c)
-- [What Are DevOps Consulting Services? Explained!](https://dev.to/edwardsinclair/what-are-devops-consulting-services-explained-2ckm)
-- [Understanding Laravel Service Providers](https://dev.to/fatima_fatima_d511fc4e550/understanding-laravel-service-providers-33m9)
+- [Generated Reports via Transactional Email: SMS Fallback and Polling &lpar;Template-Owned&rpar;](https://dev.to/arthurfinley2291/generated-reports-via-transactional-email-sms-fallback-and-polling-template-owned-46jl)
+- [Never let a model take the irreversible step](https://dev.to/academy_agineai/never-let-a-model-take-the-irreversible-step-5e8n)
+- [Why I Stopped Self-Hosting AI Models &lpar;And You Probably Should Too&rpar;](https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-3e0m)
+- [The Impact Receipt: Carbon Should Travel With Every AI Request](https://dev.to/carbonlayer/the-impact-receipt-carbon-should-travel-with-every-ai-request-d99)
+- [How I Cut an Azure Bill by 55%](https://dev.to/sarupy/how-i-cut-an-azure-bill-by-55-4l65)
+- [Secure Password Reset Flow: Hashed-Token Expiry Ledger for Node.js Express Gaming Compliance](https://dev.to/valenciamoss6824/secure-password-reset-flow-hashed-token-expiry-ledger-for-nodejs-express-gaming-compliance-563m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
