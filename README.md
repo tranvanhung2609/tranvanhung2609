@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [BF16 vs FP8 vs INT4: The Quantization Bakeoff That Explains Why Your Local AI Agent Breaks](https://dev.to/jamilxt/bf16-vs-fp8-vs-int4-the-quantization-bakeoff-that-explains-why-your-local-ai-agent-breaks-48af)
-- [Actuator Endpoints in Spring Boot: Allowlist, Don&#39;t Just Disable the Obvious Ones](https://dev.to/jtorchia/actuator-endpoints-in-spring-boot-allowlist-dont-just-disable-the-obvious-ones-2kpf)
-- [Actuator endpoints en Spring Boot: allowlist, no deshabilitar lo obvio](https://dev.to/jtorchia/actuator-endpoints-en-spring-boot-allowlist-no-deshabilitar-lo-obvio-4m0k)
-- [Building a Custom Kubernetes Scheduler&lpar;with Simple ShellScripts&rpar;: A Hands-On Lab Journey](https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8)
-- [Your Crypto Bot Isn&#39;t Slow but it&#39;s Lying to You](https://dev.to/turboline_ai_/your-crypto-bot-isnt-slow-but-its-lying-to-you-471m)
-- [Self-Hosted Electronic Signatures: DocuSeal vs Documenso vs OpenSign &lpar;Ditch DocuSign Envelopes&rpar;](https://dev.to/enfernandes/self-hosted-electronic-signatures-docuseal-vs-documenso-vs-opensign-ditch-docusign-envelopes-7k1)
+- [Too Many Req: A Bucket List Guide to Building a Rate Limiter](https://dev.to/lovestaco/too-many-req-a-bucket-list-guide-to-building-a-rate-limiter-529a)
+- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Aug 16 – Aug 22, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-16-aug-22-2026-2n5o)
+- [I Built an AI That Fixes Terraform Drift Automatically](https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97)
+- [Ditching Retool: Self-Hosted Low-Code &amp; Internal Tool Platforms in 2026 &lpar;Appsmith vs ToolJet vs Budibase&rpar;](https://dev.to/enfernandes/ditching-retool-self-hosted-low-code-internal-tool-platforms-in-2026-appsmith-vs-tooljet-vs-2oge)
+- [Self-Hosted Document Management in 2026: Paperless-ngx vs Docspell vs Mayan EDMS](https://dev.to/enfernandes/self-hosted-document-management-in-2026-paperless-ngx-vs-docspell-vs-mayan-edms-njm)
+- [FastAPI: recibos de email que QA puede depurar](https://dev.to/silviutech/fastapi-recibos-de-email-que-qa-puede-depurar-53li)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
