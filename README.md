@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Are We Treating Cybersecurity as an Afterthought?](https://dev.to/omni_fys/are-we-treating-cybersecurity-as-an-afterthought-b3o)
-- [Build a Custom Log Parser and Analyzer](https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-5440)
-- [Transactional Email List Hygiene — Suppression Sync, Event Polling, and Auditable Delivery](https://dev.to/ethanbrooks1647/transactional-email-list-hygiene-suppression-sync-event-polling-and-auditable-delivery-20ag)
-- [Idempotency is not a key, it&#39;s a contract](https://dev.to/mashhadi/idempotency-is-not-a-key-its-a-contract-534h)
-- [Top 23 Sites to Buy old Gmail Accounts PVA Bulk in 2026](https://dev.to/shirleyspd3f5/top-23-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026-1c2m)
-- [Self-Hosted LLM Inference &amp; Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI &lpar;+ Open WebUI&rpar;](https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd)
+- [BF16 vs FP8 vs INT4: The Quantization Bakeoff That Explains Why Your Local AI Agent Breaks](https://dev.to/jamilxt/bf16-vs-fp8-vs-int4-the-quantization-bakeoff-that-explains-why-your-local-ai-agent-breaks-48af)
+- [Actuator Endpoints in Spring Boot: Allowlist, Don&#39;t Just Disable the Obvious Ones](https://dev.to/jtorchia/actuator-endpoints-in-spring-boot-allowlist-dont-just-disable-the-obvious-ones-2kpf)
+- [Actuator endpoints en Spring Boot: allowlist, no deshabilitar lo obvio](https://dev.to/jtorchia/actuator-endpoints-en-spring-boot-allowlist-no-deshabilitar-lo-obvio-4m0k)
+- [Building a Custom Kubernetes Scheduler&lpar;with Simple ShellScripts&rpar;: A Hands-On Lab Journey](https://dev.to/hardik_arora999/building-a-custom-kubernetes-scheduler-a-hands-on-lab-journey-be8)
+- [Your Crypto Bot Isn&#39;t Slow but it&#39;s Lying to You](https://dev.to/turboline_ai_/your-crypto-bot-isnt-slow-but-its-lying-to-you-471m)
+- [Self-Hosted Electronic Signatures: DocuSeal vs Documenso vs OpenSign &lpar;Ditch DocuSign Envelopes&rpar;](https://dev.to/enfernandes/self-hosted-electronic-signatures-docuseal-vs-documenso-vs-opensign-ditch-docusign-envelopes-7k1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
