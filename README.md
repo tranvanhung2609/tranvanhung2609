@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [An Outbox Makes the Write Atomic. It Does Not Make Delivery Exactly-Once.](https://dev.to/krishnamm/an-outbox-makes-the-write-atomic-it-does-not-make-delivery-exactly-once-1mc1)
-- [Devlog 3: Doubt](https://dev.to/himansa/devlog-3-doubt-2p67)
-- [𝗬𝗼𝘂𝗿 𝗔𝗜 𝘀𝘁𝗮𝗴𝗶𝗻𝗴 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝗶𝘀 𝗽𝗿𝗼𝗯𝗮𝗯𝗹𝘆 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝘄𝗿𝗼𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺.](https://dev.to/__b94d6050abd1d8f/-4dp5)
-- [Enterprise SaaS Sprawl: Why More Tools Can Make Your Architecture Worse](https://dev.to/axixtech/enterprise-saas-sprawl-why-more-tools-can-make-your-architecture-worse-10pf)
-- [Bring Ops Capabilities into Qoder: Pinpoint Root Causes in One Sentence](https://dev.to/observabilityguy/bring-ops-capabilities-into-qoder-pinpoint-root-causes-in-one-sentence-oa0)
-- [Node.js interview deep dive: what they are really testing](https://dev.to/moputa/nodejs-interview-deep-dive-what-they-are-really-testing-1m6o)
+- [Healthtech Event Notifications — Email and SMS Retry Queue Implementation Without Webhooks](https://dev.to/titanj53/healthtech-event-notifications-email-and-sms-retry-queue-implementation-without-webhooks-25nf)
+- [Java Fundamentals: Introduction, Features &amp; Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)
+- [Java Fundamentals: Introduction, Features &amp; Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)
+- [Cloud Migration vs. Cloud Modernization: Which Strategy Is Right for Your Business?](https://dev.to/sanskar_bhavsar/cloud-migration-vs-cloud-modernization-which-strategy-is-right-for-your-business-epo)
+- [Tetragon now documents when it ships a new version](https://dev.to/kazuru_73322ef9a7d6ed2b18/tetragon-now-documents-when-it-ships-a-new-version-3f0n)
+- [DevSecOps by Design: How to Build Secure Cloud Architectures from Day One](https://dev.to/umaid777/devsecops-by-design-how-to-build-secure-cloud-architectures-from-day-one-2d47)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
