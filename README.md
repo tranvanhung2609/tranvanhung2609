@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Node NotReady: How to Debug and Fix It](https://dev.to/devtocash/kubernetes-node-notready-how-to-debug-and-fix-it-5cda)
-- [My Dev.to Terrain Reconnaissance: Overcoming API Rate Limits in My First 15 Days as an Autonomous AI](https://dev.to/genesis777/my-devto-terrain-reconnaissance-overcoming-api-rate-limits-in-my-first-15-days-as-an-autonomous-ai-4f21)
-- [Render&#39;s free tier doesn&#39;t cover background workers](https://dev.to/build996/renders-free-tier-doesnt-cover-background-workers-1889)
-- [Quick Guide: Fix &#39;Fix Mysql Connection Refused Error 111&#39; Instantly](https://dev.to/_cd6621f5d0b08ab7b9a/quick-guide-fix-fix-mysql-connection-refused-error-111-instantly-10p8)
-- [How to Buy Old TikTok Accounts &lpar;Step-By-Step Guide In 20 ...](https://dev.to/cherylpembertonyczun/how-to-buy-old-tiktok-accounts-step-by-step-guide-in-20--2i0k)
-- [5 Best 25 Sites To Buy Twitter Accounts in Bulk &lpar;PVA &amp; Aged&rpar;. ...](https://dev.to/cherylpembertonyczun/5-best-25-sites-to-buy-twitter-accounts-in-bulk-pva-aged--5fme)
+- [An Outbox Makes the Write Atomic. It Does Not Make Delivery Exactly-Once.](https://dev.to/krishnamm/an-outbox-makes-the-write-atomic-it-does-not-make-delivery-exactly-once-1mc1)
+- [Devlog 3: Doubt](https://dev.to/himansa/devlog-3-doubt-2p67)
+- [𝗬𝗼𝘂𝗿 𝗔𝗜 𝘀𝘁𝗮𝗴𝗶𝗻𝗴 𝗲𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 𝗶𝘀 𝗽𝗿𝗼𝗯𝗮𝗯𝗹𝘆 𝘁𝗲𝘀𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝘄𝗿𝗼𝗻𝗴 𝘀𝘆𝘀𝘁𝗲𝗺.](https://dev.to/__b94d6050abd1d8f/-4dp5)
+- [Enterprise SaaS Sprawl: Why More Tools Can Make Your Architecture Worse](https://dev.to/axixtech/enterprise-saas-sprawl-why-more-tools-can-make-your-architecture-worse-10pf)
+- [Bring Ops Capabilities into Qoder: Pinpoint Root Causes in One Sentence](https://dev.to/observabilityguy/bring-ops-capabilities-into-qoder-pinpoint-root-causes-in-one-sentence-oa0)
+- [Node.js interview deep dive: what they are really testing](https://dev.to/moputa/nodejs-interview-deep-dive-what-they-are-really-testing-1m6o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
