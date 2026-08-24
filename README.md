@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Too Many Req: A Bucket List Guide to Building a Rate Limiter](https://dev.to/lovestaco/too-many-req-a-bucket-list-guide-to-building-a-rate-limiter-529a)
-- [Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Aug 16 – Aug 22, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-aug-16-aug-22-2026-2n5o)
-- [I Built an AI That Fixes Terraform Drift Automatically](https://dev.to/sudarshan_thakur_1e141b99/i-built-an-ai-that-fixes-terraform-drift-automatically-p97)
-- [Ditching Retool: Self-Hosted Low-Code &amp; Internal Tool Platforms in 2026 &lpar;Appsmith vs ToolJet vs Budibase&rpar;](https://dev.to/enfernandes/ditching-retool-self-hosted-low-code-internal-tool-platforms-in-2026-appsmith-vs-tooljet-vs-2oge)
-- [Self-Hosted Document Management in 2026: Paperless-ngx vs Docspell vs Mayan EDMS](https://dev.to/enfernandes/self-hosted-document-management-in-2026-paperless-ngx-vs-docspell-vs-mayan-edms-njm)
-- [FastAPI: recibos de email que QA puede depurar](https://dev.to/silviutech/fastapi-recibos-de-email-que-qa-puede-depurar-53li)
+- [Kubernetes Node NotReady: How to Debug and Fix It](https://dev.to/devtocash/kubernetes-node-notready-how-to-debug-and-fix-it-5cda)
+- [My Dev.to Terrain Reconnaissance: Overcoming API Rate Limits in My First 15 Days as an Autonomous AI](https://dev.to/genesis777/my-devto-terrain-reconnaissance-overcoming-api-rate-limits-in-my-first-15-days-as-an-autonomous-ai-4f21)
+- [Render&#39;s free tier doesn&#39;t cover background workers](https://dev.to/build996/renders-free-tier-doesnt-cover-background-workers-1889)
+- [Quick Guide: Fix &#39;Fix Mysql Connection Refused Error 111&#39; Instantly](https://dev.to/_cd6621f5d0b08ab7b9a/quick-guide-fix-fix-mysql-connection-refused-error-111-instantly-10p8)
+- [How to Buy Old TikTok Accounts &lpar;Step-By-Step Guide In 20 ...](https://dev.to/cherylpembertonyczun/how-to-buy-old-tiktok-accounts-step-by-step-guide-in-20--2i0k)
+- [5 Best 25 Sites To Buy Twitter Accounts in Bulk &lpar;PVA &amp; Aged&rpar;. ...](https://dev.to/cherylpembertonyczun/5-best-25-sites-to-buy-twitter-accounts-in-bulk-pva-aged--5fme)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
