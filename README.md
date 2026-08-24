@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Healthtech Event Notifications — Email and SMS Retry Queue Implementation Without Webhooks](https://dev.to/titanj53/healthtech-event-notifications-email-and-sms-retry-queue-implementation-without-webhooks-25nf)
-- [Java Fundamentals: Introduction, Features &amp; Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)
-- [Java Fundamentals: Introduction, Features &amp; Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)
-- [Cloud Migration vs. Cloud Modernization: Which Strategy Is Right for Your Business?](https://dev.to/sanskar_bhavsar/cloud-migration-vs-cloud-modernization-which-strategy-is-right-for-your-business-epo)
-- [Tetragon now documents when it ships a new version](https://dev.to/kazuru_73322ef9a7d6ed2b18/tetragon-now-documents-when-it-ships-a-new-version-3f0n)
-- [DevSecOps by Design: How to Build Secure Cloud Architectures from Day One](https://dev.to/umaid777/devsecops-by-design-how-to-build-secure-cloud-architectures-from-day-one-2d47)
+- [How I standardized PySpark deployments with multi-stage Docker builds](https://dev.to/aniketsoni/how-i-standardized-pyspark-deployments-with-multi-stage-docker-builds-281j)
+- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
+- [Symfony vs Laravel in 2026: Which PHP Framework to Choose](https://dev.to/mecanik-dev/symfony-vs-laravel-in-2026-which-php-framework-to-choose-1im9)
+- [SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID](https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4)
+- [The Art of Technical Translation: Converting Product Requirements into Scalable Solutions](https://dev.to/said_olano/the-art-of-technical-translation-converting-product-requirements-into-scalable-solutions-4ef0)
+- [Docker Engine Internals: ডকার ইঞ্জিন ভেঙে চুরমার—dockerd, containerd এবং runc কীভাবে কাজ করে?](https://dev.to/ragib_hasan_aa9eeb5bf6a82/docker-engine-internals-ddkaar-inyjin-bhenge-curmaar-dockerd-containerd-ebn-runc-kiibhaabe-kaaj-kre-2f98)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
