@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I standardized PySpark deployments with multi-stage Docker builds](https://dev.to/aniketsoni/how-i-standardized-pyspark-deployments-with-multi-stage-docker-builds-281j)
-- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
-- [Symfony vs Laravel in 2026: Which PHP Framework to Choose](https://dev.to/mecanik-dev/symfony-vs-laravel-in-2026-which-php-framework-to-choose-1im9)
-- [SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID](https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4)
-- [The Art of Technical Translation: Converting Product Requirements into Scalable Solutions](https://dev.to/said_olano/the-art-of-technical-translation-converting-product-requirements-into-scalable-solutions-4ef0)
-- [Docker Engine Internals: ডকার ইঞ্জিন ভেঙে চুরমার—dockerd, containerd এবং runc কীভাবে কাজ করে?](https://dev.to/ragib_hasan_aa9eeb5bf6a82/docker-engine-internals-ddkaar-inyjin-bhenge-curmaar-dockerd-containerd-ebn-runc-kiibhaabe-kaaj-kre-2f98)
+- [Plugin Supply Chain Security: What Every Team Should Enforce](https://dev.to/ahmed_isam_752b775a50fd90/plugin-supply-chain-security-what-every-team-should-enforce-3o72)
+- [Your AI Agent Has Bash Access. Who&#39;s Watching the Logs?](https://dev.to/agentchip/your-ai-agent-has-bash-access-whos-watching-the-logs-3ecp)
+- [AI in Incident Response: Hype vs. Reality in 2024](https://dev.to/samson_tanimawo/ai-in-incident-response-hype-vs-reality-in-2024-3m2e)
+- [Running a Public Status Page for Your MCP Server](https://dev.to/merlonix/running-a-public-status-page-for-your-mcp-server-38mj)
+- [Private File Storage for User-Uploaded Documents with 15-Minute Signed URLs](https://dev.to/fletchervance3712/private-file-storage-for-user-uploaded-documents-with-15-minute-signed-urls-3knk)
+- [Opinion: Free-Tier AI Review Is the Correct Default for CI](https://dev.to/github_7727/opinion-free-tier-ai-review-is-the-correct-default-for-ci-1k33)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
