@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AIoT Explained: Connecting IoT Data With AI for Smarter Industrial Systems](https://dev.to/techwithunnati/aiot-explained-connecting-iot-data-with-ai-for-smarter-industrial-systems-hfe)
-- [The MVP Budget-Killer Checklist &lpar;For Devs Who Get Handed Vague Specs&rpar;](https://dev.to/multisyn_tech_e2ff85bf9e7/the-mvp-budget-killer-checklist-for-devs-who-get-handed-vague-specs-jcb)
-- [I Gave an AI Agent Root Access. Nothing Broke.](https://dev.to/dhruv_malaviya_cdcc71e595/i-gave-an-ai-agent-root-access-nothing-broke-3hmc)
-- [Cloud Hit $900B in 2026, Here&#39;s What Actually Changed for Engineering Teams](https://dev.to/sherdilcloud/cloud-hit-900b-in-2026-heres-what-actually-changed-for-engineering-teams-364d)
-- [Configuration vs Runtime: Where Determinism Ends](https://dev.to/bala_paranj_059d338e44e7e/configuration-vs-runtime-where-determinism-ends-35l0)
-- [A Dead-Man&#39;s Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.](https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n)
+- [Optimierung von SEO-Backlinks für Automobil-Websites: Strategien für den deutschen Markt](https://dev.to/lion_klein_74d3e7e3f3aa2b/optimierung-von-seo-backlinks-fur-automobil-websites-strategien-fur-den-deutschen-markt-hob)
+- [AI-Assisted API Testing: Using MCP to Validate Payloads, Backend Data, and Business Rules Automatically](https://dev.to/nikhil_ramank_152ca48266/ai-assisted-api-testing-using-mcp-to-validate-payloads-backend-data-and-business-rules-48ie)
+- [ChatGPT Ads is automating the bid. Your coding agent still needs a human gate.](https://dev.to/igorganapolsky/chatgpt-ads-is-automating-the-bid-your-coding-agent-still-needs-a-human-gate-22ej)
+- [Serverless Containers Across AWS, Azure, GCP — Weekly Benchmarks for Aug 18 – Aug 24, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-18-aug-24-2026-4ol2)
+- [Production-Grade GitOps on AWS: Verified Release Promotion Across EKS Environments with Argo CD and Kargo](https://dev.to/aws-builders/production-grade-gitops-on-aws-verified-release-promotion-across-eks-environments-with-argo-cd-and-1204)
+- [SharePoint Vulnerabilities And The Cost Of Patch Visibility Debt](https://dev.to/ntctech/sharepoint-vulnerabilities-and-the-cost-of-patch-visibility-debt-2o2e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
