@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Common network bottlenecks and how to actually find them](https://dev.to/nodevguy/common-network-bottlenecks-and-how-to-actually-find-them-43kd)
-- [Network redundancy: the difference between a blip and an outage](https://dev.to/nodevguy/network-redundancy-the-difference-between-a-blip-and-an-outage-3458)
-- [Microservices by Default: The Organizational Constraints Nobody Puts in the Architecture Diagram](https://dev.to/aloknecessary/microservices-by-default-the-organizational-constraints-nobody-puts-in-the-architecture-diagram-258l)
-- [Opinion: Per-Commit AI Review Is Impossible Until the Marginal Cost Is Zero](https://dev.to/github_7727/opinion-per-commit-ai-review-is-impossible-until-the-marginal-cost-is-zero-3j5o)
-- [Java Basics](https://dev.to/karthick_07/java-basics-3ebi)
-- [Kubernetes for Beginners: Deploy Your First App](https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-1mfe)
+- [AIoT Explained: Connecting IoT Data With AI for Smarter Industrial Systems](https://dev.to/techwithunnati/aiot-explained-connecting-iot-data-with-ai-for-smarter-industrial-systems-hfe)
+- [The MVP Budget-Killer Checklist &lpar;For Devs Who Get Handed Vague Specs&rpar;](https://dev.to/multisyn_tech_e2ff85bf9e7/the-mvp-budget-killer-checklist-for-devs-who-get-handed-vague-specs-jcb)
+- [I Gave an AI Agent Root Access. Nothing Broke.](https://dev.to/dhruv_malaviya_cdcc71e595/i-gave-an-ai-agent-root-access-nothing-broke-3hmc)
+- [Cloud Hit $900B in 2026, Here&#39;s What Actually Changed for Engineering Teams](https://dev.to/sherdilcloud/cloud-hit-900b-in-2026-heres-what-actually-changed-for-engineering-teams-364d)
+- [Configuration vs Runtime: Where Determinism Ends](https://dev.to/bala_paranj_059d338e44e7e/configuration-vs-runtime-where-determinism-ends-35l0)
+- [A Dead-Man&#39;s Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.](https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
