@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Observability Stack: Prometheus, Node Exporter &amp; Grafana](https://dev.to/nishant_bhardwaj_9135ba51/observability-stack-prometheus-node-exporter-grafana-2j3o)
-- [Kubernetes Orchestration Explained: Concepts, Tools &amp; Best Practices](https://dev.to/elsie-rainee/kubernetes-orchestration-explained-concepts-tools-best-practices-1m74)
-- [From 100,492 Hits to 3 in Two Clicks — Drill-down Search for Huge Local Files](https://dev.to/amru195704/from-100492-hits-to-3-in-two-clicks-drill-down-search-for-huge-local-files-5644)
-- [DigitalOcean App Platform vs Peon: Managed PaaS or Your Own Droplet?](https://dev.to/peon_sh/digitalocean-app-platform-vs-peon-managed-paas-or-your-own-droplet-3c29)
-- [Five Mental Models From the Data Center that are Breaking Your Cloud Security](https://dev.to/bala_paranj_059d338e44e7e/five-mental-models-from-the-data-center-that-are-breaking-your-cloud-security-4cli)
-- [HTTP QUERY Is Official: Should You Replace POST /search Yet?](https://dev.to/techifivehq/http-query-is-official-should-you-replace-post-search-yet-1am6)
+- [Your Cron Job Is Lying to You: A Dependency-Free Watchdog for Silent Failures](https://dev.to/syed_anzar/your-cron-job-is-lying-to-you-a-dependency-free-watchdog-for-silent-failures-4e40)
+- [Verifying a Webhook Signature: The Raw-Body Trap, Verify-Before-Parse, and When a Timestamp Window Is Just Theater](https://dev.to/merlonix/verifying-a-webhook-signature-the-raw-body-trap-verify-before-parse-and-when-a-timestamp-window-29o3)
+- [Docker Essentials: Containerizing Your First App – A Hero&#39;s Journey &lpar;Like in The Matrix&rpar;](https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-a-heros-journey-like-in-the-matrix-1f5j)
+- [Constructor in Java](https://dev.to/vigneshwaran_v/constructor-in-java-6d2)
+- [Constructor in Java](https://dev.to/vigneshwaran_v/constructor-in-java-6d2)
+- [An HTTP 200 Is Not Uptime: The Monitor Went Green While the Page Served an Error](https://dev.to/merlonix/an-http-200-is-not-uptime-the-monitor-went-green-while-the-page-served-an-error-4lg9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
