@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox vs Spinifex: Hypervisor Management vs AWS-Compatible Cloud](https://dev.to/toddyholiday/proxmox-vs-spinifex-hypervisor-management-vs-aws-compatible-cloud-81e)
-- [Debugging webhooks without paying for it](https://dev.to/catchhook/debugging-webhooks-without-paying-for-it-3db9)
-- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
-- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
-- [How Many Lines of Code Do You Ship to Prod a Week? This Week I Shipped One.](https://dev.to/vadim_albarov/how-many-lines-of-code-do-you-ship-to-prod-a-week-this-week-i-shipped-one-140b)
-- [Building a 3-Queue Marketplace Notification Center Backend for Event Audit Polling](https://dev.to/rhettmurray8263/building-a-3-queue-marketplace-notification-center-backend-for-event-audit-polling-3pfi)
+- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
+- [Delivered, accepted, merged, deployed: four facts your tracker calls Done](https://dev.to/sam_novak_574b07811e18495/delivered-accepted-merged-deployed-four-facts-your-tracker-calls-done-3nfh)
+- [Packaging Machine Control &amp; Monitoring with AT-KEYPAD01 and ATSCADA](https://dev.to/phuc_bach_22e/packaging-machine-control-monitoring-with-at-keypad01-and-atscada-5aok)
+- [How to Test a New AI Provider Without Rewriting Your Application](https://dev.to/triumph1701/how-to-test-a-new-ai-provider-without-rewriting-your-application-629)
+- [HOW MODERN LOGISTICS HELPS BUSINESSES HANDLE GROWTH WITH LESS COMPLEXITY](https://dev.to/henry_walker_/how-modern-logistics-helps-businesses-handle-growth-with-less-complexity-3dd7)
+- [Classes and Objects in Java](https://dev.to/karthick_07/classes-and-objects-in-java-4l97)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
