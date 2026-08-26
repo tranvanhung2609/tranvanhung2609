@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
-- [Delivered, accepted, merged, deployed: four facts your tracker calls Done](https://dev.to/sam_novak_574b07811e18495/delivered-accepted-merged-deployed-four-facts-your-tracker-calls-done-3nfh)
-- [Packaging Machine Control &amp; Monitoring with AT-KEYPAD01 and ATSCADA](https://dev.to/phuc_bach_22e/packaging-machine-control-monitoring-with-at-keypad01-and-atscada-5aok)
-- [How to Test a New AI Provider Without Rewriting Your Application](https://dev.to/triumph1701/how-to-test-a-new-ai-provider-without-rewriting-your-application-629)
-- [HOW MODERN LOGISTICS HELPS BUSINESSES HANDLE GROWTH WITH LESS COMPLEXITY](https://dev.to/henry_walker_/how-modern-logistics-helps-businesses-handle-growth-with-less-complexity-3dd7)
-- [Classes and Objects in Java](https://dev.to/karthick_07/classes-and-objects-in-java-4l97)
+- [Observability Stack: Prometheus, Node Exporter &amp; Grafana](https://dev.to/nishant_bhardwaj_9135ba51/observability-stack-prometheus-node-exporter-grafana-2j3o)
+- [Kubernetes Orchestration Explained: Concepts, Tools &amp; Best Practices](https://dev.to/elsie-rainee/kubernetes-orchestration-explained-concepts-tools-best-practices-1m74)
+- [From 100,492 Hits to 3 in Two Clicks — Drill-down Search for Huge Local Files](https://dev.to/amru195704/from-100492-hits-to-3-in-two-clicks-drill-down-search-for-huge-local-files-5644)
+- [DigitalOcean App Platform vs Peon: Managed PaaS or Your Own Droplet?](https://dev.to/peon_sh/digitalocean-app-platform-vs-peon-managed-paas-or-your-own-droplet-3c29)
+- [Five Mental Models From the Data Center that are Breaking Your Cloud Security](https://dev.to/bala_paranj_059d338e44e7e/five-mental-models-from-the-data-center-that-are-breaking-your-cloud-security-4cli)
+- [HTTP QUERY Is Official: Should You Replace POST /search Yet?](https://dev.to/techifivehq/http-query-is-official-should-you-replace-post-search-yet-1am6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
