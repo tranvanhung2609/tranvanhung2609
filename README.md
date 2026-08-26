@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Optimierung von SEO-Backlinks für Automobil-Websites: Strategien für den deutschen Markt](https://dev.to/lion_klein_74d3e7e3f3aa2b/optimierung-von-seo-backlinks-fur-automobil-websites-strategien-fur-den-deutschen-markt-hob)
-- [AI-Assisted API Testing: Using MCP to Validate Payloads, Backend Data, and Business Rules Automatically](https://dev.to/nikhil_ramank_152ca48266/ai-assisted-api-testing-using-mcp-to-validate-payloads-backend-data-and-business-rules-48ie)
-- [ChatGPT Ads is automating the bid. Your coding agent still needs a human gate.](https://dev.to/igorganapolsky/chatgpt-ads-is-automating-the-bid-your-coding-agent-still-needs-a-human-gate-22ej)
-- [Serverless Containers Across AWS, Azure, GCP — Weekly Benchmarks for Aug 18 – Aug 24, 2026](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-18-aug-24-2026-4ol2)
-- [Production-Grade GitOps on AWS: Verified Release Promotion Across EKS Environments with Argo CD and Kargo](https://dev.to/aws-builders/production-grade-gitops-on-aws-verified-release-promotion-across-eks-environments-with-argo-cd-and-1204)
-- [SharePoint Vulnerabilities And The Cost Of Patch Visibility Debt](https://dev.to/ntctech/sharepoint-vulnerabilities-and-the-cost-of-patch-visibility-debt-2o2e)
+- [Proxmox vs Spinifex: Hypervisor Management vs AWS-Compatible Cloud](https://dev.to/toddyholiday/proxmox-vs-spinifex-hypervisor-management-vs-aws-compatible-cloud-81e)
+- [Debugging webhooks without paying for it](https://dev.to/catchhook/debugging-webhooks-without-paying-for-it-3db9)
+- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
+- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
+- [How Many Lines of Code Do You Ship to Prod a Week? This Week I Shipped One.](https://dev.to/vadim_albarov/how-many-lines-of-code-do-you-ship-to-prod-a-week-this-week-i-shipped-one-140b)
+- [Building a 3-Queue Marketplace Notification Center Backend for Event Audit Polling](https://dev.to/rhettmurray8263/building-a-3-queue-marketplace-notification-center-backend-for-event-audit-polling-3pfi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
