@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Add RPKI ASPA Checks to Your Proxy Route Preflight](https://dev.to/98ip/add-rpki-aspa-checks-to-your-proxy-route-preflight-4on5)
-- [Backend Development in Flask](https://dev.to/emma_jane/backend-development-in-flask-28ob)
-- [VMware 2V0-13.25 Exam: Complete VCF 9.0 Architect Guide](https://dev.to/judsonlarkinv567/vmware-2v0-1325-exam-complete-vcf-90-architect-guide-690)
-- [Lexicographically Smallest Permutation Greater Than Target | LEETCODE 3720 | Solve In Seconds |](https://dev.to/shaanlabs/lexicographically-smallest-permutation-greater-than-target-leetcode-3720-solve-in-seconds--1bbm)
-- [Java Methods](https://dev.to/karthick_07/java-methods-4moe)
-- [MyZubster Is Entering Its Hardest Phase: Connecting Code to Reality](https://dev.to/danielioni/myzubster-is-entering-its-hardest-phase-connecting-code-to-reality-5li)
+- [What Duplicate Users Taught Me About Outbox and Idempotency](https://dev.to/esteban389/what-duplicate-users-taught-me-about-outbox-and-idempotency-4a7)
+- [I built Voktty: an open-source, ~8MB AI-native terminal workspace in Rust &amp; Tauri 2](https://dev.to/sergewinters/i-built-voktty-an-open-source-8mb-ai-native-terminal-workspace-in-rust-tauri-2-9p)
+- [A third of the measurement went dark and the report stayed green](https://dev.to/elenarevicheva/a-third-of-the-measurement-went-dark-and-the-report-stayed-green-1e7k)
+- [Building Cross-Framework Messaging with Quarkus, Micronaut, and RabbitMQ](https://dev.to/anand_jaisy_2f7644a12001b/building-cross-framework-messaging-with-quarkus-micronaut-and-rabbitmq-bc2)
+- [Welcome Email Suppression, Unsubscribe, and Bounce Handling for Transactional APIs](https://dev.to/jorisrhodes8286/welcome-email-suppression-unsubscribe-and-bounce-handling-for-transactional-apis-1fl0)
+- [I built an open-source directory of 50+ free public APIs with daily automated health-checks](https://dev.to/rajender_arya_263e77a1bcc/i-built-an-open-source-directory-of-50-free-public-apis-with-daily-automated-health-checks-kgp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
