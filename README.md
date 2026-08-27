@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Cron Job Is Lying to You: A Dependency-Free Watchdog for Silent Failures](https://dev.to/syed_anzar/your-cron-job-is-lying-to-you-a-dependency-free-watchdog-for-silent-failures-4e40)
-- [Verifying a Webhook Signature: The Raw-Body Trap, Verify-Before-Parse, and When a Timestamp Window Is Just Theater](https://dev.to/merlonix/verifying-a-webhook-signature-the-raw-body-trap-verify-before-parse-and-when-a-timestamp-window-29o3)
-- [Docker Essentials: Containerizing Your First App – A Hero&#39;s Journey &lpar;Like in The Matrix&rpar;](https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-a-heros-journey-like-in-the-matrix-1f5j)
-- [Constructor in Java](https://dev.to/vigneshwaran_v/constructor-in-java-6d2)
-- [Constructor in Java](https://dev.to/vigneshwaran_v/constructor-in-java-6d2)
-- [An HTTP 200 Is Not Uptime: The Monitor Went Green While the Page Served an Error](https://dev.to/merlonix/an-http-200-is-not-uptime-the-monitor-went-green-while-the-page-served-an-error-4lg9)
+- [Add RPKI ASPA Checks to Your Proxy Route Preflight](https://dev.to/98ip/add-rpki-aspa-checks-to-your-proxy-route-preflight-4on5)
+- [Backend Development in Flask](https://dev.to/emma_jane/backend-development-in-flask-28ob)
+- [VMware 2V0-13.25 Exam: Complete VCF 9.0 Architect Guide](https://dev.to/judsonlarkinv567/vmware-2v0-1325-exam-complete-vcf-90-architect-guide-690)
+- [Lexicographically Smallest Permutation Greater Than Target | LEETCODE 3720 | Solve In Seconds |](https://dev.to/shaanlabs/lexicographically-smallest-permutation-greater-than-target-leetcode-3720-solve-in-seconds--1bbm)
+- [Java Methods](https://dev.to/karthick_07/java-methods-4moe)
+- [MyZubster Is Entering Its Hardest Phase: Connecting Code to Reality](https://dev.to/danielioni/myzubster-is-entering-its-hardest-phase-connecting-code-to-reality-5li)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
