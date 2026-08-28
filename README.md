@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What Duplicate Users Taught Me About Outbox and Idempotency](https://dev.to/esteban389/what-duplicate-users-taught-me-about-outbox-and-idempotency-4a7)
-- [I built Voktty: an open-source, ~8MB AI-native terminal workspace in Rust &amp; Tauri 2](https://dev.to/sergewinters/i-built-voktty-an-open-source-8mb-ai-native-terminal-workspace-in-rust-tauri-2-9p)
-- [A third of the measurement went dark and the report stayed green](https://dev.to/elenarevicheva/a-third-of-the-measurement-went-dark-and-the-report-stayed-green-1e7k)
-- [Building Cross-Framework Messaging with Quarkus, Micronaut, and RabbitMQ](https://dev.to/anand_jaisy_2f7644a12001b/building-cross-framework-messaging-with-quarkus-micronaut-and-rabbitmq-bc2)
-- [Welcome Email Suppression, Unsubscribe, and Bounce Handling for Transactional APIs](https://dev.to/jorisrhodes8286/welcome-email-suppression-unsubscribe-and-bounce-handling-for-transactional-apis-1fl0)
-- [I built an open-source directory of 50+ free public APIs with daily automated health-checks](https://dev.to/rajender_arya_263e77a1bcc/i-built-an-open-source-directory-of-50-free-public-apis-with-daily-automated-health-checks-kgp)
+- [ClickHouse 26.8 LTS: 57 Breaking Changes Since 26.3](https://dev.to/mohhddhassan/clickhouse-268-lts-57-breaking-changes-since-263-3ba9)
+- [We built a trust enforcement layer for AI agents in Kubernetes. Here is what it does.](https://dev.to/razashariff/we-built-a-trust-enforcement-layer-for-ai-agents-in-kubernetes-here-is-what-it-does-2jnd)
+- [I thought my pipeline retried 6 times. It was making up to 48 billed calls.](https://dev.to/brokeitwithai/i-thought-my-pipeline-retried-6-times-it-was-making-up-to-48-billed-calls-5869)
+- [Bitpanda Capital Markets Strengthens Its Brand Presence Through Knowledge Sharing](https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-strengthens-its-brand-presence-through-knowledge-sharing-7nj)
+- [Why DNSSEC Breaks in Production: 5 Chain-of-Trust Traps That Cause Silent SERVFAIL](https://dev.to/rasika_dangamuwa_ed1074fe/why-dnssec-breaks-in-production-5-chain-of-trust-traps-that-cause-silent-servfail-5088)
+- [The Boring Layer Around Every LLM Call: Timeouts and Retries](https://dev.to/sagar_jain4010/the-boring-layer-around-every-llm-call-timeouts-and-retries-4ig9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
