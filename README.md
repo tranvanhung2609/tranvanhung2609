@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse 26.8 LTS: 57 Breaking Changes Since 26.3](https://dev.to/mohhddhassan/clickhouse-268-lts-57-breaking-changes-since-263-3ba9)
-- [We built a trust enforcement layer for AI agents in Kubernetes. Here is what it does.](https://dev.to/razashariff/we-built-a-trust-enforcement-layer-for-ai-agents-in-kubernetes-here-is-what-it-does-2jnd)
-- [I thought my pipeline retried 6 times. It was making up to 48 billed calls.](https://dev.to/brokeitwithai/i-thought-my-pipeline-retried-6-times-it-was-making-up-to-48-billed-calls-5869)
-- [Bitpanda Capital Markets Strengthens Its Brand Presence Through Knowledge Sharing](https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-strengthens-its-brand-presence-through-knowledge-sharing-7nj)
-- [Why DNSSEC Breaks in Production: 5 Chain-of-Trust Traps That Cause Silent SERVFAIL](https://dev.to/rasika_dangamuwa_ed1074fe/why-dnssec-breaks-in-production-5-chain-of-trust-traps-that-cause-silent-servfail-5088)
-- [The Boring Layer Around Every LLM Call: Timeouts and Retries](https://dev.to/sagar_jain4010/the-boring-layer-around-every-llm-call-timeouts-and-retries-4ig9)
+- [Error Budgets Explained: Reliability You Can Actually Spend](https://dev.to/sri2614/error-budgets-explained-reliability-you-can-actually-spend-3gl2)
+- [Heritage venue security gaps: what the Semaphore Workers Club break-in reveals about physical security system design](https://dev.to/xguardsecurity/heritage-venue-security-gaps-what-the-semaphore-workers-club-break-in-reveals-about-physical-29fl)
+- [Your Retry Loop Is the Real Free-Tier Tax: Five Myths, One Probe](https://dev.to/gitlab_3188/your-retry-loop-is-the-real-free-tier-tax-five-myths-one-probe-5h94)
+- [The 36 Best Places to Buy Verified Snapchat Accounts](https://dev.to/mdngm/the-36-best-places-to-buy-verified-snapchat-accounts-2f33)
+- [I Kept Hammering a Free-Model Endpoint. Throttling Fixed What Retrying Couldn&#39;t.](https://dev.to/codepy_1473/i-kept-hammering-a-free-model-endpoint-throttling-fixed-what-retrying-couldnt-288c)
+- [I Kept Hammering a Free-Model Endpoint. Throttling Fixed What Retrying Couldn&#39;t.](https://dev.to/codepy_1473/i-kept-hammering-a-free-model-endpoint-throttling-fixed-what-retrying-couldnt-288c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
