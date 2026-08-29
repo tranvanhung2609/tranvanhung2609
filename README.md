@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Hey Dev Community 👋 — New here, excited to learn and share](https://dev.to/sambitsahoo/hey-dev-community-new-here-excited-to-learn-and-share-4l5h)
-- [Black Car Service and Sprinter Rental Chicago: Premium Transportation for Every Occasion](https://dev.to/noman_ali_09119414a69f3ee/black-car-service-and-sprinter-rental-chicago-premium-transportation-for-every-occasion-2gp5)
-- [8 Pitfalls I Hit Auto-Repairing &#39;Plugin directory does not exist&#39; — and the 3-Layer Guard That Stopped a 22 8 Wipeout](https://dev.to/bokuwalily/8-pitfalls-i-hit-auto-repairing-plugin-directory-does-not-exist-and-the-3-layer-guard-that-4k0k)
-- [AWS Backup now copies FSx for ONTAP backups across Regions and accounts — a new option, measured Tokyo to Osaka](https://dev.to/aws-builders/aws-backup-now-copies-fsx-for-ontap-backups-across-regions-and-accounts-a-new-option-measured-3f60)
-- [Troubleshooting SMS Event Notification Failures for US and EU Senders](https://dev.to/evanshepherd8274/troubleshooting-sms-event-notification-failures-for-us-and-eu-senders-394)
-- [MailerSend or Amazon SES: A Beginner&#39;s Custom-Domain Suppression Checklist](https://dev.to/brennancross2167/mailersend-or-amazon-ses-a-beginners-custom-domain-suppression-checklist-4c2c)
+- [A 48-Hour Sleep Study on a Free Server Taught Me to Stop Trusting Uptime](https://dev.to/codepy_1473/a-48-hour-sleep-study-on-a-free-server-taught-me-to-stop-trusting-uptime-28bo)
+- [Nightly Setup Drift: A Free Server and Free Models That Keep Your README Honest](https://dev.to/github_7727/nightly-setup-drift-a-free-server-and-free-models-that-keep-your-readme-honest-151a)
+- [Resolve SSL/TLS Certificate Handshake Failures – Step-by-Step Guide for DevOps &amp; Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-5hgc)
+- [Build a Secrets Manager with Python and Encryption](https://dev.to/qingluan/build-a-secrets-manager-with-python-and-encryption-h5p)
+- [Build a Git Hook System with Python](https://dev.to/qingluan/build-a-git-hook-system-with-python-38eo)
+- [Nobody Could Prove It Wasn&#39;t Us](https://dev.to/devjyoti_giri/nobody-could-prove-it-wasnt-us-3koa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
