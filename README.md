@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A 48-Hour Sleep Study on a Free Server Taught Me to Stop Trusting Uptime](https://dev.to/codepy_1473/a-48-hour-sleep-study-on-a-free-server-taught-me-to-stop-trusting-uptime-28bo)
-- [Nightly Setup Drift: A Free Server and Free Models That Keep Your README Honest](https://dev.to/github_7727/nightly-setup-drift-a-free-server-and-free-models-that-keep-your-readme-honest-151a)
-- [Resolve SSL/TLS Certificate Handshake Failures – Step-by-Step Guide for DevOps &amp; Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-5hgc)
-- [Build a Secrets Manager with Python and Encryption](https://dev.to/qingluan/build-a-secrets-manager-with-python-and-encryption-h5p)
-- [Build a Git Hook System with Python](https://dev.to/qingluan/build-a-git-hook-system-with-python-38eo)
-- [Nobody Could Prove It Wasn&#39;t Us](https://dev.to/devjyoti_giri/nobody-could-prove-it-wasnt-us-3koa)
+- [Airflow Scheduling: Assets vs. Cron | Which One Should You Use?](https://dev.to/guilherme_daros/airflow-scheduling-assets-vs-cron-which-one-should-you-use-2gjd)
+- [Your Drive Is Full of Files You Already Have. Here&#39;s a Safe Way to Find Them](https://dev.to/agentchip/your-drive-is-full-of-files-you-already-have-heres-a-safe-way-to-find-them-4nkh)
+- [Resolve Git Merge Conflicts Automatically in CI/CD Pipelines – A Complete Guide](https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-git-merge-conflicts-automatically-in-cicd-pipelines-a-complete-guide-1117)
+- [# 10 Git Commands That Made Me More Confident With Git](https://dev.to/bharath_adithya/-10-git-commands-that-made-me-more-confident-with-git-47h9)
+- [Build a Custom Package Manager with Python](https://dev.to/qingluan/build-a-custom-package-manager-with-python-1g9)
+- [GitLab Self-Hosted MR ThinkReview: Finally, A Simple Solution](https://dev.to/jay_elsheikh_59b14ad67922/gitlab-self-hosted-mr-thinkreview-finally-a-simple-solution-j96)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
