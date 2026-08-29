@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Error Budgets Explained: Reliability You Can Actually Spend](https://dev.to/sri2614/error-budgets-explained-reliability-you-can-actually-spend-3gl2)
-- [Heritage venue security gaps: what the Semaphore Workers Club break-in reveals about physical security system design](https://dev.to/xguardsecurity/heritage-venue-security-gaps-what-the-semaphore-workers-club-break-in-reveals-about-physical-29fl)
-- [Your Retry Loop Is the Real Free-Tier Tax: Five Myths, One Probe](https://dev.to/gitlab_3188/your-retry-loop-is-the-real-free-tier-tax-five-myths-one-probe-5h94)
-- [The 36 Best Places to Buy Verified Snapchat Accounts](https://dev.to/mdngm/the-36-best-places-to-buy-verified-snapchat-accounts-2f33)
-- [I Kept Hammering a Free-Model Endpoint. Throttling Fixed What Retrying Couldn&#39;t.](https://dev.to/codepy_1473/i-kept-hammering-a-free-model-endpoint-throttling-fixed-what-retrying-couldnt-288c)
-- [I Kept Hammering a Free-Model Endpoint. Throttling Fixed What Retrying Couldn&#39;t.](https://dev.to/codepy_1473/i-kept-hammering-a-free-model-endpoint-throttling-fixed-what-retrying-couldnt-288c)
+- [Hey Dev Community 👋 — New here, excited to learn and share](https://dev.to/sambitsahoo/hey-dev-community-new-here-excited-to-learn-and-share-4l5h)
+- [Black Car Service and Sprinter Rental Chicago: Premium Transportation for Every Occasion](https://dev.to/noman_ali_09119414a69f3ee/black-car-service-and-sprinter-rental-chicago-premium-transportation-for-every-occasion-2gp5)
+- [8 Pitfalls I Hit Auto-Repairing &#39;Plugin directory does not exist&#39; — and the 3-Layer Guard That Stopped a 22 8 Wipeout](https://dev.to/bokuwalily/8-pitfalls-i-hit-auto-repairing-plugin-directory-does-not-exist-and-the-3-layer-guard-that-4k0k)
+- [AWS Backup now copies FSx for ONTAP backups across Regions and accounts — a new option, measured Tokyo to Osaka](https://dev.to/aws-builders/aws-backup-now-copies-fsx-for-ontap-backups-across-regions-and-accounts-a-new-option-measured-3f60)
+- [Troubleshooting SMS Event Notification Failures for US and EU Senders](https://dev.to/evanshepherd8274/troubleshooting-sms-event-notification-failures-for-us-and-eu-senders-394)
+- [MailerSend or Amazon SES: A Beginner&#39;s Custom-Domain Suppression Checklist](https://dev.to/brennancross2167/mailersend-or-amazon-ses-a-beginners-custom-domain-suppression-checklist-4c2c)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
