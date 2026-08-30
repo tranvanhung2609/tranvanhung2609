@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The $0 Code-Review Pipeline: Free Models, Free Server, No Credit Card](https://dev.to/codejs_1959/the-0-code-review-pipeline-free-models-free-server-no-credit-card-5c7n)
-- [On-Call Alert Triage: Build a Free AI Runbook Bot That Respects Freeze Windows](https://dev.to/appcpp_9071/on-call-alert-triage-build-a-free-ai-runbook-bot-that-respects-freeze-windows-424k)
-- [Dear Past Me: Free Tokens and a Free Server Are Not Free Time](https://dev.to/codejs_8314/dear-past-me-free-tokens-and-a-free-server-are-not-free-time-53aa)
-- [Free Tokens, Free Server: A Structured Debate on Zero-Cost AI Review Bots](https://dev.to/dataio_4921/free-tokens-free-server-a-structured-debate-on-zero-cost-ai-review-bots-4dj)
-- [Free Tokens + Free Server: A Decision Tree for Zero-Cost AI Scripts](https://dev.to/devpy_9520/free-tokens-free-server-a-decision-tree-for-zero-cost-ai-scripts-37h0)
-- [Fuzz the Patch, Not the Promise: A Hypothesis Harness for Agent-Generated Code](https://dev.to/gitpy_4124/fuzz-the-patch-not-the-promise-a-hypothesis-harness-for-agent-generated-code-5h0a)
+- [The 2-Edit Rule for AI-Drafted Docs: A Free-Tier Workflow That Keeps Humans Responsible](https://dev.to/github_7727/the-2-edit-rule-for-ai-drafted-docs-a-free-tier-workflow-that-keeps-humans-responsible-36ad)
+- [Real-time streaming requirements for long-running agentic workflows](https://dev.to/turboline_ai_/real-time-streaming-requirements-for-long-running-agentic-workflows-dnh)
+- [Polling vs event-driven architecture for frequent state changes](https://dev.to/turboline_ai_/polling-vs-event-driven-architecture-for-frequent-state-changes-4l4n)
+- [Cross-chain swap monitoring and real-time alerting](https://dev.to/turboline_ai_/cross-chain-swap-monitoring-and-real-time-alerting-53nl)
+- [How to change an LLM prompt in production without a code deploy](https://dev.to/whydeepanshux/how-to-change-an-llm-prompt-in-production-without-a-code-deploy-1684)
+- [VPS sizing for an always-on AI assistant: what actually eats the RAM](https://dev.to/samadhi_tattoo_7ed1c0d05b/vps-sizing-for-an-always-on-ai-assistant-what-actually-eats-the-ram-4e4n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
