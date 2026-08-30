@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 2-Edit Rule for AI-Drafted Docs: A Free-Tier Workflow That Keeps Humans Responsible](https://dev.to/github_7727/the-2-edit-rule-for-ai-drafted-docs-a-free-tier-workflow-that-keeps-humans-responsible-36ad)
-- [Real-time streaming requirements for long-running agentic workflows](https://dev.to/turboline_ai_/real-time-streaming-requirements-for-long-running-agentic-workflows-dnh)
-- [Polling vs event-driven architecture for frequent state changes](https://dev.to/turboline_ai_/polling-vs-event-driven-architecture-for-frequent-state-changes-4l4n)
-- [Cross-chain swap monitoring and real-time alerting](https://dev.to/turboline_ai_/cross-chain-swap-monitoring-and-real-time-alerting-53nl)
-- [How to change an LLM prompt in production without a code deploy](https://dev.to/whydeepanshux/how-to-change-an-llm-prompt-in-production-without-a-code-deploy-1684)
-- [VPS sizing for an always-on AI assistant: what actually eats the RAM](https://dev.to/samadhi_tattoo_7ed1c0d05b/vps-sizing-for-an-always-on-ai-assistant-what-actually-eats-the-ram-4e4n)
+- [Your Sandbox Shouldn&#39;t Keep Its Install-Time Network Access](https://dev.to/divy_ai/your-sandbox-shouldnt-keep-its-install-time-network-access-4fn8)
+- [SRE: prueba rotacion de secretos por correo](https://dev.to/alexcarteruk/sre-prueba-rotacion-de-secretos-por-correo-19f2)
+- [The agent that could not unlock itself, and why that was the correct outcome](https://dev.to/elenarevicheva/the-agent-that-could-not-unlock-itself-and-why-that-was-the-correct-outcome-375o)
+- [bumpwarden: a dependency-triage agent that never merges](https://dev.to/voyagi/bumpwarden-a-dependency-triage-agent-that-never-merges-2ci7)
+- [Build a Custom Object Storage System with Python](https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-10nh)
+- [Logistics Developer Portal Access: Balancing Sessions with Public-Key Verification](https://dev.to/sladebarrett9642/logistics-developer-portal-access-balancing-sessions-with-public-key-verification-217m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
