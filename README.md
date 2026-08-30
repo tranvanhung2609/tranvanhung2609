@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Airflow Scheduling: Assets vs. Cron | Which One Should You Use?](https://dev.to/guilherme_daros/airflow-scheduling-assets-vs-cron-which-one-should-you-use-2gjd)
-- [Your Drive Is Full of Files You Already Have. Here&#39;s a Safe Way to Find Them](https://dev.to/agentchip/your-drive-is-full-of-files-you-already-have-heres-a-safe-way-to-find-them-4nkh)
-- [Resolve Git Merge Conflicts Automatically in CI/CD Pipelines – A Complete Guide](https://dev.to/deep_fix_71a17f6aa38ff28a/resolve-git-merge-conflicts-automatically-in-cicd-pipelines-a-complete-guide-1117)
-- [# 10 Git Commands That Made Me More Confident With Git](https://dev.to/bharath_adithya/-10-git-commands-that-made-me-more-confident-with-git-47h9)
-- [Build a Custom Package Manager with Python](https://dev.to/qingluan/build-a-custom-package-manager-with-python-1g9)
-- [GitLab Self-Hosted MR ThinkReview: Finally, A Simple Solution](https://dev.to/jay_elsheikh_59b14ad67922/gitlab-self-hosted-mr-thinkreview-finally-a-simple-solution-j96)
+- [Stop Guessing Your App&#39;s Resource Requirements](https://dev.to/mfdilawar/stop-guessing-your-apps-resource-requirements-5a34)
+- [API rate limiting: patterns, algorithms, and how to do it right](https://dev.to/weston_carnes_d580b505e0c/api-rate-limiting-patterns-algorithms-and-how-to-do-it-right-4l35)
+- [Removing Minimum and Maximum From Array | LEETCODE 2091 | Solve In Seconds | Amazon Most Asked](https://dev.to/shaanlabs/removing-minimum-and-maximum-from-array-leetcode-2091-solve-in-seconds-amazon-most-asked-4fb6)
+- [I built an AI agent for production incidents. The interesting part is when it refuses to act.](https://dev.to/singhakousik363del/i-built-an-ai-agent-for-production-incidents-the-interesting-part-is-when-it-refuses-to-act-1ddg)
+- [Metadata Validation for Auction Image Intake Before Public Listing Derivatives](https://dev.to/lyrap22/metadata-validation-for-auction-image-intake-before-public-listing-derivatives-p5)
+- [Give your AI code reviewer a rulebook: deterministic DevOps reviews with Claude Code](https://dev.to/anmolnagpal/give-your-ai-code-reviewer-a-rulebook-deterministic-devops-reviews-with-claude-code-4i4d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
