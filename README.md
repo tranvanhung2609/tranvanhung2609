@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing Your App&#39;s Resource Requirements](https://dev.to/mfdilawar/stop-guessing-your-apps-resource-requirements-5a34)
-- [API rate limiting: patterns, algorithms, and how to do it right](https://dev.to/weston_carnes_d580b505e0c/api-rate-limiting-patterns-algorithms-and-how-to-do-it-right-4l35)
-- [Removing Minimum and Maximum From Array | LEETCODE 2091 | Solve In Seconds | Amazon Most Asked](https://dev.to/shaanlabs/removing-minimum-and-maximum-from-array-leetcode-2091-solve-in-seconds-amazon-most-asked-4fb6)
-- [I built an AI agent for production incidents. The interesting part is when it refuses to act.](https://dev.to/singhakousik363del/i-built-an-ai-agent-for-production-incidents-the-interesting-part-is-when-it-refuses-to-act-1ddg)
-- [Metadata Validation for Auction Image Intake Before Public Listing Derivatives](https://dev.to/lyrap22/metadata-validation-for-auction-image-intake-before-public-listing-derivatives-p5)
-- [Give your AI code reviewer a rulebook: deterministic DevOps reviews with Claude Code](https://dev.to/anmolnagpal/give-your-ai-code-reviewer-a-rulebook-deterministic-devops-reviews-with-claude-code-4i4d)
+- [The $0 Code-Review Pipeline: Free Models, Free Server, No Credit Card](https://dev.to/codejs_1959/the-0-code-review-pipeline-free-models-free-server-no-credit-card-5c7n)
+- [On-Call Alert Triage: Build a Free AI Runbook Bot That Respects Freeze Windows](https://dev.to/appcpp_9071/on-call-alert-triage-build-a-free-ai-runbook-bot-that-respects-freeze-windows-424k)
+- [Dear Past Me: Free Tokens and a Free Server Are Not Free Time](https://dev.to/codejs_8314/dear-past-me-free-tokens-and-a-free-server-are-not-free-time-53aa)
+- [Free Tokens, Free Server: A Structured Debate on Zero-Cost AI Review Bots](https://dev.to/dataio_4921/free-tokens-free-server-a-structured-debate-on-zero-cost-ai-review-bots-4dj)
+- [Free Tokens + Free Server: A Decision Tree for Zero-Cost AI Scripts](https://dev.to/devpy_9520/free-tokens-free-server-a-decision-tree-for-zero-cost-ai-scripts-37h0)
+- [Fuzz the Patch, Not the Promise: A Hypothesis Harness for Agent-Generated Code](https://dev.to/gitpy_4124/fuzz-the-patch-not-the-promise-a-hypothesis-harness-for-agent-generated-code-5h0a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
