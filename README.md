@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Sandbox Shouldn&#39;t Keep Its Install-Time Network Access](https://dev.to/divy_ai/your-sandbox-shouldnt-keep-its-install-time-network-access-4fn8)
-- [SRE: prueba rotacion de secretos por correo](https://dev.to/alexcarteruk/sre-prueba-rotacion-de-secretos-por-correo-19f2)
-- [The agent that could not unlock itself, and why that was the correct outcome](https://dev.to/elenarevicheva/the-agent-that-could-not-unlock-itself-and-why-that-was-the-correct-outcome-375o)
-- [bumpwarden: a dependency-triage agent that never merges](https://dev.to/voyagi/bumpwarden-a-dependency-triage-agent-that-never-merges-2ci7)
-- [Build a Custom Object Storage System with Python](https://dev.to/qingluan/build-a-custom-object-storage-system-with-python-10nh)
-- [Logistics Developer Portal Access: Balancing Sessions with Public-Key Verification](https://dev.to/sladebarrett9642/logistics-developer-portal-access-balancing-sessions-with-public-key-verification-217m)
+- [Statemine RPC: Chain Settings, Endpoints, and Debugging](https://dev.to/onfinality/statemine-rpc-chain-settings-endpoints-and-debugging-1a8g)
+- [Frequency RPC: Connect to Frequency Parachain](https://dev.to/onfinality/frequency-rpc-connect-to-frequency-parachain-3fp6)
+- [BNB Smart Chain RPC URL: Mainnet &amp; Testnet Endpoints](https://dev.to/onfinality/bnb-smart-chain-rpc-url-mainnet-testnet-endpoints-54k9)
+- [BNB Smart Chain RPC URL: Endpoint, Setup &amp; Debugging](https://dev.to/onfinality/bnb-smart-chain-rpc-url-endpoint-setup-debugging-jcn)
+- [Astar zkEVM RPC: Endpoint, Chain ID, and Configuration](https://dev.to/onfinality/astar-zkevm-rpc-endpoint-chain-id-and-configuration-4789)
+- [Base Network RPC Endpoint: Chain Settings &amp; Setup](https://dev.to/onfinality/base-network-rpc-endpoint-chain-settings-setup-272)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
