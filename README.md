@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Statemine RPC: Chain Settings, Endpoints, and Debugging](https://dev.to/onfinality/statemine-rpc-chain-settings-endpoints-and-debugging-1a8g)
-- [Frequency RPC: Connect to Frequency Parachain](https://dev.to/onfinality/frequency-rpc-connect-to-frequency-parachain-3fp6)
-- [BNB Smart Chain RPC URL: Mainnet &amp; Testnet Endpoints](https://dev.to/onfinality/bnb-smart-chain-rpc-url-mainnet-testnet-endpoints-54k9)
-- [BNB Smart Chain RPC URL: Endpoint, Setup &amp; Debugging](https://dev.to/onfinality/bnb-smart-chain-rpc-url-endpoint-setup-debugging-jcn)
-- [Astar zkEVM RPC: Endpoint, Chain ID, and Configuration](https://dev.to/onfinality/astar-zkevm-rpc-endpoint-chain-id-and-configuration-4789)
-- [Base Network RPC Endpoint: Chain Settings &amp; Setup](https://dev.to/onfinality/base-network-rpc-endpoint-chain-settings-setup-272)
+- [Nightly Regression Tests for Free: A Zero-Cost LLM Monitoring Loop](https://dev.to/gitlab_3188/nightly-regression-tests-for-free-a-zero-cost-llm-monitoring-loop-503p)
+- [Server monitoring without an SRE: the signals that actually matter](https://dev.to/opservo/server-monitoring-without-an-sre-the-signals-that-actually-matter-3hn6)
+- [Your AI&#39;s Memory Is a Bias: 48 Hours With a Log Summarizer That Refused to Move On](https://dev.to/codepy_1473/your-ais-memory-is-a-bias-48-hours-with-a-log-summarizer-that-refused-to-move-on-in0)
+- [Free AI Tokens and a Free Server Are Enough for a Refactor Safety Net](https://dev.to/hackrs_6393/free-ai-tokens-and-a-free-server-are-enough-for-a-refactor-safety-net-12fe)
+- [What a Model May Draft, What You Must Own: A Zero-Cost Doc Pipeline](https://dev.to/github_7727/what-a-model-may-draft-what-you-must-own-a-zero-cost-doc-pipeline-2he8)
+- [J’ai mis un Agent Claude dans ma CI pendant 3 mois , voici ce qu’il a vraiment fait](https://dev.to/yves_michelfoyettchale_/jai-mis-un-agent-claude-dans-ma-ci-pendant-3-mois-voici-ce-quil-a-vraiment-fait-5518)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
