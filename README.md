@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Nightly Regression Tests for Free: A Zero-Cost LLM Monitoring Loop](https://dev.to/gitlab_3188/nightly-regression-tests-for-free-a-zero-cost-llm-monitoring-loop-503p)
-- [Server monitoring without an SRE: the signals that actually matter](https://dev.to/opservo/server-monitoring-without-an-sre-the-signals-that-actually-matter-3hn6)
-- [Your AI&#39;s Memory Is a Bias: 48 Hours With a Log Summarizer That Refused to Move On](https://dev.to/codepy_1473/your-ais-memory-is-a-bias-48-hours-with-a-log-summarizer-that-refused-to-move-on-in0)
-- [Free AI Tokens and a Free Server Are Enough for a Refactor Safety Net](https://dev.to/hackrs_6393/free-ai-tokens-and-a-free-server-are-enough-for-a-refactor-safety-net-12fe)
-- [What a Model May Draft, What You Must Own: A Zero-Cost Doc Pipeline](https://dev.to/github_7727/what-a-model-may-draft-what-you-must-own-a-zero-cost-doc-pipeline-2he8)
-- [J’ai mis un Agent Claude dans ma CI pendant 3 mois , voici ce qu’il a vraiment fait](https://dev.to/yves_michelfoyettchale_/jai-mis-un-agent-claude-dans-ma-ci-pendant-3-mois-voici-ce-quil-a-vraiment-fait-5518)
+- [llama-cli prints the error and exits 0. The same binary exits 1 when the model is missing.](https://dev.to/homelabpm/llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing-48cn)
+- [I shipped a Series-A-grade security autopilot in one day. It costs €2.60/year.](https://dev.to/holistis/i-shipped-a-series-a-grade-security-autopilot-in-one-day-it-costs-eu260year-4i83)
+- [Python Image Batch Cancellation: Converging Active Jobs on Terminal States](https://dev.to/yukikobayashi880/python-image-batch-cancellation-converging-active-jobs-on-terminal-states-5ge6)
+- [Support Queue Access: Backend SMS OTP, Resend Limits, and Mobile Autofill](https://dev.to/godfreysterling9226/support-queue-access-backend-sms-otp-resend-limits-and-mobile-autofill-17ab)
+- [What a Linux container really is &lpar;it&#39;s not a VM&rpar;](https://dev.to/vladut02/what-a-linux-container-really-is-its-not-a-vm-53an)
+- [Azure will not warn you before App Gateway and App Service TLS certs expire. Here is how to fix that.](https://dev.to/llmgraph/azure-will-not-warn-you-before-app-gateway-and-app-service-tls-certs-expire-here-is-how-to-fix-3k1g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
