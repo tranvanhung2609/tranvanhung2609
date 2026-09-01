@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I get a status page alert when the green badge still lies](https://dev.to/evangelist67/how-i-get-a-status-page-alert-when-the-green-badge-still-lies-25om)
-- [From Zero to Green Build: How I Built a Jenkins + DevPod CI Pipeline with Mise &lpar;+ 10 Real Errors That Taught Me Everything&rpar;](https://dev.to/alanvarghese-dev/from-zero-to-green-build-how-i-built-a-jenkins-devpod-ci-pipeline-with-mise-10-real-errors-3p9j)
-- [Coding Is Forward. Debugging Is Backward.](https://dev.to/robin_thedude_4ce28b7b54/coding-is-forward-debugging-is-backward-3l7p)
-- [Understanding Backend &lpar;part 1&rpar;](https://dev.to/sona_08/understanding-backend-part-1-31hd)
-- [MySQL as a bottleneck in real-time WebSocket dashboards](https://dev.to/turboline_ai_/mysql-as-a-bottleneck-in-real-time-websocket-dashboards-2m3l)
-- [Kafka internals via rebuild: what using a tool vs. understanding it teaches you](https://dev.to/turboline_ai_/kafka-internals-via-rebuild-what-using-a-tool-vs-understanding-it-teaches-you-4khf)
+- [Stop Rotating Proxies When a Crawl Fails a Content-Use Check](https://dev.to/98ip/stop-rotating-proxies-when-a-crawl-fails-a-content-use-check-4a4d)
+- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
+- [A Practical Scoping Checklist for Enterprise AI Projects](https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6)
+- [From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment &lpar;With Every Bug We Hit&rpar;](https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3)
+- [CI/CD Pricing in 2026: Why Your Seats Cost More Than Your Builds](https://dev.to/moksh/cicd-pricing-in-2026-why-your-seats-cost-more-than-your-builds-5c8m)
+- [Rewind or Fork? Two Ways to Recover a SolonCode Conversation](https://dev.to/solonjava/rewind-or-fork-two-ways-to-recover-a-soloncode-conversation-4eim)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
