@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Pull Requests and code review: how to make your code easy to review](https://dev.to/fj_palacios/pull-requests-and-code-review-how-to-make-your-code-easy-to-review-4mch)
-- [Differential Contract Testing for Agent Patches: A 3-Layer Verification Strategy](https://dev.to/datacpp_8185/differential-contract-testing-for-agent-patches-a-3-layer-verification-strategy-m3l)
-- [Stop Building AI Wrappers: The Hidden Cost of &#39;Thin&#39; Applications](https://dev.to/ntty/stop-building-ai-wrappers-the-hidden-cost-of-thin-applications-4hb6)
-- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766)
-- [How AI Consulting Helps U.S. Companies with Generative AI Services in 2026](https://dev.to/naveen_kumars_86964c9922/how-ai-consulting-helps-us-companies-with-generative-ai-services-in-2026-33p5)
-- [AWS Trusted Advisor vs Compute Optimizer vs Cost Explorer: What Each One Actually Finds](https://dev.to/muskan_bandta/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-what-each-one-actually-finds-2n6j)
+- [How I get a status page alert when the green badge still lies](https://dev.to/evangelist67/how-i-get-a-status-page-alert-when-the-green-badge-still-lies-25om)
+- [From Zero to Green Build: How I Built a Jenkins + DevPod CI Pipeline with Mise &lpar;+ 10 Real Errors That Taught Me Everything&rpar;](https://dev.to/alanvarghese-dev/from-zero-to-green-build-how-i-built-a-jenkins-devpod-ci-pipeline-with-mise-10-real-errors-3p9j)
+- [Coding Is Forward. Debugging Is Backward.](https://dev.to/robin_thedude_4ce28b7b54/coding-is-forward-debugging-is-backward-3l7p)
+- [Understanding Backend &lpar;part 1&rpar;](https://dev.to/sona_08/understanding-backend-part-1-31hd)
+- [MySQL as a bottleneck in real-time WebSocket dashboards](https://dev.to/turboline_ai_/mysql-as-a-bottleneck-in-real-time-websocket-dashboards-2m3l)
+- [Kafka internals via rebuild: what using a tool vs. understanding it teaches you](https://dev.to/turboline_ai_/kafka-internals-via-rebuild-what-using-a-tool-vs-understanding-it-teaches-you-4khf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
