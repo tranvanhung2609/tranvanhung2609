@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [llama-cli prints the error and exits 0. The same binary exits 1 when the model is missing.](https://dev.to/homelabpm/llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing-48cn)
-- [I shipped a Series-A-grade security autopilot in one day. It costs €2.60/year.](https://dev.to/holistis/i-shipped-a-series-a-grade-security-autopilot-in-one-day-it-costs-eu260year-4i83)
-- [Python Image Batch Cancellation: Converging Active Jobs on Terminal States](https://dev.to/yukikobayashi880/python-image-batch-cancellation-converging-active-jobs-on-terminal-states-5ge6)
-- [Support Queue Access: Backend SMS OTP, Resend Limits, and Mobile Autofill](https://dev.to/godfreysterling9226/support-queue-access-backend-sms-otp-resend-limits-and-mobile-autofill-17ab)
-- [What a Linux container really is &lpar;it&#39;s not a VM&rpar;](https://dev.to/vladut02/what-a-linux-container-really-is-its-not-a-vm-53an)
-- [Azure will not warn you before App Gateway and App Service TLS certs expire. Here is how to fix that.](https://dev.to/llmgraph/azure-will-not-warn-you-before-app-gateway-and-app-service-tls-certs-expire-here-is-how-to-fix-3k1g)
+- [Fix TypeScript 7 Out of Memory: error TS7056 Costs 6x RAM](https://dev.to/indra_gustiprasetya_a80a/fix-typescript-7-out-of-memory-error-ts7056-costs-6x-ram-b2a)
+- [How I Write Postmortems in 5 Minutes Using AI &lpar;And Why Most SREs Are Doing It the Hard Way&rpar;](https://dev.to/rosebud/how-i-write-postmortems-in-5-minutes-using-ai-and-why-most-sres-are-doing-it-the-hard-way-40g)
+- [Domain-Driven Design for Microservices: Building Scalable Systems with Clear Domain Boundaries](https://dev.to/said_olano/domain-driven-design-for-microservices-building-scalable-systems-with-clear-domain-boundaries-41f6)
+- [Tried `uutils/coreutils`: A Rust-Native Coreutils Test Drive](https://dev.to/james_lin/tried-uutilscoreutils-a-rust-native-coreutils-test-drive-4i6m)
+- [Image Format Conversion vs Compression Explained &lpar;for FastAPI Promo Video Pipelines&rpar;](https://dev.to/silhouette72591483/image-format-conversion-vs-compression-explained-for-fastapi-promo-video-pipelines-571d)
+- [Domain-Driven Design Meets API Governance: Building Resilient Integration Patterns](https://dev.to/said_olano/domain-driven-design-meets-api-governance-building-resilient-integration-patterns-40l3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
