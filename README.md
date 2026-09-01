@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fix TypeScript 7 Out of Memory: error TS7056 Costs 6x RAM](https://dev.to/indra_gustiprasetya_a80a/fix-typescript-7-out-of-memory-error-ts7056-costs-6x-ram-b2a)
-- [How I Write Postmortems in 5 Minutes Using AI &lpar;And Why Most SREs Are Doing It the Hard Way&rpar;](https://dev.to/rosebud/how-i-write-postmortems-in-5-minutes-using-ai-and-why-most-sres-are-doing-it-the-hard-way-40g)
-- [Domain-Driven Design for Microservices: Building Scalable Systems with Clear Domain Boundaries](https://dev.to/said_olano/domain-driven-design-for-microservices-building-scalable-systems-with-clear-domain-boundaries-41f6)
-- [Tried `uutils/coreutils`: A Rust-Native Coreutils Test Drive](https://dev.to/james_lin/tried-uutilscoreutils-a-rust-native-coreutils-test-drive-4i6m)
-- [Image Format Conversion vs Compression Explained &lpar;for FastAPI Promo Video Pipelines&rpar;](https://dev.to/silhouette72591483/image-format-conversion-vs-compression-explained-for-fastapi-promo-video-pipelines-571d)
-- [Domain-Driven Design Meets API Governance: Building Resilient Integration Patterns](https://dev.to/said_olano/domain-driven-design-meets-api-governance-building-resilient-integration-patterns-40l3)
+- [Pull Requests and code review: how to make your code easy to review](https://dev.to/fj_palacios/pull-requests-and-code-review-how-to-make-your-code-easy-to-review-4mch)
+- [Differential Contract Testing for Agent Patches: A 3-Layer Verification Strategy](https://dev.to/datacpp_8185/differential-contract-testing-for-agent-patches-a-3-layer-verification-strategy-m3l)
+- [Stop Building AI Wrappers: The Hidden Cost of &#39;Thin&#39; Applications](https://dev.to/ntty/stop-building-ai-wrappers-the-hidden-cost-of-thin-applications-4hb6)
+- [One Agent, Two Frameworks, Zero Lessons About Frameworks](https://dev.to/tonal/one-agent-two-frameworks-zero-lessons-about-frameworks-766)
+- [How AI Consulting Helps U.S. Companies with Generative AI Services in 2026](https://dev.to/naveen_kumars_86964c9922/how-ai-consulting-helps-us-companies-with-generative-ai-services-in-2026-33p5)
+- [AWS Trusted Advisor vs Compute Optimizer vs Cost Explorer: What Each One Actually Finds](https://dev.to/muskan_bandta/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-what-each-one-actually-finds-2n6j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
