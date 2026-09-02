@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Hire and Retain Top Talent for Your Global Capability Center in India](https://dev.to/rohitmeta750/how-to-hire-and-retain-top-talent-for-your-global-capability-center-in-india-3o17)
-- [The exemption we wrote for RuleStack&#39;s build lasted six minutes and seven seconds](https://dev.to/kynthstudios/the-exemption-we-wrote-for-rulestacks-build-lasted-six-minutes-and-seven-seconds-2jb6)
-- [Magento Deployment Tools Compared: Orbit vs Deployer, Capistrano, Adobe Commerce Cloud &amp; Magefan](https://dev.to/byte8io/magento-deployment-tools-compared-orbit-vs-deployer-capistrano-adobe-commerce-cloud-magefan-3l4j)
-- [Bolt.new Python Backend: FastAPI from Zero to Production](https://dev.to/ayush_kumar_085a0f2c54e3f/boltnew-python-backend-fastapi-from-zero-to-production-551b)
-- [How to Fix Claude Code Error 529 in Production](https://dev.to/ayush_kumar_085a0f2c54e3f/how-to-fix-claude-code-error-529-in-production-3igk)
-- [Give Your .NET REST API an AI Mouth: Adding MCP So Claude and Gemini Can Actually Use It](https://dev.to/karamkhoury88/give-your-net-rest-api-an-ai-mouth-adding-mcp-so-claude-and-gemini-can-actually-use-it-3fi4)
+- [Why Serverless Engineers Already Understand Containers](https://dev.to/umairrafi/why-serverless-engineers-already-understand-containers-2mb1)
+- [Valhala: desmistificando uma das features mais aguardadas do Java 26](https://dev.to/b3o_b8o/valhala-desmistificando-uma-das-features-mais-aguardadas-do-java-26-323j)
+- [Архитектурный хаос в AI-интеграциях: как обойти инженерные ловушки и защитить окупаемость проекта](https://dev.to/cambo_com_ec380d18b329e5c/arkhitiekturnyi-khaos-v-ai-intieghratsiiakh-kak-oboiti-inzhieniernyie-lovushki-i-zashchitit-okupaiemost-proiekta-3n9g)
+- [My CI has been red for 18 days. It never started a single job.](https://dev.to/mahirhir/my-ci-has-been-red-for-18-days-it-never-started-a-single-job-2o20)
+- [Netmiko vs pexpect vs tmux: pick the existing tool before you build your own](https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o)
+- [tmux capture-pane -p reads only the visible pane, and it fails silently](https://dev.to/vainamoinen/tmux-capture-pane-p-reads-only-the-visible-pane-and-it-fails-silently-1927)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
