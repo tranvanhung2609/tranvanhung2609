@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Serverless Engineers Already Understand Containers](https://dev.to/umairrafi/why-serverless-engineers-already-understand-containers-2mb1)
-- [Valhala: desmistificando uma das features mais aguardadas do Java 26](https://dev.to/b3o_b8o/valhala-desmistificando-uma-das-features-mais-aguardadas-do-java-26-323j)
-- [Архитектурный хаос в AI-интеграциях: как обойти инженерные ловушки и защитить окупаемость проекта](https://dev.to/cambo_com_ec380d18b329e5c/arkhitiekturnyi-khaos-v-ai-intieghratsiiakh-kak-oboiti-inzhieniernyie-lovushki-i-zashchitit-okupaiemost-proiekta-3n9g)
-- [My CI has been red for 18 days. It never started a single job.](https://dev.to/mahirhir/my-ci-has-been-red-for-18-days-it-never-started-a-single-job-2o20)
-- [Netmiko vs pexpect vs tmux: pick the existing tool before you build your own](https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o)
-- [tmux capture-pane -p reads only the visible pane, and it fails silently](https://dev.to/vainamoinen/tmux-capture-pane-p-reads-only-the-visible-pane-and-it-fails-silently-1927)
+- [Fast Fix for CORS Errors in Node.js – Step-by-Step Guide](https://dev.to/deep_fix_71a17f6aa38ff28a/fast-fix-for-cors-errors-in-nodejs-step-by-step-guide-4ebp)
+- [Пайплайн, який пережив зміну команди](https://dev.to/sergey_shinder_ab2d943365/paiplain-iakii-pieriezhiv-zminu-komandi-4onl)
+- [Java Learning Series - Student Management System](https://dev.to/dev_saravanan_journey/java-learning-series-student-management-system-4llg)
+- [How to Structure a Production-Grade Node.js + Express Backend &lpar;2026&rpar;](https://dev.to/akashguptasky/how-to-structure-a-production-grade-nodejs-express-backend-2026-42n0)
+- [Mobile Test Automation Framework in Java: Structure, BDD, Parallel](https://dev.to/mayvinrmm/mobile-test-automation-framework-in-java-structure-bdd-parallel-3a00)
+- [2026 Guide to PDF Endpoints SaaS Teams Use for Medical Referrals &lpar;Go&rpar;](https://dev.to/sterlingvance2196/2026-guide-to-pdf-endpoints-saas-teams-use-for-medical-referrals-go-bkf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
