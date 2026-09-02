@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rotating Proxies When a Crawl Fails a Content-Use Check](https://dev.to/98ip/stop-rotating-proxies-when-a-crawl-fails-a-content-use-check-4a4d)
-- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
-- [A Practical Scoping Checklist for Enterprise AI Projects](https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6)
-- [From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment &lpar;With Every Bug We Hit&rpar;](https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3)
-- [CI/CD Pricing in 2026: Why Your Seats Cost More Than Your Builds](https://dev.to/moksh/cicd-pricing-in-2026-why-your-seats-cost-more-than-your-builds-5c8m)
-- [Rewind or Fork? Two Ways to Recover a SolonCode Conversation](https://dev.to/solonjava/rewind-or-fork-two-ways-to-recover-a-soloncode-conversation-4eim)
+- [How to Buy Old Telegram Accounts: 10 Easy Steps 2026](https://dev.to/dez6w6pu/how-to-buy-old-telegram-accounts-10-easy-steps-2026-8i6)
+- [Uniqueness Pre-Checks vs. Database Constraints: Why You Need Both](https://dev.to/janarthanan_soundararajan/uniqueness-pre-checks-vs-database-constraints-why-you-need-both-48j0)
+- [PostgreSQL Graph Queries with MATCH: 3 Practical Traversal Patterns](https://dev.to/ineron/postgresql-graph-queries-with-match-3-practical-traversal-patterns-36jc)
+- [Can freshers apply for a DevOps role?](https://dev.to/kavindotdev/can-freshers-apply-for-a-devops-role-5gb5)
+- [The Contract Pin: Guarding Human-Owned Sections in Free-Model Doc Drafts](https://dev.to/github_7727/the-contract-pin-guarding-human-owned-sections-in-free-model-doc-drafts-470h)
+- [Top 13 Easiest Ways To Buy Old GitHub Accounts - 2025](https://dev.to/dez6w6pu/top-13-easiest-ways-to-buy-old-github-accounts-2025-4jhc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
