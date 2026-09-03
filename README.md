@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [logSpecter – Schema-aware secret scanner for cloud logs &lpar;Regex + Shannon Entropy + JSON Path trackin](https://dev.to/jeffy123zhu/logspecter-schema-aware-secret-scanner-for-cloud-logs-regex-shannon-entropy-json-path-trackin-1kce)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-364k)
-- [FastAPI: reenvios limpios para emails de signup](https://dev.to/silviutech/fastapi-reenvios-limpios-para-emails-de-signup-idf)
-- [Marketplace SaaS PDF Endpoints — Using Image Extraction Under Load](https://dev.to/remielbarrett8283/marketplace-saas-pdf-endpoints-using-image-extraction-under-load-4cf3)
-- [There&#39;s Now an Open-Source Fault Localization Project in Ops](https://dev.to/databufflabs/theres-now-an-open-source-fault-localization-project-in-ops-20c1)
-- [Marketplace Account Email Rotation — Request, Confirm, Keep Continuity](https://dev.to/cianwinslow371/marketplace-account-email-rotation-request-confirm-keep-continuity-jic)
+- [Convert stdio MCP to HTTP MCP: Make Local Servers Remotely Accessible](https://dev.to/baboon/convert-stdio-mcp-to-http-mcp-make-local-servers-remotely-accessible-4m3b)
+- [Master Salesforce AI Training | Salesforce AI Course](https://dev.to/vamsi_visualpath_826a9ad2/master-salesforce-ai-training-salesforce-ai-course-17co)
+- [When MVP Development Services Start With the Problem, Not the Feature List](https://dev.to/sudha_m_296bbd1e27ceeed15/when-mvp-development-services-start-with-the-problem-not-the-feature-list-3pkn)
+- [How Long Does a Dirty IP Stay Dirty? Measuring Decay Across 923,000 Threat-Feed Observations](https://dev.to/circuit/how-long-does-a-dirty-ip-stay-dirty-measuring-decay-across-923000-threat-feed-observations-1ca7)
+- [The fastest request is the request your origin server never has to process. Keep your origin flat and push your database state to the edge.](https://dev.to/supto_khan/the-fastest-request-is-the-request-your-origin-server-never-has-to-process-keep-your-origin-flat-4cm3)
+- [Aesthetic Treatments in Mira Road: A Simple Guide to Making the Right Choice](https://dev.to/getmereach/aesthetic-treatments-in-mira-road-a-simple-guide-to-making-the-right-choice-3j26)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
