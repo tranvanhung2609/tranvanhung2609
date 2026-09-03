@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Fast Fix for CORS Errors in Node.js – Step-by-Step Guide](https://dev.to/deep_fix_71a17f6aa38ff28a/fast-fix-for-cors-errors-in-nodejs-step-by-step-guide-4ebp)
-- [Пайплайн, який пережив зміну команди](https://dev.to/sergey_shinder_ab2d943365/paiplain-iakii-pieriezhiv-zminu-komandi-4onl)
-- [Java Learning Series - Student Management System](https://dev.to/dev_saravanan_journey/java-learning-series-student-management-system-4llg)
-- [How to Structure a Production-Grade Node.js + Express Backend &lpar;2026&rpar;](https://dev.to/akashguptasky/how-to-structure-a-production-grade-nodejs-express-backend-2026-42n0)
-- [Mobile Test Automation Framework in Java: Structure, BDD, Parallel](https://dev.to/mayvinrmm/mobile-test-automation-framework-in-java-structure-bdd-parallel-3a00)
-- [2026 Guide to PDF Endpoints SaaS Teams Use for Medical Referrals &lpar;Go&rpar;](https://dev.to/sterlingvance2196/2026-guide-to-pdf-endpoints-saas-teams-use-for-medical-referrals-go-bkf)
+- [logSpecter – Schema-aware secret scanner for cloud logs &lpar;Regex + Shannon Entropy + JSON Path trackin](https://dev.to/jeffy123zhu/logspecter-schema-aware-secret-scanner-for-cloud-logs-regex-shannon-entropy-json-path-trackin-1kce)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-364k)
+- [FastAPI: reenvios limpios para emails de signup](https://dev.to/silviutech/fastapi-reenvios-limpios-para-emails-de-signup-idf)
+- [Marketplace SaaS PDF Endpoints — Using Image Extraction Under Load](https://dev.to/remielbarrett8283/marketplace-saas-pdf-endpoints-using-image-extraction-under-load-4cf3)
+- [There&#39;s Now an Open-Source Fault Localization Project in Ops](https://dev.to/databufflabs/theres-now-an-open-source-fault-localization-project-in-ops-20c1)
+- [Marketplace Account Email Rotation — Request, Confirm, Keep Continuity](https://dev.to/cianwinslow371/marketplace-account-email-rotation-request-confirm-keep-continuity-jic)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
