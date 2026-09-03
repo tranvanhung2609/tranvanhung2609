@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Convert stdio MCP to HTTP MCP: Make Local Servers Remotely Accessible](https://dev.to/baboon/convert-stdio-mcp-to-http-mcp-make-local-servers-remotely-accessible-4m3b)
-- [Master Salesforce AI Training | Salesforce AI Course](https://dev.to/vamsi_visualpath_826a9ad2/master-salesforce-ai-training-salesforce-ai-course-17co)
-- [When MVP Development Services Start With the Problem, Not the Feature List](https://dev.to/sudha_m_296bbd1e27ceeed15/when-mvp-development-services-start-with-the-problem-not-the-feature-list-3pkn)
-- [How Long Does a Dirty IP Stay Dirty? Measuring Decay Across 923,000 Threat-Feed Observations](https://dev.to/circuit/how-long-does-a-dirty-ip-stay-dirty-measuring-decay-across-923000-threat-feed-observations-1ca7)
-- [The fastest request is the request your origin server never has to process. Keep your origin flat and push your database state to the edge.](https://dev.to/supto_khan/the-fastest-request-is-the-request-your-origin-server-never-has-to-process-keep-your-origin-flat-4cm3)
-- [Aesthetic Treatments in Mira Road: A Simple Guide to Making the Right Choice](https://dev.to/getmereach/aesthetic-treatments-in-mira-road-a-simple-guide-to-making-the-right-choice-3j26)
+- [Building an Agentic Warehouse Management System — Part 3: Tools, Decisions, and Actions](https://dev.to/mongodb/building-an-agentic-warehouse-management-system-part-3-tools-decisions-and-actions-203a)
+- [If the Shape Changed, the PR Failed: A Compatibility Checklist](https://dev.to/codecpp_5026/if-the-shape-changed-the-pr-failed-a-compatibility-checklist-lni)
+- [WebSocket engineering: connection management beyond the handshake](https://dev.to/turboline_ai_/websocket-engineering-connection-management-beyond-the-handshake-5bal)
+- [LLM-per-event cost in high-volume Kafka + Flink pipelines, and CEP as a filter](https://dev.to/turboline_ai_/llm-per-event-cost-in-high-volume-kafka-flink-pipelines-and-cep-as-a-filter-45c6)
+- [Building Kafka from scratch to understand how it works](https://dev.to/turboline_ai_/building-kafka-from-scratch-to-understand-how-it-works-3mf5)
+- [Keep the Regex Writer Until Shadow Receipts Match](https://dev.to/datago_8008/keep-the-regex-writer-until-shadow-receipts-match-432h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
