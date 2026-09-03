@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building an Agentic Warehouse Management System — Part 3: Tools, Decisions, and Actions](https://dev.to/mongodb/building-an-agentic-warehouse-management-system-part-3-tools-decisions-and-actions-203a)
-- [If the Shape Changed, the PR Failed: A Compatibility Checklist](https://dev.to/codecpp_5026/if-the-shape-changed-the-pr-failed-a-compatibility-checklist-lni)
-- [WebSocket engineering: connection management beyond the handshake](https://dev.to/turboline_ai_/websocket-engineering-connection-management-beyond-the-handshake-5bal)
-- [LLM-per-event cost in high-volume Kafka + Flink pipelines, and CEP as a filter](https://dev.to/turboline_ai_/llm-per-event-cost-in-high-volume-kafka-flink-pipelines-and-cep-as-a-filter-45c6)
-- [Building Kafka from scratch to understand how it works](https://dev.to/turboline_ai_/building-kafka-from-scratch-to-understand-how-it-works-3mf5)
-- [Keep the Regex Writer Until Shadow Receipts Match](https://dev.to/datago_8008/keep-the-regex-writer-until-shadow-receipts-match-432h)
+- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
+- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
+- [Benchmarking Serverless GPUs: Modal vs RunPod vs Replicate Cold Starts &lpar;2026&rpar;](https://dev.to/mrzitoun/benchmarking-serverless-gpus-modal-vs-runpod-vs-replicate-cold-starts-2026-a5c)
+- [Best 11 Places to Buy Old Naver Accounts &lpar;Verified &amp; ...](https://dev.to/farahchildsds099/best-11-places-to-buy-old-naver-accounts-verified--29dk)
+- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-39l8)
+- [How Long Does a Professional Load Test Engagement Take? &lpar;2026 Timeline Guide&rpar;](https://dev.to/pflb/how-long-does-a-professional-load-test-engagement-take-2026-timeline-guide-3h40)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
