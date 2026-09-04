@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
-- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
-- [Benchmarking Serverless GPUs: Modal vs RunPod vs Replicate Cold Starts &lpar;2026&rpar;](https://dev.to/mrzitoun/benchmarking-serverless-gpus-modal-vs-runpod-vs-replicate-cold-starts-2026-a5c)
-- [Best 11 Places to Buy Old Naver Accounts &lpar;Verified &amp; ...](https://dev.to/farahchildsds099/best-11-places-to-buy-old-naver-accounts-verified--29dk)
-- [Docker for Beginners: A Complete Practical Guide](https://dev.to/qingluan/docker-for-beginners-a-complete-practical-guide-39l8)
-- [How Long Does a Professional Load Test Engagement Take? &lpar;2026 Timeline Guide&rpar;](https://dev.to/pflb/how-long-does-a-professional-load-test-engagement-take-2026-timeline-guide-3h40)
+- [AliangBoard – A K8s dashboard I built while learning](https://dev.to/one_aliang_922a5f5728febd/aliangboard-a-k8s-dashboard-i-built-while-learning-2pmk)
+- [OSTaaS.cloud: Open Source Testing as a Service](https://dev.to/ostaas/ostaascloud-open-source-testing-as-a-service-37b9)
+- [Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written](https://dev.to/nasrulhazim/dev-log-3-september-2026-everything-i-fixed-today-was-already-written-1emi)
+- [nginx add_header Appends. It Doesn&#39;t Override — And That Can Remove Protection.](https://dev.to/nasrulhazim/nginx-addheader-appends-it-doesnt-override-and-that-can-remove-protection-54pf)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4jb6)
+- [Inside `JuliusBrussee/caveman`: A Leaner Claude Code Workflow](https://dev.to/james_lin/inside-juliusbrusseecaveman-a-leaner-claude-code-workflow-4hob)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
