@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Free compute worth claiming in September 2026](https://dev.to/billiem/free-compute-worth-claiming-in-september-2026-1hg0)
-- [Fixing Python Memory Leaks in Production – Step‑by‑Step Guide for Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-step-by-step-guide-for-developers-2fpk)
-- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h)
-- [Docker Security: Complete Guide](https://dev.to/cub4nh1/docker-security-complete-guide-1bce)
-- [Building Healthcare Apps People Trust](https://dev.to/vasundhra/building-healthcare-apps-people-trust-42hm)
-- [What the Best MCP Gateways Do in 2026](https://dev.to/kuldeep_paul/what-the-best-mcp-gateways-do-in-2026-2kli)
+- [10 Best Marketplaces to Buy Facebook Accounts In 2026](https://dev.to/karenparkinsonlk5co/10-best-marketplaces-to-buy-facebook-accounts-in-2026-1884)
+- [Scaling AI Surveillance to 400+ Sites: The DevOps Behind BetaVision](https://dev.to/jamal-gilani/scaling-ai-surveillance-to-400-sites-the-devops-behind-betavision-4l0d)
+- [Banking system C++](https://dev.to/ishiba/banking-system-c-ebo)
+- [5 Easy Ways to Buy Old Facebook Accounts Smartly end...](https://dev.to/karenparkinsonlk5co/5-easy-ways-to-buy-old-facebook-accounts-smartly-end-13a8)
+- [The Service Was Running for 48 Hours. Python Never Flushed a Single Line.](https://dev.to/codepy_1473/the-service-was-running-for-48-hours-python-never-flushed-a-single-line-1jom)
+- [Is That Free Box Isolated? A Runtime FAQ](https://dev.to/gitlab_3188/is-that-free-box-isolated-a-runtime-faq-5511)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
