@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AliangBoard – A K8s dashboard I built while learning](https://dev.to/one_aliang_922a5f5728febd/aliangboard-a-k8s-dashboard-i-built-while-learning-2pmk)
-- [OSTaaS.cloud: Open Source Testing as a Service](https://dev.to/ostaas/ostaascloud-open-source-testing-as-a-service-37b9)
-- [Dev Log: 3 September 2026 — Everything I Fixed Today Was Already Written](https://dev.to/nasrulhazim/dev-log-3-september-2026-everything-i-fixed-today-was-already-written-1emi)
-- [nginx add_header Appends. It Doesn&#39;t Override — And That Can Remove Protection.](https://dev.to/nasrulhazim/nginx-addheader-appends-it-doesnt-override-and-that-can-remove-protection-54pf)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4jb6)
-- [Inside `JuliusBrussee/caveman`: A Leaner Claude Code Workflow](https://dev.to/james_lin/inside-juliusbrusseecaveman-a-leaner-claude-code-workflow-4hob)
+- [Free compute worth claiming in September 2026](https://dev.to/billiem/free-compute-worth-claiming-in-september-2026-1hg0)
+- [Fixing Python Memory Leaks in Production – Step‑by‑Step Guide for Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-step-by-step-guide-for-developers-2fpk)
+- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h)
+- [Docker Security: Complete Guide](https://dev.to/cub4nh1/docker-security-complete-guide-1bce)
+- [Building Healthcare Apps People Trust](https://dev.to/vasundhra/building-healthcare-apps-people-trust-42hm)
+- [What the Best MCP Gateways Do in 2026](https://dev.to/kuldeep_paul/what-the-best-mcp-gateways-do-in-2026-2kli)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
