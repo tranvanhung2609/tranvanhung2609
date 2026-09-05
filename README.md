@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Git Merge Conflicts in CI/CD Pipelines – Proven Strategies for DevOps Engineers](https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-proven-strategies-for-devops-engineers-2l90)
-- [7 AWS Resources That Could Be Quietly Increasing Your Cloud Bill](https://dev.to/demarkolittle/7-aws-resources-that-could-be-quietly-increasing-your-cloud-bill-4j1f)
-- [Unknown Is Not Failed: Four Bugs Where My Control Plane Claimed to Know Something It Didn&#39;t](https://dev.to/nasrulhazim/unknown-is-not-failed-four-bugs-where-my-control-plane-claimed-to-know-something-it-didnt-gnm)
-- [Binance Chain API: BNB Smart Chain RPC Endpoints Guide](https://dev.to/onfinality/binance-chain-api-bnb-smart-chain-rpc-endpoints-guide-2494)
-- [Beyond Working Code: My Growth Through the Meta x MLH Production Engineering Fellowship](https://dev.to/gchangamire/beyond-working-code-my-growth-through-the-meta-x-mlh-production-engineering-fellowship-22l0)
-- [BNB Smart Chain RPC Endpoint: Chain Settings &amp; Debugging](https://dev.to/onfinality/bnb-smart-chain-rpc-endpoint-chain-settings-debugging-35mn)
+- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9)
+- [Unattended UEFI installs on no-IPMI boxes: the grub-efi gap and the reboot trap](https://dev.to/vainamoinen/unattended-uefi-installs-on-no-ipmi-boxes-the-grub-efi-gap-and-the-reboot-trap-358j)
+- [IaC além do Terraform - testando infraestrutura como código](https://dev.to/apsis-cc/iac-alem-do-terraform-testando-infraestrutura-como-codigo-3o5l)
+- [Deploying a Full-Stack Production Application on AWS How-To-Guide](https://dev.to/israeltheory/deploying-a-full-stack-production-application-on-aws-how-to-guide-49mh)
+- [A coding assistant drafted my Nginx config. Here’s what I still had to verify](https://dev.to/aardnsyhs/a-coding-assistant-drafted-my-nginx-config-heres-what-i-still-had-to-verify-2e4j)
+- [badblocks dies instantly on 8TB+ drives — the -b 4096 fix](https://dev.to/vainamoinen/badblocks-dies-instantly-on-8tb-drives-the-b-4096-fix-dg6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
