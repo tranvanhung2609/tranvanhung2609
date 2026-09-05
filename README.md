@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The watchdog that got its own leash](https://dev.to/oroborolabs/the-watchdog-that-got-its-own-leash-4ddc)
-- [How I Cleaned Up 247 Stale Feature Flags With Claude Code](https://dev.to/yureki_lab/how-i-cleaned-up-247-stale-feature-flags-with-claude-code-39jg)
-- [Your Linux Server Has 65,000 Ports. How Many Are Actually Exposed?](https://dev.to/asepsayyad007/your-linux-server-has-65000-ports-how-many-are-actually-exposed-517k)
-- [The Waiting Class Nobody Audits](https://dev.to/oroborolabs/the-waiting-class-nobody-audits-4dkj)
-- [AWS &amp; SRE Field Manual &lpar;Part 7&rpar;: Amazon RDS Deep Dive: Architecture and High Availability](https://dev.to/enesguler/aws-sre-filed-part-7-amazon-rds-deep-dive-architecture-and-high-availability-421n)
-- [From AI Models to Real AI Systems: What I’m Learning as a Final-Year AI Student](https://dev.to/ibrahim-ai-dev/from-ai-models-to-real-ai-systems-what-im-learning-as-a-final-year-ai-student-1jgh)
+- [Consistent](https://dev.to/urdevops24/consistent-5cnp)
+- [48-Hour Field Notes: Unit Tests That Grew a Network](https://dev.to/devpro_9167/48-hour-field-notes-unit-tests-that-grew-a-network-2pil)
+- [The publisher that only knew one guard](https://dev.to/oroborolabs/the-publisher-that-only-knew-one-guard-1418)
+- [I Tailed worker.log for 48 Hours. The File Had Opened Under a Different cwd.](https://dev.to/codepy_1473/i-tailed-workerlog-for-48-hours-the-file-had-opened-under-a-different-cwd-181i)
+- [A Receipt for Every Agent Patch: Seeds, Digests, and a Freeze File](https://dev.to/datacpp_8185/a-receipt-for-every-agent-patch-seeds-digests-and-a-freeze-file-3h52)
+- [Why Multi-Agent AI Pipelines Need Incremental Builds](https://dev.to/arjun_shukla_dev/why-multi-agent-ai-pipelines-need-incremental-builds-3l0e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
