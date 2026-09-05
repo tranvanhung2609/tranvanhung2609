@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I trained my AI agent to burn less money. Here&#39;s what actually worked.](https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn)
-- [I Threw the Box Away. The Damage Was Already Done.](https://dev.to/the_leon_odor/i-threw-the-box-away-the-damage-was-already-done-43gi)
-- [Nginx + Python: The Perfect Production Setup](https://dev.to/qingluan/nginx-python-the-perfect-production-setup-439h)
-- [How to Deploy Your Python App on a $5/Month Server](https://dev.to/qingluan/how-to-deploy-your-python-app-on-a-5month-server-3nho)
-- [Stop Making Every Backend Request Synchronous: Event-Driven Architecture in 2026](https://dev.to/subhadipjana95/stop-making-every-backend-request-synchronous-event-driven-architecture-in-2026-dkb)
-- [Complete Guide On Buying Verified PayPal Account Online](https://dev.to/oldgmail01/complete-guide-on-buying-verified-paypal-account-online-439)
+- [How to Fix Git Merge Conflicts in CI/CD Pipelines – Proven Strategies for DevOps Engineers](https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-git-merge-conflicts-in-cicd-pipelines-proven-strategies-for-devops-engineers-2l90)
+- [7 AWS Resources That Could Be Quietly Increasing Your Cloud Bill](https://dev.to/demarkolittle/7-aws-resources-that-could-be-quietly-increasing-your-cloud-bill-4j1f)
+- [Unknown Is Not Failed: Four Bugs Where My Control Plane Claimed to Know Something It Didn&#39;t](https://dev.to/nasrulhazim/unknown-is-not-failed-four-bugs-where-my-control-plane-claimed-to-know-something-it-didnt-gnm)
+- [Binance Chain API: BNB Smart Chain RPC Endpoints Guide](https://dev.to/onfinality/binance-chain-api-bnb-smart-chain-rpc-endpoints-guide-2494)
+- [Beyond Working Code: My Growth Through the Meta x MLH Production Engineering Fellowship](https://dev.to/gchangamire/beyond-working-code-my-growth-through-the-meta-x-mlh-production-engineering-fellowship-22l0)
+- [BNB Smart Chain RPC Endpoint: Chain Settings &amp; Debugging](https://dev.to/onfinality/bnb-smart-chain-rpc-endpoint-chain-settings-debugging-35mn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
