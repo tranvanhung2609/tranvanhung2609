@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9)
-- [Unattended UEFI installs on no-IPMI boxes: the grub-efi gap and the reboot trap](https://dev.to/vainamoinen/unattended-uefi-installs-on-no-ipmi-boxes-the-grub-efi-gap-and-the-reboot-trap-358j)
-- [IaC além do Terraform - testando infraestrutura como código](https://dev.to/apsis-cc/iac-alem-do-terraform-testando-infraestrutura-como-codigo-3o5l)
-- [Deploying a Full-Stack Production Application on AWS How-To-Guide](https://dev.to/israeltheory/deploying-a-full-stack-production-application-on-aws-how-to-guide-49mh)
-- [A coding assistant drafted my Nginx config. Here’s what I still had to verify](https://dev.to/aardnsyhs/a-coding-assistant-drafted-my-nginx-config-heres-what-i-still-had-to-verify-2e4j)
-- [badblocks dies instantly on 8TB+ drives — the -b 4096 fix](https://dev.to/vainamoinen/badblocks-dies-instantly-on-8tb-drives-the-b-4096-fix-dg6)
+- [The watchdog that got its own leash](https://dev.to/oroborolabs/the-watchdog-that-got-its-own-leash-4ddc)
+- [How I Cleaned Up 247 Stale Feature Flags With Claude Code](https://dev.to/yureki_lab/how-i-cleaned-up-247-stale-feature-flags-with-claude-code-39jg)
+- [Your Linux Server Has 65,000 Ports. How Many Are Actually Exposed?](https://dev.to/asepsayyad007/your-linux-server-has-65000-ports-how-many-are-actually-exposed-517k)
+- [The Waiting Class Nobody Audits](https://dev.to/oroborolabs/the-waiting-class-nobody-audits-4dkj)
+- [AWS &amp; SRE Field Manual &lpar;Part 7&rpar;: Amazon RDS Deep Dive: Architecture and High Availability](https://dev.to/enesguler/aws-sre-filed-part-7-amazon-rds-deep-dive-architecture-and-high-availability-421n)
+- [From AI Models to Real AI Systems: What I’m Learning as a Final-Year AI Student](https://dev.to/ibrahim-ai-dev/from-ai-models-to-real-ai-systems-what-im-learning-as-a-final-year-ai-student-1jgh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
