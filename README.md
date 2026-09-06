@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Consistent](https://dev.to/urdevops24/consistent-5cnp)
-- [48-Hour Field Notes: Unit Tests That Grew a Network](https://dev.to/devpro_9167/48-hour-field-notes-unit-tests-that-grew-a-network-2pil)
-- [The publisher that only knew one guard](https://dev.to/oroborolabs/the-publisher-that-only-knew-one-guard-1418)
-- [I Tailed worker.log for 48 Hours. The File Had Opened Under a Different cwd.](https://dev.to/codepy_1473/i-tailed-workerlog-for-48-hours-the-file-had-opened-under-a-different-cwd-181i)
-- [A Receipt for Every Agent Patch: Seeds, Digests, and a Freeze File](https://dev.to/datacpp_8185/a-receipt-for-every-agent-patch-seeds-digests-and-a-freeze-file-3h52)
-- [Why Multi-Agent AI Pipelines Need Incremental Builds](https://dev.to/arjun_shukla_dev/why-multi-agent-ai-pipelines-need-incremental-builds-3l0e)
+- [Four Env Vars and No Foreign Key: What It Means to Actually Attach a Resource](https://dev.to/nasrulhazim/four-env-vars-and-no-foreign-key-what-it-means-to-actually-attach-a-resource-2mf9)
+- [Fast Fix for CORS Errors in Node.js: Step-by-Step Guide for Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/fast-fix-for-cors-errors-in-nodejs-step-by-step-guide-for-developers-1lni)
+- [Your Hook Is Configured Correctly and Never Runs](https://dev.to/quintetkit/your-hook-is-configured-correctly-and-never-runs-58l8)
+- [Tối ưu Docker Compose PostgreSQL và Redis cho laptop mỏng nhẹ](https://dev.to/hungphatlaptop/toi-uu-docker-compose-postgresql-va-redis-cho-laptop-mong-nhe-5cld)
+- [BNB Chain Node: Run vs. Managed RPC for Production](https://dev.to/onfinality/bnb-chain-node-run-vs-managed-rpc-for-production-5ejg)
+- [Add BNB Smart Chain Testnet to MetaMask: Chain Settings &amp; RPC](https://dev.to/onfinality/add-bnb-smart-chain-testnet-to-metamask-chain-settings-rpc-5g8g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
