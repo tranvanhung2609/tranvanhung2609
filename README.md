@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Cost Engineering: How Enterprises Optimize AI Infrastructure Cleanly](https://dev.to/biztechpulsehub/genai-cost-engineering-how-enterprises-optimize-ai-infrastructure-cleanly-47l3)
-- [Why It’s Time to Stop Self-Hosting SFTP &lpar;And What to Use Instead&rpar;](https://dev.to/danecommercial/why-its-time-to-stop-self-hosting-sftp-and-what-to-use-instead-4efd)
-- [Message Queues: The Simple Explanation](https://dev.to/dev_oza/message-queues-the-simple-explanation-302i)
-- [npm Trusted Publishing fails with a 404, and the 404 is lying to you](https://dev.to/sirinivask/npm-trusted-publishing-fails-with-a-404-and-the-404-is-lying-to-you-3b7i)
-- [Why Legacy Website Monitoring is Broken &lpar;and How We Rebuilt It for Developers&rpar;](https://dev.to/danecommercial/why-legacy-website-monitoring-is-broken-and-how-we-rebuilt-it-for-developers-3bae)
-- [Why Legacy Website Monitoring is Broken &lpar;and How We Rebuilt It for Developers&rpar;](https://dev.to/danecommercial/why-legacy-website-monitoring-is-broken-and-how-we-rebuilt-it-for-developers-3bae)
+- [🛡️ IMDSv1 vs IMDSv2 en EC2: SSRF, métricas, riesgos y una migración segura](https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62)
+- [Building an eSIM Provisioning Flow, From Order to Installed Profile](https://dev.to/p3nt_55db490b33574db3c3e3/h-22kn)
+- [Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)
+- [The 2027 Career Fork: Navigating the Split of First-Line Engineering Management into AI Managers and Technical Staff](https://dev.to/isuvo/the-2027-career-fork-navigating-the-split-of-first-line-engineering-management-into-ai-managers-1ge5)
+- [What 8,000 conversions a day taught me about proxy rotation](https://dev.to/elvin-dev/what-8000-conversions-a-day-taught-me-about-proxy-rotation-emh)
+- [Your zero-downtime deploy is probably fine. Check your p99 before you believe it.](https://dev.to/remdore/your-zero-downtime-deploy-is-probably-fine-check-your-p99-before-you-believe-it-46g2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
