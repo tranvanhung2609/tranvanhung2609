@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Security: Sandboxing LLM Tool Calls in Production](https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-21bl)
-- [Two scale errors in Life-Race-V2 multiplied into one visible problem](https://dev.to/robswierk/two-scale-errors-in-life-race-v2-multiplied-into-one-visible-problem-3od8)
-- [A practical way to turn website changes into operational decisions](https://dev.to/nimbliquestudio/a-practical-way-to-turn-website-changes-into-operational-decisions-d5d)
-- [Why Most Cold Emails Land in Spam: The 4 DNS Authentication Layers Required for 10/10 InBox](https://dev.to/alex_apex/why-most-cold-emails-land-in-spam-the-4-dns-authentication-layers-required-for-1010-inbox-2e2p)
-- [Case Study: How an Agency Fixed Google Workspace Bans and Reached 10/10 InBox on Instantly.ai](https://dev.to/alex_apex/case-study-how-an-agency-fixed-google-workspace-bans-and-reached-1010-inbox-on-instantlyai-494f)
-- [Change detection needs a decision trail, not just a diff](https://dev.to/nimbliquestudio/change-detection-needs-a-decision-trail-not-just-a-diff-7md)
+- [GenAI Cost Engineering: How Enterprises Optimize AI Infrastructure Cleanly](https://dev.to/biztechpulsehub/genai-cost-engineering-how-enterprises-optimize-ai-infrastructure-cleanly-47l3)
+- [Why It’s Time to Stop Self-Hosting SFTP &lpar;And What to Use Instead&rpar;](https://dev.to/danecommercial/why-its-time-to-stop-self-hosting-sftp-and-what-to-use-instead-4efd)
+- [Message Queues: The Simple Explanation](https://dev.to/dev_oza/message-queues-the-simple-explanation-302i)
+- [npm Trusted Publishing fails with a 404, and the 404 is lying to you](https://dev.to/sirinivask/npm-trusted-publishing-fails-with-a-404-and-the-404-is-lying-to-you-3b7i)
+- [Why Legacy Website Monitoring is Broken &lpar;and How We Rebuilt It for Developers&rpar;](https://dev.to/danecommercial/why-legacy-website-monitoring-is-broken-and-how-we-rebuilt-it-for-developers-3bae)
+- [Why Legacy Website Monitoring is Broken &lpar;and How We Rebuilt It for Developers&rpar;](https://dev.to/danecommercial/why-legacy-website-monitoring-is-broken-and-how-we-rebuilt-it-for-developers-3bae)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
