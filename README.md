@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Four Env Vars and No Foreign Key: What It Means to Actually Attach a Resource](https://dev.to/nasrulhazim/four-env-vars-and-no-foreign-key-what-it-means-to-actually-attach-a-resource-2mf9)
-- [Fast Fix for CORS Errors in Node.js: Step-by-Step Guide for Developers](https://dev.to/deep_fix_71a17f6aa38ff28a/fast-fix-for-cors-errors-in-nodejs-step-by-step-guide-for-developers-1lni)
-- [Your Hook Is Configured Correctly and Never Runs](https://dev.to/quintetkit/your-hook-is-configured-correctly-and-never-runs-58l8)
-- [Tối ưu Docker Compose PostgreSQL và Redis cho laptop mỏng nhẹ](https://dev.to/hungphatlaptop/toi-uu-docker-compose-postgresql-va-redis-cho-laptop-mong-nhe-5cld)
-- [BNB Chain Node: Run vs. Managed RPC for Production](https://dev.to/onfinality/bnb-chain-node-run-vs-managed-rpc-for-production-5ejg)
-- [Add BNB Smart Chain Testnet to MetaMask: Chain Settings &amp; RPC](https://dev.to/onfinality/add-bnb-smart-chain-testnet-to-metamask-chain-settings-rpc-5g8g)
+- [Agentic AI Security: Sandboxing LLM Tool Calls in Production](https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-21bl)
+- [Two scale errors in Life-Race-V2 multiplied into one visible problem](https://dev.to/robswierk/two-scale-errors-in-life-race-v2-multiplied-into-one-visible-problem-3od8)
+- [A practical way to turn website changes into operational decisions](https://dev.to/nimbliquestudio/a-practical-way-to-turn-website-changes-into-operational-decisions-d5d)
+- [Why Most Cold Emails Land in Spam: The 4 DNS Authentication Layers Required for 10/10 InBox](https://dev.to/alex_apex/why-most-cold-emails-land-in-spam-the-4-dns-authentication-layers-required-for-1010-inbox-2e2p)
+- [Case Study: How an Agency Fixed Google Workspace Bans and Reached 10/10 InBox on Instantly.ai](https://dev.to/alex_apex/case-study-how-an-agency-fixed-google-workspace-bans-and-reached-1010-inbox-on-instantlyai-494f)
+- [Change detection needs a decision trail, not just a diff](https://dev.to/nimbliquestudio/change-detection-needs-a-decision-trail-not-just-a-diff-7md)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
