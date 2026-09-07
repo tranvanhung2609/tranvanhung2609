@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4o0n)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4o0n)
-- [Fix Git Merge Conflicts in CI/CD Pipelines – Automated Solutions for Faster Deployments](https://dev.to/deep_fix_71a17f6aa38ff28a/fix-git-merge-conflicts-in-cicd-pipelines-automated-solutions-for-faster-deployments-3amk)
-- [How to Use Terraform with Python for Infrastructure](https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-k37)
-- [Self-Hosting Services at Home with Docker](https://dev.to/adilaidev/self-hosting-services-at-home-with-docker-9p0)
-- [Designing reliable appointment confirmations with Google Calendar and WhatsApp](https://dev.to/luis-montoya/designing-reliable-appointment-confirmations-with-google-calendar-and-whatsapp-24fg)
+- [AgentOps Bundle for Apify Builders — QA, cost, firewall, repair](https://dev.to/nimbliquestudio/agentops-bundle-for-apify-builders-qa-cost-firewall-repair-36lp)
+- [Data Sharing between Threads](https://dev.to/ankitdevcode/data-sharing-between-threads-1kdl)
+- [Corporate Training Courses with Practical Learning Sessions](https://dev.to/kalyan_visualpath_42cb693/corporate-training-courses-with-practical-learning-sessions-3jf4)
+- [Strategy Pattern em Java: Como Tornar Pagamentos Mais Flexíveis e Extensíveis](https://dev.to/grazielly_santos/strategy-pattern-em-java-como-tornar-pagamentos-mais-flexiveis-e-extensiveis-2m54)
+- [Strategy Pattern em Java: Como Tornar Pagamentos Mais Flexíveis e Extensíveis](https://dev.to/grazielly_santos/strategy-pattern-em-java-como-tornar-pagamentos-mais-flexiveis-e-extensiveis-2m54)
+- [Model IDs are a dependency. Pin them like one.](https://dev.to/seven7763/model-ids-are-a-dependency-pin-them-like-one-2gcc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
