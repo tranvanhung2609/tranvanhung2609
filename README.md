@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AgentOps Bundle for Apify Builders — QA, cost, firewall, repair](https://dev.to/nimbliquestudio/agentops-bundle-for-apify-builders-qa-cost-firewall-repair-36lp)
-- [Data Sharing between Threads](https://dev.to/ankitdevcode/data-sharing-between-threads-1kdl)
-- [Corporate Training Courses with Practical Learning Sessions](https://dev.to/kalyan_visualpath_42cb693/corporate-training-courses-with-practical-learning-sessions-3jf4)
-- [Strategy Pattern em Java: Como Tornar Pagamentos Mais Flexíveis e Extensíveis](https://dev.to/grazielly_santos/strategy-pattern-em-java-como-tornar-pagamentos-mais-flexiveis-e-extensiveis-2m54)
-- [Strategy Pattern em Java: Como Tornar Pagamentos Mais Flexíveis e Extensíveis](https://dev.to/grazielly_santos/strategy-pattern-em-java-como-tornar-pagamentos-mais-flexiveis-e-extensiveis-2m54)
-- [Model IDs are a dependency. Pin them like one.](https://dev.to/seven7763/model-ids-are-a-dependency-pin-them-like-one-2gcc)
+- [Transactional Email APIs in 2026: The Same 50,000 Sends Cost $5 or $66](https://dev.to/moksh/transactional-email-apis-in-2026-the-same-50000-sends-cost-5-or-66-47eh)
+- [Your Recovery Path Is Your Real Login](https://dev.to/adev3loper/your-recovery-path-is-your-real-login-575a)
+- [SQL Window Functions Explained](https://dev.to/opaul/sql-window-functions-explained-with-real-data-5eo6)
+- [Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models](https://dev.to/rasne/introducing-context-aware-vulnerability-discovery-and-remediation-with-cloudflare-managed-defense-10db)
+- [How I Structured a 23-Module Execution Plan to Master Backend Engineering](https://dev.to/danbaba1/how-i-structured-a-23-module-execution-plan-to-master-backend-engineering-5djc)
+- [Handling vulnerability reports: Recipe card](https://dev.to/rasne/handling-vulnerability-reports-recipe-card-37f2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
