@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ IMDSv1 vs IMDSv2 en EC2: SSRF, métricas, riesgos y una migración segura](https://dev.to/terry_cloud/imdsv1-vs-imdsv2-en-ec2-ssrf-metricas-riesgos-y-una-migracion-segura-4j62)
-- [Building an eSIM Provisioning Flow, From Order to Installed Profile](https://dev.to/p3nt_55db490b33574db3c3e3/h-22kn)
-- [Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)
-- [The 2027 Career Fork: Navigating the Split of First-Line Engineering Management into AI Managers and Technical Staff](https://dev.to/isuvo/the-2027-career-fork-navigating-the-split-of-first-line-engineering-management-into-ai-managers-1ge5)
-- [What 8,000 conversions a day taught me about proxy rotation](https://dev.to/elvin-dev/what-8000-conversions-a-day-taught-me-about-proxy-rotation-emh)
-- [Your zero-downtime deploy is probably fine. Check your p99 before you believe it.](https://dev.to/remdore/your-zero-downtime-deploy-is-probably-fine-check-your-p99-before-you-believe-it-46g2)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4o0n)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-4o0n)
+- [Fix Git Merge Conflicts in CI/CD Pipelines – Automated Solutions for Faster Deployments](https://dev.to/deep_fix_71a17f6aa38ff28a/fix-git-merge-conflicts-in-cicd-pipelines-automated-solutions-for-faster-deployments-3amk)
+- [How to Use Terraform with Python for Infrastructure](https://dev.to/qingluan/how-to-use-terraform-with-python-for-infrastructure-k37)
+- [Self-Hosting Services at Home with Docker](https://dev.to/adilaidev/self-hosting-services-at-home-with-docker-9p0)
+- [Designing reliable appointment confirmations with Google Calendar and WhatsApp](https://dev.to/luis-montoya/designing-reliable-appointment-confirmations-with-google-calendar-and-whatsapp-24fg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
