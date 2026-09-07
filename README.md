@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Transactional Email APIs in 2026: The Same 50,000 Sends Cost $5 or $66](https://dev.to/moksh/transactional-email-apis-in-2026-the-same-50000-sends-cost-5-or-66-47eh)
-- [Your Recovery Path Is Your Real Login](https://dev.to/adev3loper/your-recovery-path-is-your-real-login-575a)
-- [SQL Window Functions Explained](https://dev.to/opaul/sql-window-functions-explained-with-real-data-5eo6)
-- [Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models](https://dev.to/rasne/introducing-context-aware-vulnerability-discovery-and-remediation-with-cloudflare-managed-defense-10db)
-- [How I Structured a 23-Module Execution Plan to Master Backend Engineering](https://dev.to/danbaba1/how-i-structured-a-23-module-execution-plan-to-master-backend-engineering-5djc)
-- [Handling vulnerability reports: Recipe card](https://dev.to/rasne/handling-vulnerability-reports-recipe-card-37f2)
+- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef)
+- [How I Built a Server Health-Check &amp; Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4)
+- [What CAPTCHA solving actually costs &lpar;the line items nobody prints&rpar;](https://dev.to/peakfodev/what-captcha-solving-actually-costs-the-line-items-nobody-prints-9mb)
+- [Fixing Python Memory Leaks in Production – Proven Strategies &amp; Tools](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-k7f)
+- [The credential was live and dead at the same time, and the healthy half hid the other](https://dev.to/elenarevicheva/the-credential-was-live-and-dead-at-the-same-time-and-the-healthy-half-hid-the-other-4b4p)
+- [A product page built from its own AI film studio, and the prompts that kept being obeyed exactly](https://dev.to/elenarevicheva/a-product-page-built-from-its-own-ai-film-studio-and-the-prompts-that-kept-being-obeyed-exactly-4mdi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
