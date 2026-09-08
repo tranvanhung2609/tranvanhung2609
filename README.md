@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Budget Alert Won&#39;t Save You: Building a Real Cloud Spend Circuit Breaker](https://dev.to/syed_anzar/your-budget-alert-wont-save-you-building-a-real-cloud-spend-circuit-breaker-b3b)
-- [Your Budget Alert Won&#39;t Save You: Building a Real Cloud Spend Circuit Breaker](https://dev.to/syed_anzar/your-budget-alert-wont-save-you-building-a-real-cloud-spend-circuit-breaker-5cca)
-- [Node.js Kafka client tooling and the kafkajs maintenance gap](https://dev.to/turboline_ai_/nodejs-kafka-client-tooling-and-the-kafkajs-maintenance-gap-5a0o)
-- [DeFi smart contract vulnerabilities and the real-time data blind spot in audits](https://dev.to/turboline_ai_/defi-smart-contract-vulnerabilities-and-the-real-time-data-blind-spot-in-audits-31a2)
-- [Event-driven architecture without Kafka for small teams](https://dev.to/turboline_ai_/event-driven-architecture-without-kafka-for-small-teams-fk2)
-- [Our status page froze for four days because the CI minutes ran out](https://dev.to/haruodev/our-status-page-froze-for-four-days-because-the-ci-minutes-ran-out-1m37)
+- [2FA Login SMS OTP APIs: 6 Reliability Controls for App Builders](https://dev.to/magnusnilsson2124/2fa-login-sms-otp-apis-6-reliability-controls-for-app-builders-3d90)
+- [Benchmarking Edge Runtimes: Cloudflare Pages vs Traditional Node.js Serverless Cold Starts](https://dev.to/kholipha_ahmmad_al_amin/benchmarking-edge-runtimes-cloudflare-pages-vs-traditional-nodejs-serverless-cold-starts-3hdj)
+- [Bypassing Google Crawl Queues: Implementing IndexNow and Google Indexing API on Deployment](https://dev.to/kholipha_ahmmad_al_amin/bypassing-google-crawl-queues-implementing-indexnow-and-google-indexing-api-on-deployment-23i7)
+- [Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices](https://dev.to/kholipha_ahmmad_al_amin/docker-multi-stage-builds-and-automated-cicd-for-cloud-run-microservices-56e2)
+- [PostgreSQL Schema Design for Multi-Branch Retail Inventory and Financial Auditing](https://dev.to/kholipha_ahmmad_al_amin/postgresql-schema-design-for-multi-branch-retail-inventory-and-financial-auditing-2ac4)
+- [Architecting for Sub-Second Performance: Engineering All-in-One Digital Platforms](https://dev.to/kholipha_ahmmad_al_amin/architecting-for-sub-second-performance-engineering-all-in-one-digital-platforms-59cg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
