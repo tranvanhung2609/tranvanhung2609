@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef)
-- [How I Built a Server Health-Check &amp; Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4)
-- [What CAPTCHA solving actually costs &lpar;the line items nobody prints&rpar;](https://dev.to/peakfodev/what-captcha-solving-actually-costs-the-line-items-nobody-prints-9mb)
-- [Fixing Python Memory Leaks in Production – Proven Strategies &amp; Tools](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-k7f)
-- [The credential was live and dead at the same time, and the healthy half hid the other](https://dev.to/elenarevicheva/the-credential-was-live-and-dead-at-the-same-time-and-the-healthy-half-hid-the-other-4b4p)
-- [A product page built from its own AI film studio, and the prompts that kept being obeyed exactly](https://dev.to/elenarevicheva/a-product-page-built-from-its-own-ai-film-studio-and-the-prompts-that-kept-being-obeyed-exactly-4mdi)
+- [Password-Protected Customer PDF Endpoints Explained: Node.js SaaS Fidelity, Latency 2026](https://dev.to/eliasfischer8351/password-protected-customer-pdf-endpoints-explained-nodejs-saas-fidelity-latency-2026-53bo)
+- [Fintech Asset Delivery: 5 Node.js Ways to Watermark and Convert by Audience](https://dev.to/mt41vb6/fintech-asset-delivery-5-nodejs-ways-to-watermark-and-convert-by-audience-42b4)
+- [How Client Density, Access Point Placement, and Network Bottlenecks Slow Down Office Wi-Fi](https://dev.to/aboveinfranet-wendel/how-client-density-access-point-placement-and-network-bottlenecks-slow-down-office-wi-fi-7ah)
+- [Finished the Cloud Engineer Roadmap? Here&#39;s What to Learn Next &lpar;2026&rpar;](https://dev.to/ciphemic_academia_3dad1a0/finished-the-cloud-engineer-roadmap-heres-what-to-learn-next-2026-ohb)
+- [MCP Without the Boilerplate: Solon AI&#39;s Annotation-Driven Server and Self-Healing Client](https://dev.to/solonjava/mcp-without-the-boilerplate-solon-ais-annotation-driven-server-and-self-healing-client-hg9)
+- [Masking a JVM thread dump without breaking the analysis](https://dev.to/maschiojv/masking-a-jvm-thread-dump-without-breaking-the-analysis-c0b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
