@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [You can catch production failures on your laptop: probes, OOMKilled, and zero-downtime in k3d](https://dev.to/mtrnm/you-can-catch-production-failures-on-your-laptop-probes-oomkilled-and-zero-downtime-in-k3d-51l7)
-- [Is your database slowing down your VPS performance? One quick tip: review slow queries regularly](https://dev.to/monovm/is-your-database-slowing-down-your-vps-performance-one-quick-tip-review-slow-queries-regularly-1c0i)
-- [Is your database slowing down your VPS performance? One quick tip: review slow queries regularly](https://dev.to/monovm/is-your-database-slowing-down-your-vps-performance-one-quick-tip-review-slow-queries-regularly-1c0i)
-- [How to Choose a Reddit Ads Agency for B2B SaaS &lpar;2026 Guide&rpar;](https://dev.to/mayur_rathore_b735983a686/how-to-choose-a-reddit-ads-agency-for-b2b-saas-2026-guide-1150)
-- [The Wheel Installed Cleanly. A Same-Named Folder Still Won the Import.](https://dev.to/codepy_1473/the-wheel-installed-cleanly-a-same-named-folder-still-won-the-import-pgg)
-- [Fixing Python Memory Leaks in Production: Proven Strategies &amp; Tools](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-4g2e)
+- [Your Budget Alert Won&#39;t Save You: Building a Real Cloud Spend Circuit Breaker](https://dev.to/syed_anzar/your-budget-alert-wont-save-you-building-a-real-cloud-spend-circuit-breaker-b3b)
+- [Your Budget Alert Won&#39;t Save You: Building a Real Cloud Spend Circuit Breaker](https://dev.to/syed_anzar/your-budget-alert-wont-save-you-building-a-real-cloud-spend-circuit-breaker-5cca)
+- [Node.js Kafka client tooling and the kafkajs maintenance gap](https://dev.to/turboline_ai_/nodejs-kafka-client-tooling-and-the-kafkajs-maintenance-gap-5a0o)
+- [DeFi smart contract vulnerabilities and the real-time data blind spot in audits](https://dev.to/turboline_ai_/defi-smart-contract-vulnerabilities-and-the-real-time-data-blind-spot-in-audits-31a2)
+- [Event-driven architecture without Kafka for small teams](https://dev.to/turboline_ai_/event-driven-architecture-without-kafka-for-small-teams-fk2)
+- [Our status page froze for four days because the CI minutes ran out](https://dev.to/haruodev/our-status-page-froze-for-four-days-because-the-ci-minutes-ran-out-1m37)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
