@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Password-Protected Customer PDF Endpoints Explained: Node.js SaaS Fidelity, Latency 2026](https://dev.to/eliasfischer8351/password-protected-customer-pdf-endpoints-explained-nodejs-saas-fidelity-latency-2026-53bo)
-- [Fintech Asset Delivery: 5 Node.js Ways to Watermark and Convert by Audience](https://dev.to/mt41vb6/fintech-asset-delivery-5-nodejs-ways-to-watermark-and-convert-by-audience-42b4)
-- [How Client Density, Access Point Placement, and Network Bottlenecks Slow Down Office Wi-Fi](https://dev.to/aboveinfranet-wendel/how-client-density-access-point-placement-and-network-bottlenecks-slow-down-office-wi-fi-7ah)
-- [Finished the Cloud Engineer Roadmap? Here&#39;s What to Learn Next &lpar;2026&rpar;](https://dev.to/ciphemic_academia_3dad1a0/finished-the-cloud-engineer-roadmap-heres-what-to-learn-next-2026-ohb)
-- [MCP Without the Boilerplate: Solon AI&#39;s Annotation-Driven Server and Self-Healing Client](https://dev.to/solonjava/mcp-without-the-boilerplate-solon-ais-annotation-driven-server-and-self-healing-client-hg9)
-- [Masking a JVM thread dump without breaking the analysis](https://dev.to/maschiojv/masking-a-jvm-thread-dump-without-breaking-the-analysis-c0b)
+- [You can catch production failures on your laptop: probes, OOMKilled, and zero-downtime in k3d](https://dev.to/mtrnm/you-can-catch-production-failures-on-your-laptop-probes-oomkilled-and-zero-downtime-in-k3d-51l7)
+- [Is your database slowing down your VPS performance? One quick tip: review slow queries regularly](https://dev.to/monovm/is-your-database-slowing-down-your-vps-performance-one-quick-tip-review-slow-queries-regularly-1c0i)
+- [Is your database slowing down your VPS performance? One quick tip: review slow queries regularly](https://dev.to/monovm/is-your-database-slowing-down-your-vps-performance-one-quick-tip-review-slow-queries-regularly-1c0i)
+- [How to Choose a Reddit Ads Agency for B2B SaaS &lpar;2026 Guide&rpar;](https://dev.to/mayur_rathore_b735983a686/how-to-choose-a-reddit-ads-agency-for-b2b-saas-2026-guide-1150)
+- [The Wheel Installed Cleanly. A Same-Named Folder Still Won the Import.](https://dev.to/codepy_1473/the-wheel-installed-cleanly-a-same-named-folder-still-won-the-import-pgg)
+- [Fixing Python Memory Leaks in Production: Proven Strategies &amp; Tools](https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-4g2e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
