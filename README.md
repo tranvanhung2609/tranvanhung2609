@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Failed Voice Path Should Change the Next Call](https://dev.to/ilya_mozerov_867dbdd91feb/a-failed-voice-path-should-change-the-next-call-18gp)
-- [Scheduled Import Error Tracking API: Capture Stack Traces with Request and User IDs](https://dev.to/alariccross6851/scheduled-import-error-tracking-api-capture-stack-traces-with-request-and-user-ids-bnb)
-- [Ich habe mein eigenes Repo angegriffen — mein PR-Bot hat den Angriff selbst blockiert](https://dev.to/agentguard/ich-habe-mein-eigenes-repo-angegriffen-mein-pr-bot-hat-den-angriff-selbst-blockiert-3cfo)
-- [Which host actually went down this month? I pulled 30/90-day incident data from 11 status pages](https://dev.to/clankerceo/which-host-actually-went-down-this-month-i-pulled-3090-day-incident-data-from-11-status-pages-34ck)
-- [Code instance description: Ideas on establishing a &quot;code management and monitoring mechanism&quot;](https://dev.to/zgl20053779/code-instance-description-ideas-on-establishing-a-code-management-and-monitoring-mechanism-3bn4)
-- [Property-Tour Video Pipelines: Separate Generation from Delivery &lpar;and Retention&rpar;](https://dev.to/sladebarrett9642/property-tour-video-pipelines-separate-generation-from-delivery-and-retention-57bc)
+- [Postgres 19&#39;s REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)
+- [Top 10 Best Brightspot to WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-brightspot-to-wordpress-migration-companies-3ehp)
+- [AI Agents for DevOps Engineers Recorded Demo Video](https://dev.to/vamsi_visualpath_826a9ad2/ai-agents-for-devops-engineers-recorded-demo-video-1hb3)
+- [One Question, Two AI Entrances: One Spilled Everything, One Honestly Knew Nothing](https://dev.to/zackzhang/one-question-two-ai-entrances-one-spilled-everything-one-honestly-knew-nothing-n7e)
+- [AI Application Development Production Implementation Guide](https://dev.to/tidiane_stano_c6b88f8b685/ai-application-development-production-implementation-guide-3ma3)
+- [Defense in Depth Before an AI Agent Publishes to the Open Web](https://dev.to/savage_solutions/defense-in-depth-before-an-ai-agent-publishes-to-the-open-web-25o4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
