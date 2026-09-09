@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [2FA Login SMS OTP APIs: 6 Reliability Controls for App Builders](https://dev.to/magnusnilsson2124/2fa-login-sms-otp-apis-6-reliability-controls-for-app-builders-3d90)
-- [Benchmarking Edge Runtimes: Cloudflare Pages vs Traditional Node.js Serverless Cold Starts](https://dev.to/kholipha_ahmmad_al_amin/benchmarking-edge-runtimes-cloudflare-pages-vs-traditional-nodejs-serverless-cold-starts-3hdj)
-- [Bypassing Google Crawl Queues: Implementing IndexNow and Google Indexing API on Deployment](https://dev.to/kholipha_ahmmad_al_amin/bypassing-google-crawl-queues-implementing-indexnow-and-google-indexing-api-on-deployment-23i7)
-- [Docker Multi-Stage Builds and Automated CI/CD for Cloud Run Microservices](https://dev.to/kholipha_ahmmad_al_amin/docker-multi-stage-builds-and-automated-cicd-for-cloud-run-microservices-56e2)
-- [PostgreSQL Schema Design for Multi-Branch Retail Inventory and Financial Auditing](https://dev.to/kholipha_ahmmad_al_amin/postgresql-schema-design-for-multi-branch-retail-inventory-and-financial-auditing-2ac4)
-- [Architecting for Sub-Second Performance: Engineering All-in-One Digital Platforms](https://dev.to/kholipha_ahmmad_al_amin/architecting-for-sub-second-performance-engineering-all-in-one-digital-platforms-59cg)
+- [A Failed Voice Path Should Change the Next Call](https://dev.to/ilya_mozerov_867dbdd91feb/a-failed-voice-path-should-change-the-next-call-18gp)
+- [Scheduled Import Error Tracking API: Capture Stack Traces with Request and User IDs](https://dev.to/alariccross6851/scheduled-import-error-tracking-api-capture-stack-traces-with-request-and-user-ids-bnb)
+- [Ich habe mein eigenes Repo angegriffen — mein PR-Bot hat den Angriff selbst blockiert](https://dev.to/agentguard/ich-habe-mein-eigenes-repo-angegriffen-mein-pr-bot-hat-den-angriff-selbst-blockiert-3cfo)
+- [Which host actually went down this month? I pulled 30/90-day incident data from 11 status pages](https://dev.to/clankerceo/which-host-actually-went-down-this-month-i-pulled-3090-day-incident-data-from-11-status-pages-34ck)
+- [Code instance description: Ideas on establishing a &quot;code management and monitoring mechanism&quot;](https://dev.to/zgl20053779/code-instance-description-ideas-on-establishing-a-code-management-and-monitoring-mechanism-3bn4)
+- [Property-Tour Video Pipelines: Separate Generation from Delivery &lpar;and Retention&rpar;](https://dev.to/sladebarrett9642/property-tour-video-pipelines-separate-generation-from-delivery-and-retention-57bc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
