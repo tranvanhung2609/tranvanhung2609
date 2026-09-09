@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Permit Desk for Model Commands](https://dev.to/devgo_5325/a-permit-desk-for-model-commands-2n96)
-- [5 Ways of BUY TELEGRAM ACCOUNTS That Can Drive You Bankrupt — Fast!](https://dev.to/toponlineit824/5-ways-of-buy-telegram-accounts-that-can-drive-you-bankrupt-fast-4e4h)
-- [Stop Treating Free-Model LGTM as a Merge Gate](https://dev.to/hackjs_8688/stop-treating-free-model-lgtm-as-a-merge-gate-2bmm)
-- [Tailscale Kubernetes Operator 1.102: In-cluster Peer Relays, better IPv6, and optimized certificates](https://dev.to/rasne/tailscale-kubernetes-operator-1102-in-cluster-peer-relays-better-ipv6-and-optimized-certificates-1p2p)
-- [Reject Incident Debug On Free Capacity Before Queue Age Beats Page Slack](https://dev.to/odd_background_328/reject-incident-debug-on-free-capacity-before-queue-age-beats-page-slack-4eo0)
-- [Audit Agent File Reads Before a Remote Model Sees Your kubeconfig](https://dev.to/jaryn_123/audit-agent-file-reads-before-a-remote-model-sees-your-kubeconfig-4a3p)
+- [AI Agent Kill Switches: Why the Stop Button Is a Distributed Transaction](https://dev.to/waxell/ai-agent-kill-switches-why-the-stop-button-is-a-distributed-transaction-5ab5)
+- [AgentGuard Update: Open Core, Break-Glass Governance — and the First Real-World Finds](https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-and-the-first-real-world-finds-fnp)
+- [AgentGuard Update: Open Core, Break-Glass-Governance — und die ersten echten Funde](https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-und-die-ersten-echten-funde-2m10)
+- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
+- [Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)
+- [Cómo construir y desplegar un dashboard de datos con Streamlit, GitHub Actions y Streamlit Community Cloud](https://dev.to/jhonyvargas/como-construir-y-desplegar-un-dashboard-de-datos-con-streamlit-github-actions-y-streamlit-o6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
