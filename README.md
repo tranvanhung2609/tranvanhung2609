@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Postgres 19&#39;s REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)
-- [Top 10 Best Brightspot to WordPress Migration Companies](https://dev.to/oliverpitts/top-10-best-brightspot-to-wordpress-migration-companies-3ehp)
-- [AI Agents for DevOps Engineers Recorded Demo Video](https://dev.to/vamsi_visualpath_826a9ad2/ai-agents-for-devops-engineers-recorded-demo-video-1hb3)
-- [One Question, Two AI Entrances: One Spilled Everything, One Honestly Knew Nothing](https://dev.to/zackzhang/one-question-two-ai-entrances-one-spilled-everything-one-honestly-knew-nothing-n7e)
-- [AI Application Development Production Implementation Guide](https://dev.to/tidiane_stano_c6b88f8b685/ai-application-development-production-implementation-guide-3ma3)
-- [Defense in Depth Before an AI Agent Publishes to the Open Web](https://dev.to/savage_solutions/defense-in-depth-before-an-ai-agent-publishes-to-the-open-web-25o4)
+- [A Permit Desk for Model Commands](https://dev.to/devgo_5325/a-permit-desk-for-model-commands-2n96)
+- [5 Ways of BUY TELEGRAM ACCOUNTS That Can Drive You Bankrupt — Fast!](https://dev.to/toponlineit824/5-ways-of-buy-telegram-accounts-that-can-drive-you-bankrupt-fast-4e4h)
+- [Stop Treating Free-Model LGTM as a Merge Gate](https://dev.to/hackjs_8688/stop-treating-free-model-lgtm-as-a-merge-gate-2bmm)
+- [Tailscale Kubernetes Operator 1.102: In-cluster Peer Relays, better IPv6, and optimized certificates](https://dev.to/rasne/tailscale-kubernetes-operator-1102-in-cluster-peer-relays-better-ipv6-and-optimized-certificates-1p2p)
+- [Reject Incident Debug On Free Capacity Before Queue Age Beats Page Slack](https://dev.to/odd_background_328/reject-incident-debug-on-free-capacity-before-queue-age-beats-page-slack-4eo0)
+- [Audit Agent File Reads Before a Remote Model Sees Your kubeconfig](https://dev.to/jaryn_123/audit-agent-file-reads-before-a-remote-model-sees-your-kubeconfig-4a3p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
