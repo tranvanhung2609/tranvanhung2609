@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent can read your .env. Here&#39;s what we did about it.](https://dev.to/penvhq/your-coding-agent-can-read-your-env-heres-what-we-did-about-it-5go9)
-- [Buy Verified Nextdoor Accounts - Boost Local Engagement](https://dev.to/usasvcit43t5/buy-verified-nextdoor-accounts-boost-local-engagement-5h7g)
-- [Building explain-ci: The AI Was the Smallest Part](https://dev.to/gopalcnepal/building-explain-ci-the-ai-was-the-smallest-part-1n2h)
-- [GPU Preflight For Cron Agents](https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-3na6)
-- [Managing Distributed Transactions in Microservices: 2PC, Saga, Kafka](https://dev.to/mahadi_hasan_fa9afbbe0512/managing-distributed-transactions-in-microservices-2pc-saga-kafka-25n)
-- [Cloud Abstraction Tools: Potential Pitfalls and Strategies to Streamline DevOps Operations](https://dev.to/maricode/cloud-abstraction-tools-potential-pitfalls-and-strategies-to-streamline-devops-operations-1d6k)
+- [Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them](https://dev.to/lovestaco/down-is-kind-slow-is-fatal-circuit-breakers-and-the-three-links-around-them-3acn)
+- [Auditable Logistics Access: SMS OTP Send, Verify, Rate-Limit, and Cooldown Mechanics](https://dev.to/ulyssesdonovan1529/auditable-logistics-access-sms-otp-send-verify-rate-limit-and-cooldown-mechanics-2jh8)
+- [How to Validate 4 Video Generation Capabilities &lpar;Before Job Submission&rpar;](https://dev.to/cianwinslow371/how-to-validate-4-video-generation-capabilities-before-job-submission-2oip)
+- [A Green Schema Check Can Still Ship a Broken API Integration](https://dev.to/hope_bilgic_a2aa8388e830c/a-green-schema-check-can-still-ship-a-broken-api-integration-104g)
+- [A Green Schema Check Can Still Ship a Broken API Integration](https://dev.to/hope_bilgic_a2aa8388e830c/a-green-schema-check-can-still-ship-a-broken-api-integration-104g)
+- [Building an Enterprise GenAI Platform on OCI — Part 2: The Data Pipeline Nobody Talks About](https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
