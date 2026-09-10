@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Screenshot Intake Gates: Proving Metadata and Retention Before Support Handoff](https://dev.to/sladebarrett9642/screenshot-intake-gates-proving-metadata-and-retention-before-support-handoff-17g4)
-- [The Remote Job Printed Nothing for 48 Hours. stdout Had No TTY.](https://dev.to/codepy_1473/the-remote-job-printed-nothing-for-48-hours-stdout-had-no-tty-3kaf)
-- [I Built a Disaster Recovery Tool Because Row Counts Lied to Me](https://dev.to/achmad_dev/i-built-a-disaster-recovery-tool-because-row-counts-lied-to-me-4kj4)
-- [Database-per-Service is a Trap: Try Logical Schemas](https://dev.to/nainikmehta/database-per-service-is-a-trap-try-logical-schemas-2kkp)
-- [Preventing Upstream Model Outages from Stalling MoneyPrinterTurbo Video Jobs](https://dev.to/maoren/preventing-upstream-model-outages-from-stalling-moneyprinterturbo-video-jobs-4c9f)
-- [Mobile Maintenance Apps Transform Facility Operations](https://dev.to/julia_frost_0fb0aeda1cac5/mobile-maintenance-apps-transform-facility-operations-bjm)
+- [GitHub Actions triggers EAS builds when EXPO_TOKEN and non-interactive flags are set](https://dev.to/davekurian/github-actions-triggers-eas-builds-when-expotoken-and-non-interactive-flags-are-set-214n)
+- [Choosing between SLAAC and DHCPv6 for your IPv6 setup? One quick tip: SLAAC lets devices](https://dev.to/monovm/choosing-between-slaac-and-dhcpv6-for-your-ipv6-setup-one-quick-tip-slaac-lets-devices-4jhn)
+- [ERP Implementation Checklist for UAE Businesses: A Step-by-Step Guide to Successful ERP Deployment](https://dev.to/instalogic_ae/erp-implementation-checklist-for-uae-businesses-a-step-by-step-guide-to-successful-erp-deployment-1bmn)
+- [Best Corporate Training with Practical Learning Sessions](https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-practical-learning-sessions-2kmo)
+- [DelegatingHandler Magic: Build a Pipeline for Your HTTP Calls](https://dev.to/homolibere/delegatinghandler-magic-build-a-pipeline-for-your-http-calls-29nm)
+- [How our client saved $42,983 in 141 days](https://dev.to/idlefy/how-our-client-saved-42983-in-141-days-25nn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
