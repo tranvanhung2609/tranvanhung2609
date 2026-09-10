@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions triggers EAS builds when EXPO_TOKEN and non-interactive flags are set](https://dev.to/davekurian/github-actions-triggers-eas-builds-when-expotoken-and-non-interactive-flags-are-set-214n)
-- [Choosing between SLAAC and DHCPv6 for your IPv6 setup? One quick tip: SLAAC lets devices](https://dev.to/monovm/choosing-between-slaac-and-dhcpv6-for-your-ipv6-setup-one-quick-tip-slaac-lets-devices-4jhn)
-- [ERP Implementation Checklist for UAE Businesses: A Step-by-Step Guide to Successful ERP Deployment](https://dev.to/instalogic_ae/erp-implementation-checklist-for-uae-businesses-a-step-by-step-guide-to-successful-erp-deployment-1bmn)
-- [Best Corporate Training with Practical Learning Sessions](https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-practical-learning-sessions-2kmo)
-- [DelegatingHandler Magic: Build a Pipeline for Your HTTP Calls](https://dev.to/homolibere/delegatinghandler-magic-build-a-pipeline-for-your-http-calls-29nm)
-- [How our client saved $42,983 in 141 days](https://dev.to/idlefy/how-our-client-saved-42983-in-141-days-25nn)
+- [Your coding agent can read your .env. Here&#39;s what we did about it.](https://dev.to/penvhq/your-coding-agent-can-read-your-env-heres-what-we-did-about-it-5go9)
+- [Buy Verified Nextdoor Accounts - Boost Local Engagement](https://dev.to/usasvcit43t5/buy-verified-nextdoor-accounts-boost-local-engagement-5h7g)
+- [Building explain-ci: The AI Was the Smallest Part](https://dev.to/gopalcnepal/building-explain-ci-the-ai-was-the-smallest-part-1n2h)
+- [GPU Preflight For Cron Agents](https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-3na6)
+- [Managing Distributed Transactions in Microservices: 2PC, Saga, Kafka](https://dev.to/mahadi_hasan_fa9afbbe0512/managing-distributed-transactions-in-microservices-2pc-saga-kafka-25n)
+- [Cloud Abstraction Tools: Potential Pitfalls and Strategies to Streamline DevOps Operations](https://dev.to/maricode/cloud-abstraction-tools-potential-pitfalls-and-strategies-to-streamline-devops-operations-1d6k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
