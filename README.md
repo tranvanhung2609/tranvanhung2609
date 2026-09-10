@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Kill Switches: Why the Stop Button Is a Distributed Transaction](https://dev.to/waxell/ai-agent-kill-switches-why-the-stop-button-is-a-distributed-transaction-5ab5)
-- [AgentGuard Update: Open Core, Break-Glass Governance — and the First Real-World Finds](https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-and-the-first-real-world-finds-fnp)
-- [AgentGuard Update: Open Core, Break-Glass-Governance — und die ersten echten Funde](https://dev.to/agentguard/agentguard-update-open-core-break-glass-governance-und-die-ersten-echten-funde-2m10)
-- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
-- [Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)
-- [Cómo construir y desplegar un dashboard de datos con Streamlit, GitHub Actions y Streamlit Community Cloud](https://dev.to/jhonyvargas/como-construir-y-desplegar-un-dashboard-de-datos-con-streamlit-github-actions-y-streamlit-o6)
+- [Screenshot Intake Gates: Proving Metadata and Retention Before Support Handoff](https://dev.to/sladebarrett9642/screenshot-intake-gates-proving-metadata-and-retention-before-support-handoff-17g4)
+- [The Remote Job Printed Nothing for 48 Hours. stdout Had No TTY.](https://dev.to/codepy_1473/the-remote-job-printed-nothing-for-48-hours-stdout-had-no-tty-3kaf)
+- [I Built a Disaster Recovery Tool Because Row Counts Lied to Me](https://dev.to/achmad_dev/i-built-a-disaster-recovery-tool-because-row-counts-lied-to-me-4kj4)
+- [Database-per-Service is a Trap: Try Logical Schemas](https://dev.to/nainikmehta/database-per-service-is-a-trap-try-logical-schemas-2kkp)
+- [Preventing Upstream Model Outages from Stalling MoneyPrinterTurbo Video Jobs](https://dev.to/maoren/preventing-upstream-model-outages-from-stalling-moneyprinterturbo-video-jobs-4c9f)
+- [Mobile Maintenance Apps Transform Facility Operations](https://dev.to/julia_frost_0fb0aeda1cac5/mobile-maintenance-apps-transform-facility-operations-bjm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
