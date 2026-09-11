@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [5 workflows your small team should automate before it hires anyone](https://dev.to/hive80lab/5-workflows-your-small-team-should-automate-before-it-hires-anyone-50fh)
-- [Audit Trails for DevOps AI Agents: Attribute Every kubectl, AWS Call, and Commit to a Run and a Human](https://dev.to/devtocash/audit-trails-for-devops-ai-agents-attribute-every-kubectl-aws-call-and-commit-to-a-run-and-a-paa)
-- [Today&#39;s Let&#39;s Encrypt outage failed renewals for an hour. Here&#39;s the 30-minute playbook for when that&#39;s you.](https://dev.to/hive80lab/todays-lets-encrypt-outage-failed-renewals-for-an-hour-heres-the-30-minute-playbook-for-when-5gmk)
-- [API Security Best Practices Every Developer Should Know](https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk)
-- [5 Slack rituals that cut incident bridge time in half](https://dev.to/hive80lab/5-slack-rituals-that-cut-incident-bridge-time-in-half-ml2)
-- [Runbooks that actually get read: 6 rules from 4 failed handovers](https://dev.to/hive80lab/runbooks-that-actually-get-read-6-rules-from-4-failed-handovers-16dc)
+- [Offensive AI Just Became Real With Astra. Defensive AI Is the Only Thing That Scales to Meet It.](https://dev.to/muskan_bandta/offensive-ai-just-became-real-with-astra-defensive-ai-is-the-only-thing-that-scales-to-meet-it-1gnf)
+- [Savings Plans vs Reserved Instances in 2026: The Rules We Actually Use](https://dev.to/muskan_bandta/savings-plans-vs-reserved-instances-in-2026-the-rules-we-actually-use-1c27)
+- [Middleware Development Services: Designing an Integration Layer That Scales](https://dev.to/mahir_amaan_0f5bfc60bb9b7/middleware-development-services-designing-an-integration-layer-that-scales-2lpl)
+- [Best Shopify Subscription Apps 2026, and Exactly Where Each One Breaks](https://dev.to/codingkart/best-shopify-subscription-apps-2026-and-exactly-where-each-one-breaks-592f)
+- [Your domain is the one asset you can&#39;t reissue: the expiry &amp; hijack checklist](https://dev.to/hive80lab/your-domain-is-the-one-asset-you-cant-reissue-the-expiry-hijack-checklist-348h)
+- [Self-Hosted Kubernetes &lpar;K3s&rpar; on Bare Metal: Skip Proxmox Overhead](https://dev.to/e_servers/self-hosted-kubernetes-k3s-on-bare-metal-skip-proxmox-overhead-44lp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
