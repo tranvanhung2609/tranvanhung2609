@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them](https://dev.to/lovestaco/down-is-kind-slow-is-fatal-circuit-breakers-and-the-three-links-around-them-3acn)
-- [Auditable Logistics Access: SMS OTP Send, Verify, Rate-Limit, and Cooldown Mechanics](https://dev.to/ulyssesdonovan1529/auditable-logistics-access-sms-otp-send-verify-rate-limit-and-cooldown-mechanics-2jh8)
-- [How to Validate 4 Video Generation Capabilities &lpar;Before Job Submission&rpar;](https://dev.to/cianwinslow371/how-to-validate-4-video-generation-capabilities-before-job-submission-2oip)
-- [A Green Schema Check Can Still Ship a Broken API Integration](https://dev.to/hope_bilgic_a2aa8388e830c/a-green-schema-check-can-still-ship-a-broken-api-integration-104g)
-- [A Green Schema Check Can Still Ship a Broken API Integration](https://dev.to/hope_bilgic_a2aa8388e830c/a-green-schema-check-can-still-ship-a-broken-api-integration-104g)
-- [Building an Enterprise GenAI Platform on OCI — Part 2: The Data Pipeline Nobody Talks About](https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22)
+- [5 workflows your small team should automate before it hires anyone](https://dev.to/hive80lab/5-workflows-your-small-team-should-automate-before-it-hires-anyone-50fh)
+- [Audit Trails for DevOps AI Agents: Attribute Every kubectl, AWS Call, and Commit to a Run and a Human](https://dev.to/devtocash/audit-trails-for-devops-ai-agents-attribute-every-kubectl-aws-call-and-commit-to-a-run-and-a-paa)
+- [Today&#39;s Let&#39;s Encrypt outage failed renewals for an hour. Here&#39;s the 30-minute playbook for when that&#39;s you.](https://dev.to/hive80lab/todays-lets-encrypt-outage-failed-renewals-for-an-hour-heres-the-30-minute-playbook-for-when-5gmk)
+- [API Security Best Practices Every Developer Should Know](https://dev.to/tienbku/api-security-best-practices-every-developer-should-know-29gk)
+- [5 Slack rituals that cut incident bridge time in half](https://dev.to/hive80lab/5-slack-rituals-that-cut-incident-bridge-time-in-half-ml2)
+- [Runbooks that actually get read: 6 rules from 4 failed handovers](https://dev.to/hive80lab/runbooks-that-actually-get-read-6-rules-from-4-failed-handovers-16dc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
