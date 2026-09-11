@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Pager Should Resolve IDs, Not Prompts](https://dev.to/appcpp_9071/your-pager-should-resolve-ids-not-prompts-3o16)
-- [I bypassed my own Claude Code deny-list in eight ways. Only an allow-list held.](https://dev.to/glitchbound/i-bypassed-my-own-claude-code-deny-list-in-eight-ways-only-an-allow-list-held-lp8)
-- [Cron Expressions Explained: A Beginner-Friendly Guide with Examples](https://dev.to/sam_ybs/cron-expressions-explained-a-beginner-friendly-guide-with-examples-42df)
-- [⏳ Last 72 hours to enroll!](https://dev.to/lakhera2015/last-72-hours-to-enroll-7b7)
-- [How I get a webpage change alert without leaving a Distill tab open](https://dev.to/evangelist67/how-i-get-a-webpage-change-alert-without-leaving-a-distill-tab-open-38mo)
-- [Kubernetes Troubleshooting: What to Check Before You Restart a Pod](https://dev.to/opsforged/title-kubernetes-troubleshooting-what-to-check-before-you-restart-a-pod-tags-kubernetes-36pb)
+- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
+- [Concert Livestream Chat Security: 5 Controls for Realtime Clock Skew Recovery](https://dev.to/ferdinandblake3517/concert-livestream-chat-security-5-controls-for-realtime-clock-skew-recovery-32ai)
+- [Quick tip: How to find and free up disk space in Linux](https://dev.to/prince_maurya_8845cfa6516/quick-tip-how-to-find-and-free-up-disk-space-in-linux-2iak)
+- [I built the wall I keep hitting](https://dev.to/max-ai-dev/i-built-the-wall-i-keep-hitting-4dj3)
+- [Deploy a Node/TypeScript API to Railway in 15 minutes &lpar;with a worker-friendly setup&rpar;](https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64)
+- [Java &amp; Elasticsearch: Search Engines](https://dev.to/said_olano/java-elasticsearch-search-engines-3okm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
