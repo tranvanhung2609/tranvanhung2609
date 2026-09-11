@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Offensive AI Just Became Real With Astra. Defensive AI Is the Only Thing That Scales to Meet It.](https://dev.to/muskan_bandta/offensive-ai-just-became-real-with-astra-defensive-ai-is-the-only-thing-that-scales-to-meet-it-1gnf)
-- [Savings Plans vs Reserved Instances in 2026: The Rules We Actually Use](https://dev.to/muskan_bandta/savings-plans-vs-reserved-instances-in-2026-the-rules-we-actually-use-1c27)
-- [Middleware Development Services: Designing an Integration Layer That Scales](https://dev.to/mahir_amaan_0f5bfc60bb9b7/middleware-development-services-designing-an-integration-layer-that-scales-2lpl)
-- [Best Shopify Subscription Apps 2026, and Exactly Where Each One Breaks](https://dev.to/codingkart/best-shopify-subscription-apps-2026-and-exactly-where-each-one-breaks-592f)
-- [Your domain is the one asset you can&#39;t reissue: the expiry &amp; hijack checklist](https://dev.to/hive80lab/your-domain-is-the-one-asset-you-cant-reissue-the-expiry-hijack-checklist-348h)
-- [Self-Hosted Kubernetes &lpar;K3s&rpar; on Bare Metal: Skip Proxmox Overhead](https://dev.to/e_servers/self-hosted-kubernetes-k3s-on-bare-metal-skip-proxmox-overhead-44lp)
+- [Your Pager Should Resolve IDs, Not Prompts](https://dev.to/appcpp_9071/your-pager-should-resolve-ids-not-prompts-3o16)
+- [I bypassed my own Claude Code deny-list in eight ways. Only an allow-list held.](https://dev.to/glitchbound/i-bypassed-my-own-claude-code-deny-list-in-eight-ways-only-an-allow-list-held-lp8)
+- [Cron Expressions Explained: A Beginner-Friendly Guide with Examples](https://dev.to/sam_ybs/cron-expressions-explained-a-beginner-friendly-guide-with-examples-42df)
+- [⏳ Last 72 hours to enroll!](https://dev.to/lakhera2015/last-72-hours-to-enroll-7b7)
+- [How I get a webpage change alert without leaving a Distill tab open](https://dev.to/evangelist67/how-i-get-a-webpage-change-alert-without-leaving-a-distill-tab-open-38mo)
+- [Kubernetes Troubleshooting: What to Check Before You Restart a Pod](https://dev.to/opsforged/title-kubernetes-troubleshooting-what-to-check-before-you-restart-a-pod-tags-kubernetes-36pb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
