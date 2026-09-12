@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
-- [Concert Livestream Chat Security: 5 Controls for Realtime Clock Skew Recovery](https://dev.to/ferdinandblake3517/concert-livestream-chat-security-5-controls-for-realtime-clock-skew-recovery-32ai)
-- [Quick tip: How to find and free up disk space in Linux](https://dev.to/prince_maurya_8845cfa6516/quick-tip-how-to-find-and-free-up-disk-space-in-linux-2iak)
-- [I built the wall I keep hitting](https://dev.to/max-ai-dev/i-built-the-wall-i-keep-hitting-4dj3)
-- [Deploy a Node/TypeScript API to Railway in 15 minutes &lpar;with a worker-friendly setup&rpar;](https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64)
-- [Java &amp; Elasticsearch: Search Engines](https://dev.to/said_olano/java-elasticsearch-search-engines-3okm)
+- [Best Plumbers in Mesa, AZ | Jet&#39;n Drains Plumbing &amp; Rooter](https://dev.to/jetn_drains_d12590d7f53e6/best-plumbers-in-mesa-az-jetn-drains-plumbing-rooter-2aci)
+- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3)
+- [Entitlement-Aware Feature Gating — Read Tier at Startup with Feature Flags](https://dev.to/zanesterling7589/entitlement-aware-feature-gating-read-tier-at-startup-with-feature-flags-4p2b)
+- [RPC BNB: Connect to BNB Smart Chain Endpoints](https://dev.to/onfinality/rpc-bnb-connect-to-bnb-smart-chain-endpoints-21l)
+- [DNS Domain Deletion Safety: Guards for Automated Destructive Pipelines](https://dev.to/zebedeeholloway9023/dns-domain-deletion-safety-guards-for-automated-destructive-pipelines-1oeg)
+- [Base Network RPC: Endpoint, Chain ID and Setup](https://dev.to/onfinality/base-network-rpc-endpoint-chain-id-and-setup-3d64)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
