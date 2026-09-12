@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Tenant AI Stack for 6 Businesses: How We Replaced Twilio, SendGrid, and Make.com with Supabase, VAPI, and Aster](https://dev.to/domoniqueluchin/building-a-multi-tenant-ai-stack-for-6-businesses-how-we-replaced-twilio-sendgrid-and-makecom-54la)
-- [LinkedIn is a separate lane: spent keys in content pipelines](https://dev.to/robswierk/linkedin-is-a-separate-lane-spent-keys-in-content-pipelines-1373)
-- [Want to point your domain to an IPv6 VPS but not sure where to start? AAAA records map a domain](https://dev.to/monovm/want-to-point-your-domain-to-an-ipv6-vps-but-not-sure-where-to-start-aaaa-records-map-a-domain-3m95)
-- [The 5 Pillars of Small-Team Incident Response &lpar;score yours free&rpar;](https://dev.to/hive80lab/the-5-pillars-of-small-team-incident-response-score-yours-free-2gb2)
-- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
-- [Cloudflare Workers moves module resolution from paths to URLs](https://dev.to/soytuber/cloudflare-workers-moves-module-resolution-from-paths-to-urls-2g88)
+- [Post-Quantum TLS Is a Platform Migration, Not a Crypto Project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-2f76)
+- [Tech debt is a loan: run the amortization table on one screen](https://dev.to/hive80lab/tech-debt-is-a-loan-run-the-amortization-table-on-one-screen-4l92)
+- [Least Privilege Is a Policy Until the System Can Say No](https://dev.to/david_boggs_adaptive/least-privilege-is-a-policy-until-the-system-can-say-no-311h)
+- [My benchmark harness was wrong fourteen ways before it measured anything](https://dev.to/remdore/my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything-1o6h)
+- [The release checklist for small teams: twelve boxes between green build and shipped](https://dev.to/hive80lab/the-release-checklist-for-small-teams-twelve-boxes-between-green-build-and-shipped-5hk5)
+- [nginx streams your tokens fine. HAProxy holds them for 206ms.](https://dev.to/remdore/nginx-streams-your-tokens-fine-haproxy-holds-them-for-206ms-10p2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
