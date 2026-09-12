@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Best Plumbers in Mesa, AZ | Jet&#39;n Drains Plumbing &amp; Rooter](https://dev.to/jetn_drains_d12590d7f53e6/best-plumbers-in-mesa-az-jetn-drains-plumbing-rooter-2aci)
-- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3)
-- [Entitlement-Aware Feature Gating — Read Tier at Startup with Feature Flags](https://dev.to/zanesterling7589/entitlement-aware-feature-gating-read-tier-at-startup-with-feature-flags-4p2b)
-- [RPC BNB: Connect to BNB Smart Chain Endpoints](https://dev.to/onfinality/rpc-bnb-connect-to-bnb-smart-chain-endpoints-21l)
-- [DNS Domain Deletion Safety: Guards for Automated Destructive Pipelines](https://dev.to/zebedeeholloway9023/dns-domain-deletion-safety-guards-for-automated-destructive-pipelines-1oeg)
-- [Base Network RPC: Endpoint, Chain ID and Setup](https://dev.to/onfinality/base-network-rpc-endpoint-chain-id-and-setup-3d64)
+- [Building a Multi-Tenant AI Stack for 6 Businesses: How We Replaced Twilio, SendGrid, and Make.com with Supabase, VAPI, and Aster](https://dev.to/domoniqueluchin/building-a-multi-tenant-ai-stack-for-6-businesses-how-we-replaced-twilio-sendgrid-and-makecom-54la)
+- [LinkedIn is a separate lane: spent keys in content pipelines](https://dev.to/robswierk/linkedin-is-a-separate-lane-spent-keys-in-content-pipelines-1373)
+- [Want to point your domain to an IPv6 VPS but not sure where to start? AAAA records map a domain](https://dev.to/monovm/want-to-point-your-domain-to-an-ipv6-vps-but-not-sure-where-to-start-aaaa-records-map-a-domain-3m95)
+- [The 5 Pillars of Small-Team Incident Response &lpar;score yours free&rpar;](https://dev.to/hive80lab/the-5-pillars-of-small-team-incident-response-score-yours-free-2gb2)
+- [BDD Without Gherkin](https://dev.to/paul-brooks/bdd-without-gherkin-558b)
+- [Cloudflare Workers moves module resolution from paths to URLs](https://dev.to/soytuber/cloudflare-workers-moves-module-resolution-from-paths-to-urls-2g88)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
