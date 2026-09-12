@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Post-Quantum TLS Is a Platform Migration, Not a Crypto Project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-2f76)
-- [Tech debt is a loan: run the amortization table on one screen](https://dev.to/hive80lab/tech-debt-is-a-loan-run-the-amortization-table-on-one-screen-4l92)
-- [Least Privilege Is a Policy Until the System Can Say No](https://dev.to/david_boggs_adaptive/least-privilege-is-a-policy-until-the-system-can-say-no-311h)
-- [My benchmark harness was wrong fourteen ways before it measured anything](https://dev.to/remdore/my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything-1o6h)
-- [The release checklist for small teams: twelve boxes between green build and shipped](https://dev.to/hive80lab/the-release-checklist-for-small-teams-twelve-boxes-between-green-build-and-shipped-5hk5)
-- [nginx streams your tokens fine. HAProxy holds them for 206ms.](https://dev.to/remdore/nginx-streams-your-tokens-fine-haproxy-holds-them-for-206ms-10p2)
+- [Two reads and one compare before every DNS record write in a zone migration](https://dev.to/kendrickberg5327/two-reads-and-one-compare-before-every-dns-record-write-in-a-zone-migration-2ilf)
+- [How Seed4J Validates Compatibility](https://dev.to/renanfranca/how-seed4j-validates-compatibility-2pdo)
+- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
+- [Merchant of Record in 2026: What Paddle, Lemon Squeezy, Polar and Stripe Actually Charge](https://dev.to/moksh/merchant-of-record-in-2026-what-paddle-lemon-squeezy-polar-and-stripe-actually-charge-2e5a)
+- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
+- [Buy Verified Kraken Account](https://dev.to/usamarketit4/buy-verified-kraken-account-4iac)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
