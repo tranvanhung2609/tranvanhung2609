@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From CI to CD on AWS: Deploying to EC2 and Provisioning Infrastructure with Terraform](https://dev.to/anitaalicloud/from-ci-to-cd-on-aws-deploying-to-ec2-and-provisioning-infrastructure-with-terraform-3ac7)
-- [Post-Quantum TLS Is a Platform Migration, Not a Crypto Project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-4mbe)
-- [Berpikir Seperti Architect: Menggeser Paradigma System Design di Tahun 2026](https://dev.to/hellogung/berpikir-seperti-architect-menggeser-paradigma-system-design-di-tahun-2026-1jfc)
-- [Indeed 403s Chrome on every proxy tier — and our laptop said it was fine](https://dev.to/devil_scrapes/indeed-403s-chrome-on-every-proxy-tier-and-our-laptop-said-it-was-fine-ob0)
-- [How to Track API Usage for Billing in Real Time](https://dev.to/flexprice_8116ed925/how-to-track-api-usage-for-billing-in-real-time-2pd6)
-- [What Is HTTP Request Smuggling? How Can Two Servers Disagree About One Request?](https://dev.to/aditya_d_sharma/what-is-http-request-smuggling-how-can-two-servers-disagree-about-one-request-ljg)
+- [A deprecated value has to live somewhere, and widening the set was the wrong somewhere](https://dev.to/mahirhir/a-deprecated-value-has-to-live-somewhere-and-widening-the-set-was-the-wrong-somewhere-4kh8)
+- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o)
+- [Sa-Token necessary implement StpInterface](https://dev.to/yyt0901/sa-token-necessary-implement-stpinterface-16m4)
+- [I audited 50 projects built with Cursor &amp; Claude. Here are the 4 security traps they all had](https://dev.to/carbonthecoder/i-audited-50-projects-built-with-cursor-claude-here-are-the-4-security-traps-they-all-had-1c16)
+- [My check ran green every time and its result could never reach the thing that needed it](https://dev.to/mahirhir/my-check-ran-green-every-time-and-its-result-could-never-reach-the-thing-that-needed-it-30i4)
+- [post-quantum tls is a platform migration, not a crypto project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-30jn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
