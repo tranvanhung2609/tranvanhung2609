@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A deprecated value has to live somewhere, and widening the set was the wrong somewhere](https://dev.to/mahirhir/a-deprecated-value-has-to-live-somewhere-and-widening-the-set-was-the-wrong-somewhere-4kh8)
-- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o)
-- [Sa-Token necessary implement StpInterface](https://dev.to/yyt0901/sa-token-necessary-implement-stpinterface-16m4)
-- [I audited 50 projects built with Cursor &amp; Claude. Here are the 4 security traps they all had](https://dev.to/carbonthecoder/i-audited-50-projects-built-with-cursor-claude-here-are-the-4-security-traps-they-all-had-1c16)
-- [My check ran green every time and its result could never reach the thing that needed it](https://dev.to/mahirhir/my-check-ran-green-every-time-and-its-result-could-never-reach-the-thing-that-needed-it-30i4)
-- [post-quantum tls is a platform migration, not a crypto project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-30jn)
+- [Reproduce the Pager on a Scratch Box Before You Unfreeze Prod](https://dev.to/appcpp_9071/reproduce-the-pager-on-a-scratch-box-before-you-unfreeze-prod-2pp2)
+- [A Guide to Prepaid API Balances — 4 Provisioning Checks for Default Payment Methods](https://dev.to/jedidiahrhodes8293/a-guide-to-prepaid-api-balances-4-provisioning-checks-for-default-payment-methods-4k8k)
+- [Plan Tier Subscription Entitlements for Prepaid SaaS Limits — Boundary Checks](https://dev.to/solacew31/plan-tier-subscription-entitlements-for-prepaid-saas-limits-boundary-checks-419f)
+- [Agent Scratchpads Fail Closed: A When-Not-To Field Guide](https://dev.to/hackjs_8688/agent-scratchpads-fail-closed-a-when-not-to-field-guide-4o5k)
+- [A stale hash failed 29 of 59 tests. The tool that refreshes hashes had never seen that copy.](https://dev.to/mahirhir/a-stale-hash-failed-29-of-59-tests-the-tool-that-refreshes-hashes-had-never-seen-that-copy-3ie3)
+- [Looking for a lightweight Java IDE/editor setup with features close to IntelliJ](https://dev.to/hitesh_prajapati_ad75890a/looking-for-a-lightweight-java-ideeditor-setup-with-features-close-to-intellij-4af)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
