@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 - Relational Database 101 - PostgreSQL Internals](https://dev.to/mislam-dev/day-8-relational-database-101-postgresql-internals-j9c)
-- [EC2 Instance Unreachable via SSM Session Manager](https://dev.to/rafagross/ec2-instance-unreachable-via-ssm-session-manager-1fe9)
-- [Treating “one day” as a system primitive](https://dev.to/jones_chen_592558a62a5c44/treating-one-day-as-a-system-primitive-1eba)
-- [Connect Jenkins to GitHub: Deploy Keys, PAT and Webhooks](https://dev.to/dineshstack/connect-jenkins-to-github-deploy-keys-pat-and-webhooks-198f)
-- [Ba đánh đổi mạng khi dev máy ảo với mDNS bridged và Tailscale](https://dev.to/hung_phatlaptop_a651fc86/ba-danh-doi-mang-khi-dev-may-ao-voi-mdns-bridged-va-tailscale-451)
-- [Sui Public RPC: Endpoint Behavior and When to Upgrade](https://dev.to/onfinality/sui-public-rpc-endpoint-behavior-and-when-to-upgrade-2e5l)
+- [From CI to CD on AWS: Deploying to EC2 and Provisioning Infrastructure with Terraform](https://dev.to/anitaalicloud/from-ci-to-cd-on-aws-deploying-to-ec2-and-provisioning-infrastructure-with-terraform-3ac7)
+- [Post-Quantum TLS Is a Platform Migration, Not a Crypto Project](https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-4mbe)
+- [Berpikir Seperti Architect: Menggeser Paradigma System Design di Tahun 2026](https://dev.to/hellogung/berpikir-seperti-architect-menggeser-paradigma-system-design-di-tahun-2026-1jfc)
+- [Indeed 403s Chrome on every proxy tier — and our laptop said it was fine](https://dev.to/devil_scrapes/indeed-403s-chrome-on-every-proxy-tier-and-our-laptop-said-it-was-fine-ob0)
+- [How to Track API Usage for Billing in Real Time](https://dev.to/flexprice_8116ed925/how-to-track-api-usage-for-billing-in-real-time-2pd6)
+- [What Is HTTP Request Smuggling? How Can Two Servers Disagree About One Request?](https://dev.to/aditya_d_sharma/what-is-http-request-smuggling-how-can-two-servers-disagree-about-one-request-ljg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
