@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Two reads and one compare before every DNS record write in a zone migration](https://dev.to/kendrickberg5327/two-reads-and-one-compare-before-every-dns-record-write-in-a-zone-migration-2ilf)
-- [How Seed4J Validates Compatibility](https://dev.to/renanfranca/how-seed4j-validates-compatibility-2pdo)
-- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
-- [Merchant of Record in 2026: What Paddle, Lemon Squeezy, Polar and Stripe Actually Charge](https://dev.to/moksh/merchant-of-record-in-2026-what-paddle-lemon-squeezy-polar-and-stripe-actually-charge-2e5a)
-- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
-- [Buy Verified Kraken Account](https://dev.to/usamarketit4/buy-verified-kraken-account-4iac)
+- [Day 8 - Relational Database 101 - PostgreSQL Internals](https://dev.to/mislam-dev/day-8-relational-database-101-postgresql-internals-j9c)
+- [EC2 Instance Unreachable via SSM Session Manager](https://dev.to/rafagross/ec2-instance-unreachable-via-ssm-session-manager-1fe9)
+- [Treating “one day” as a system primitive](https://dev.to/jones_chen_592558a62a5c44/treating-one-day-as-a-system-primitive-1eba)
+- [Connect Jenkins to GitHub: Deploy Keys, PAT and Webhooks](https://dev.to/dineshstack/connect-jenkins-to-github-deploy-keys-pat-and-webhooks-198f)
+- [Ba đánh đổi mạng khi dev máy ảo với mDNS bridged và Tailscale](https://dev.to/hung_phatlaptop_a651fc86/ba-danh-doi-mang-khi-dev-may-ao-voi-mdns-bridged-va-tailscale-451)
+- [Sui Public RPC: Endpoint Behavior and When to Upgrade](https://dev.to/onfinality/sui-public-rpc-endpoint-behavior-and-when-to-upgrade-2e5l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
