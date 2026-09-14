@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Looking to Connect with Developers and Open-Source Communities](https://dev.to/adebisi_oluwajoba_6ba5603/looking-to-connect-with-developers-and-open-source-communities-49fl)
-- [Finally, a GUI for your ports!](https://dev.to/prerak_mathur_18ed7d65e8f/finally-a-gui-for-your-ports-4oea)
-- [A Different Way to Handle Everyday Operations: A Preview of OpenOcta](https://dev.to/databufflabs/a-different-way-to-handle-everyday-operations-a-preview-of-openocta-3g4m)
-- [I Wanted Claude to Write SOC 2 Compliant Code. The Existing Skills Only Did Half the Job.](https://dev.to/aggtushar123/i-wanted-claude-to-write-soc-2-compliant-code-the-existing-skills-only-did-half-the-job-18e7)
-- [What Does a Production RAG System Need? Vector Search, Chunking, Guardrails, and Cost Controls](https://dev.to/abinschandran/what-does-a-production-rag-system-need-vector-search-chunking-guardrails-and-cost-controls-1dke)
-- [Node.js REST API Audit: A Checklist for Slow or Unreliable Backends](https://dev.to/abinschandran/nodejs-rest-api-audit-a-checklist-for-slow-or-unreliable-backends-2521)
+- [Mitsubishi Motors North America Maps 170 Java Applications for Low-Disruption Modernization](https://dev.to/abhayraoym/mitsubishi-motors-north-america-maps-170-java-applications-for-low-disruption-modernization-a1l)
+- [Coming from Java: functions are values in Python](https://dev.to/ljgeorgiou/coming-from-java-functions-are-values-in-python-31i)
+- [Every correction I made to my spec added a requirement. The retired rows were still being counted.](https://dev.to/mahirhir/every-correction-i-made-to-my-spec-added-a-requirement-the-retired-rows-were-still-being-counted-111g)
+- [JavaScript heap out of memory: read the GC line before you raise the heap size](https://dev.to/milkyway008/javascript-heap-out-of-memory-read-the-gc-line-before-you-raise-the-heap-size-3edp)
+- [48 Hours Chasing a Duplicate Nightly Job: SIGTERM Was Landing on the Wrapper](https://dev.to/codepy_1473/48-hours-chasing-a-duplicate-nightly-job-sigterm-was-landing-on-the-wrapper-c2b)
+- [Green Locally, Red on the Server: A Two-Environment Gate for Agent Patches](https://dev.to/datacpp_8185/green-locally-red-on-the-server-a-two-environment-gate-for-agent-patches-48gf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
