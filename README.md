@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Reproduce the Pager on a Scratch Box Before You Unfreeze Prod](https://dev.to/appcpp_9071/reproduce-the-pager-on-a-scratch-box-before-you-unfreeze-prod-2pp2)
-- [A Guide to Prepaid API Balances — 4 Provisioning Checks for Default Payment Methods](https://dev.to/jedidiahrhodes8293/a-guide-to-prepaid-api-balances-4-provisioning-checks-for-default-payment-methods-4k8k)
-- [Plan Tier Subscription Entitlements for Prepaid SaaS Limits — Boundary Checks](https://dev.to/solacew31/plan-tier-subscription-entitlements-for-prepaid-saas-limits-boundary-checks-419f)
-- [Agent Scratchpads Fail Closed: A When-Not-To Field Guide](https://dev.to/hackjs_8688/agent-scratchpads-fail-closed-a-when-not-to-field-guide-4o5k)
-- [A stale hash failed 29 of 59 tests. The tool that refreshes hashes had never seen that copy.](https://dev.to/mahirhir/a-stale-hash-failed-29-of-59-tests-the-tool-that-refreshes-hashes-had-never-seen-that-copy-3ie3)
-- [Looking for a lightweight Java IDE/editor setup with features close to IntelliJ](https://dev.to/hitesh_prajapati_ad75890a/looking-for-a-lightweight-java-ideeditor-setup-with-features-close-to-intellij-4af)
+- [Rectangle Overlap | LEETCODE 836 | Solve In Seconds | Amazon Most Asked Interview |](https://dev.to/shaanlabs/rectangle-overlap-leetcode-836-solve-in-seconds-amazon-most-asked-interview--gkf)
+- [Python Email Recovery: Transactional Templates, Custom Domains, DKIM, and API Sends](https://dev.to/echof76/python-email-recovery-transactional-templates-custom-domains-dkim-and-api-sends-4k79)
+- [Running a local LLM on a 4GB machine without a GPU &lpar;what actually works in 2026&rpar;](https://dev.to/llmrt/running-a-local-llm-on-a-4gb-machine-without-a-gpu-what-actually-works-in-2026-51mf)
+- [A reproducible LLM red-team report: why the probe corpus sha256 matters](https://dev.to/llmrt/a-reproducible-llm-red-team-report-why-the-probe-corpus-sha256-matters-30ap)
+- [Smarter Python Configs: an OOP Framework](https://dev.to/wisl/smarter-python-configs-an-oop-framework-2ggj)
+- [The First Malware That Writes Itself: What OpenAI and Anthropic Agent Breakouts Mean for Your Sandbox](https://dev.to/jamilxt/the-first-malware-that-writes-itself-what-openai-and-anthropic-agent-breakouts-mean-for-your-3n80)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
