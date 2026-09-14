@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Rectangle Overlap | LEETCODE 836 | Solve In Seconds | Amazon Most Asked Interview |](https://dev.to/shaanlabs/rectangle-overlap-leetcode-836-solve-in-seconds-amazon-most-asked-interview--gkf)
-- [Python Email Recovery: Transactional Templates, Custom Domains, DKIM, and API Sends](https://dev.to/echof76/python-email-recovery-transactional-templates-custom-domains-dkim-and-api-sends-4k79)
-- [Running a local LLM on a 4GB machine without a GPU &lpar;what actually works in 2026&rpar;](https://dev.to/llmrt/running-a-local-llm-on-a-4gb-machine-without-a-gpu-what-actually-works-in-2026-51mf)
-- [A reproducible LLM red-team report: why the probe corpus sha256 matters](https://dev.to/llmrt/a-reproducible-llm-red-team-report-why-the-probe-corpus-sha256-matters-30ap)
-- [Smarter Python Configs: an OOP Framework](https://dev.to/wisl/smarter-python-configs-an-oop-framework-2ggj)
-- [The First Malware That Writes Itself: What OpenAI and Anthropic Agent Breakouts Mean for Your Sandbox](https://dev.to/jamilxt/the-first-malware-that-writes-itself-what-openai-and-anthropic-agent-breakouts-mean-for-your-3n80)
+- [Looking to Connect with Developers and Open-Source Communities](https://dev.to/adebisi_oluwajoba_6ba5603/looking-to-connect-with-developers-and-open-source-communities-49fl)
+- [Finally, a GUI for your ports!](https://dev.to/prerak_mathur_18ed7d65e8f/finally-a-gui-for-your-ports-4oea)
+- [A Different Way to Handle Everyday Operations: A Preview of OpenOcta](https://dev.to/databufflabs/a-different-way-to-handle-everyday-operations-a-preview-of-openocta-3g4m)
+- [I Wanted Claude to Write SOC 2 Compliant Code. The Existing Skills Only Did Half the Job.](https://dev.to/aggtushar123/i-wanted-claude-to-write-soc-2-compliant-code-the-existing-skills-only-did-half-the-job-18e7)
+- [What Does a Production RAG System Need? Vector Search, Chunking, Guardrails, and Cost Controls](https://dev.to/abinschandran/what-does-a-production-rag-system-need-vector-search-chunking-guardrails-and-cost-controls-1dke)
+- [Node.js REST API Audit: A Checklist for Slow or Unreliable Backends](https://dev.to/abinschandran/nodejs-rest-api-audit-a-checklist-for-slow-or-unreliable-backends-2521)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
