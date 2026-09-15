@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a DNS Read-Compare Writer in Node.js: Verified Mail Changes](https://dev.to/aidensterling3417/how-to-build-a-dns-read-compare-writer-in-nodejs-verified-mail-changes-5b7j)
-- [How to Keep Model Vendor Routing Replaceable When One API Key Leaks &lpar;Drill Included&rpar;](https://dev.to/malachinilsson7591/how-to-keep-model-vendor-routing-replaceable-when-one-api-key-leaks-drill-included-1a9i)
-- [Node.js Express Metric Updates — Dashboard Channel Reconnect Recovery](https://dev.to/titanj53/nodejs-express-metric-updates-dashboard-channel-reconnect-recovery-502m)
-- [When the Free Tier Stops Being Cheap: A Load-Based Exit Test for Agent Backends](https://dev.to/hackjs_8688/when-the-free-tier-stops-being-cheap-a-load-based-exit-test-for-agent-backends-2bfh)
-- [Postmortem: The Agent Loop That Kept Retrying](https://dev.to/jarynagent/postmortem-the-agent-loop-that-kept-retrying-3lic)
-- [Free Token Budgets Hide Retry Cost: Keep a Per-Task LLM Ledger](https://dev.to/odd_background_328/free-token-budgets-hide-retry-cost-keep-a-per-task-llm-ledger-3ob)
+- [How to Build Reliable AI Agent Workflows: 5 Failure Modes, 5 Controls, 5 Signals](https://dev.to/commerceframe_015eb18e5bb/how-to-build-reliable-ai-agent-workflows-5-failure-modes-5-controls-5-signals-4k5e)
+- [Process Orchestration: Execution Models, Observability, and Production Challenges](https://dev.to/rasne/process-orchestration-execution-models-observability-and-production-challenges-4e7)
+- [Agentic Telemetry Is Not an Audit Trail: Why We Built the Sovereign Trust Plane](https://dev.to/rasne/agentic-telemetry-is-not-an-audit-trail-why-we-built-the-sovereign-trust-plane-32hl)
+- [Critical LiteSpeed Web Server Flaw Gives Shared Hosting Users Root Access](https://dev.to/cyberupdates365/critical-litespeed-web-server-flaw-gives-shared-hosting-users-root-access-30hb)
+- [Ever had a crypto hosting payment fail right at checkout? One quick tip: double-check network](https://dev.to/monovm/ever-had-a-crypto-hosting-payment-fail-right-at-checkout-one-quick-tip-double-check-network-548f)
+- [FAQ: Five Myths About Treating a Free Agent Box Like Your Laptop](https://dev.to/gitlab_3188/faq-five-myths-about-treating-a-free-agent-box-like-your-laptop-33i4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
