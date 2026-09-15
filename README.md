@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Reliable AI Agent Workflows: 5 Failure Modes, 5 Controls, 5 Signals](https://dev.to/commerceframe_015eb18e5bb/how-to-build-reliable-ai-agent-workflows-5-failure-modes-5-controls-5-signals-4k5e)
-- [Process Orchestration: Execution Models, Observability, and Production Challenges](https://dev.to/rasne/process-orchestration-execution-models-observability-and-production-challenges-4e7)
-- [Agentic Telemetry Is Not an Audit Trail: Why We Built the Sovereign Trust Plane](https://dev.to/rasne/agentic-telemetry-is-not-an-audit-trail-why-we-built-the-sovereign-trust-plane-32hl)
-- [Critical LiteSpeed Web Server Flaw Gives Shared Hosting Users Root Access](https://dev.to/cyberupdates365/critical-litespeed-web-server-flaw-gives-shared-hosting-users-root-access-30hb)
-- [Ever had a crypto hosting payment fail right at checkout? One quick tip: double-check network](https://dev.to/monovm/ever-had-a-crypto-hosting-payment-fail-right-at-checkout-one-quick-tip-double-check-network-548f)
-- [FAQ: Five Myths About Treating a Free Agent Box Like Your Laptop](https://dev.to/gitlab_3188/faq-five-myths-about-treating-a-free-agent-box-like-your-laptop-33i4)
+- [Google Reports 6-Hour Agentic AI Attack on Cloud Infrastructure](https://dev.to/kiran_sonawane/google-reports-6-hour-agentic-ai-attack-on-cloud-infrastructure-5e4n)
+- [Entrega contínua: performance, qualidade e dados](https://dev.to/dev-freelancer/entrega-continua-performance-qualidade-e-dados-bnf)
+- [The Morning the Monthly Batch Died — Four Realities of Running a Data Pipeline](https://dev.to/amru195704/the-morning-the-monthly-batch-died-four-realities-of-running-a-data-pipeline-144e)
+- [&quot;Please Produce the Logs from Three Years Ago&quot; — Four Ways to Survive an Audit by Design](https://dev.to/amru195704/please-produce-the-logs-from-three-years-ago-four-ways-to-survive-an-audit-by-design-2ecn)
+- [JetBrains Ranked AI Agents on Real Kotlin Projects. The Token Column Is the Real Story.](https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li)
+- [The Cloud Bill Detective: Finding $30K of Waste in Your AWS Account](https://dev.to/hive80lab/the-cloud-bill-detective-finding-30k-of-waste-in-your-aws-account-4aib)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
