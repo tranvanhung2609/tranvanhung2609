@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Notes from moving a small side project off a single VPS](https://dev.to/mofh5221/notes-from-moving-a-small-side-project-off-a-single-vps-2ddi)
-- [OTA Pricing Is Part of Your Release Architecture](https://dev.to/gfean/ota-pricing-is-part-of-your-release-architecture-5djj)
-- [Name a Data Boundary Keeper: A One-Page Wiki SOP for What Leaves Your Laptop](https://dev.to/devx_6522/name-a-data-boundary-keeper-a-one-page-wiki-sop-for-what-leaves-your-laptop-1gam)
-- [2026 Guardrails for Automated DNS Pipelines Against Accidental Zone Deletion](https://dev.to/silasfletcher5857/2026-guardrails-for-automated-dns-pipelines-against-accidental-zone-deletion-45op)
-- [Day 42: A Custom Network Gives You DNS, and DynamoDB Only Declares Its Key](https://dev.to/ndcodes/day-42-a-custom-network-gives-you-dns-and-dynamodb-only-declares-its-key-232)
-- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2)
+- [How to Build a DNS Read-Compare Writer in Node.js: Verified Mail Changes](https://dev.to/aidensterling3417/how-to-build-a-dns-read-compare-writer-in-nodejs-verified-mail-changes-5b7j)
+- [How to Keep Model Vendor Routing Replaceable When One API Key Leaks &lpar;Drill Included&rpar;](https://dev.to/malachinilsson7591/how-to-keep-model-vendor-routing-replaceable-when-one-api-key-leaks-drill-included-1a9i)
+- [Node.js Express Metric Updates — Dashboard Channel Reconnect Recovery](https://dev.to/titanj53/nodejs-express-metric-updates-dashboard-channel-reconnect-recovery-502m)
+- [When the Free Tier Stops Being Cheap: A Load-Based Exit Test for Agent Backends](https://dev.to/hackjs_8688/when-the-free-tier-stops-being-cheap-a-load-based-exit-test-for-agent-backends-2bfh)
+- [Postmortem: The Agent Loop That Kept Retrying](https://dev.to/jarynagent/postmortem-the-agent-loop-that-kept-retrying-3lic)
+- [Free Token Budgets Hide Retry Cost: Keep a Per-Task LLM Ledger](https://dev.to/odd_background_328/free-token-budgets-hide-retry-cost-keep-a-per-task-llm-ledger-3ob)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
