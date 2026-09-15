@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Google Reports 6-Hour Agentic AI Attack on Cloud Infrastructure](https://dev.to/kiran_sonawane/google-reports-6-hour-agentic-ai-attack-on-cloud-infrastructure-5e4n)
-- [Entrega contínua: performance, qualidade e dados](https://dev.to/dev-freelancer/entrega-continua-performance-qualidade-e-dados-bnf)
-- [The Morning the Monthly Batch Died — Four Realities of Running a Data Pipeline](https://dev.to/amru195704/the-morning-the-monthly-batch-died-four-realities-of-running-a-data-pipeline-144e)
-- [&quot;Please Produce the Logs from Three Years Ago&quot; — Four Ways to Survive an Audit by Design](https://dev.to/amru195704/please-produce-the-logs-from-three-years-ago-four-ways-to-survive-an-audit-by-design-2ecn)
-- [JetBrains Ranked AI Agents on Real Kotlin Projects. The Token Column Is the Real Story.](https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li)
-- [The Cloud Bill Detective: Finding $30K of Waste in Your AWS Account](https://dev.to/hive80lab/the-cloud-bill-detective-finding-30k-of-waste-in-your-aws-account-4aib)
+- [Best LLM Guardrails Platform in 2026: Enterprise AI Safety with Bifrost](https://dev.to/kuldeep_paul/best-llm-guardrails-platform-in-2026-enterprise-ai-safety-with-bifrost-4la2)
+- [Top 5 Kong Alternatives in 2026: An In-Depth Comparison](https://dev.to/kuldeep_paul/top-5-kong-alternatives-in-2026-an-in-depth-comparison-17d3)
+- [We scheduled a question for an hour when nobody could answer it](https://dev.to/unmannedops/we-scheduled-a-question-for-an-hour-when-nobody-could-answer-it-22oj)
+- [Top 5 Shadow AI Tools in 2026: Enterprise Governance and Visibility](https://dev.to/kuldeep_paul/top-5-shadow-ai-tools-in-2026-enterprise-governance-and-visibility-47ae)
+- [Best AI Guardrails Tools in 2026: Top 5 Platforms Compared](https://dev.to/kuldeep_paul/best-ai-guardrails-tools-in-2026-top-5-platforms-compared-hh3)
+- [Top 5 Model Routing Platforms in 2026](https://dev.to/kuldeep_paul/top-5-model-routing-platforms-in-2026-3ea)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
