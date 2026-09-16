@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 : Session 2 : EC2, S3, Serverless Computing and Event Triggers published](https://dev.to/preethika_j/day-1-session-2-ec2-s3-serverless-computing-and-event-triggerspublished-55ag)
-- [ACTCOINESE-MAX stärkt den mobilen Zugang zu digitalen Services](https://dev.to/actcoinese-max/actcoinese-max-starkt-den-mobilen-zugang-zu-digitalen-services-24a7)
-- [Day 1 : Session 1 Cloud-Native Systems &amp; Applied AI Integration](https://dev.to/preethika_j/day-1-session-1-cloud-native-systems-applied-ai-integration-h79)
-- [An AI Agent Found Admin Access to a $13B Startup in 25 Minutes. Here&#39;s the Free Tool It Used, and the Docker Mistake That Made It Possible](https://dev.to/jamilxt/an-ai-agent-found-admin-access-to-a-13b-startup-in-25-minutes-heres-the-free-tool-it-used-and-337a)
-- [I Added Human-in-the-Loop to an Async Queue System -Here&#39;s How LangGraph Checkpointing Made It Possible](https://dev.to/awaluddin/i-added-human-in-the-loop-to-an-async-queue-system-heres-how-langgraph-checkpointing-made-it-3opl)
-- [Stop Giving Your Cloudflare Workers Root Access: How to Fix Overprivileged AI Agents and CI/CD Pipelines](https://dev.to/hamza_dev_talks/stop-giving-your-cloudflare-workers-root-access-how-to-fix-overprivileged-ai-agents-and-cicd-27nl)
+- [FastAPI vs Django vs Flask: Which Python Framework Is Right for You?](https://dev.to/rohit_cs_730b68ec18a76a55/fastapi-vs-django-vs-flask-which-python-framework-is-right-for-you-1cde)
+- [JPA in java](https://dev.to/abinaya_v_7e6321c160544f1/jpa-in-java-1b7m)
+- [AI adoption now measured by what you can audit](https://dev.to/analista_83/ai-adoption-now-measured-by-what-you-can-audit-40gi)
+- [Building a Multi-Agent Voice Command Center: Load Bearing Empire&#39;s QHV Stack with Supabase, VAPI, and Vercel](https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-load-bearing-empires-qhv-stack-with-supabase-vapi-5589)
+- [Anthropic&#39;s grammar compiler counts properties, not characters](https://dev.to/robswierk/anthropics-grammar-compiler-counts-properties-not-characters-5el6)
+- [Karate Framework Certification | Karate Framework | BITA](https://dev.to/visalibita/karate-framework-certification-karate-framework-bita-1k5h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
