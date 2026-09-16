@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI vs Django vs Flask: Which Python Framework Is Right for You?](https://dev.to/rohit_cs_730b68ec18a76a55/fastapi-vs-django-vs-flask-which-python-framework-is-right-for-you-1cde)
-- [JPA in java](https://dev.to/abinaya_v_7e6321c160544f1/jpa-in-java-1b7m)
-- [AI adoption now measured by what you can audit](https://dev.to/analista_83/ai-adoption-now-measured-by-what-you-can-audit-40gi)
-- [Building a Multi-Agent Voice Command Center: Load Bearing Empire&#39;s QHV Stack with Supabase, VAPI, and Vercel](https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-load-bearing-empires-qhv-stack-with-supabase-vapi-5589)
-- [Anthropic&#39;s grammar compiler counts properties, not characters](https://dev.to/robswierk/anthropics-grammar-compiler-counts-properties-not-characters-5el6)
-- [Karate Framework Certification | Karate Framework | BITA](https://dev.to/visalibita/karate-framework-certification-karate-framework-bita-1k5h)
+- [Process Telegram Stars Payments in PHP: Invoices, Pre-Checkout, and Webhooks](https://dev.to/serhii_a9c08345ac360cf5c8/process-telegram-stars-payments-in-php-invoices-pre-checkout-and-webhooks-fam)
+- [Science Meets Style: The Technology Behind Brabic Shapewear](https://dev.to/yu_yang_f26414a1d7a176c97/science-meets-style-the-technology-behind-brabic-shapewear-37e6)
+- [USA &amp; UK Buying Guide: Where Can You Buy LinkedIn Accounts?](https://dev.to/ownseoit87897/usa-uk-buying-guide-where-can-you-buy-linkedin-accounts-8kj)
+- [Nebility Product Deep Dive: Finding Your Perfect Match](https://dev.to/ersajay/nebility-product-deep-dive-finding-your-perfect-match-406g)
+- [Fuzz Testing for Java Code-Generation Agents](https://dev.to/lbobylev/fuzz-testing-for-java-code-generation-agents-24mg)
+- [Debugging Docker Crash Loops: A Practical Guide](https://dev.to/doogal/debugging-docker-crash-loops-a-practical-guide-2fog)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
