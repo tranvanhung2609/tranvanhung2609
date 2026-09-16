@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Best LLM Guardrails Platform in 2026: Enterprise AI Safety with Bifrost](https://dev.to/kuldeep_paul/best-llm-guardrails-platform-in-2026-enterprise-ai-safety-with-bifrost-4la2)
-- [Top 5 Kong Alternatives in 2026: An In-Depth Comparison](https://dev.to/kuldeep_paul/top-5-kong-alternatives-in-2026-an-in-depth-comparison-17d3)
-- [We scheduled a question for an hour when nobody could answer it](https://dev.to/unmannedops/we-scheduled-a-question-for-an-hour-when-nobody-could-answer-it-22oj)
-- [Top 5 Shadow AI Tools in 2026: Enterprise Governance and Visibility](https://dev.to/kuldeep_paul/top-5-shadow-ai-tools-in-2026-enterprise-governance-and-visibility-47ae)
-- [Best AI Guardrails Tools in 2026: Top 5 Platforms Compared](https://dev.to/kuldeep_paul/best-ai-guardrails-tools-in-2026-top-5-platforms-compared-hh3)
-- [Top 5 Model Routing Platforms in 2026](https://dev.to/kuldeep_paul/top-5-model-routing-platforms-in-2026-3ea)
+- [Day 1 : Session 2 : EC2, S3, Serverless Computing and Event Triggers published](https://dev.to/preethika_j/day-1-session-2-ec2-s3-serverless-computing-and-event-triggerspublished-55ag)
+- [ACTCOINESE-MAX stärkt den mobilen Zugang zu digitalen Services](https://dev.to/actcoinese-max/actcoinese-max-starkt-den-mobilen-zugang-zu-digitalen-services-24a7)
+- [Day 1 : Session 1 Cloud-Native Systems &amp; Applied AI Integration](https://dev.to/preethika_j/day-1-session-1-cloud-native-systems-applied-ai-integration-h79)
+- [An AI Agent Found Admin Access to a $13B Startup in 25 Minutes. Here&#39;s the Free Tool It Used, and the Docker Mistake That Made It Possible](https://dev.to/jamilxt/an-ai-agent-found-admin-access-to-a-13b-startup-in-25-minutes-heres-the-free-tool-it-used-and-337a)
+- [I Added Human-in-the-Loop to an Async Queue System -Here&#39;s How LangGraph Checkpointing Made It Possible](https://dev.to/awaluddin/i-added-human-in-the-loop-to-an-async-queue-system-heres-how-langgraph-checkpointing-made-it-3opl)
+- [Stop Giving Your Cloudflare Workers Root Access: How to Fix Overprivileged AI Agents and CI/CD Pipelines](https://dev.to/hamza_dev_talks/stop-giving-your-cloudflare-workers-root-access-how-to-fix-overprivileged-ai-agents-and-cicd-27nl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
