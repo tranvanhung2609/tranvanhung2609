@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Process Telegram Stars Payments in PHP: Invoices, Pre-Checkout, and Webhooks](https://dev.to/serhii_a9c08345ac360cf5c8/process-telegram-stars-payments-in-php-invoices-pre-checkout-and-webhooks-fam)
-- [Science Meets Style: The Technology Behind Brabic Shapewear](https://dev.to/yu_yang_f26414a1d7a176c97/science-meets-style-the-technology-behind-brabic-shapewear-37e6)
-- [USA &amp; UK Buying Guide: Where Can You Buy LinkedIn Accounts?](https://dev.to/ownseoit87897/usa-uk-buying-guide-where-can-you-buy-linkedin-accounts-8kj)
-- [Nebility Product Deep Dive: Finding Your Perfect Match](https://dev.to/ersajay/nebility-product-deep-dive-finding-your-perfect-match-406g)
-- [Fuzz Testing for Java Code-Generation Agents](https://dev.to/lbobylev/fuzz-testing-for-java-code-generation-agents-24mg)
-- [Debugging Docker Crash Loops: A Practical Guide](https://dev.to/doogal/debugging-docker-crash-loops-a-practical-guide-2fog)
+- [Github Actions: Re-intentar automáticamente los jobs de CI que un reclamo de spot instance mató](https://dev.to/elchesco_/github-actions-re-intentar-automaticamente-los-jobs-de-ci-que-un-reclamo-de-spot-instance-mato-1f79)
+- [The gap between scheduled and started was free telemetry we kept discarding](https://dev.to/unmannedops/the-gap-between-scheduled-and-started-was-free-telemetry-we-kept-discarding-21f8)
+- [When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts](https://dev.to/rasne/when-scanners-miss-the-attack-how-cloudflare-client-side-security-protects-storefronts-2839)
+- [Why &quot;Authenticated-Only&quot; Bugs Are More Dangerous Than You Think &lpar;cPanel CVE-2026-67401&rpar;](https://dev.to/xpert4cyber/why-authenticated-only-bugs-are-more-dangerous-than-you-think-cpanel-cve-2026-67401-3ekj)
+- [Build a Full CI/CD Pipeline for a Node.js App: From Zero to Auto-Deploy in One Hour](https://dev.to/devopslesson/build-a-full-cicd-pipeline-for-a-nodejs-app-from-zero-to-auto-deploy-in-one-hour-42dj)
+- [Your Self-Hosted Agent Will Break at 3 a.m. Here Is What Should Happen Next.](https://dev.to/frederikvonderheyden/your-self-hosted-agent-will-break-at-3-am-here-is-what-should-happen-next-4g6j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
