@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What to Check Before Choosing a Wi-Fi Provider for Your Business Network](https://dev.to/aboveinfranet-wendel/what-to-check-before-choosing-a-wi-fi-provider-for-your-business-network-119l)
-- [&quot;Streaming through an OpenAI-compatible proxy: 6 bugs that only show up in production&quot;](https://dev.to/keheai_harvey/streaming-through-an-openai-compatible-proxy-6-bugs-that-only-show-up-in-production-2dk0)
-- [Why ExitOnForwardFailure=yes does not prove your database is reachable](https://dev.to/nexusshell/why-exitonforwardfailureyes-does-not-prove-your-database-is-reachable-4o22)
-- [The Enterprise WAF Decision Is an Operating-Model Decision](https://dev.to/haoran-cyberserval/the-enterprise-waf-decision-is-an-operating-model-decision-1a81)
-- [Self-Hosted CI Runners Are Shared Secrets: Threat Modelling Your Build Infrastructure](https://dev.to/kozhevniko/self-hosted-ci-runners-are-shared-secrets-threat-modelling-your-build-infrastructure-2ji3)
-- [Apex A Records vs WWW-Only Customer Domain Support: Propagation Trade-offs](https://dev.to/titanj53/apex-a-records-vs-www-only-customer-domain-support-propagation-trade-offs-5h3m)
+- [I have 10 bots working on my dev workflow right now. Here is what each one does.](https://dev.to/kbhatnagar/i-have-10-bots-working-on-my-dev-workflow-right-now-here-is-what-each-one-does-37g3)
+- [We upgraded our job platform at 10:22 and deleted it at 13:34](https://dev.to/daniel_pertu/we-upgraded-our-job-platform-at-1022-and-deleted-it-at-1334-134p)
+- [Our test asked for 4 branches, ran 1, and reported PASS](https://dev.to/devil_scrapes/our-test-asked-for-4-branches-ran-1-and-reported-pass-980)
+- [Why I Built a Lightweight Rust Watcher for Linux Services &amp; Docker Containers](https://dev.to/aegira/why-i-built-a-lightweight-rust-watcher-for-linux-services-docker-containers-5ol)
+- [Twelve Checks That Could Not Fail](https://dev.to/efe_genc/twelve-checks-that-could-not-fail-4lea)
+- [Green ticks for three hours: the lock whose TTL was the job&#39;s worst case](https://dev.to/daniel_pertu/green-ticks-for-three-hours-the-lock-whose-ttl-was-the-jobs-worst-case-3712)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
