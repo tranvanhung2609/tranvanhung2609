@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I have 10 bots working on my dev workflow right now. Here is what each one does.](https://dev.to/kbhatnagar/i-have-10-bots-working-on-my-dev-workflow-right-now-here-is-what-each-one-does-37g3)
-- [We upgraded our job platform at 10:22 and deleted it at 13:34](https://dev.to/daniel_pertu/we-upgraded-our-job-platform-at-1022-and-deleted-it-at-1334-134p)
-- [Our test asked for 4 branches, ran 1, and reported PASS](https://dev.to/devil_scrapes/our-test-asked-for-4-branches-ran-1-and-reported-pass-980)
-- [Why I Built a Lightweight Rust Watcher for Linux Services &amp; Docker Containers](https://dev.to/aegira/why-i-built-a-lightweight-rust-watcher-for-linux-services-docker-containers-5ol)
-- [Twelve Checks That Could Not Fail](https://dev.to/efe_genc/twelve-checks-that-could-not-fail-4lea)
-- [Green ticks for three hours: the lock whose TTL was the job&#39;s worst case](https://dev.to/daniel_pertu/green-ticks-for-three-hours-the-lock-whose-ttl-was-the-jobs-worst-case-3712)
+- [Best 20 Platforms to Buy Verified LoyalFans Accounts in World 2027](https://dev.to/apbbva6170/best-20-platforms-to-buy-verified-loyalfans-accounts-in-world-2027-3a16)
+- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 06&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-06-5g19)
+- [Army vs Hibernate](https://dev.to/zoro7/army-vs-hibernate-1m2l)
+- [Top K Frequent Elements](https://dev.to/yoges/top-k-frequent-elements-klj)
+- [Army vs Hibernate](https://dev.to/zoro7/army-vs-hibernate-1m2l)
+- [Quarkus 4 Is Coming for Spring Boot 4. Here Is How the Two Big Java Frameworks Actually Compare in 2026](https://dev.to/jamilxt/quarkus-4-is-coming-for-spring-boot-4-here-is-how-the-two-big-java-frameworks-actually-compare-in-8p7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
