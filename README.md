@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Best 20 Platforms to Buy Verified LoyalFans Accounts in World 2027](https://dev.to/apbbva6170/best-20-platforms-to-buy-verified-loyalfans-accounts-in-world-2027-3a16)
-- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 06&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-06-5g19)
-- [Army vs Hibernate](https://dev.to/zoro7/army-vs-hibernate-1m2l)
-- [Top K Frequent Elements](https://dev.to/yoges/top-k-frequent-elements-klj)
-- [Army vs Hibernate](https://dev.to/zoro7/army-vs-hibernate-1m2l)
-- [Quarkus 4 Is Coming for Spring Boot 4. Here Is How the Two Big Java Frameworks Actually Compare in 2026](https://dev.to/jamilxt/quarkus-4-is-coming-for-spring-boot-4-here-is-how-the-two-big-java-frameworks-actually-compare-in-8p7)
+- [Python Billing Provisioning: Idempotent Default Payments and Auto-Recharge Verification](https://dev.to/xerxescross2735/python-billing-provisioning-idempotent-default-payments-and-auto-recharge-verification-1195)
+- [Enterprise LLM Observability Tools: The 2026 Evaluation Guide](https://dev.to/chidi94/enterprise-llm-observability-tools-the-2026-evaluation-guide-3972)
+- [Top LLM Observability Tools for Production AI in 2026](https://dev.to/tariq85/top-llm-observability-tools-for-production-ai-in-2026-lnc)
+- [7 Best LLM Observability Tools for Production AI &lpar;2026&rpar;](https://dev.to/conorbreathnach/7-best-llm-observability-tools-for-production-ai-2026-3fok)
+- [/etc/environment is not read by systemd, and I believed it was for a month](https://dev.to/jjozzietech/etcenvironment-is-not-read-by-systemd-and-i-believed-it-was-for-a-month-5f03)
+- [Kubernetes RBAC Privilege Escalation &amp; Container Breakouts &lpar;2026 Masterclass&rpar;](https://dev.to/syed_zada_abrar/kubernetes-rbac-privilege-escalation-container-breakouts-2026-masterclass-4cie)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
