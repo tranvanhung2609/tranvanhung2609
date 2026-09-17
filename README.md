@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Github Actions: Re-intentar automáticamente los jobs de CI que un reclamo de spot instance mató](https://dev.to/elchesco_/github-actions-re-intentar-automaticamente-los-jobs-de-ci-que-un-reclamo-de-spot-instance-mato-1f79)
-- [The gap between scheduled and started was free telemetry we kept discarding](https://dev.to/unmannedops/the-gap-between-scheduled-and-started-was-free-telemetry-we-kept-discarding-21f8)
-- [When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts](https://dev.to/rasne/when-scanners-miss-the-attack-how-cloudflare-client-side-security-protects-storefronts-2839)
-- [Why &quot;Authenticated-Only&quot; Bugs Are More Dangerous Than You Think &lpar;cPanel CVE-2026-67401&rpar;](https://dev.to/xpert4cyber/why-authenticated-only-bugs-are-more-dangerous-than-you-think-cpanel-cve-2026-67401-3ekj)
-- [Build a Full CI/CD Pipeline for a Node.js App: From Zero to Auto-Deploy in One Hour](https://dev.to/devopslesson/build-a-full-cicd-pipeline-for-a-nodejs-app-from-zero-to-auto-deploy-in-one-hour-42dj)
-- [Your Self-Hosted Agent Will Break at 3 a.m. Here Is What Should Happen Next.](https://dev.to/frederikvonderheyden/your-self-hosted-agent-will-break-at-3-am-here-is-what-should-happen-next-4g6j)
+- [What to Check Before Choosing a Wi-Fi Provider for Your Business Network](https://dev.to/aboveinfranet-wendel/what-to-check-before-choosing-a-wi-fi-provider-for-your-business-network-119l)
+- [&quot;Streaming through an OpenAI-compatible proxy: 6 bugs that only show up in production&quot;](https://dev.to/keheai_harvey/streaming-through-an-openai-compatible-proxy-6-bugs-that-only-show-up-in-production-2dk0)
+- [Why ExitOnForwardFailure=yes does not prove your database is reachable](https://dev.to/nexusshell/why-exitonforwardfailureyes-does-not-prove-your-database-is-reachable-4o22)
+- [The Enterprise WAF Decision Is an Operating-Model Decision](https://dev.to/haoran-cyberserval/the-enterprise-waf-decision-is-an-operating-model-decision-1a81)
+- [Self-Hosted CI Runners Are Shared Secrets: Threat Modelling Your Build Infrastructure](https://dev.to/kozhevniko/self-hosted-ci-runners-are-shared-secrets-threat-modelling-your-build-infrastructure-2ji3)
+- [Apex A Records vs WWW-Only Customer Domain Support: Propagation Trade-offs](https://dev.to/titanj53/apex-a-records-vs-www-only-customer-domain-support-propagation-trade-offs-5h3m)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
