@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Python Billing Provisioning: Idempotent Default Payments and Auto-Recharge Verification](https://dev.to/xerxescross2735/python-billing-provisioning-idempotent-default-payments-and-auto-recharge-verification-1195)
-- [Enterprise LLM Observability Tools: The 2026 Evaluation Guide](https://dev.to/chidi94/enterprise-llm-observability-tools-the-2026-evaluation-guide-3972)
-- [Top LLM Observability Tools for Production AI in 2026](https://dev.to/tariq85/top-llm-observability-tools-for-production-ai-in-2026-lnc)
-- [7 Best LLM Observability Tools for Production AI &lpar;2026&rpar;](https://dev.to/conorbreathnach/7-best-llm-observability-tools-for-production-ai-2026-3fok)
-- [/etc/environment is not read by systemd, and I believed it was for a month](https://dev.to/jjozzietech/etcenvironment-is-not-read-by-systemd-and-i-believed-it-was-for-a-month-5f03)
-- [Kubernetes RBAC Privilege Escalation &amp; Container Breakouts &lpar;2026 Masterclass&rpar;](https://dev.to/syed_zada_abrar/kubernetes-rbac-privilege-escalation-container-breakouts-2026-masterclass-4cie)
+- [API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore](https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0)
+- [API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore](https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0)
+- [Seller Catalog Imports: Bounded Batch Submission With Observable Progress and Safe Retries](https://dev.to/valenciamoss6824/seller-catalog-imports-bounded-batch-submission-with-observable-progress-and-safe-retries-onp)
+- [ACTCOINESE-MAX schafft neue Möglichkeiten für moderne mobile Services](https://dev.to/actcoinese-max/actcoinese-max-schafft-neue-moglichkeiten-fur-moderne-mobile-services-2lib)
+- [Modular Monolith Architecture: The Smart Default in 2026](https://dev.to/nainikmehta/modular-monolith-architecture-the-smart-default-in-2026-nnc)
+- [Short DNS TTLs Explained: Pre-Change Lowering for Healthtech Customer Domains](https://dev.to/apexz69/short-dns-ttls-explained-pre-change-lowering-for-healthtech-customer-domains-24i1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
