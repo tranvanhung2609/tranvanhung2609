@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore](https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0)
-- [API Spend Cap: Temporarily Raise for Launch and Schedule Automatic Restore](https://dev.to/grahamprice3746/api-spend-cap-temporarily-raise-for-launch-and-schedule-automatic-restore-58k0)
-- [Seller Catalog Imports: Bounded Batch Submission With Observable Progress and Safe Retries](https://dev.to/valenciamoss6824/seller-catalog-imports-bounded-batch-submission-with-observable-progress-and-safe-retries-onp)
-- [ACTCOINESE-MAX schafft neue Möglichkeiten für moderne mobile Services](https://dev.to/actcoinese-max/actcoinese-max-schafft-neue-moglichkeiten-fur-moderne-mobile-services-2lib)
-- [Modular Monolith Architecture: The Smart Default in 2026](https://dev.to/nainikmehta/modular-monolith-architecture-the-smart-default-in-2026-nnc)
-- [Short DNS TTLs Explained: Pre-Change Lowering for Healthtech Customer Domains](https://dev.to/apexz69/short-dns-ttls-explained-pre-change-lowering-for-healthtech-customer-domains-24i1)
+- [The Scripts Holding Our Month End Together Had One Author](https://dev.to/serguey_shinder_4ab9b87b1/the-scripts-holding-our-month-end-together-had-one-author-1idh)
+- [Best Corporate Training Programs with Guided Practice](https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-programs-with-guided-practice-31g7)
+- [How to Configure SafeLine WAF as a Reverse Proxy](https://dev.to/lialiago/how-to-configure-safeline-waf-as-a-reverse-proxy-3ind)
+- [Deleting one subnet from a list rebuilt six of them](https://dev.to/sergey_shinder_ab2d943365/deleting-one-subnet-from-a-list-rebuilt-six-of-them-4jna)
+- [Maven Basics](https://dev.to/linara07/maven-basics-4oon)
+- [The same commit built us two different images](https://dev.to/sergey_shinder_ab2d943365/the-same-commit-built-us-two-different-images-8j9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
