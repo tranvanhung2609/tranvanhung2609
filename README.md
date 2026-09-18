@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 Secure Platforms To Buy Verified PayPal Accounts](https://dev.to/etheldawhitmorexibv9/top-6-secure-platforms-to-buy-verified-paypal-accounts-5hi4)
-- [Smoke Evals: The 20 Cases That Should Block Every AI Deploy](https://dev.to/anciwasim/smoke-evals-the-20-cases-that-should-block-every-ai-deploy-59f6)
-- [Maximize License Utility with Token Licenses and Pooling](https://dev.to/reprise_software/maximize-license-utility-with-token-licenses-and-pooling-ec0)
-- [The Interface Module Pattern](https://dev.to/tonedefdev/the-interface-module-pattern-58a2)
-- [# How IoT Is Changing Event &amp; Venue Access Control](https://dev.to/digital_insights_af2439fd/-how-iot-is-changing-event-venue-access-control-2hjl)
-- [P&amp;L Administration &amp; Quotations: Building Enterprise-Grade Financial Management Systems](https://dev.to/said_olano/pl-administration-quotations-building-enterprise-grade-financial-management-systems-3h3k)
+- [Replacing Basic Auth with JWT and OAuth2 in Spring Security](https://dev.to/bilal_bukhari_75aeb34a969/replacing-basic-auth-with-jwt-and-oauth2-in-spring-security-h9k)
+- [How to Check Laravel Page Memory Usage Without Guessing](https://dev.to/tahsin000/how-to-check-laravel-page-memory-usage-without-guessing-3mli)
+- [Boot-Time Key Entitlement Checks: Fail Fast Before Student Traffic Arrives](https://dev.to/nilsberg2187/boot-time-key-entitlement-checks-fail-fast-before-student-traffic-arrives-4he7)
+- [The webhook dedupe everyone copies has a hole in it](https://dev.to/webhooker-eu/the-webhook-dedupe-everyone-copies-has-a-hole-in-it-2lnj)
+- [Filtering by maxPrice is Cheaper Than Filtering After the Run](https://dev.to/crawlerbros/filtering-by-maxprice-is-cheaper-than-filtering-after-the-run-la3)
+- [Building a REST API with Java and Spring Boot: A Practical Guide](https://dev.to/tim1206/building-a-rest-api-with-java-and-spring-boot-a-practical-guide-ngh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
