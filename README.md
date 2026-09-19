@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Trusted the IDE Import for 48 Hours. sys.path[0] Was an Empty String.](https://dev.to/codepy_1473/i-trusted-the-ide-import-for-48-hours-syspath0-was-an-empty-string-1ogo)
-- [FAQ: Five Myths About Tests the Agent Wrote for Itself](https://dev.to/gitlab_3188/faq-five-myths-about-tests-the-agent-wrote-for-itself-5h8o)
-- [Claude Eases Life Science Restrictions: Tradeoffs of Validation, Tiered Access, and 30-Day Data Retention](https://dev.to/tidiane_stano_c6b88f8b685/claude-eases-life-science-restrictions-tradeoffs-of-validation-tiered-access-and-30-day-data-1lf3)
-- [Your monitoring has 400 alerts and your on-call reads 3 of them](https://dev.to/hive80lab/your-monitoring-has-400-alerts-and-your-on-call-reads-3-of-them-dcl)
-- [The 15-minute incident review that small IT teams actually finish](https://dev.to/hive80lab/the-15-minute-incident-review-that-small-it-teams-actually-finish-14c4)
-- [The 2-Hour Sunday That Saves a Solo SaaS: Weekly Ops Ritual You Can Run Alone](https://dev.to/hive80lab/the-2-hour-sunday-that-saves-a-solo-saas-weekly-ops-ritual-you-can-run-alone-4ip6)
+- [Your runbook lives in a wiki nobody opens during an incident](https://dev.to/hive80lab/your-runbook-lives-in-a-wiki-nobody-opens-during-an-incident-56d2)
+- [My AI Agent Pipeline Cut Wall Time and Used More Tokens](https://dev.to/hexisteme/my-ai-agent-pipeline-cut-wall-time-and-used-more-tokens-9)
+- [Is your OpenVPN server truly secure? One smart tip: add MFA so a stolen password alone can’t grant](https://dev.to/onegbits/is-your-openvpn-server-truly-secure-one-smart-tip-add-mfa-so-a-stolen-password-alone-cant-grant-1724)
+- [White-label 24/7 ops: sell the night shift you don&#39;t staff](https://dev.to/hive80lab/white-label-247-ops-sell-the-night-shift-you-dont-staff-2e7o)
+- [Building a Vertically Integrated AI Stack: How Load Bearing Empire Unified 6 Businesses on Supabase, VAPI, and Self-Hosted Aster](https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-how-load-bearing-empire-unified-6-businesses-on-24ph)
+- [Terraform adopted the database and set it back to our defaults](https://dev.to/sergey_shinder_ab2d943365/terraform-adopted-the-database-and-set-it-back-to-our-defaults-4abp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
