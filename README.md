@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Replacing Basic Auth with JWT and OAuth2 in Spring Security](https://dev.to/bilal_bukhari_75aeb34a969/replacing-basic-auth-with-jwt-and-oauth2-in-spring-security-h9k)
-- [How to Check Laravel Page Memory Usage Without Guessing](https://dev.to/tahsin000/how-to-check-laravel-page-memory-usage-without-guessing-3mli)
-- [Boot-Time Key Entitlement Checks: Fail Fast Before Student Traffic Arrives](https://dev.to/nilsberg2187/boot-time-key-entitlement-checks-fail-fast-before-student-traffic-arrives-4he7)
-- [The webhook dedupe everyone copies has a hole in it](https://dev.to/webhooker-eu/the-webhook-dedupe-everyone-copies-has-a-hole-in-it-2lnj)
-- [Filtering by maxPrice is Cheaper Than Filtering After the Run](https://dev.to/crawlerbros/filtering-by-maxprice-is-cheaper-than-filtering-after-the-run-la3)
-- [Building a REST API with Java and Spring Boot: A Practical Guide](https://dev.to/tim1206/building-a-rest-api-with-java-and-spring-boot-a-practical-guide-ngh)
+- [I Trusted the IDE Import for 48 Hours. sys.path[0] Was an Empty String.](https://dev.to/codepy_1473/i-trusted-the-ide-import-for-48-hours-syspath0-was-an-empty-string-1ogo)
+- [FAQ: Five Myths About Tests the Agent Wrote for Itself](https://dev.to/gitlab_3188/faq-five-myths-about-tests-the-agent-wrote-for-itself-5h8o)
+- [Claude Eases Life Science Restrictions: Tradeoffs of Validation, Tiered Access, and 30-Day Data Retention](https://dev.to/tidiane_stano_c6b88f8b685/claude-eases-life-science-restrictions-tradeoffs-of-validation-tiered-access-and-30-day-data-1lf3)
+- [Your monitoring has 400 alerts and your on-call reads 3 of them](https://dev.to/hive80lab/your-monitoring-has-400-alerts-and-your-on-call-reads-3-of-them-dcl)
+- [The 15-minute incident review that small IT teams actually finish](https://dev.to/hive80lab/the-15-minute-incident-review-that-small-it-teams-actually-finish-14c4)
+- [The 2-Hour Sunday That Saves a Solo SaaS: Weekly Ops Ritual You Can Run Alone](https://dev.to/hive80lab/the-2-hour-sunday-that-saves-a-solo-saas-weekly-ops-ritual-you-can-run-alone-4ip6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
