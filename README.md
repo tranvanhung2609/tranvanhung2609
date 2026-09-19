@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The 2AM page nobody can close: dangling events in 24/7 automation](https://dev.to/hive80lab/the-2am-page-nobody-can-close-dangling-events-in-247-automation-n76)
-- [Conversation Regression Testing for AI Agents: Catch Multi-Turn Failures Before Production](https://dev.to/jackm-singularity/conversation-regression-testing-for-ai-agents-catch-multi-turn-failures-before-production-emg)
-- [I watched an unattended agent fleet for a month. Only 3 monitors actually caught failures.](https://dev.to/hive80lab/i-watched-an-unattended-agent-fleet-for-a-month-only-3-monitors-actually-caught-failures-3gg9)
-- [Tracking Discount Trends Across 20+ Regional Amazon Deals Grids](https://dev.to/crawlerbros/tracking-discount-trends-across-20-regional-amazon-deals-grids-48b7)
-- [SPF permerror: the two failures that look exactly like a working record](https://dev.to/emailcampaignai/spf-permerror-the-two-failures-that-look-exactly-like-a-working-record-4bp7)
-- [I&#39;ve Been Programming for 14 Years. I Just Earned My First Microsoft Credential.](https://dev.to/a95yman/ive-been-programming-for-14-years-i-just-earned-my-first-microsoft-credential-4gg4)
+- [Linux Week 1: Understanding the Foundation 🐧](https://dev.to/sammynug/linux-week-1-understanding-the-foundation-3j3a)
+- [GitHub Actions ran my hourly cron once in ten hours](https://dev.to/layercall/github-actions-ran-my-hourly-cron-once-in-ten-hours-17p8)
+- [Internal Tooling Reads: 4 Narrow Scoped API Key Boundaries for Admin Views](https://dev.to/ethanbrooks1647/internal-tooling-reads-4-narrow-scoped-api-key-boundaries-for-admin-views-42op)
+- [Marketplace Exit Ledger — Revoke Access, Delete Tenant Rows, Retain Proof](https://dev.to/cianwinslow371/marketplace-exit-ledger-revoke-access-delete-tenant-rows-retain-proof-1emo)
+- [Stop Abusive Game Tenants Immediately — Revoke Keys Without a Deploy](https://dev.to/mt41gzp73rc6/stop-abusive-game-tenants-immediately-revoke-keys-without-a-deploy-573h)
+- [FAQ: What a Free Agent Session Does Not Prove](https://dev.to/gitlab_3188/faq-what-a-free-agent-session-does-not-prove-5e7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
