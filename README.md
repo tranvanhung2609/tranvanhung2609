@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your runbook lives in a wiki nobody opens during an incident](https://dev.to/hive80lab/your-runbook-lives-in-a-wiki-nobody-opens-during-an-incident-56d2)
-- [My AI Agent Pipeline Cut Wall Time and Used More Tokens](https://dev.to/hexisteme/my-ai-agent-pipeline-cut-wall-time-and-used-more-tokens-9)
-- [Is your OpenVPN server truly secure? One smart tip: add MFA so a stolen password alone can’t grant](https://dev.to/onegbits/is-your-openvpn-server-truly-secure-one-smart-tip-add-mfa-so-a-stolen-password-alone-cant-grant-1724)
-- [White-label 24/7 ops: sell the night shift you don&#39;t staff](https://dev.to/hive80lab/white-label-247-ops-sell-the-night-shift-you-dont-staff-2e7o)
-- [Building a Vertically Integrated AI Stack: How Load Bearing Empire Unified 6 Businesses on Supabase, VAPI, and Self-Hosted Aster](https://dev.to/domoniqueluchin/building-a-vertically-integrated-ai-stack-how-load-bearing-empire-unified-6-businesses-on-24ph)
-- [Terraform adopted the database and set it back to our defaults](https://dev.to/sergey_shinder_ab2d943365/terraform-adopted-the-database-and-set-it-back-to-our-defaults-4abp)
+- [The 2AM page nobody can close: dangling events in 24/7 automation](https://dev.to/hive80lab/the-2am-page-nobody-can-close-dangling-events-in-247-automation-n76)
+- [Conversation Regression Testing for AI Agents: Catch Multi-Turn Failures Before Production](https://dev.to/jackm-singularity/conversation-regression-testing-for-ai-agents-catch-multi-turn-failures-before-production-emg)
+- [I watched an unattended agent fleet for a month. Only 3 monitors actually caught failures.](https://dev.to/hive80lab/i-watched-an-unattended-agent-fleet-for-a-month-only-3-monitors-actually-caught-failures-3gg9)
+- [Tracking Discount Trends Across 20+ Regional Amazon Deals Grids](https://dev.to/crawlerbros/tracking-discount-trends-across-20-regional-amazon-deals-grids-48b7)
+- [SPF permerror: the two failures that look exactly like a working record](https://dev.to/emailcampaignai/spf-permerror-the-two-failures-that-look-exactly-like-a-working-record-4bp7)
+- [I&#39;ve Been Programming for 14 Years. I Just Earned My First Microsoft Credential.](https://dev.to/a95yman/ive-been-programming-for-14-years-i-just-earned-my-first-microsoft-credential-4gg4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
