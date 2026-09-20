@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Linux Week 1: Understanding the Foundation 🐧](https://dev.to/sammynug/linux-week-1-understanding-the-foundation-3j3a)
-- [GitHub Actions ran my hourly cron once in ten hours](https://dev.to/layercall/github-actions-ran-my-hourly-cron-once-in-ten-hours-17p8)
-- [Internal Tooling Reads: 4 Narrow Scoped API Key Boundaries for Admin Views](https://dev.to/ethanbrooks1647/internal-tooling-reads-4-narrow-scoped-api-key-boundaries-for-admin-views-42op)
-- [Marketplace Exit Ledger — Revoke Access, Delete Tenant Rows, Retain Proof](https://dev.to/cianwinslow371/marketplace-exit-ledger-revoke-access-delete-tenant-rows-retain-proof-1emo)
-- [Stop Abusive Game Tenants Immediately — Revoke Keys Without a Deploy](https://dev.to/mt41gzp73rc6/stop-abusive-game-tenants-immediately-revoke-keys-without-a-deploy-573h)
-- [FAQ: What a Free Agent Session Does Not Prove](https://dev.to/gitlab_3188/faq-what-a-free-agent-session-does-not-prove-5e7)
+- [Internal Service Discovery: DNS Records or Registry by Change Frequency](https://dev.to/velvetdusk629047/internal-service-discovery-dns-records-or-registry-by-change-frequency-5239)
+- [AI Didn&#39;t Hack OpenAI. A Missed Debian Backport and an SSO Misconfiguration Did](https://dev.to/jamilxt/ai-didnt-hack-openai-a-missed-debian-backport-and-an-sso-misconfiguration-did-4mj2)
+- [Next.js revalidateTag: Surgical ISR &amp; Self-hosted Caching](https://dev.to/nainikmehta/nextjs-revalidatetag-surgical-isr-self-hosted-caching-3bm2)
+- [The Code Style Rules Worth Arguing About](https://dev.to/li_5408/the-code-style-rules-worth-arguing-about-2i0k)
+- [Java: JPA e Hibernate](https://dev.to/matheusgondra/java-jpa-e-hibernate-d53)
+- [API Credential Inventory Explained: Go Account Security Boundary for Gaming Billing](https://dev.to/zebedeeholloway9023/api-credential-inventory-explained-go-account-security-boundary-for-gaming-billing-fd4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
