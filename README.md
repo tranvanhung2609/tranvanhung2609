@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Escape &quot;Tutorial Hell&quot; in 2026 &lpar;And Actually Build Projects&rpar;](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1)
-- [Cookies T-Shirt A Modern Streetwear Essential](https://dev.to/rana_sab_14b2e025f68de991/cookies-t-shirt-a-modern-streetwear-essential-5dla)
-- [Stop Chasing Exactly-Once. Your Kafka Consumer Just Needs to Not Care](https://dev.to/nazrinsuleymanli/stop-chasing-exactly-once-your-kafka-consumer-just-needs-to-not-care-1j5m)
-- [My refund agent looked smart until it lied about Shopify, Stripe, and Zendesk 3 different ways](https://dev.to/lars_winstand/my-refund-agent-looked-smart-until-it-lied-about-shopify-stripe-and-zendesk-3-different-ways-42e2)
-- [Your scanner says 7.4.3 is unaffected. It was being rooted](https://dev.to/vainamoinen/your-scanner-says-743-is-unaffected-it-was-being-rooted-56nl)
-- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
+- [FAQ: Five Myths About Agent-Run Tests](https://dev.to/gitlab_3188/faq-five-myths-about-agent-run-tests-1e89)
+- [I Built the First Java SDK for Jev, TypeSafe&#39;s System One Model](https://dev.to/jamilxt/i-built-the-first-java-sdk-for-jev-typesafes-system-one-model-2m37)
+- [What should every foreigner know about your country in terms of food, tourist destinations, demography, best time to visit, and USP of your country?](https://dev.to/sharafat_ali_8c9a8ff2bee7/what-should-every-foreigner-know-about-your-country-in-terms-of-food-tourist-destinations-4lco)
+- [Why AI Code Breaks in Production: The &quot;Context Ceiling&quot; of Distributed Systems](https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc)
+- [Seven Controls to Put in Place Before an AI Agent Gets Production Access](https://dev.to/yanivshenhav/seven-controls-to-put-in-place-before-an-ai-agent-gets-production-access-6bp)
+- [Java Learning Series - Product Management System with CRUD operations for beginners](https://dev.to/dev_saravanan_journey/java-learning-series-product-management-system-with-crud-operations-for-beginners-1ef2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
