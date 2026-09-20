@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A timeout is not a failure](https://dev.to/deval123/a-timeout-is-not-a-failure-4a9d)
-- [开发技术观察 知识管理与开发工具 · 第00004期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-zhi-shi-guan-li-yu-kai-fa-gong-ju-di-00004qi-20o7)
-- [开发技术观察 信息检索与办公协作 · 第00003期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-xin-xi-jian-suo-yu-ban-gong-xie-zuo-di-00003qi-37en)
-- [开发技术观察 边缘计算与自动化运维 · 第00002期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-bian-yuan-ji-suan-yu-zi-dong-hua-yun-wei-di-00002qi-53oc)
-- [Your certificate inventory is exact. Your tickets are not.](https://dev.to/dmj_jones_8ec54a3564709a8/your-certificate-inventory-is-exact-your-tickets-are-not-41gj)
-- [Point the official Sentry SDK at self-hosted ingest &lpar;DSN only&rpar;](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2)
+- [How to Escape &quot;Tutorial Hell&quot; in 2026 &lpar;And Actually Build Projects&rpar;](https://dev.to/tanmay_gupta_f5e6a6c64ad2/how-to-escape-tutorial-hell-in-2026-and-actually-build-projects-4co1)
+- [Cookies T-Shirt A Modern Streetwear Essential](https://dev.to/rana_sab_14b2e025f68de991/cookies-t-shirt-a-modern-streetwear-essential-5dla)
+- [Stop Chasing Exactly-Once. Your Kafka Consumer Just Needs to Not Care](https://dev.to/nazrinsuleymanli/stop-chasing-exactly-once-your-kafka-consumer-just-needs-to-not-care-1j5m)
+- [My refund agent looked smart until it lied about Shopify, Stripe, and Zendesk 3 different ways](https://dev.to/lars_winstand/my-refund-agent-looked-smart-until-it-lied-about-shopify-stripe-and-zendesk-3-different-ways-42e2)
+- [Your scanner says 7.4.3 is unaffected. It was being rooted](https://dev.to/vainamoinen/your-scanner-says-743-is-unaffected-it-was-being-rooted-56nl)
+- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
