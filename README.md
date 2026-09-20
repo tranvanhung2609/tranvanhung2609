@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Internal Service Discovery: DNS Records or Registry by Change Frequency](https://dev.to/velvetdusk629047/internal-service-discovery-dns-records-or-registry-by-change-frequency-5239)
-- [AI Didn&#39;t Hack OpenAI. A Missed Debian Backport and an SSO Misconfiguration Did](https://dev.to/jamilxt/ai-didnt-hack-openai-a-missed-debian-backport-and-an-sso-misconfiguration-did-4mj2)
-- [Next.js revalidateTag: Surgical ISR &amp; Self-hosted Caching](https://dev.to/nainikmehta/nextjs-revalidatetag-surgical-isr-self-hosted-caching-3bm2)
-- [The Code Style Rules Worth Arguing About](https://dev.to/li_5408/the-code-style-rules-worth-arguing-about-2i0k)
-- [Java: JPA e Hibernate](https://dev.to/matheusgondra/java-jpa-e-hibernate-d53)
-- [API Credential Inventory Explained: Go Account Security Boundary for Gaming Billing](https://dev.to/zebedeeholloway9023/api-credential-inventory-explained-go-account-security-boundary-for-gaming-billing-fd4)
+- [A timeout is not a failure](https://dev.to/deval123/a-timeout-is-not-a-failure-4a9d)
+- [开发技术观察 知识管理与开发工具 · 第00004期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-zhi-shi-guan-li-yu-kai-fa-gong-ju-di-00004qi-20o7)
+- [开发技术观察 信息检索与办公协作 · 第00003期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-xin-xi-jian-suo-yu-ban-gong-xie-zuo-di-00003qi-37en)
+- [开发技术观察 边缘计算与自动化运维 · 第00002期](https://dev.to/woahoy/kai-fa-ji-zhu-guan-cha-bian-yuan-ji-suan-yu-zi-dong-hua-yun-wei-di-00002qi-53oc)
+- [Your certificate inventory is exact. Your tickets are not.](https://dev.to/dmj_jones_8ec54a3564709a8/your-certificate-inventory-is-exact-your-tickets-are-not-41gj)
+- [Point the official Sentry SDK at self-hosted ingest &lpar;DSN only&rpar;](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
