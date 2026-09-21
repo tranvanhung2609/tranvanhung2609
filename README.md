@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Platform Engineering 2026: Why DevOps Alone Is No Longer Enough](https://dev.to/saaro_net/platform-engineering-2026-why-devops-alone-is-no-longer-enough-phd)
-- [A Model Google Lists as Shut Down Answered Me Today. Read `modelVersion` Before You Trust It.](https://dev.to/ai_changewatch/a-model-google-lists-as-shut-down-answered-me-today-read-modelversion-before-you-trust-it-2bbf)
-- [The Agent Wrote YAML. GitLab Still Has to Compile It.](https://dev.to/gitlab_3188/the-agent-wrote-yaml-gitlab-still-has-to-compile-it-2e2m)
-- [Extract Module Reference Pages From AST, Then Fail Builds on Unsigned Claim Verbs](https://dev.to/github_7727/extract-module-reference-pages-from-ast-then-fail-builds-on-unsigned-claim-verbs-2d0g)
-- [The CoreDNS Black Hole: how one dead DNS pod broke our API gateway](https://dev.to/akarshan/the-coredns-black-hole-how-one-dead-dns-pod-broke-our-api-gateway-4hh3)
-- [As horas que não voltaram: gerar código mais rápido não encurtou a semana](https://dev.to/aspepper/as-horas-que-nao-voltaram-gerar-codigo-mais-rapido-nao-encurtou-a-semana-42nb)
+- [Operational Usage Dashboards: Caching Raw Reads Without Losing Billing Attribution](https://dev.to/ellisthornton7395/operational-usage-dashboards-caching-raw-reads-without-losing-billing-attribution-2l3l)
+- [Choosing a Welcome Email API: Custom Templates, Domain Verification, and Polling](https://dev.to/gagesterling2648/choosing-a-welcome-email-api-custom-templates-domain-verification-and-polling-26dh)
+- [Turn Parser-Visible Flags Into a Config Reference Grid; Sign Defaults and Secret Classes](https://dev.to/github_7727/turn-parser-visible-flags-into-a-config-reference-grid-sign-defaults-and-secret-classes-3l37)
+- [48-Hour Field Notes: The Log Was UTF-8. open&lpar;&rpar; Still Used ASCII.](https://dev.to/codepy_1473/48-hour-field-notes-the-log-was-utf-8-open-still-used-ascii-4oll)
+- [FAQ: The Free Agent Host Cannot Hold CI_JOB_TOKEN](https://dev.to/gitlab_3188/faq-the-free-agent-host-cannot-hold-cijobtoken-3o90)
+- [The CI/CD Pipeline Audit I Wish Someone Made Me Do Sooner](https://dev.to/macrogenltd/the-cicd-pipeline-audit-i-wish-someone-made-me-do-sooner-1k8a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
