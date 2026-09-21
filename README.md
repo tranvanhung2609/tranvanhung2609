@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.](https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk)
-- [My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.](https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk)
-- [Six API Gateways, Priced on the Same Month of Traffic](https://dev.to/moksh/six-api-gateways-priced-on-the-same-month-of-traffic-4i3l)
-- [I flew helicopters for a living. If I had to break into Azure again, I&#39;d start with the Cloud Resume Challenge](https://dev.to/kloudcaptain/i-trained-as-a-helicopter-pilot-if-i-had-to-break-into-azure-again-id-start-with-the-cloud-3m2c)
-- [Prometheus na prática - scraping, o endpoint /metrics e uma mini app Python expondo métricas](https://dev.to/apsis-cc/prometheus-na-pratica-scraping-o-endpoint-metrics-e-uma-mini-app-python-expondo-metricas-2j08)
-- [Observabilidade - o que é, métricas vs logs vs traces e a stack Prometheus + Loki + Grafana](https://dev.to/apsis-cc/observabilidade-o-que-e-metricas-vs-logs-vs-traces-e-a-stack-prometheus-loki-grafana-2136)
+- [Platform Engineering 2026: Why DevOps Alone Is No Longer Enough](https://dev.to/saaro_net/platform-engineering-2026-why-devops-alone-is-no-longer-enough-phd)
+- [A Model Google Lists as Shut Down Answered Me Today. Read `modelVersion` Before You Trust It.](https://dev.to/ai_changewatch/a-model-google-lists-as-shut-down-answered-me-today-read-modelversion-before-you-trust-it-2bbf)
+- [The Agent Wrote YAML. GitLab Still Has to Compile It.](https://dev.to/gitlab_3188/the-agent-wrote-yaml-gitlab-still-has-to-compile-it-2e2m)
+- [Extract Module Reference Pages From AST, Then Fail Builds on Unsigned Claim Verbs](https://dev.to/github_7727/extract-module-reference-pages-from-ast-then-fail-builds-on-unsigned-claim-verbs-2d0g)
+- [The CoreDNS Black Hole: how one dead DNS pod broke our API gateway](https://dev.to/akarshan/the-coredns-black-hole-how-one-dead-dns-pod-broke-our-api-gateway-4hh3)
+- [As horas que não voltaram: gerar código mais rápido não encurtou a semana](https://dev.to/aspepper/as-horas-que-nao-voltaram-gerar-codigo-mais-rapido-nao-encurtou-a-semana-42nb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
