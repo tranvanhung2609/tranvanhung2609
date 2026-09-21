@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: Five Myths About Agent-Run Tests](https://dev.to/gitlab_3188/faq-five-myths-about-agent-run-tests-1e89)
-- [I Built the First Java SDK for Jev, TypeSafe&#39;s System One Model](https://dev.to/jamilxt/i-built-the-first-java-sdk-for-jev-typesafes-system-one-model-2m37)
-- [What should every foreigner know about your country in terms of food, tourist destinations, demography, best time to visit, and USP of your country?](https://dev.to/sharafat_ali_8c9a8ff2bee7/what-should-every-foreigner-know-about-your-country-in-terms-of-food-tourist-destinations-4lco)
-- [Why AI Code Breaks in Production: The &quot;Context Ceiling&quot; of Distributed Systems](https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc)
-- [Seven Controls to Put in Place Before an AI Agent Gets Production Access](https://dev.to/yanivshenhav/seven-controls-to-put-in-place-before-an-ai-agent-gets-production-access-6bp)
-- [Java Learning Series - Product Management System with CRUD operations for beginners](https://dev.to/dev_saravanan_journey/java-learning-series-product-management-system-with-crud-operations-for-beginners-1ef2)
+- [My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.](https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk)
+- [My Spring Boot App Worked on Localhost. Deployment Showed Me What I Had Assumed.](https://dev.to/nocklock/my-spring-boot-app-worked-on-localhost-deployment-showed-me-what-i-had-assumed-9gk)
+- [Six API Gateways, Priced on the Same Month of Traffic](https://dev.to/moksh/six-api-gateways-priced-on-the-same-month-of-traffic-4i3l)
+- [I flew helicopters for a living. If I had to break into Azure again, I&#39;d start with the Cloud Resume Challenge](https://dev.to/kloudcaptain/i-trained-as-a-helicopter-pilot-if-i-had-to-break-into-azure-again-id-start-with-the-cloud-3m2c)
+- [Prometheus na prática - scraping, o endpoint /metrics e uma mini app Python expondo métricas](https://dev.to/apsis-cc/prometheus-na-pratica-scraping-o-endpoint-metrics-e-uma-mini-app-python-expondo-metricas-2j08)
+- [Observabilidade - o que é, métricas vs logs vs traces e a stack Prometheus + Loki + Grafana](https://dev.to/apsis-cc/observabilidade-o-que-e-metricas-vs-logs-vs-traces-e-a-stack-prometheus-loki-grafana-2136)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
