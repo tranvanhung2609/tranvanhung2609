@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Operational Usage Dashboards: Caching Raw Reads Without Losing Billing Attribution](https://dev.to/ellisthornton7395/operational-usage-dashboards-caching-raw-reads-without-losing-billing-attribution-2l3l)
-- [Choosing a Welcome Email API: Custom Templates, Domain Verification, and Polling](https://dev.to/gagesterling2648/choosing-a-welcome-email-api-custom-templates-domain-verification-and-polling-26dh)
-- [Turn Parser-Visible Flags Into a Config Reference Grid; Sign Defaults and Secret Classes](https://dev.to/github_7727/turn-parser-visible-flags-into-a-config-reference-grid-sign-defaults-and-secret-classes-3l37)
-- [48-Hour Field Notes: The Log Was UTF-8. open&lpar;&rpar; Still Used ASCII.](https://dev.to/codepy_1473/48-hour-field-notes-the-log-was-utf-8-open-still-used-ascii-4oll)
-- [FAQ: The Free Agent Host Cannot Hold CI_JOB_TOKEN](https://dev.to/gitlab_3188/faq-the-free-agent-host-cannot-hold-cijobtoken-3o90)
-- [The CI/CD Pipeline Audit I Wish Someone Made Me Do Sooner](https://dev.to/macrogenltd/the-cicd-pipeline-audit-i-wish-someone-made-me-do-sooner-1k8a)
+- [We let AI agents write 1,450 commits of our product. Here&#39;s what code review became.](https://dev.to/yaniv_zalevas_a91253c56bb/we-let-ai-agents-write-1450-commits-of-our-product-heres-what-code-review-became-p8)
+- [The sensor was fine. The read path was dead, and it died looking alive.](https://dev.to/ilya_mozerov_867dbdd91feb/the-sensor-was-fine-the-read-path-was-dead-and-it-died-looking-alive-ag4)
+- [Your attack surface is whatever the internet remembers — and it remembers more than you do](https://dev.to/hexwardlabs/your-attack-surface-is-whatever-the-internet-remembers-and-it-remembers-more-than-you-do-1p08)
+- [ACTCOINESE-MAX entwickelt effizientere Datenflüsse für mobile digitale Services](https://dev.to/actcoinese-max/actcoinese-max-entwickelt-effizientere-datenflusse-fur-mobile-digitale-services-2mdi)
+- [How to Set Up SafeLine WAF on Kubernetes](https://dev.to/lialiago/how-to-set-up-safeline-waf-on-kubernetes-244c)
+- [Verifiable Record Integrity Without a Blockchain](https://dev.to/viktorkhudiaiev/verifiable-record-integrity-without-a-blockchain-2pnd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
