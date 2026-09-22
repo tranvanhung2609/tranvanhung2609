@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We let AI agents write 1,450 commits of our product. Here&#39;s what code review became.](https://dev.to/yaniv_zalevas_a91253c56bb/we-let-ai-agents-write-1450-commits-of-our-product-heres-what-code-review-became-p8)
-- [The sensor was fine. The read path was dead, and it died looking alive.](https://dev.to/ilya_mozerov_867dbdd91feb/the-sensor-was-fine-the-read-path-was-dead-and-it-died-looking-alive-ag4)
-- [Your attack surface is whatever the internet remembers — and it remembers more than you do](https://dev.to/hexwardlabs/your-attack-surface-is-whatever-the-internet-remembers-and-it-remembers-more-than-you-do-1p08)
-- [ACTCOINESE-MAX entwickelt effizientere Datenflüsse für mobile digitale Services](https://dev.to/actcoinese-max/actcoinese-max-entwickelt-effizientere-datenflusse-fur-mobile-digitale-services-2mdi)
-- [How to Set Up SafeLine WAF on Kubernetes](https://dev.to/lialiago/how-to-set-up-safeline-waf-on-kubernetes-244c)
-- [Verifiable Record Integrity Without a Blockchain](https://dev.to/viktorkhudiaiev/verifiable-record-integrity-without-a-blockchain-2pnd)
+- [What CBN Data Localisation Means for Nigerian DevOps Engineers](https://dev.to/highbee/what-cbn-data-localisation-means-for-nigerian-devops-engineers-4h0d)
+- [AWS DevOps Training in Hyderabad – Build Job-Ready Cloud and DevOps Skills](https://dev.to/saikiran_vdk_aebd5a496c53/aws-devops-training-in-hyderabad-build-job-ready-cloud-and-devops-skills-58fp)
+- [Part 1: What Really Happens When You Call SpringApplication.run&lpar;&rpar;](https://dev.to/silver_dev/part-1-what-really-happens-when-you-call-springapplicationrun-5b1j)
+- [Could your VPS setup make switching providers harder than it should be? One smart way to stay](https://dev.to/monovm/could-your-vps-setup-make-switching-providers-harder-than-it-should-be-one-smart-way-to-stay-36gp)
+- [FAQ: Five Myths About Treating a Scratch Box as CI](https://dev.to/gitlab_3188/faq-five-myths-about-treating-a-scratch-box-as-ci-3k2j)
+- [How Forward Deployed Engineers Help Businesses Turn AI Ideas Into Production Solutions](https://dev.to/prashantpujara/how-forward-deployed-engineers-help-businesses-turn-ai-ideas-into-production-solutions-4kkc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
