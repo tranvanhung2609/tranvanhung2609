@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Permission Envelope: Consent That Expires](https://dev.to/anciwasim/permission-envelope-consent-that-expires-2eb8)
-- [Google Open Sourced AX, an Orchestrator for Billions of AI Agents. Hacker News Isn&#39;t Buying the Number.](https://dev.to/jamilxt/google-open-sourced-ax-an-orchestrator-for-billions-of-ai-agents-hacker-news-isnt-buying-the-5hgf)
-- [How I Investigate a Suspicious Login on a Linux Server](https://dev.to/asepsayyad007/how-i-investigate-a-suspicious-login-on-a-linux-server-5hbd)
-- [Building a PKI Certificate Expiry Monitor for Turkish E-Signature Tokens](https://dev.to/eimza/building-a-pki-certificate-expiry-monitor-for-turkish-e-signature-tokens-1550)
-- [Secure API Key Management: Your AI, Your Choice](https://dev.to/kanishga_subramani_49ad73/secure-api-key-management-your-ai-your-choice-5bof)
-- [SMTP 250 OK Doesn&#39;t Mean Delivered. 12 of 50 Emails Bounced.](https://dev.to/onizuka/smtp-250-ok-doesnt-mean-delivered-12-of-50-emails-bounced-nlk)
+- [Implementing Property DNS Removal — List Identity Before You Delete](https://dev.to/urbandonovan1576/implementing-property-dns-removal-list-identity-before-you-delete-32bg)
+- [Node.js Infrastructure Code to Manage Internal DNS Hostnames on Deploy](https://dev.to/lyrap22/nodejs-infrastructure-code-to-manage-internal-dns-hostnames-on-deploy-1eee)
+- [Buy Google Map Reviews – Google Maps Reviews and Online Reputation Guide](https://dev.to/fngmgmhmfnf/buy-google-map-reviews-google-maps-reviews-and-online-reputation-guide-34fk)
+- [Automating Bug Reports with Tally and Make](https://dev.to/benji377/automating-bug-reports-with-tally-and-make-510o)
+- [Buy Google Map Reviews – Google Maps Reputation Management Guide 2026](https://dev.to/fngmgmhmfnf/buy-google-map-reviews-google-maps-reputation-management-guide-2026-1g2a)
+- [We started writing our reviewers into the dependency list](https://dev.to/unmannedops/we-started-writing-our-reviewers-into-the-dependency-list-4mlh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
