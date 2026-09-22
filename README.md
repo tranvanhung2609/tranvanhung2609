@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What CBN Data Localisation Means for Nigerian DevOps Engineers](https://dev.to/highbee/what-cbn-data-localisation-means-for-nigerian-devops-engineers-4h0d)
-- [AWS DevOps Training in Hyderabad – Build Job-Ready Cloud and DevOps Skills](https://dev.to/saikiran_vdk_aebd5a496c53/aws-devops-training-in-hyderabad-build-job-ready-cloud-and-devops-skills-58fp)
-- [Part 1: What Really Happens When You Call SpringApplication.run&lpar;&rpar;](https://dev.to/silver_dev/part-1-what-really-happens-when-you-call-springapplicationrun-5b1j)
-- [Could your VPS setup make switching providers harder than it should be? One smart way to stay](https://dev.to/monovm/could-your-vps-setup-make-switching-providers-harder-than-it-should-be-one-smart-way-to-stay-36gp)
-- [FAQ: Five Myths About Treating a Scratch Box as CI](https://dev.to/gitlab_3188/faq-five-myths-about-treating-a-scratch-box-as-ci-3k2j)
-- [How Forward Deployed Engineers Help Businesses Turn AI Ideas Into Production Solutions](https://dev.to/prashantpujara/how-forward-deployed-engineers-help-businesses-turn-ai-ideas-into-production-solutions-4kkc)
+- [Permission Envelope: Consent That Expires](https://dev.to/anciwasim/permission-envelope-consent-that-expires-2eb8)
+- [Google Open Sourced AX, an Orchestrator for Billions of AI Agents. Hacker News Isn&#39;t Buying the Number.](https://dev.to/jamilxt/google-open-sourced-ax-an-orchestrator-for-billions-of-ai-agents-hacker-news-isnt-buying-the-5hgf)
+- [How I Investigate a Suspicious Login on a Linux Server](https://dev.to/asepsayyad007/how-i-investigate-a-suspicious-login-on-a-linux-server-5hbd)
+- [Building a PKI Certificate Expiry Monitor for Turkish E-Signature Tokens](https://dev.to/eimza/building-a-pki-certificate-expiry-monitor-for-turkish-e-signature-tokens-1550)
+- [Secure API Key Management: Your AI, Your Choice](https://dev.to/kanishga_subramani_49ad73/secure-api-key-management-your-ai-your-choice-5bof)
+- [SMTP 250 OK Doesn&#39;t Mean Delivered. 12 of 50 Emails Bounced.](https://dev.to/onizuka/smtp-250-ok-doesnt-mean-delivered-12-of-50-emails-bounced-nlk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
