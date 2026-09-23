@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Property DNS Removal — List Identity Before You Delete](https://dev.to/urbandonovan1576/implementing-property-dns-removal-list-identity-before-you-delete-32bg)
-- [Node.js Infrastructure Code to Manage Internal DNS Hostnames on Deploy](https://dev.to/lyrap22/nodejs-infrastructure-code-to-manage-internal-dns-hostnames-on-deploy-1eee)
-- [Buy Google Map Reviews – Google Maps Reviews and Online Reputation Guide](https://dev.to/fngmgmhmfnf/buy-google-map-reviews-google-maps-reviews-and-online-reputation-guide-34fk)
-- [Automating Bug Reports with Tally and Make](https://dev.to/benji377/automating-bug-reports-with-tally-and-make-510o)
-- [Buy Google Map Reviews – Google Maps Reputation Management Guide 2026](https://dev.to/fngmgmhmfnf/buy-google-map-reviews-google-maps-reputation-management-guide-2026-1g2a)
-- [We started writing our reviewers into the dependency list](https://dev.to/unmannedops/we-started-writing-our-reviewers-into-the-dependency-list-4mlh)
+- [Self-Hosted AI Requirements Management Tools: A 2026 Decision Guide](https://dev.to/rebeccaward/self-hosted-ai-requirements-management-tools-a-2026-decision-guide-5fcg)
+- [Anthropic Launches Claude Opus 5.5, Cutting Typical Task Costs by 40%](https://dev.to/tidiane_stano_c6b88f8b685/anthropic-launches-claude-opus-55-cutting-typical-task-costs-by-40-57pm)
+- [WebSocket Closes Every 60 Seconds With Code 1006: Finding the Proxy Idle Timeout and Fixing It With Heartbeats](https://dev.to/libme/websocket-closes-every-60-seconds-with-code-1006-finding-the-proxy-idle-timeout-and-fixing-it-with-278e)
+- [WebSocket Closes Every 60 Seconds With Code 1006: Finding the Proxy Idle Timeout and Fixing It With Heartbeats](https://dev.to/libme/websocket-closes-every-60-seconds-with-code-1006-finding-the-proxy-idle-timeout-and-fixing-it-with-278e)
+- [Deep Dive: alibaba/open-code-review Architecture](https://dev.to/maoren/deep-dive-alibabaopen-code-review-architecture-36pj)
+- [Verify PDF Signatures Yourself: Trusting Sending-Platform Evidence at Marketplace Scale](https://dev.to/holdenfox8476/verify-pdf-signatures-yourself-trusting-sending-platform-evidence-at-marketplace-scale-56b5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
