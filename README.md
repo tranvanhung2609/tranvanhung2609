@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Linux Bash Scripts](https://dev.to/janak0ff/linux-bash-scripts-76d)
-- [Supplier Risk Management Software: A Practical Guide for Modern Businesses](https://dev.to/talented_expert_85ad4f04d/supplier-risk-management-software-a-practical-guide-for-modern-businesses-368l)
-- [How to Extract Images and Image Information from PDF in Java](https://dev.to/dm_dev/how-to-extract-images-and-image-information-from-pdf-in-java-25k0)
-- [I Benchmarked CAS vs. a Lock — and Caught Myself Drawing the Wrong Conclusion Halfway Through](https://dev.to/gaurav_tyagi_4d2a33837e04/i-benchmarked-cas-vs-a-lock-and-caught-myself-drawing-the-wrong-conclusion-halfway-through-304a)
-- [Are we wasting money building an in-house SOC? &lpar;82% of companies think so&rpar;](https://dev.to/kamy_le_2463/are-we-wasting-money-building-an-in-house-soc-82-of-companies-think-so-3laa)
-- [ECS vs EKS: What Each One Actually Costs You](https://dev.to/amareswer/ecs-vs-eks-what-each-one-actually-costs-you-57ic)
+- [Design a ClickHouse® Table Without Hand-Writing DDL: Schema Studio](https://dev.to/kanishga_subramani_49ad73/design-a-clickhouser-table-without-hand-writing-ddl-schema-studio-3mk3)
+- [A migrated VM, a dead NTP daemon, and 67 days of silent clock drift](https://dev.to/dibyaprakash_pradhan/a-migrated-vm-a-dead-ntp-daemon-and-67-days-of-silent-clock-drift-jbd)
+- [What to Look for in the Best Mobile App Development Companies in Dubai](https://dev.to/helen_mirren_55/what-to-look-for-in-the-best-mobile-app-development-companies-in-dubai-733)
+- [Template Ownership Guide to Webhook Polling Email SMS Event Notifications Provider Comparison](https://dev.to/loganpierce2073/template-ownership-guide-to-webhook-polling-email-sms-event-notifications-provider-comparison-2joc)
+- [Audit logging.exception Before a Model Sees Your Authorization Header](https://dev.to/jaryn_123/audit-loggingexception-before-a-model-sees-your-authorization-header-2f30)
+- [Reject Interactive Leases Before Free-Server Hold Time Beats Slack](https://dev.to/odd_background_328/reject-interactive-leases-before-free-server-hold-time-beats-slack-7fd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
