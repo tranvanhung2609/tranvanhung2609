@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Design a ClickHouse® Table Without Hand-Writing DDL: Schema Studio](https://dev.to/kanishga_subramani_49ad73/design-a-clickhouser-table-without-hand-writing-ddl-schema-studio-3mk3)
-- [A migrated VM, a dead NTP daemon, and 67 days of silent clock drift](https://dev.to/dibyaprakash_pradhan/a-migrated-vm-a-dead-ntp-daemon-and-67-days-of-silent-clock-drift-jbd)
-- [What to Look for in the Best Mobile App Development Companies in Dubai](https://dev.to/helen_mirren_55/what-to-look-for-in-the-best-mobile-app-development-companies-in-dubai-733)
-- [Template Ownership Guide to Webhook Polling Email SMS Event Notifications Provider Comparison](https://dev.to/loganpierce2073/template-ownership-guide-to-webhook-polling-email-sms-event-notifications-provider-comparison-2joc)
-- [Audit logging.exception Before a Model Sees Your Authorization Header](https://dev.to/jaryn_123/audit-loggingexception-before-a-model-sees-your-authorization-header-2f30)
-- [Reject Interactive Leases Before Free-Server Hold Time Beats Slack](https://dev.to/odd_background_328/reject-interactive-leases-before-free-server-hold-time-beats-slack-7fd)
+- [Your AI coding agent is a security reviewer. It just needs a brief.](https://dev.to/srikanth_vuppala_7b7d3d07/your-ai-coding-agent-is-a-security-reviewer-it-just-needs-a-brief-3206)
+- [What Can Go Wrong When Buying Payoneer Accounts? 20 Key Risks](https://dev.to/kariotta_lawrence_10058b7/what-can-go-wrong-when-buying-payoneer-accounts-20-key-risks-2kie)
+- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 08&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60)
+- [33 Red Flags Before Buying Payoneer Accounts Online](https://dev.to/kariotta_lawrence_10058b7/33-red-flags-before-buying-payoneer-accounts-online-50oh)
+- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/greatkalaso/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50fp)
+- [Buying Aged Payoneer Accounts: 15 Ownership &amp; Verification Risks](https://dev.to/kariotta_lawrence_10058b7/buying-aged-payoneer-accounts-15-ownership-verification-risks-3hme)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
