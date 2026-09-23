@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted AI Requirements Management Tools: A 2026 Decision Guide](https://dev.to/rebeccaward/self-hosted-ai-requirements-management-tools-a-2026-decision-guide-5fcg)
-- [Anthropic Launches Claude Opus 5.5, Cutting Typical Task Costs by 40%](https://dev.to/tidiane_stano_c6b88f8b685/anthropic-launches-claude-opus-55-cutting-typical-task-costs-by-40-57pm)
-- [WebSocket Closes Every 60 Seconds With Code 1006: Finding the Proxy Idle Timeout and Fixing It With Heartbeats](https://dev.to/libme/websocket-closes-every-60-seconds-with-code-1006-finding-the-proxy-idle-timeout-and-fixing-it-with-278e)
-- [WebSocket Closes Every 60 Seconds With Code 1006: Finding the Proxy Idle Timeout and Fixing It With Heartbeats](https://dev.to/libme/websocket-closes-every-60-seconds-with-code-1006-finding-the-proxy-idle-timeout-and-fixing-it-with-278e)
-- [Deep Dive: alibaba/open-code-review Architecture](https://dev.to/maoren/deep-dive-alibabaopen-code-review-architecture-36pj)
-- [Verify PDF Signatures Yourself: Trusting Sending-Platform Evidence at Marketplace Scale](https://dev.to/holdenfox8476/verify-pdf-signatures-yourself-trusting-sending-platform-evidence-at-marketplace-scale-56b5)
+- [Linux Bash Scripts](https://dev.to/janak0ff/linux-bash-scripts-76d)
+- [Supplier Risk Management Software: A Practical Guide for Modern Businesses](https://dev.to/talented_expert_85ad4f04d/supplier-risk-management-software-a-practical-guide-for-modern-businesses-368l)
+- [How to Extract Images and Image Information from PDF in Java](https://dev.to/dm_dev/how-to-extract-images-and-image-information-from-pdf-in-java-25k0)
+- [I Benchmarked CAS vs. a Lock — and Caught Myself Drawing the Wrong Conclusion Halfway Through](https://dev.to/gaurav_tyagi_4d2a33837e04/i-benchmarked-cas-vs-a-lock-and-caught-myself-drawing-the-wrong-conclusion-halfway-through-304a)
+- [Are we wasting money building an in-house SOC? &lpar;82% of companies think so&rpar;](https://dev.to/kamy_le_2463/are-we-wasting-money-building-an-in-house-soc-82-of-companies-think-so-3laa)
+- [ECS vs EKS: What Each One Actually Costs You](https://dev.to/amareswer/ecs-vs-eks-what-each-one-actually-costs-you-57ic)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
