@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Linux Command That&#39;s Quietly Saving &lpar;or Costing&rpar; SOC Teams Their Evidence](https://dev.to/xpert4cyber/the-linux-command-thats-quietly-saving-or-costing-soc-teams-their-evidence-2a5j)
-- [DNS Mutations: 3 Provisioning Failures Behind Upsert and Create](https://dev.to/peregrineshaw9645/dns-mutations-3-provisioning-failures-behind-upsert-and-create-2977)
-- [Requirements Decide the Topology](https://dev.to/anton_brilliantov/requirements-decide-the-topology-4fab)
-- [Stop Mocking Everything in Integration Tests: Why Testcontainers Changed My CI Strategy](https://dev.to/mindinu/stop-mocking-everything-in-integration-tests-why-testcontainers-changed-my-ci-strategy-2akl)
-- [Docker vs Podman in 2026: The Benchmarks Contradict Each Other. Here Is How to Decide.](https://dev.to/jamilxt/docker-vs-podman-in-2026-the-benchmarks-contradict-each-other-here-is-how-to-decide-3m08)
-- [What Is AI SRE? From Production Alerts to Validated Fixes](https://dev.to/robin_thedude_4ce28b7b54/what-is-ai-sre-from-production-alerts-to-validated-fixes-i68)
+- [Citation Age Is a Release Gate for Agent News Briefs](https://dev.to/codecpp_5026/citation-age-is-a-release-gate-for-agent-news-briefs-p0b)
+- [I Compared 2026 Program Management Tools: A Practitioner Decision Guide](https://dev.to/victorwebster1988/i-compared-2026-program-management-tools-a-practitioner-decision-guide-594e)
+- [Prove the Box Is Empty Before the Free Server Sees a File](https://dev.to/aiio_8140/prove-the-box-is-empty-before-the-free-server-sees-a-file-2f3m)
+- [Digital Asset Management Presets: Operational Contracts for Transformation Workflows](https://dev.to/valord33/digital-asset-management-presets-operational-contracts-for-transformation-workflows-2j6j)
+- [Decide the Agent Seat by the Bundle You Can Carry Out](https://dev.to/datago_8008/decide-the-agent-seat-by-the-bundle-you-can-carry-out-1d9f)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-254d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
