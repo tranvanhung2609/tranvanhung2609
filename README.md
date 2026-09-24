@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Part of the Job Nobody Puts in the Ticket](https://dev.to/bensylvester/the-part-of-the-job-nobody-puts-in-the-ticket-4d7n)
-- [Winning a Tech Contest with bE-More: Integrating IoT and Local AI for a Greener Office](https://dev.to/gizano/winning-a-tech-contest-with-be-more-integrating-iot-and-local-ai-for-a-greener-office-5bhd)
-- [I Deployed a Model to Production. The ML Part Was the Easy 20%.](https://dev.to/usman_sherdil_582e626a7db/i-deployed-a-model-to-production-the-ml-part-was-the-easy-20-3jim)
-- [Our watchdog restarted a healthy agent 24 times a day for months, and its own log said everything was fine](https://dev.to/macyou/our-watchdog-restarted-a-healthy-agent-24-times-a-day-for-months-and-its-own-log-said-everything-2c2h)
-- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-b2)
+- [The Linux Command That&#39;s Quietly Saving &lpar;or Costing&rpar; SOC Teams Their Evidence](https://dev.to/xpert4cyber/the-linux-command-thats-quietly-saving-or-costing-soc-teams-their-evidence-2a5j)
+- [DNS Mutations: 3 Provisioning Failures Behind Upsert and Create](https://dev.to/peregrineshaw9645/dns-mutations-3-provisioning-failures-behind-upsert-and-create-2977)
+- [Requirements Decide the Topology](https://dev.to/anton_brilliantov/requirements-decide-the-topology-4fab)
+- [Stop Mocking Everything in Integration Tests: Why Testcontainers Changed My CI Strategy](https://dev.to/mindinu/stop-mocking-everything-in-integration-tests-why-testcontainers-changed-my-ci-strategy-2akl)
+- [Docker vs Podman in 2026: The Benchmarks Contradict Each Other. Here Is How to Decide.](https://dev.to/jamilxt/docker-vs-podman-in-2026-the-benchmarks-contradict-each-other-here-is-how-to-decide-3m08)
+- [What Is AI SRE? From Production Alerts to Validated Fixes](https://dev.to/robin_thedude_4ce28b7b54/what-is-ai-sre-from-production-alerts-to-validated-fixes-i68)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
