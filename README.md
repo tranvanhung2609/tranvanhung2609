@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI coding agent is a security reviewer. It just needs a brief.](https://dev.to/srikanth_vuppala_7b7d3d07/your-ai-coding-agent-is-a-security-reviewer-it-just-needs-a-brief-3206)
-- [What Can Go Wrong When Buying Payoneer Accounts? 20 Key Risks](https://dev.to/kariotta_lawrence_10058b7/what-can-go-wrong-when-buying-payoneer-accounts-20-key-risks-2kie)
-- [[Lab Notes] Kubernetes the Hard Way, For Real This Time &lpar;Step 08&rpar;](https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-08-3m60)
-- [33 Red Flags Before Buying Payoneer Accounts Online](https://dev.to/kariotta_lawrence_10058b7/33-red-flags-before-buying-payoneer-accounts-online-50oh)
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/greatkalaso/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50fp)
-- [Buying Aged Payoneer Accounts: 15 Ownership &amp; Verification Risks](https://dev.to/kariotta_lawrence_10058b7/buying-aged-payoneer-accounts-15-ownership-verification-risks-3hme)
+- [AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision‑Making — Part 2: Setting Up the CI/CD Environment](https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-2-setting-up-20f4)
+- [AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision‑Making — Part 1: Overview &amp; Architecture Design](https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-1-overview--2pkb)
+- [Let your AI agent rent a GPU: llms.txt, --json and --budget](https://dev.to/lium/let-your-ai-agent-rent-a-gpu-llmstxt-json-and-budget-4f3)
+- [Free WAF for Self-Hosted Apps: Protect Your Stack Without the Bill](https://dev.to/lialiago/free-waf-for-self-hosted-apps-protect-your-stack-without-the-bill-33b4)
+- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-maf)
+- [Billing an AI Agent Without Breaking Its Tool Loop](https://dev.to/gangan/billing-an-ai-agent-without-breaking-its-tool-loop-1474)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
