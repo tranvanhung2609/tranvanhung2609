@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision‑Making — Part 2: Setting Up the CI/CD Environment](https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-2-setting-up-20f4)
-- [AI-Enhanced Automated DevOps CI/CD Pipeline with Intelligent Decision‑Making — Part 1: Overview &amp; Architecture Design](https://dev.to/vijay_vinoth_8e7abfd3f5b5/ai-enhanced-automated-devops-cicd-pipeline-with-intelligent-decision-making-part-1-overview--2pkb)
-- [Let your AI agent rent a GPU: llms.txt, --json and --budget](https://dev.to/lium/let-your-ai-agent-rent-a-gpu-llmstxt-json-and-budget-4f3)
-- [Free WAF for Self-Hosted Apps: Protect Your Stack Without the Bill](https://dev.to/lialiago/free-waf-for-self-hosted-apps-protect-your-stack-without-the-bill-33b4)
-- [David Stark: Top High-Paying Roles](https://dev.to/devpulse/david-stark-top-high-paying-roles-maf)
-- [Billing an AI Agent Without Breaking Its Tool Loop](https://dev.to/gangan/billing-an-ai-agent-without-breaking-its-tool-loop-1474)
+- [The Part of the Job Nobody Puts in the Ticket](https://dev.to/bensylvester/the-part-of-the-job-nobody-puts-in-the-ticket-4d7n)
+- [Winning a Tech Contest with bE-More: Integrating IoT and Local AI for a Greener Office](https://dev.to/gizano/winning-a-tech-contest-with-be-more-integrating-iot-and-local-ai-for-a-greener-office-5bhd)
+- [I Deployed a Model to Production. The ML Part Was the Easy 20%.](https://dev.to/usman_sherdil_582e626a7db/i-deployed-a-model-to-production-the-ml-part-was-the-easy-20-3jim)
+- [Our watchdog restarted a healthy agent 24 times a day for months, and its own log said everything was fine](https://dev.to/macyou/our-watchdog-restarted-a-healthy-agent-24-times-a-day-for-months-and-its-own-log-said-everything-2c2h)
+- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-b2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
