@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Citation Age Is a Release Gate for Agent News Briefs](https://dev.to/codecpp_5026/citation-age-is-a-release-gate-for-agent-news-briefs-p0b)
-- [I Compared 2026 Program Management Tools: A Practitioner Decision Guide](https://dev.to/victorwebster1988/i-compared-2026-program-management-tools-a-practitioner-decision-guide-594e)
-- [Prove the Box Is Empty Before the Free Server Sees a File](https://dev.to/aiio_8140/prove-the-box-is-empty-before-the-free-server-sees-a-file-2f3m)
-- [Digital Asset Management Presets: Operational Contracts for Transformation Workflows](https://dev.to/valord33/digital-asset-management-presets-operational-contracts-for-transformation-workflows-2j6j)
-- [Decide the Agent Seat by the Bundle You Can Carry Out](https://dev.to/datago_8008/decide-the-agent-seat-by-the-bundle-you-can-carry-out-1d9f)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-254d)
+- [What a NocoBase upgrade actually changes](https://dev.to/stale_orbit/what-a-nocobase-upgrade-actually-changes-8ao)
+- [Your Streamlit App Works. But Where Do the Logs Go When Production Breaks?](https://dev.to/sanjay_yadav_/your-streamlit-app-works-but-where-do-the-logs-go-when-production-breaks-1kgc)
+- [Designing a Secure Credential Hygiene Strategy for Avatar Lookup Integrations](https://dev.to/avatarlookup/designing-a-secure-credential-hygiene-strategy-for-avatar-lookup-integrations-3kf2)
+- [Essential Books for Backend Developers](https://dev.to/nick_davies_323125afbb05c/essential-books-for-backend-developers-6b5)
+- [Order Receipt Event Notifications: Webhook vs Polling Email SMS API Provider Comparison](https://dev.to/windwhisperboren33/order-receipt-event-notifications-webhook-vs-polling-email-sms-api-provider-comparison-3hpn)
+- [A new era of products...](https://dev.to/aceyash-dev/a-new-era-of-products-218a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
