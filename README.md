@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your first AI SRE: I gave the worst hour of on-call to a team of agents, and they diagnosed the incident, scored their own confidence, and opened the fix.](https://dev.to/sayokbose91/your-first-ai-sre-i-gave-the-worst-hour-of-on-call-to-a-team-of-agents-and-they-diagnosed-the-2fd0)
-- [Your service handles 80,000 requests a second. Until it doesn&#39;t.](https://dev.to/sushil_shinde_96cb7494dac/your-service-handles-80000-requests-a-second-until-it-doesnt-28g2)
-- [I Compared Tools to Replace Confluence Data Center in 2026](https://dev.to/davidwilson_1678/i-compared-tools-to-replace-confluence-data-center-in-2026-440k)
-- [GoHighLevel White Label Support: A Guide for Growing Agencies](https://dev.to/ghlexpert_seo_4da27ee9181/gohighlevel-white-label-support-a-guide-for-growing-agencies-242e)
-- [I built a tiny library that makes your audit logs tamper-evident](https://dev.to/wfx1607/i-built-a-tiny-library-that-makes-your-audit-logs-tamper-evident-1eeo)
-- [Claude Opus stopped mid-output at a 21000-token ceiling](https://dev.to/robswierk/claude-opus-stopped-mid-output-at-a-21000-token-ceiling-3hn3)
+- [Blurry Compressed Product Images: Debug Node.js Settings for Logos Versus Photos](https://dev.to/ferdinandblake3517/blurry-compressed-product-images-debug-nodejs-settings-for-logos-versus-photos-i5k)
+- [Building My First Kubernetes Controller in Java](https://dev.to/shubhamgoel23/building-my-first-kubernetes-controller-in-java-daa)
+- [Building My First Kubernetes Controller in Java](https://dev.to/shubhamgoel23/building-my-first-kubernetes-controller-in-java-daa)
+- [WebSockets are Overkill: Build Real-Time Dashboards with Server-Sent Events &lpar;SSE&rpar; 🚀](https://dev.to/whoismarce/websockets-are-overkill-build-real-time-dashboards-with-server-sent-events-sse-3bih)
+- [A Flake Freeze May Emit Inconclusive. It May Not Mint a Pass.](https://dev.to/datacpp_8185/a-flake-freeze-may-emit-inconclusive-it-may-not-mint-a-pass-1k4n)
+- [Escaping the Shared Responsibility Trap: Architecting Local Microsoft 365 Tenant Backups](https://dev.to/prismmigration/escaping-the-shared-responsibility-trap-architecting-local-microsoft-365-tenant-backups-1jmc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
