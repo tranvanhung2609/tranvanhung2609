@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Blurry Compressed Product Images: Debug Node.js Settings for Logos Versus Photos](https://dev.to/ferdinandblake3517/blurry-compressed-product-images-debug-nodejs-settings-for-logos-versus-photos-i5k)
-- [Building My First Kubernetes Controller in Java](https://dev.to/shubhamgoel23/building-my-first-kubernetes-controller-in-java-daa)
-- [Building My First Kubernetes Controller in Java](https://dev.to/shubhamgoel23/building-my-first-kubernetes-controller-in-java-daa)
-- [WebSockets are Overkill: Build Real-Time Dashboards with Server-Sent Events &lpar;SSE&rpar; 🚀](https://dev.to/whoismarce/websockets-are-overkill-build-real-time-dashboards-with-server-sent-events-sse-3bih)
-- [A Flake Freeze May Emit Inconclusive. It May Not Mint a Pass.](https://dev.to/datacpp_8185/a-flake-freeze-may-emit-inconclusive-it-may-not-mint-a-pass-1k4n)
-- [Escaping the Shared Responsibility Trap: Architecting Local Microsoft 365 Tenant Backups](https://dev.to/prismmigration/escaping-the-shared-responsibility-trap-architecting-local-microsoft-365-tenant-backups-1jmc)
+- [Stop Picking B2B Software From &quot;Top 10&quot; Lists: A Weighted Scoring Matrix Engineers Can Actually Defend](https://dev.to/akbo_ichou_c41c249cc2783d/stop-picking-b2b-software-from-top-10-lists-a-weighted-scoring-matrix-engineers-can-actually-4bh3)
+- [Deploying a React E-Commerce Frontend on AWS S3](https://dev.to/bilal_bukhari_75aeb34a969/deploying-a-react-e-commerce-frontend-on-aws-s3-1iie)
+- [From Java Byte Stream to Root: Cisco ISE Remote Code Execution Flaws](https://dev.to/bianliang/from-java-byte-stream-to-root-cisco-ise-remote-code-execution-flaws-h9k)
+- [App Review banned our core mechanic. Notarization let it through - and caught something else](https://dev.to/temer/app-review-banned-our-core-mechanic-notarization-let-it-through-and-caught-something-else-3gef)
+- [Adding Status and Conditions to My Kubernetes Operator](https://dev.to/shubhamgoel23/adding-status-and-conditions-to-my-kubernetes-operator-1a4b)
+- [Trace an MCP install from directory entry to running artefact](https://dev.to/piyushverma/trace-an-mcp-install-from-directory-entry-to-running-artefact-4e5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
