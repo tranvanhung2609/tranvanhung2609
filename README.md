@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [What a NocoBase upgrade actually changes](https://dev.to/stale_orbit/what-a-nocobase-upgrade-actually-changes-8ao)
-- [Your Streamlit App Works. But Where Do the Logs Go When Production Breaks?](https://dev.to/sanjay_yadav_/your-streamlit-app-works-but-where-do-the-logs-go-when-production-breaks-1kgc)
-- [Designing a Secure Credential Hygiene Strategy for Avatar Lookup Integrations](https://dev.to/avatarlookup/designing-a-secure-credential-hygiene-strategy-for-avatar-lookup-integrations-3kf2)
-- [Essential Books for Backend Developers](https://dev.to/nick_davies_323125afbb05c/essential-books-for-backend-developers-6b5)
-- [Order Receipt Event Notifications: Webhook vs Polling Email SMS API Provider Comparison](https://dev.to/windwhisperboren33/order-receipt-event-notifications-webhook-vs-polling-email-sms-api-provider-comparison-3hpn)
-- [A new era of products...](https://dev.to/aceyash-dev/a-new-era-of-products-218a)
+- [Your first AI SRE: I gave the worst hour of on-call to a team of agents, and they diagnosed the incident, scored their own confidence, and opened the fix.](https://dev.to/sayokbose91/your-first-ai-sre-i-gave-the-worst-hour-of-on-call-to-a-team-of-agents-and-they-diagnosed-the-2fd0)
+- [Your service handles 80,000 requests a second. Until it doesn&#39;t.](https://dev.to/sushil_shinde_96cb7494dac/your-service-handles-80000-requests-a-second-until-it-doesnt-28g2)
+- [I Compared Tools to Replace Confluence Data Center in 2026](https://dev.to/davidwilson_1678/i-compared-tools-to-replace-confluence-data-center-in-2026-440k)
+- [GoHighLevel White Label Support: A Guide for Growing Agencies](https://dev.to/ghlexpert_seo_4da27ee9181/gohighlevel-white-label-support-a-guide-for-growing-agencies-242e)
+- [I built a tiny library that makes your audit logs tamper-evident](https://dev.to/wfx1607/i-built-a-tiny-library-that-makes-your-audit-logs-tamper-evident-1eeo)
+- [Claude Opus stopped mid-output at a 21000-token ceiling](https://dev.to/robswierk/claude-opus-stopped-mid-output-at-a-21000-token-ceiling-3hn3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
