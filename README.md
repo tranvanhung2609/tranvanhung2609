@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Delete one tenant&#39;s files without scanning a shared Blob store](https://dev.to/davekurian/delete-one-tenants-files-without-scanning-a-shared-blob-store-2dbc)
-- [There&#39;s a New AI Model That Can&#39;t Write a Single Word](https://dev.to/feezan_khattak/theres-a-new-ai-model-that-cant-write-a-single-word-4j0l)
-- [Linux Swap Memory: A Complete Guide to Virtual Memory Management](https://dev.to/said_olano/linux-swap-memory-a-complete-guide-to-virtual-memory-management-49bj)
-- [Bridging the Gap: Strategies for DevOps Engineers in Non-Technical Teams to Improve Alignment and Efficiency](https://dev.to/maricode/bridging-the-gap-strategies-for-devops-engineers-in-non-technical-teams-to-improve-alignment-and-6da)
-- [What Is a Backend Engineer?](https://dev.to/sri2614/what-is-a-backend-engineer-2k7j)
-- [SQLite in production with Prisma and pm2: how we fixed &quot;database is locked&quot;](https://dev.to/escrozon/sqlite-in-production-with-prisma-and-pm2-how-we-fixed-database-is-locked-83p)
+- [Monitor your robots.txt and sitemap for accidental changes](https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac)
+- [Soul in Motion — 12:48 AM | 2026-09-27](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1248-am-2026-09-27-1b4c)
+- [Distributed Locks in Go: Correctness, Failure Modes, and Production Patterns](https://dev.to/serifcolakel/distributed-locks-in-go-correctness-failure-modes-and-production-patterns-4mdg)
+- [Patient Portal DNS Debugging After Shared Config Targets Production &lpar;and Prevention&rpar;](https://dev.to/riftg84/patient-portal-dns-debugging-after-shared-config-targets-production-and-prevention-40l3)
+- [Extracting Verified UAE Business Leads Across 7 Emirates](https://dev.to/crawlerbros/extracting-verified-uae-business-leads-across-7-emirates-553f)
+- [Go State Machines for Merchant Menu Photos &lpar;4 Gates Before Compression&rpar;](https://dev.to/grahamprice3746/go-state-machines-for-merchant-menu-photos-4-gates-before-compression-4982)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
