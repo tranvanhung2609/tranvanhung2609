@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Saga Rollback Mechanics: Compensating Transaction Ordering, Failure Atomicity, and the Partial Execution Trap](https://dev.to/neeraj_singhi_golang/saga-rollback-mechanics-compensating-transaction-ordering-failure-atomicity-and-the-partial-4142)
-- [Java Basic Concepts](https://dev.to/raja_b_0c9d242e2c26cf063b/java-basic-concepts-22oc)
-- [Implementing Distributed Tracing in Go with OpenTelemetry](https://dev.to/ayinedjimi-consultants/implementing-distributed-tracing-in-go-with-opentelemetry-3p6i)
-- [Sticky Routing That Never Expires Isn&#39;t Sticky It&#39;s Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd)
-- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-4o3h)
-- [Building a Multi-Agent Valet Trash Command Center: Supabase Edge Functions, VAPI, and PostgreSQL at Scale](https://dev.to/domoniqueluchin/building-a-multi-agent-valet-trash-command-center-supabase-edge-functions-vapi-and-postgresql-at-3k79)
+- [Delete one tenant&#39;s files without scanning a shared Blob store](https://dev.to/davekurian/delete-one-tenants-files-without-scanning-a-shared-blob-store-2dbc)
+- [There&#39;s a New AI Model That Can&#39;t Write a Single Word](https://dev.to/feezan_khattak/theres-a-new-ai-model-that-cant-write-a-single-word-4j0l)
+- [Linux Swap Memory: A Complete Guide to Virtual Memory Management](https://dev.to/said_olano/linux-swap-memory-a-complete-guide-to-virtual-memory-management-49bj)
+- [Bridging the Gap: Strategies for DevOps Engineers in Non-Technical Teams to Improve Alignment and Efficiency](https://dev.to/maricode/bridging-the-gap-strategies-for-devops-engineers-in-non-technical-teams-to-improve-alignment-and-6da)
+- [What Is a Backend Engineer?](https://dev.to/sri2614/what-is-a-backend-engineer-2k7j)
+- [SQLite in production with Prisma and pm2: how we fixed &quot;database is locked&quot;](https://dev.to/escrozon/sqlite-in-production-with-prisma-and-pm2-how-we-fixed-database-is-locked-83p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
