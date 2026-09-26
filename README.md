@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Picking B2B Software From &quot;Top 10&quot; Lists: A Weighted Scoring Matrix Engineers Can Actually Defend](https://dev.to/akbo_ichou_c41c249cc2783d/stop-picking-b2b-software-from-top-10-lists-a-weighted-scoring-matrix-engineers-can-actually-4bh3)
-- [Deploying a React E-Commerce Frontend on AWS S3](https://dev.to/bilal_bukhari_75aeb34a969/deploying-a-react-e-commerce-frontend-on-aws-s3-1iie)
-- [From Java Byte Stream to Root: Cisco ISE Remote Code Execution Flaws](https://dev.to/bianliang/from-java-byte-stream-to-root-cisco-ise-remote-code-execution-flaws-h9k)
-- [App Review banned our core mechanic. Notarization let it through - and caught something else](https://dev.to/temer/app-review-banned-our-core-mechanic-notarization-let-it-through-and-caught-something-else-3gef)
-- [Adding Status and Conditions to My Kubernetes Operator](https://dev.to/shubhamgoel23/adding-status-and-conditions-to-my-kubernetes-operator-1a4b)
-- [Trace an MCP install from directory entry to running artefact](https://dev.to/piyushverma/trace-an-mcp-install-from-directory-entry-to-running-artefact-4e5)
+- [Onboarding Welcome Email API 2026: Deliverability, DKIM, Suppression, and Bounce Handling](https://dev.to/starspiregavren48/onboarding-welcome-email-api-2026-deliverability-dkim-suppression-and-bounce-handling-2p2h)
+- [Top 5 Sites to Buy Edu Emails - Get Your Discounts &amp;](https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229)
+- [10 Best Sites to Buy EDU Email Accounts in 2026](https://dev.to/shakiralee1/10-best-sites-to-buy-edu-email-accounts-in-2026-men)
+- [JavaScript Training with Live Projects: Why Practical Experience Matters](https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m)
+- [Managing Your CarrierLookup Balance: A Guide to Plan and Permanent Credits](https://dev.to/carrierlookup/managing-your-carrierlookup-balance-a-guide-to-plan-and-permanent-credits-3c91)
+- [Handling File Uploads in Web Apps: Best Practices Every Developer Should Know](https://dev.to/aaliantaqi/handling-file-uploads-in-web-apps-best-practices-every-developer-should-know-39pa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
