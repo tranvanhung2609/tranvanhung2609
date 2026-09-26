@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Onboarding Welcome Email API 2026: Deliverability, DKIM, Suppression, and Bounce Handling](https://dev.to/starspiregavren48/onboarding-welcome-email-api-2026-deliverability-dkim-suppression-and-bounce-handling-2p2h)
-- [Top 5 Sites to Buy Edu Emails - Get Your Discounts &amp;](https://dev.to/shakiralee1/top-5-sites-to-buy-edu-emails-get-your-discounts--4229)
-- [10 Best Sites to Buy EDU Email Accounts in 2026](https://dev.to/shakiralee1/10-best-sites-to-buy-edu-email-accounts-in-2026-men)
-- [JavaScript Training with Live Projects: Why Practical Experience Matters](https://dev.to/webdevcommunity/javascript-training-with-live-projects-why-practical-experience-matters-205m)
-- [Managing Your CarrierLookup Balance: A Guide to Plan and Permanent Credits](https://dev.to/carrierlookup/managing-your-carrierlookup-balance-a-guide-to-plan-and-permanent-credits-3c91)
-- [Handling File Uploads in Web Apps: Best Practices Every Developer Should Know](https://dev.to/aaliantaqi/handling-file-uploads-in-web-apps-best-practices-every-developer-should-know-39pa)
+- [Saga Rollback Mechanics: Compensating Transaction Ordering, Failure Atomicity, and the Partial Execution Trap](https://dev.to/neeraj_singhi_golang/saga-rollback-mechanics-compensating-transaction-ordering-failure-atomicity-and-the-partial-4142)
+- [Java Basic Concepts](https://dev.to/raja_b_0c9d242e2c26cf063b/java-basic-concepts-22oc)
+- [Implementing Distributed Tracing in Go with OpenTelemetry](https://dev.to/ayinedjimi-consultants/implementing-distributed-tracing-in-go-with-opentelemetry-3p6i)
+- [Sticky Routing That Never Expires Isn&#39;t Sticky It&#39;s Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd)
+- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-4o3h)
+- [Building a Multi-Agent Valet Trash Command Center: Supabase Edge Functions, VAPI, and PostgreSQL at Scale](https://dev.to/domoniqueluchin/building-a-multi-agent-valet-trash-command-center-supabase-edge-functions-vapi-and-postgresql-at-3k79)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
