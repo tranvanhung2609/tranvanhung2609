@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [One command, one file: script in, 1080p episode and a vertical short out](https://dev.to/el_e_3dc94dfc336bfb025ef2/one-command-one-file-script-in-1080p-episode-and-a-vertical-short-out-4c9i)
-- [The Architecture of a Self-Hosted Micro-VPS: Running 10 Apps on 2GB RAM](https://dev.to/devanshu_patil/the-architecture-of-a-self-hosted-micro-vps-running-10-apps-on-2gb-ram-od9)
-- [Designing a Resilient Handoff Runbook for Avatar Integration Projects](https://dev.to/avatarlookup/designing-a-resilient-handoff-runbook-for-avatar-integration-projects-36g3)
-- [Architecting Data Quality: When to Use Synchronous vs. Asynchronous Verification](https://dev.to/emailcheckpro/architecting-data-quality-when-to-use-synchronous-vs-asynchronous-verification-26gk)
-- [Patch night wasn’t one incident — it was three failure modes in a row](https://dev.to/mridul_it_is/patch-night-wasnt-one-incident-it-was-three-failure-modes-in-a-row-e2e)
-- [401 vs 403 vs 404: The Status Code Mistakes That Break APIs](https://dev.to/yuanke215/401-vs-403-vs-404-the-status-code-mistakes-that-break-apis-20a1)
+- [A Service Exists When It Is Declared](https://dev.to/anton_brilliantov/a-service-exists-when-it-is-declared-3opl)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kh5)
+- [Whatshub.shop](https://dev.to/whatshubcontent_d43a6246/whatshubshop-160h)
+- [5 EDI Lessons Every API Developer Learns the Hard Way](https://dev.to/challan116ux/5-edi-lessons-every-api-developer-learns-the-hard-way-pga)
+- [Greenfinger 2.0: one url in, a searchable archive out](https://dev.to/paganini2008/greenfinger-20-one-url-in-a-searchable-archive-out-968)
+- [Greenfinger 2.0: one url in, a searchable archive out](https://dev.to/paganini2008/greenfinger-20-one-url-in-a-searchable-archive-out-968)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
