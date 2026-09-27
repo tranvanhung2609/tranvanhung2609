@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Monitor your robots.txt and sitemap for accidental changes](https://dev.to/daniel_root_5c360ddb87563/monitor-your-robotstxt-and-sitemap-for-accidental-changes-45ac)
-- [Soul in Motion — 12:48 AM | 2026-09-27](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1248-am-2026-09-27-1b4c)
-- [Distributed Locks in Go: Correctness, Failure Modes, and Production Patterns](https://dev.to/serifcolakel/distributed-locks-in-go-correctness-failure-modes-and-production-patterns-4mdg)
-- [Patient Portal DNS Debugging After Shared Config Targets Production &lpar;and Prevention&rpar;](https://dev.to/riftg84/patient-portal-dns-debugging-after-shared-config-targets-production-and-prevention-40l3)
-- [Extracting Verified UAE Business Leads Across 7 Emirates](https://dev.to/crawlerbros/extracting-verified-uae-business-leads-across-7-emirates-553f)
-- [Go State Machines for Merchant Menu Photos &lpar;4 Gates Before Compression&rpar;](https://dev.to/grahamprice3746/go-state-machines-for-merchant-menu-photos-4-gates-before-compression-4982)
+- [One command, one file: script in, 1080p episode and a vertical short out](https://dev.to/el_e_3dc94dfc336bfb025ef2/one-command-one-file-script-in-1080p-episode-and-a-vertical-short-out-4c9i)
+- [The Architecture of a Self-Hosted Micro-VPS: Running 10 Apps on 2GB RAM](https://dev.to/devanshu_patil/the-architecture-of-a-self-hosted-micro-vps-running-10-apps-on-2gb-ram-od9)
+- [Designing a Resilient Handoff Runbook for Avatar Integration Projects](https://dev.to/avatarlookup/designing-a-resilient-handoff-runbook-for-avatar-integration-projects-36g3)
+- [Architecting Data Quality: When to Use Synchronous vs. Asynchronous Verification](https://dev.to/emailcheckpro/architecting-data-quality-when-to-use-synchronous-vs-asynchronous-verification-26gk)
+- [Patch night wasn’t one incident — it was three failure modes in a row](https://dev.to/mridul_it_is/patch-night-wasnt-one-incident-it-was-three-failure-modes-in-a-row-e2e)
+- [401 vs 403 vs 404: The Status Code Mistakes That Break APIs](https://dev.to/yuanke215/401-vs-403-vs-404-the-status-code-mistakes-that-break-apis-20a1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
