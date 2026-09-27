@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Implement Welcome Email Suppression: 7 API Checks for Recipient Safety](https://dev.to/echof76/implement-welcome-email-suppression-7-api-checks-for-recipient-safety-4d7p)
-- [Building the Release Readiness Agent in 48 Hours](https://dev.to/goose2585/building-the-release-readiness-agent-in-48-hours-oke)
-- [4-Step Uploaded Invoice Scan OCR: Store Extracted Text &lpar;With Validation&rpar;](https://dev.to/syltharwave2946/4-step-uploaded-invoice-scan-ocr-store-extracted-text-with-validation-4pi5)
-- [How to Bootstrap DNS Inventory for Domains Predating Automation &lpar;Safely&rpar;](https://dev.to/midnightecho794261/how-to-bootstrap-dns-inventory-for-domains-predating-automation-safely-3m5b)
-- [Per-Request Feature Flag Guards Explained — Safer Rollbacks Across Healthtech Cohorts](https://dev.to/donovanpierce4012/per-request-feature-flag-guards-explained-safer-rollbacks-across-healthtech-cohorts-1m39)
-- [Our free-licence script reuses your token, because the token is not ours to regenerate](https://dev.to/daniel_pertu/our-free-licence-script-reuses-your-token-because-the-token-is-not-ours-to-regenerate-17kg)
+- [Choosing a Simple Metrics Dashboard API for SaaS Apps &lpar;and KPI Retention&rpar;](https://dev.to/xenoncross2718/choosing-a-simple-metrics-dashboard-api-for-saas-apps-and-kpi-retention-1jhl)
+- [Our agent asked a stranger what it had done five minutes ago](https://dev.to/unmannedops/our-agent-asked-a-stranger-what-it-had-done-five-minutes-ago-4nk1)
+- [From On-Prem to EKS: Shift-Left Validation, Invisible Throttling, and Autonomous Incident Capture with the AWS DevOps Agent](https://dev.to/george_palangattil/from-on-prem-to-eks-shift-left-validation-invisible-throttling-and-autonomous-incident-capture-2abh)
+- [kubernetes for engineers who know literally nothing](https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54)
+- [How to Govern Marketplace Spend — Production Feature Flag Kill Switch API](https://dev.to/valdemarblack3817/how-to-govern-marketplace-spend-production-feature-flag-kill-switch-api-12bb)
+- [Backend Error Tracking: Cron Workers, API Failures, and Logistics Evidence](https://dev.to/godfreysterling1574/backend-error-tracking-cron-workers-api-failures-and-logistics-evidence-2c6g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
