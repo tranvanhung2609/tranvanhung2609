@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A Service Exists When It Is Declared](https://dev.to/anton_brilliantov/a-service-exists-when-it-is-declared-3opl)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-2kh5)
-- [Whatshub.shop](https://dev.to/whatshubcontent_d43a6246/whatshubshop-160h)
-- [5 EDI Lessons Every API Developer Learns the Hard Way](https://dev.to/challan116ux/5-edi-lessons-every-api-developer-learns-the-hard-way-pga)
-- [Greenfinger 2.0: one url in, a searchable archive out](https://dev.to/paganini2008/greenfinger-20-one-url-in-a-searchable-archive-out-968)
-- [Greenfinger 2.0: one url in, a searchable archive out](https://dev.to/paganini2008/greenfinger-20-one-url-in-a-searchable-archive-out-968)
+- [Implement Welcome Email Suppression: 7 API Checks for Recipient Safety](https://dev.to/echof76/implement-welcome-email-suppression-7-api-checks-for-recipient-safety-4d7p)
+- [Building the Release Readiness Agent in 48 Hours](https://dev.to/goose2585/building-the-release-readiness-agent-in-48-hours-oke)
+- [4-Step Uploaded Invoice Scan OCR: Store Extracted Text &lpar;With Validation&rpar;](https://dev.to/syltharwave2946/4-step-uploaded-invoice-scan-ocr-store-extracted-text-with-validation-4pi5)
+- [How to Bootstrap DNS Inventory for Domains Predating Automation &lpar;Safely&rpar;](https://dev.to/midnightecho794261/how-to-bootstrap-dns-inventory-for-domains-predating-automation-safely-3m5b)
+- [Per-Request Feature Flag Guards Explained — Safer Rollbacks Across Healthtech Cohorts](https://dev.to/donovanpierce4012/per-request-feature-flag-guards-explained-safer-rollbacks-across-healthtech-cohorts-1m39)
+- [Our free-licence script reuses your token, because the token is not ours to regenerate](https://dev.to/daniel_pertu/our-free-licence-script-reuses-your-token-because-the-token-is-not-ours-to-regenerate-17kg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
