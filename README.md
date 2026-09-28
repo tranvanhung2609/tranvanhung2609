@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Choosing a Simple Metrics Dashboard API for SaaS Apps &lpar;and KPI Retention&rpar;](https://dev.to/xenoncross2718/choosing-a-simple-metrics-dashboard-api-for-saas-apps-and-kpi-retention-1jhl)
-- [Our agent asked a stranger what it had done five minutes ago](https://dev.to/unmannedops/our-agent-asked-a-stranger-what-it-had-done-five-minutes-ago-4nk1)
-- [From On-Prem to EKS: Shift-Left Validation, Invisible Throttling, and Autonomous Incident Capture with the AWS DevOps Agent](https://dev.to/george_palangattil/from-on-prem-to-eks-shift-left-validation-invisible-throttling-and-autonomous-incident-capture-2abh)
-- [kubernetes for engineers who know literally nothing](https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54)
-- [How to Govern Marketplace Spend — Production Feature Flag Kill Switch API](https://dev.to/valdemarblack3817/how-to-govern-marketplace-spend-production-feature-flag-kill-switch-api-12bb)
-- [Backend Error Tracking: Cron Workers, API Failures, and Logistics Evidence](https://dev.to/godfreysterling1574/backend-error-tracking-cron-workers-api-failures-and-logistics-evidence-2c6g)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3a15)
+- [Go Goroutines vs Java Virtual Threads: Memory Models and Concurrency Overhead](https://dev.to/devanshu_patil/go-goroutines-vs-java-virtual-threads-memory-models-and-concurrency-overhead-8pa)
+- [Full Stack Developer Reading List 2026](https://dev.to/nick_davies_323125afbb05c/full-stack-developer-reading-list-2026-4b52)
+- [ACTCOINESE-MAX entwickelt eine flexiblere Grundlage für neue Funktionen](https://dev.to/actcoinese-max/actcoinese-max-entwickelt-eine-flexiblere-grundlage-fur-neue-funktionen-2dc3)
+- [Detect 500 Errors in Server Logs with Python in 10 Lines](https://dev.to/intellitools/detect-500-errors-in-server-logs-with-python-in-10-lines-1h40)
+- [how do i stop my app from braking !!!](https://dev.to/orcel_leens_4177485a91d91/how-do-i-stop-my-app-from-braking--26al)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
