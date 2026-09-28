@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3a15)
-- [Go Goroutines vs Java Virtual Threads: Memory Models and Concurrency Overhead](https://dev.to/devanshu_patil/go-goroutines-vs-java-virtual-threads-memory-models-and-concurrency-overhead-8pa)
-- [Full Stack Developer Reading List 2026](https://dev.to/nick_davies_323125afbb05c/full-stack-developer-reading-list-2026-4b52)
-- [ACTCOINESE-MAX entwickelt eine flexiblere Grundlage für neue Funktionen](https://dev.to/actcoinese-max/actcoinese-max-entwickelt-eine-flexiblere-grundlage-fur-neue-funktionen-2dc3)
-- [Detect 500 Errors in Server Logs with Python in 10 Lines](https://dev.to/intellitools/detect-500-errors-in-server-logs-with-python-in-10-lines-1h40)
-- [how do i stop my app from braking !!!](https://dev.to/orcel_leens_4177485a91d91/how-do-i-stop-my-app-from-braking--26al)
+- [I&#39;d rather not ask](https://dev.to/hidekimori/id-rather-not-ask-12me)
+- [We switched traffic to green and blue kept doing the work](https://dev.to/sergey_shinder_ab2d943365/we-switched-traffic-to-green-and-blue-kept-doing-the-work-38f0)
+- [Our 72-hour soak lost 81% of its throughput. We had to prove it wasn&#39;t the runtime.](https://dev.to/hasanh47/our-72-hour-soak-lost-81-of-its-throughput-we-had-to-prove-it-wasnt-the-runtime-3jml)
+- [OpenAI Agent Swarm Weaponized Public Wikis to Bypass Read-Only Web Controls](https://dev.to/cyberupdates365/openai-agent-swarm-weaponized-public-wikis-to-bypass-read-only-web-controls-4igp)
+- [Cybersecurity Compliance for Developers: What &quot;Audit-Ready&quot; Really Means](https://dev.to/diginatives-llc/cybersecurity-compliance-for-developers-what-audit-ready-really-means-c29)
+- [Building a Plugin &lpar;Microkernel&rpar; Architecture in Java](https://dev.to/kishalayp/building-a-plugin-microkernel-architecture-in-java-1bjk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
