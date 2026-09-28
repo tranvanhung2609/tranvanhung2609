@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;d rather not ask](https://dev.to/hidekimori/id-rather-not-ask-12me)
-- [We switched traffic to green and blue kept doing the work](https://dev.to/sergey_shinder_ab2d943365/we-switched-traffic-to-green-and-blue-kept-doing-the-work-38f0)
-- [Our 72-hour soak lost 81% of its throughput. We had to prove it wasn&#39;t the runtime.](https://dev.to/hasanh47/our-72-hour-soak-lost-81-of-its-throughput-we-had-to-prove-it-wasnt-the-runtime-3jml)
-- [OpenAI Agent Swarm Weaponized Public Wikis to Bypass Read-Only Web Controls](https://dev.to/cyberupdates365/openai-agent-swarm-weaponized-public-wikis-to-bypass-read-only-web-controls-4igp)
-- [Cybersecurity Compliance for Developers: What &quot;Audit-Ready&quot; Really Means](https://dev.to/diginatives-llc/cybersecurity-compliance-for-developers-what-audit-ready-really-means-c29)
-- [Building a Plugin &lpar;Microkernel&rpar; Architecture in Java](https://dev.to/kishalayp/building-a-plugin-microkernel-architecture-in-java-1bjk)
+- [Building Trust with Product Teams as an SRE](https://dev.to/samson_tanimawo/building-trust-with-product-teams-as-an-sre-3jpo)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d57)
+- [My Google AI API 500 errors stopped being scary when I stopped retrying the whole workflow](https://dev.to/lars_winstand/my-google-ai-api-500-errors-stopped-being-scary-when-i-stopped-retrying-the-whole-workflow-ko1)
+- [Day 52: Undo Rolls Forward, and the Disk Already Mounted Is the One Not to Trust](https://dev.to/ndcodes/day-52-undo-rolls-forward-and-the-disk-already-mounted-is-the-one-not-to-trust-32bb)
+- [Two-Phase Commit Is a Trap: How Real Systems Do Distributed Transactions](https://dev.to/lovestaco/two-phase-commit-is-a-trap-how-real-systems-do-distributed-transactions-9i9)
+- [Knight Capital: How One Forgotten Server Lost $440 Million in 45 Minutes](https://dev.to/vladut02/knight-capital-how-one-forgotten-server-lost-440-million-in-45-minutes-3jd1)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
