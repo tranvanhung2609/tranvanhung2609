@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building Trust with Product Teams as an SRE](https://dev.to/samson_tanimawo/building-trust-with-product-teams-as-an-sre-3jpo)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3d57)
-- [My Google AI API 500 errors stopped being scary when I stopped retrying the whole workflow](https://dev.to/lars_winstand/my-google-ai-api-500-errors-stopped-being-scary-when-i-stopped-retrying-the-whole-workflow-ko1)
-- [Day 52: Undo Rolls Forward, and the Disk Already Mounted Is the One Not to Trust](https://dev.to/ndcodes/day-52-undo-rolls-forward-and-the-disk-already-mounted-is-the-one-not-to-trust-32bb)
-- [Two-Phase Commit Is a Trap: How Real Systems Do Distributed Transactions](https://dev.to/lovestaco/two-phase-commit-is-a-trap-how-real-systems-do-distributed-transactions-9i9)
-- [Knight Capital: How One Forgotten Server Lost $440 Million in 45 Minutes](https://dev.to/vladut02/knight-capital-how-one-forgotten-server-lost-440-million-in-45-minutes-3jd1)
+- [Disaster recovery: Encrypted backups and cross-machine restores.](https://dev.to/william_rodriguez_65a5898/disaster-recovery-encrypted-backups-and-cross-machine-restores-3oin)
+- [Wpipe: Orquestación sin el impuesto de infraestructura](https://dev.to/william_rodriguez_65a5898/wpipe-orquestacion-sin-el-impuesto-de-infraestructura-1gg6)
+- [Drift Detection Is Solved. Drift Remediation Is Not.](https://dev.to/vectoralai/drift-detection-is-solved-drift-remediation-is-not-2h1l)
+- [Cloudflare outage 2019: how one regex caused 27 minutes of 502s](https://dev.to/axrisi/cloudflare-outage-2019-how-one-regex-caused-27-minutes-of-502s-1nla)
+- [5 SaaS App Probe Boundaries — Readiness, Liveness, Startup, Metrics, Logs](https://dev.to/marcorossi4891/5-saas-app-probe-boundaries-readiness-liveness-startup-metrics-logs-45g7)
+- [Malicious MCP Servers: What Deadbugz Taught Us About Auditing Our AI Agent Setup](https://dev.to/hamzezn/malicious-mcp-servers-what-deadbugz-taught-us-about-auditing-our-ai-agent-setup-2i3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
