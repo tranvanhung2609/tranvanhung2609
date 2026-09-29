@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Hindsight Changed My Referral Review Query](https://dev.to/srujana_vandanapu_c10d421/how-hindsight-changed-my-referral-review-query-4gp7)
-- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2)
-- [“RecallOps: Building an AI Incident Response Agent That Learns From Experience”](https://dev.to/narendra14192/recallops-building-an-ai-incident-response-agent-that-learns-from-experience-2jhi)
-- [Taking over an AI or vibe-coded production app? 8 risks to map before you touch the code](https://dev.to/member_918eccc5/taking-over-an-ai-or-vibe-coded-production-app-8-risks-to-map-before-you-touch-the-code-461i)
-- [I Compared Five On-Premises Project Planning Tools for 2026](https://dev.to/aurejaalkan02483/i-compared-five-on-premises-project-planning-tools-for-2026-51i3)
-- [Argo CD 3.5: Internal mTLS, Source Integrity, and the New ApplicationSet UI](https://dev.to/saaro_net/argo-cd-35-internal-mtls-source-integrity-and-the-new-applicationset-ui-5dce)
+- [How to Capture Node.js Express API Errors With Request Context and Stack Traces](https://dev.to/fletchervance3712/how-to-capture-nodejs-express-api-errors-with-request-context-and-stack-traces-2nhb)
+- [Automated Multimodal Vision Audits: Grading Character Consistency Frame-by-Frame](https://dev.to/biffer_rowley_4cdbf203087/automated-multimodal-vision-audits-grading-character-consistency-frame-by-frame-1npg)
+- [Should You Really Run MCP Servers on Your Own Machine?](https://dev.to/anehme/should-you-really-run-mcp-servers-on-your-own-machine-h92)
+- [Python Healthtech Duplicate Image Derivatives &lpar;When Processing Costs Surge&rpar;](https://dev.to/algernoncross4103/python-healthtech-duplicate-image-derivatives-when-processing-costs-surge-44l1)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1o8n)
+- [How We Automatically Upload Zoom Recordings to AWS S3](https://dev.to/360works/how-we-automatically-upload-zoom-recordings-to-aws-s3-25j4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
