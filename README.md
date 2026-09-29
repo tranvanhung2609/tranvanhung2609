@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Disaster recovery: Encrypted backups and cross-machine restores.](https://dev.to/william_rodriguez_65a5898/disaster-recovery-encrypted-backups-and-cross-machine-restores-3oin)
-- [Wpipe: Orquestación sin el impuesto de infraestructura](https://dev.to/william_rodriguez_65a5898/wpipe-orquestacion-sin-el-impuesto-de-infraestructura-1gg6)
-- [Drift Detection Is Solved. Drift Remediation Is Not.](https://dev.to/vectoralai/drift-detection-is-solved-drift-remediation-is-not-2h1l)
-- [Cloudflare outage 2019: how one regex caused 27 minutes of 502s](https://dev.to/axrisi/cloudflare-outage-2019-how-one-regex-caused-27-minutes-of-502s-1nla)
-- [5 SaaS App Probe Boundaries — Readiness, Liveness, Startup, Metrics, Logs](https://dev.to/marcorossi4891/5-saas-app-probe-boundaries-readiness-liveness-startup-metrics-logs-45g7)
-- [Malicious MCP Servers: What Deadbugz Taught Us About Auditing Our AI Agent Setup](https://dev.to/hamzezn/malicious-mcp-servers-what-deadbugz-taught-us-about-auditing-our-ai-agent-setup-2i3)
+- [How Hindsight Changed My Referral Review Query](https://dev.to/srujana_vandanapu_c10d421/how-hindsight-changed-my-referral-review-query-4gp7)
+- [Nuxt Server Routes Explained: How Nitro Builds Your API](https://dev.to/parsajiravand/nuxt-server-routes-explained-how-nitro-builds-your-api-9m2)
+- [“RecallOps: Building an AI Incident Response Agent That Learns From Experience”](https://dev.to/narendra14192/recallops-building-an-ai-incident-response-agent-that-learns-from-experience-2jhi)
+- [Taking over an AI or vibe-coded production app? 8 risks to map before you touch the code](https://dev.to/member_918eccc5/taking-over-an-ai-or-vibe-coded-production-app-8-risks-to-map-before-you-touch-the-code-461i)
+- [I Compared Five On-Premises Project Planning Tools for 2026](https://dev.to/aurejaalkan02483/i-compared-five-on-premises-project-planning-tools-for-2026-51i3)
+- [Argo CD 3.5: Internal mTLS, Source Integrity, and the New ApplicationSet UI](https://dev.to/saaro_net/argo-cd-35-internal-mtls-source-integrity-and-the-new-applicationset-ui-5dce)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
