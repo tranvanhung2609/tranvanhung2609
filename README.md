@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Capture Node.js Express API Errors With Request Context and Stack Traces](https://dev.to/fletchervance3712/how-to-capture-nodejs-express-api-errors-with-request-context-and-stack-traces-2nhb)
-- [Automated Multimodal Vision Audits: Grading Character Consistency Frame-by-Frame](https://dev.to/biffer_rowley_4cdbf203087/automated-multimodal-vision-audits-grading-character-consistency-frame-by-frame-1npg)
-- [Should You Really Run MCP Servers on Your Own Machine?](https://dev.to/anehme/should-you-really-run-mcp-servers-on-your-own-machine-h92)
-- [Python Healthtech Duplicate Image Derivatives &lpar;When Processing Costs Surge&rpar;](https://dev.to/algernoncross4103/python-healthtech-duplicate-image-derivatives-when-processing-costs-surge-44l1)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1o8n)
-- [How We Automatically Upload Zoom Recordings to AWS S3](https://dev.to/360works/how-we-automatically-upload-zoom-recordings-to-aws-s3-25j4)
+- [Renting a GPU Server for AI Video Generation: What We Learned &lpar;Costs, Pitfalls, Checklist&rpar;](https://dev.to/big_mazzy_06d057cc24398c5/renting-a-gpu-server-for-ai-video-generation-what-we-learned-costs-pitfalls-checklist-hb8)
+- [WireGuard Split Tunneling on Blocked Networks &lpar;udp2raw&rpar;](https://dev.to/selfhostpilot/wireguard-split-tunneling-on-blocked-networks-udp2raw-144p)
+- [Your app broke after git pull? The after-pull checklist every team forgets](https://dev.to/jaytank/your-app-broke-after-git-pull-the-after-pull-checklist-every-team-forgets-394n)
+- [Your Jira automation rules break silently. How would you test them?](https://dev.to/skyblueballykid/your-jira-automation-rules-break-silently-how-would-you-test-them-568g)
+- [Why You Should Stop Storing JWTs in LocalStorage: A Practical Auth Strategy](https://dev.to/devanshu_patil/why-you-should-stop-storing-jwts-in-localstorage-a-practical-auth-strategy-42fg)
+- [Self-Hosted WAF with a Low False Positive Rate: Why It Matters](https://dev.to/lialiago/self-hosted-waf-with-a-low-false-positive-rate-why-it-matters-2ob)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
