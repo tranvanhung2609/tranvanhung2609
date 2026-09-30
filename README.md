@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Renting a GPU Server for AI Video Generation: What We Learned &lpar;Costs, Pitfalls, Checklist&rpar;](https://dev.to/big_mazzy_06d057cc24398c5/renting-a-gpu-server-for-ai-video-generation-what-we-learned-costs-pitfalls-checklist-hb8)
-- [WireGuard Split Tunneling on Blocked Networks &lpar;udp2raw&rpar;](https://dev.to/selfhostpilot/wireguard-split-tunneling-on-blocked-networks-udp2raw-144p)
-- [Your app broke after git pull? The after-pull checklist every team forgets](https://dev.to/jaytank/your-app-broke-after-git-pull-the-after-pull-checklist-every-team-forgets-394n)
-- [Your Jira automation rules break silently. How would you test them?](https://dev.to/skyblueballykid/your-jira-automation-rules-break-silently-how-would-you-test-them-568g)
-- [Why You Should Stop Storing JWTs in LocalStorage: A Practical Auth Strategy](https://dev.to/devanshu_patil/why-you-should-stop-storing-jwts-in-localstorage-a-practical-auth-strategy-42fg)
-- [Self-Hosted WAF with a Low False Positive Rate: Why It Matters](https://dev.to/lialiago/self-hosted-waf-with-a-low-false-positive-rate-why-it-matters-2ob)
+- [Support SLAs That Actually Matter When a Canadian Company Runs Odoo in Production](https://dev.to/manish_kumar_41187fb5ce3f/support-slas-that-actually-matter-when-a-canadian-company-runs-odoo-in-production-4hlh)
+- [NVIDIA OpenShell Explained: A Safer Runtime for AI Agents](https://dev.to/arshtechpro/nvidia-openshell-explained-a-safer-runtime-for-ai-agents-3kcn)
+- [Quantum‑aware GPU resource arbitration for Shadow’s Minimax Direct with CIEDE2000 lock gating and Hailuo H3 kinematic jitter suppression](https://dev.to/biffer_rowley_4cdbf203087/quantum-aware-gpu-resource-arbitration-for-shadows-minimax-direct-with-ciede2000-lock-gating-and-66e)
+- [Team-Page Ordering Is a Release Decision](https://dev.to/jeremy_longshore/team-page-ordering-is-a-release-decision-3el6)
+- [The $460 million typo](https://dev.to/lucky3mc/the-460-million-typo-5b5p)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-18p9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
