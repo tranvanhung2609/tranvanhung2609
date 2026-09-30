@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Payment Support Workflows for Modern Customer Service Teams](https://dev.to/dextralabs/building-ai-powered-payment-support-workflows-for-modern-customer-service-teams-35b5)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-lli)
-- [Java vs. JavaScript: What Every CS Student Should Know](https://dev.to/ro_bit07/java-vs-javascript-what-every-cs-student-should-know-1nhj)
-- [PostgreSQL Leases for Email Verification Workers](https://dev.to/kevindev27/postgresql-leases-for-email-verification-workers-3nml)
-- [GPU offload says Max, but only 54 of 65 layers loaded: how to check where your model actually runs](https://dev.to/milkyway008/gpu-offload-says-max-but-only-54-of-65-layers-loaded-how-to-check-where-your-model-actually-runs-7om)
-- [A small business VPS in 2026: what it really costs after year one](https://dev.to/tanit365/a-small-business-vps-in-2026-what-it-really-costs-after-year-one-24p8)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1o7f)
+- [Your smart-contract audit expired the day you made your next commit](https://dev.to/juan23z/your-smart-contract-audit-expired-the-day-you-made-your-next-commit-3gf7)
+- [SaaS App Uptime Monitoring 2026: US-EU Health and Missed Cron Jobs](https://dev.to/loganpierce2073/saas-app-uptime-monitoring-2026-us-eu-health-and-missed-cron-jobs-5ffo)
+- [MRN &lpar;minimal-resource-usage-runner&rpar;.change any linux to paas and free paas program built up on linux kernel](https://dev.to/message-beast/mrn-minimal-resource-usage-runnerchange-any-linux-to-paas-and-free-paas-program-built-up-on-335b)
+- [Why Agentic AI Governance Can&#39;t Be Bolted On](https://dev.to/getkimchi/why-agentic-ai-governance-cant-be-bolted-on-moc)
+- [I built &quot;boss levels&quot; for my Linux &amp; Docker game: you&#39;re on call and prod is down](https://dev.to/doodelinux/i-built-boss-levels-for-my-linux-docker-game-youre-on-call-and-prod-is-down-3p22)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
