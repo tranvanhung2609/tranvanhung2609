@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Support SLAs That Actually Matter When a Canadian Company Runs Odoo in Production](https://dev.to/manish_kumar_41187fb5ce3f/support-slas-that-actually-matter-when-a-canadian-company-runs-odoo-in-production-4hlh)
-- [NVIDIA OpenShell Explained: A Safer Runtime for AI Agents](https://dev.to/arshtechpro/nvidia-openshell-explained-a-safer-runtime-for-ai-agents-3kcn)
-- [Quantum‑aware GPU resource arbitration for Shadow’s Minimax Direct with CIEDE2000 lock gating and Hailuo H3 kinematic jitter suppression](https://dev.to/biffer_rowley_4cdbf203087/quantum-aware-gpu-resource-arbitration-for-shadows-minimax-direct-with-ciede2000-lock-gating-and-66e)
-- [Team-Page Ordering Is a Release Decision](https://dev.to/jeremy_longshore/team-page-ordering-is-a-release-decision-3el6)
-- [The $460 million typo](https://dev.to/lucky3mc/the-460-million-typo-5b5p)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-18p9)
+- [Building AI-Powered Payment Support Workflows for Modern Customer Service Teams](https://dev.to/dextralabs/building-ai-powered-payment-support-workflows-for-modern-customer-service-teams-35b5)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-lli)
+- [Java vs. JavaScript: What Every CS Student Should Know](https://dev.to/ro_bit07/java-vs-javascript-what-every-cs-student-should-know-1nhj)
+- [PostgreSQL Leases for Email Verification Workers](https://dev.to/kevindev27/postgresql-leases-for-email-verification-workers-3nml)
+- [GPU offload says Max, but only 54 of 65 layers loaded: how to check where your model actually runs](https://dev.to/milkyway008/gpu-offload-says-max-but-only-54-of-65-layers-loaded-how-to-check-where-your-model-actually-runs-7om)
+- [A small business VPS in 2026: what it really costs after year one](https://dev.to/tanit365/a-small-business-vps-in-2026-what-it-really-costs-after-year-one-24p8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
