@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1o7f)
-- [Your smart-contract audit expired the day you made your next commit](https://dev.to/juan23z/your-smart-contract-audit-expired-the-day-you-made-your-next-commit-3gf7)
-- [SaaS App Uptime Monitoring 2026: US-EU Health and Missed Cron Jobs](https://dev.to/loganpierce2073/saas-app-uptime-monitoring-2026-us-eu-health-and-missed-cron-jobs-5ffo)
-- [MRN &lpar;minimal-resource-usage-runner&rpar;.change any linux to paas and free paas program built up on linux kernel](https://dev.to/message-beast/mrn-minimal-resource-usage-runnerchange-any-linux-to-paas-and-free-paas-program-built-up-on-335b)
-- [Why Agentic AI Governance Can&#39;t Be Bolted On](https://dev.to/getkimchi/why-agentic-ai-governance-cant-be-bolted-on-moc)
-- [I built &quot;boss levels&quot; for my Linux &amp; Docker game: you&#39;re on call and prod is down](https://dev.to/doodelinux/i-built-boss-levels-for-my-linux-docker-game-youre-on-call-and-prod-is-down-3p22)
+- [Openspreader: java.util.concurrent scoped to the cluster. No Redis, no ZooKeeper.](https://dev.to/paganini2008/openspreader-javautilconcurrent-scoped-to-the-cluster-no-redis-no-zookeeper-db2)
+- [Watermarked SaaS Batches: Merge One PDF or Deliver a Separate-File ZIP](https://dev.to/jedidiahrhodes8293/watermarked-saas-batches-merge-one-pdf-or-deliver-a-separate-file-zip-5k9)
+- [Best Monday.com Alternatives: 7 Competitors Compared](https://dev.to/lara_walker_88/best-mondaycom-alternatives-7-competitors-compared-3fce)
+- [A Team Asked for One More Service, and My Kubernetes Platform Quietly Refused](https://dev.to/yu_ting_chen/a-team-asked-for-one-more-service-and-my-kubernetes-platform-quietly-refused-okm)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4lg1)
+- [Cold Email Deliverability for Automated Job Outreach](https://dev.to/sumaninster/cold-email-deliverability-for-automated-job-outreach-2k38)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
