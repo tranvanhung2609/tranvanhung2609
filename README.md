@@ -103,12 +103,13 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Ollama vs vLLM vs llama.cpp: Which Local LLM Engine?](https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6)
-- [Kubernetes in the Enterprise: Scalability, Resilience, and Release Speed Explained](https://dev.to/md_irshadalam_195108db40/kubernetes-in-the-enterprise-scalability-resilience-and-release-speed-explained-38go)
-- [Green Build, Broken Site: Three Next.js 16 Failures You Only See in Production](https://dev.to/mahmut_gndzalp_c736ac4b/green-build-broken-site-three-nextjs-16-failures-you-only-see-in-production-134p)
-- [A callback-first recovery pattern for AI video jobs on Vercel](https://dev.to/zhenyu_xu_b378d8d11d18138/a-callback-first-recovery-pattern-for-ai-video-jobs-on-vercel-2efo)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-ga4)
-- [Due to the if-else and switch statements ,run time polymorphism exist in this world !!!](https://dev.to/viraj_guranna/due-to-the-if-else-and-switch-statements-run-time-polymorphism-exist-in-this-world--3ph4)
+- [Your Coding Agent Has a Network. Do You Know What It Did?](https://dev.to/rishi_g_25/your-coding-agent-has-a-network-do-you-know-what-it-did-1bdg)
+- [We thought our GPT-5.4 agent got lazier in production — it was a 3-bug workflow teaching it to quit](https://dev.to/lars_winstand/we-thought-our-gpt-54-agent-got-lazier-in-production-it-was-a-3-bug-workflow-teaching-it-to-quit-1b3b)
+- [My static site started returning 429 to visitors - here is what I actually measured, and the $0 fix](https://dev.to/monkeyrun/my-static-site-started-returning-429-to-visitors-here-is-what-i-actually-measured-and-the-0-fix-1jc6)
+- [Request Response Model](https://dev.to/oladeji_adekunle_f56f16b2/request-response-model-214i)
+- [Springboot 3 revision: Dan Vega crash course
+https://www.youtube.com/watch?v=UgX5lgv4uVM](https://dev.to/tth2k/springboot-3-revision-dan-vega-crash-coursehttpswwwyoutubecomwatchvugx5lgv4uvm-377c)
+- [LLM Access Controls and Monitoring: Why the Attack Path Runs Through Over-Scoped Credentials](https://dev.to/resk/llm-access-controls-and-monitoring-why-the-attack-path-runs-through-over-scoped-credentials-2ijl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
