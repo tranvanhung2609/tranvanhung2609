@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Openspreader: java.util.concurrent scoped to the cluster. No Redis, no ZooKeeper.](https://dev.to/paganini2008/openspreader-javautilconcurrent-scoped-to-the-cluster-no-redis-no-zookeeper-db2)
-- [Watermarked SaaS Batches: Merge One PDF or Deliver a Separate-File ZIP](https://dev.to/jedidiahrhodes8293/watermarked-saas-batches-merge-one-pdf-or-deliver-a-separate-file-zip-5k9)
-- [Best Monday.com Alternatives: 7 Competitors Compared](https://dev.to/lara_walker_88/best-mondaycom-alternatives-7-competitors-compared-3fce)
-- [A Team Asked for One More Service, and My Kubernetes Platform Quietly Refused](https://dev.to/yu_ting_chen/a-team-asked-for-one-more-service-and-my-kubernetes-platform-quietly-refused-okm)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4lg1)
-- [Cold Email Deliverability for Automated Job Outreach](https://dev.to/sumaninster/cold-email-deliverability-for-automated-job-outreach-2k38)
+- [Ollama vs vLLM vs llama.cpp: Which Local LLM Engine?](https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6)
+- [Kubernetes in the Enterprise: Scalability, Resilience, and Release Speed Explained](https://dev.to/md_irshadalam_195108db40/kubernetes-in-the-enterprise-scalability-resilience-and-release-speed-explained-38go)
+- [Green Build, Broken Site: Three Next.js 16 Failures You Only See in Production](https://dev.to/mahmut_gndzalp_c736ac4b/green-build-broken-site-three-nextjs-16-failures-you-only-see-in-production-134p)
+- [A callback-first recovery pattern for AI video jobs on Vercel](https://dev.to/zhenyu_xu_b378d8d11d18138/a-callback-first-recovery-pattern-for-ai-video-jobs-on-vercel-2efo)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-ga4)
+- [Due to the if-else and switch statements ,run time polymorphism exist in this world !!!](https://dev.to/viraj_guranna/due-to-the-if-else-and-switch-statements-run-time-polymorphism-exist-in-this-world--3ph4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
