@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why ALTER TABLE Still Takes Down Production Postgres in 2026](https://dev.to/gdedeoglu/why-alter-table-still-takes-down-production-postgres-in-2026-4ane)
-- [I operate Karpenter every day. I wanted to see how its brain works, so I built a controller.](https://dev.to/jesskearney/i-operate-karpenter-every-day-i-wanted-to-see-how-its-brain-works-so-i-built-a-controller-55c0)
-- [When Loyalty Points Are Deducted Twice: What Breaks Under Load](https://dev.to/qtim/when-loyalty-points-are-deducted-twice-what-breaks-under-load-3d62)
-- [The Circuit Breaker Pattern in Microservices: Protecting Downstream Dependencies](https://dev.to/devanshu_patil/the-circuit-breaker-pattern-in-microservices-protecting-downstream-dependencies-23p6)
-- [Best UptimeRobot Alternative for Indie Developers &amp; SaaS Teams in 2026](https://dev.to/hamza1s34/best-uptimerobot-alternative-for-indie-developers-saas-teams-in-2026-5agd)
-- [DevOpsDays Vilnius 2026](https://dev.to/lauravuo/devopsdays-vilnius-2027-5e99)
+- [Optimistic vs Pessimistic Locking: Handling Race Conditions in High-Contention Databases](https://dev.to/devanshu_patil/optimistic-vs-pessimistic-locking-handling-race-conditions-in-high-contention-databases-1fkk)
+- [Kubernetes Email Fixtures Need a Namespace Budget](https://dev.to/jasonmills94/kubernetes-email-fixtures-need-a-namespace-budget-10ia)
+- [Inbound Mail Priorities Expose Leftover Provider Records &lpar;During Healthtech Cutovers&rpar;](https://dev.to/constantinehayes8524/inbound-mail-priorities-expose-leftover-provider-records-during-healthtech-cutovers-5908)
+- [Node.js Marketplace DNS 2026: Debugging Hostname Breakage After Adding a CNAME Record](https://dev.to/ellisvance1273/nodejs-marketplace-dns-2026-debugging-hostname-breakage-after-adding-a-cname-record-3jbo)
+- [The takedown is not the end: monitoring for recurrence](https://dev.to/fraudox/the-takedown-is-not-the-end-monitoring-for-recurrence-3ao6)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3ioe)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
