@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Localhost Is Not Private: Securing Developer Environments Against Localhost SSRF and DNS Rebinding](https://dev.to/instatunnel/your-localhost-is-not-private-securing-developer-environments-against-localhost-ssrf-and-dns-4koh)
-- [Marketplace DNS TTLs: Pre-Change Lowering Beats Short Values Everywhere](https://dev.to/linusholm3764/marketplace-dns-ttls-pre-change-lowering-beats-short-values-everywhere-4a4c)
-- [Managing API Credential Hygiene for Avatar Analysis Integrations](https://dev.to/avatarlookup/managing-api-credential-hygiene-for-avatar-analysis-integrations-40jp)
-- [Hello DEV! 👋](https://dev.to/rudrasanandiya/hello-dev-1jh1)
-- [12,488,458 answers on port 9080 beside 77,076 WebSphere matches: reading a Java middleware estate](https://dev.to/bianliang/12488458-answers-on-port-9080-beside-77076-websphere-matches-reading-a-java-middleware-estate-88i)
-- [12,488,458 answers on port 9080 beside 77,076 WebSphere matches: reading a Java middleware estate](https://dev.to/bianliang/12488458-answers-on-port-9080-beside-77076-websphere-matches-reading-a-java-middleware-estate-88i)
+- [Why ALTER TABLE Still Takes Down Production Postgres in 2026](https://dev.to/gdedeoglu/why-alter-table-still-takes-down-production-postgres-in-2026-4ane)
+- [I operate Karpenter every day. I wanted to see how its brain works, so I built a controller.](https://dev.to/jesskearney/i-operate-karpenter-every-day-i-wanted-to-see-how-its-brain-works-so-i-built-a-controller-55c0)
+- [When Loyalty Points Are Deducted Twice: What Breaks Under Load](https://dev.to/qtim/when-loyalty-points-are-deducted-twice-what-breaks-under-load-3d62)
+- [The Circuit Breaker Pattern in Microservices: Protecting Downstream Dependencies](https://dev.to/devanshu_patil/the-circuit-breaker-pattern-in-microservices-protecting-downstream-dependencies-23p6)
+- [Best UptimeRobot Alternative for Indie Developers &amp; SaaS Teams in 2026](https://dev.to/hamza1s34/best-uptimerobot-alternative-for-indie-developers-saas-teams-in-2026-5agd)
+- [DevOpsDays Vilnius 2026](https://dev.to/lauravuo/devopsdays-vilnius-2027-5e99)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
