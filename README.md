@@ -103,13 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Coding Agent Has a Network. Do You Know What It Did?](https://dev.to/rishi_g_25/your-coding-agent-has-a-network-do-you-know-what-it-did-1bdg)
-- [We thought our GPT-5.4 agent got lazier in production — it was a 3-bug workflow teaching it to quit](https://dev.to/lars_winstand/we-thought-our-gpt-54-agent-got-lazier-in-production-it-was-a-3-bug-workflow-teaching-it-to-quit-1b3b)
-- [My static site started returning 429 to visitors - here is what I actually measured, and the $0 fix](https://dev.to/monkeyrun/my-static-site-started-returning-429-to-visitors-here-is-what-i-actually-measured-and-the-0-fix-1jc6)
-- [Request Response Model](https://dev.to/oladeji_adekunle_f56f16b2/request-response-model-214i)
-- [Springboot 3 revision: Dan Vega crash course
-https://www.youtube.com/watch?v=UgX5lgv4uVM](https://dev.to/tth2k/springboot-3-revision-dan-vega-crash-coursehttpswwwyoutubecomwatchvugx5lgv4uvm-377c)
-- [LLM Access Controls and Monitoring: Why the Attack Path Runs Through Over-Scoped Credentials](https://dev.to/resk/llm-access-controls-and-monitoring-why-the-attack-path-runs-through-over-scoped-credentials-2ijl)
+- [Your Localhost Is Not Private: Securing Developer Environments Against Localhost SSRF and DNS Rebinding](https://dev.to/instatunnel/your-localhost-is-not-private-securing-developer-environments-against-localhost-ssrf-and-dns-4koh)
+- [Marketplace DNS TTLs: Pre-Change Lowering Beats Short Values Everywhere](https://dev.to/linusholm3764/marketplace-dns-ttls-pre-change-lowering-beats-short-values-everywhere-4a4c)
+- [Managing API Credential Hygiene for Avatar Analysis Integrations](https://dev.to/avatarlookup/managing-api-credential-hygiene-for-avatar-analysis-integrations-40jp)
+- [Hello DEV! 👋](https://dev.to/rudrasanandiya/hello-dev-1jh1)
+- [12,488,458 answers on port 9080 beside 77,076 WebSphere matches: reading a Java middleware estate](https://dev.to/bianliang/12488458-answers-on-port-9080-beside-77076-websphere-matches-reading-a-java-middleware-estate-88i)
+- [12,488,458 answers on port 9080 beside 77,076 WebSphere matches: reading a Java middleware estate](https://dev.to/bianliang/12488458-answers-on-port-9080-beside-77076-websphere-matches-reading-a-java-middleware-estate-88i)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
