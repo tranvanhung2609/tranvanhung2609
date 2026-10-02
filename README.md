@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Optimistic vs Pessimistic Locking: Handling Race Conditions in High-Contention Databases](https://dev.to/devanshu_patil/optimistic-vs-pessimistic-locking-handling-race-conditions-in-high-contention-databases-1fkk)
-- [Kubernetes Email Fixtures Need a Namespace Budget](https://dev.to/jasonmills94/kubernetes-email-fixtures-need-a-namespace-budget-10ia)
-- [Inbound Mail Priorities Expose Leftover Provider Records &lpar;During Healthtech Cutovers&rpar;](https://dev.to/constantinehayes8524/inbound-mail-priorities-expose-leftover-provider-records-during-healthtech-cutovers-5908)
-- [Node.js Marketplace DNS 2026: Debugging Hostname Breakage After Adding a CNAME Record](https://dev.to/ellisvance1273/nodejs-marketplace-dns-2026-debugging-hostname-breakage-after-adding-a-cname-record-3jbo)
-- [The takedown is not the end: monitoring for recurrence](https://dev.to/fraudox/the-takedown-is-not-the-end-monitoring-for-recurrence-3ao6)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-3ioe)
+- [How to check domain expiry dates, DNS records and SSL certificates in bulk](https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3)
+- [26 reviewer agents out of 27 approved a test that can never fail again](https://dev.to/remdore/26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again-2lil)
+- [Self-Hosted vs SaaS Uptime Monitoring: 3 Small-Business App Health Cohorts](https://dev.to/magnusnilsson2124/self-hosted-vs-saas-uptime-monitoring-3-small-business-app-health-cohorts-2g9b)
+- [Stop Paying for Custom GPTs: How to Self-Host Flowise for Secure, Private AI Workflows](https://dev.to/fejuno/stop-paying-for-custom-gpts-how-to-self-host-flowise-for-secure-private-ai-workflows-4pm)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1jm0)
+- [Self-hosted n8n for business: VPS cost, security, backups and GDPR](https://dev.to/nexflow/self-hosted-n8n-for-business-vps-cost-security-backups-and-gdpr-24ph)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
