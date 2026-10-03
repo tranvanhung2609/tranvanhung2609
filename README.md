@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Critical GitLab AI Gateway Flaw &lpar;CVE-2026-90970&rpar;: Command Execution Risk in Self-Hosted Stacks](https://dev.to/udaypatil/critical-gitlab-ai-gateway-flaw-cve-2026-90970-command-execution-risk-in-self-hosted-stacks-3l24)
-- [Provider Abstraction for LLMs: From One Provider to Many](https://dev.to/priyankaa/provider-abstraction-for-llms-from-one-provider-to-many-55l)
-- [Hello DEV Community!](https://dev.to/mandarepranoti1302/hello-dev-community-1j77)
-- [Is your VPS network performance holding your apps back? One quick tip: test both latency and](https://dev.to/monovm/is-your-vps-network-performance-holding-your-apps-back-one-quick-tip-test-both-latency-and-51ho)
-- [RabbitMQ Tutorial for Beginners: Understanding Producer, Exchange, Queue, and Consumer](https://dev.to/selviparasakthik/rabbitmq-tutorial-for-beginners-understanding-producer-exchange-queue-and-consumer-5haj)
-- [Building a multi-tenant POS and inventory system with Spring Boot and Angular: three design decisions that paid off](https://dev.to/mfarouk2894/building-a-multi-tenant-pos-and-inventory-system-with-spring-boot-and-angular-three-design-end)
+- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi)
+- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi)
+- [My build hung for 15 minutes with no output. The build was fine — my Node was patched.](https://dev.to/toolkitcreators/my-build-hung-for-15-minutes-with-no-output-the-build-was-fine-my-node-was-patched-5cfg)
+- [ShopEase: Advanced Backend Features with Webhooks, GraphQL, gRPC &amp; Load Balancing](https://dev.to/shitanshu686/shopease-advanced-backend-features-with-webhooks-graphql-grpc-load-balancing-j4h)
+- [Part 2: Securing Azure Container Registry with Managed Identity and Private Endpoints](https://dev.to/rahimah_dev/part-2-securing-azure-container-registry-with-managed-identity-and-private-endpoints-9b1)
+- [Authentication &amp; Sessions in Backends](https://dev.to/sri2614/authentication-sessions-in-backends-4kg0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
