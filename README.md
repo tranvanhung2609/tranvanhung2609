@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi)
-- [From Provisioned to Ready: Tracking Application Health in My Kubernetes Platform](https://dev.to/shubhamgoel23/from-provisioned-to-ready-tracking-application-health-in-my-kubernetes-platform-2cdi)
-- [My build hung for 15 minutes with no output. The build was fine — my Node was patched.](https://dev.to/toolkitcreators/my-build-hung-for-15-minutes-with-no-output-the-build-was-fine-my-node-was-patched-5cfg)
-- [ShopEase: Advanced Backend Features with Webhooks, GraphQL, gRPC &amp; Load Balancing](https://dev.to/shitanshu686/shopease-advanced-backend-features-with-webhooks-graphql-grpc-load-balancing-j4h)
-- [Part 2: Securing Azure Container Registry with Managed Identity and Private Endpoints](https://dev.to/rahimah_dev/part-2-securing-azure-container-registry-with-managed-identity-and-private-endpoints-9b1)
-- [Authentication &amp; Sessions in Backends](https://dev.to/sri2614/authentication-sessions-in-backends-4kg0)
+- [Internal Admin Metrics Dashboard: Build an API-First Backend for Nightly Pipelines](https://dev.to/abernathycross6857/internal-admin-metrics-dashboard-build-an-api-first-backend-for-nightly-pipelines-371n)
+- [Java WebAssembly Meets WebForms Core 2.2](https://dev.to/elanatframework/java-webassembly-meets-webforms-core-22-pma)
+- [Self-Hosting a Business Stack with Dokploy, Traefik, CrowdSec](https://dev.to/bryan_gitonga_e244e8bfde1/self-hosting-a-business-stack-with-dokploy-traefik-crowdsec-18h0)
+- [Indexing Your Database Like a Jedi: Finding the Force in Queries](https://dev.to/timevolt/indexing-your-database-like-a-jedi-finding-the-force-in-queries-8kf)
+- [Why I Built LoreTest: The Open-Source, Privacy-First Test Management Platform](https://dev.to/tony_clarke999_6797e3c61/why-i-built-loretest-the-open-source-privacy-first-test-management-platform-3fio)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-15bd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
