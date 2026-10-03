@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your Cloud Bill Is a Design Document](https://dev.to/ksoft_technologies_33f7f6/your-cloud-bill-is-a-design-document-4nh7)
-- [An on-page SEO audit API: a 0–100 score and a fix list in about 2 seconds](https://dev.to/tidytools/an-on-page-seo-audit-api-a-0-100-score-and-a-fix-list-in-about-2-seconds-155b)
-- [From Telemetry to Automated Incident Response: My DevOps &amp; Observability Journey](https://dev.to/esadata/from-telemetry-to-automated-incident-response-my-devops-observability-journey-2ob5)
-- [From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers](https://dev.to/ilyatech/from-javascript-basics-to-deployed-websites-a-structured-learning-path-for-aspiring-web-developers-cf2)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ghd)
-- [MySQL Development Setup – macOS Apple Silicon &lpar;ARM&rpar;](https://dev.to/udara_dananjaya/mysql-development-setup-macos-apple-silicon-arm-45fm)
+- [Critical GitLab AI Gateway Flaw &lpar;CVE-2026-90970&rpar;: Command Execution Risk in Self-Hosted Stacks](https://dev.to/udaypatil/critical-gitlab-ai-gateway-flaw-cve-2026-90970-command-execution-risk-in-self-hosted-stacks-3l24)
+- [Provider Abstraction for LLMs: From One Provider to Many](https://dev.to/priyankaa/provider-abstraction-for-llms-from-one-provider-to-many-55l)
+- [Hello DEV Community!](https://dev.to/mandarepranoti1302/hello-dev-community-1j77)
+- [Is your VPS network performance holding your apps back? One quick tip: test both latency and](https://dev.to/monovm/is-your-vps-network-performance-holding-your-apps-back-one-quick-tip-test-both-latency-and-51ho)
+- [RabbitMQ Tutorial for Beginners: Understanding Producer, Exchange, Queue, and Consumer](https://dev.to/selviparasakthik/rabbitmq-tutorial-for-beginners-understanding-producer-exchange-queue-and-consumer-5haj)
+- [Building a multi-tenant POS and inventory system with Spring Boot and Angular: three design decisions that paid off](https://dev.to/mfarouk2894/building-a-multi-tenant-pos-and-inventory-system-with-spring-boot-and-angular-three-design-end)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
