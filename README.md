@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to check domain expiry dates, DNS records and SSL certificates in bulk](https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3)
-- [26 reviewer agents out of 27 approved a test that can never fail again](https://dev.to/remdore/26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again-2lil)
-- [Self-Hosted vs SaaS Uptime Monitoring: 3 Small-Business App Health Cohorts](https://dev.to/magnusnilsson2124/self-hosted-vs-saas-uptime-monitoring-3-small-business-app-health-cohorts-2g9b)
-- [Stop Paying for Custom GPTs: How to Self-Host Flowise for Secure, Private AI Workflows](https://dev.to/fejuno/stop-paying-for-custom-gpts-how-to-self-host-flowise-for-secure-private-ai-workflows-4pm)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-1jm0)
-- [Self-hosted n8n for business: VPS cost, security, backups and GDPR](https://dev.to/nexflow/self-hosted-n8n-for-business-vps-cost-security-backups-and-gdpr-24ph)
+- [Your Cloud Bill Is a Design Document](https://dev.to/ksoft_technologies_33f7f6/your-cloud-bill-is-a-design-document-4nh7)
+- [An on-page SEO audit API: a 0–100 score and a fix list in about 2 seconds](https://dev.to/tidytools/an-on-page-seo-audit-api-a-0-100-score-and-a-fix-list-in-about-2-seconds-155b)
+- [From Telemetry to Automated Incident Response: My DevOps &amp; Observability Journey](https://dev.to/esadata/from-telemetry-to-automated-incident-response-my-devops-observability-journey-2ob5)
+- [From JavaScript Basics to Deployed Websites: A Structured Learning Path for Aspiring Web Developers](https://dev.to/ilyatech/from-javascript-basics-to-deployed-websites-a-structured-learning-path-for-aspiring-web-developers-cf2)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4ghd)
+- [MySQL Development Setup – macOS Apple Silicon &lpar;ARM&rpar;](https://dev.to/udara_dananjaya/mysql-development-setup-macos-apple-silicon-arm-45fm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
