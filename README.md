@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Internal Admin Metrics Dashboard: Build an API-First Backend for Nightly Pipelines](https://dev.to/abernathycross6857/internal-admin-metrics-dashboard-build-an-api-first-backend-for-nightly-pipelines-371n)
-- [Java WebAssembly Meets WebForms Core 2.2](https://dev.to/elanatframework/java-webassembly-meets-webforms-core-22-pma)
-- [Self-Hosting a Business Stack with Dokploy, Traefik, CrowdSec](https://dev.to/bryan_gitonga_e244e8bfde1/self-hosting-a-business-stack-with-dokploy-traefik-crowdsec-18h0)
-- [Indexing Your Database Like a Jedi: Finding the Force in Queries](https://dev.to/timevolt/indexing-your-database-like-a-jedi-finding-the-force-in-queries-8kf)
-- [Why I Built LoreTest: The Open-Source, Privacy-First Test Management Platform](https://dev.to/tony_clarke999_6797e3c61/why-i-built-loretest-the-open-source-privacy-first-test-management-platform-3fio)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-15bd)
+- [Ten hours unattended: what a long job needs to survive alone](https://dev.to/idlecultivation/ten-hours-unattended-what-a-long-job-needs-to-survive-alone-4m29)
+- [Backups en la nube sin dramas](https://dev.to/gerald_deybizevallospin/backups-en-la-nube-sin-dramas-56ap)
+- [Los bugs más caros del escaneo de vulnerabilidades no están en el código, están en el pipeline](https://dev.to/korins707/los-bugs-mas-caros-del-escaneo-de-vulnerabilidades-no-estan-en-el-codigo-estan-en-el-pipeline-lf0)
+- [Golden Paths: Why Platform Engineering Matters More Than Your Repo Strategy](https://dev.to/parth_sarthisharma_105e7/golden-paths-why-platform-engineering-matters-more-than-your-repo-strategy-34b6)
+- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4444)
+- [Edge Computing](https://dev.to/gouranga-das-khulna/edge-computing-4beh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
