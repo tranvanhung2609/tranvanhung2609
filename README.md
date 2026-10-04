@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Gateway I Put in Production: 4 Decisions That Actually Mattered](https://dev.to/zerokdevops/the-llm-gateway-i-put-in-production-4-decisions-that-actually-mattered-5797)
-- [Java Learning Series - Patient Management System](https://dev.to/g_gokul_ganapathy/java-learning-series-patient-management-system-383m)
-- [The 5 System Design Tradeoffs Every Backend Engineer Must Navigate](https://dev.to/devanshu_patil/the-5-system-design-tradeoffs-every-backend-engineer-must-navigate-2k2f)
-- [How to Safely Store or Share a .env File &lpar;Without Slack or Email Leaks&rpar;](https://dev.to/shreyash_pawar/how-to-safely-store-or-share-a-env-file-without-slack-or-email-leaks-44ce)
-- [Self-Hosting Supabase for Health Data under GDPR: Lessons From Running a Telemedicine Platform](https://dev.to/docto24/self-hosting-supabase-for-health-data-under-gdpr-lessons-from-running-a-telemedicine-platform-33o6)
-- [My PDF compressor was making files bigger](https://dev.to/atabek_murtazaev_18e1ac50/my-pdf-compressor-was-making-files-bigger-2ej2)
+- [Stop Hardcoding LLMs: The Case for Intent-Based Dynamic Routing](https://dev.to/naveed_munsif/stop-hardcoding-llms-the-case-for-intent-based-dynamic-routing-451)
+- [A broken cable on the ocean floor slowed the internet for a whole country](https://dev.to/kashif_manzer/a-broken-cable-on-the-ocean-floor-slowed-the-internet-for-a-whole-country-1a4j)
+- [A broken cable on the ocean floor slowed the internet for a whole country](https://dev.to/kashif_manzer/a-broken-cable-on-the-ocean-floor-slowed-the-internet-for-a-whole-country-1a4j)
+- [Eighteen hours to close the loop](https://dev.to/arcker/eighteen-hours-to-close-the-loop-2751)
+- [Fix: &#39;Address Already in Use&#39; &lpar;Kill Stuck Process on Any Port&rpar;](https://dev.to/onelinedev/fix-address-already-in-use-kill-stuck-process-on-any-port-7ok)
+- [Fix: &#39;fatal: refusing to merge unrelated histories&#39; in Git](https://dev.to/onelinedev/fix-fatal-refusing-to-merge-unrelated-histories-in-git-42bh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
