@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding LLMs: The Case for Intent-Based Dynamic Routing](https://dev.to/naveed_munsif/stop-hardcoding-llms-the-case-for-intent-based-dynamic-routing-451)
-- [A broken cable on the ocean floor slowed the internet for a whole country](https://dev.to/kashif_manzer/a-broken-cable-on-the-ocean-floor-slowed-the-internet-for-a-whole-country-1a4j)
-- [A broken cable on the ocean floor slowed the internet for a whole country](https://dev.to/kashif_manzer/a-broken-cable-on-the-ocean-floor-slowed-the-internet-for-a-whole-country-1a4j)
-- [Eighteen hours to close the loop](https://dev.to/arcker/eighteen-hours-to-close-the-loop-2751)
-- [Fix: &#39;Address Already in Use&#39; &lpar;Kill Stuck Process on Any Port&rpar;](https://dev.to/onelinedev/fix-address-already-in-use-kill-stuck-process-on-any-port-7ok)
-- [Fix: &#39;fatal: refusing to merge unrelated histories&#39; in Git](https://dev.to/onelinedev/fix-fatal-refusing-to-merge-unrelated-histories-in-git-42bh)
+- [Feature Flag Kill Switch: 4 Signals Before Auto-Disable After Repeated Errors](https://dev.to/fletchervance3712/feature-flag-kill-switch-4-signals-before-auto-disable-after-repeated-errors-114j)
+- [Your Database Is Small. That Doesn’t Mean Your Queries Are Fast](https://dev.to/ioan_flaviuzsoldos_a3bf4/your-database-is-small-that-doesnt-mean-your-queries-are-fast-1130)
+- [SaaS: una bandeja por ejecución para probar emails](https://dev.to/hannahdev56/saas-una-bandeja-por-ejecucion-para-probar-emails-2f00)
+- [Uptime Health Monitoring — Pair App Metrics With Cron Heartbeats](https://dev.to/xenoncross2718/uptime-health-monitoring-pair-app-metrics-with-cron-heartbeats-gjk)
+- [Runtime cost matters to me now](https://dev.to/irr123456/runtime-cost-matters-to-me-now-4mdm)
+- [Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh](https://dev.to/hordii_bohdan/building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh-hgf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
