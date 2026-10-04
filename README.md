@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Ten hours unattended: what a long job needs to survive alone](https://dev.to/idlecultivation/ten-hours-unattended-what-a-long-job-needs-to-survive-alone-4m29)
-- [Backups en la nube sin dramas](https://dev.to/gerald_deybizevallospin/backups-en-la-nube-sin-dramas-56ap)
-- [Los bugs más caros del escaneo de vulnerabilidades no están en el código, están en el pipeline](https://dev.to/korins707/los-bugs-mas-caros-del-escaneo-de-vulnerabilidades-no-estan-en-el-codigo-estan-en-el-pipeline-lf0)
-- [Golden Paths: Why Platform Engineering Matters More Than Your Repo Strategy](https://dev.to/parth_sarthisharma_105e7/golden-paths-why-platform-engineering-matters-more-than-your-repo-strategy-34b6)
-- [How to Secure Your Linux Server in 10 Steps](https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-4444)
-- [Edge Computing](https://dev.to/gouranga-das-khulna/edge-computing-4beh)
+- [The LLM Gateway I Put in Production: 4 Decisions That Actually Mattered](https://dev.to/zerokdevops/the-llm-gateway-i-put-in-production-4-decisions-that-actually-mattered-5797)
+- [Java Learning Series - Patient Management System](https://dev.to/g_gokul_ganapathy/java-learning-series-patient-management-system-383m)
+- [The 5 System Design Tradeoffs Every Backend Engineer Must Navigate](https://dev.to/devanshu_patil/the-5-system-design-tradeoffs-every-backend-engineer-must-navigate-2k2f)
+- [How to Safely Store or Share a .env File &lpar;Without Slack or Email Leaks&rpar;](https://dev.to/shreyash_pawar/how-to-safely-store-or-share-a-env-file-without-slack-or-email-leaks-44ce)
+- [Self-Hosting Supabase for Health Data under GDPR: Lessons From Running a Telemedicine Platform](https://dev.to/docto24/self-hosting-supabase-for-health-data-under-gdpr-lessons-from-running-a-telemedicine-platform-33o6)
+- [My PDF compressor was making files bigger](https://dev.to/atabek_murtazaev_18e1ac50/my-pdf-compressor-was-making-files-bigger-2ej2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
