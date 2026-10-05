@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up Encrypted Off-Site Backups for My MacBook With restic and Backblaze B2](https://dev.to/hafiz619/how-i-set-up-encrypted-off-site-backups-for-my-macbook-with-restic-and-backblaze-b2-17gn)
-- [The Security Questionnaire That Stalls Your Deal](https://dev.to/ksoft_technologies_33f7f6/the-security-questionnaire-that-stalls-your-deal-2ob6)
-- [Why Automating Shopify Admin is a Nightmare &lpar;And How We Solved It&rpar;](https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo)
-- [9 คำสั่ง kubectl ที่ควรอยู่ใน muscle memory ก่อนโดนปลุกตอนตี 2](https://dev.to/icelimited/9-khamsang-kubectl-thiikhwryuuain-muscle-memory-knodnpluktntii-2-7e0)
-- [The AI Prompts I Actually Use On-Call &lpar;Copy-Paste&rpar;](https://dev.to/devopsaitoolkit/the-ai-prompts-i-actually-use-on-call-copy-paste-2jdg)
-- [Fixing 413 request entity to large on laravel + nginx](https://dev.to/misbahlmnr/fixing-413-request-entity-to-large-on-laravel-nginx-3fno)
+- [Vs Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-mma-timer-what-we-learned-building-random-tactical-timer-2ob0)
+- [What I Learned Building Backend Features Used Across Multiple Clients](https://dev.to/gabriela_colombo_437a7a2d/what-i-learned-building-backend-features-used-across-multiple-clients-3dfn)
+- [Why Azure Skills Are Becoming Essential for Modern IT Careers](https://dev.to/karthikeya_p/why-azure-skills-are-becoming-essential-for-modern-it-careers-49bg)
+- [Transitioning from Automation Architect/SDET to DevOps: Leveraging Skills for a Title Change by Year-End](https://dev.to/maricode/transitioning-from-automation-architectsdet-to-devops-leveraging-skills-for-a-title-change-by-1jfh)
+- [Order per entity, not per queue, in an offline write queue](https://dev.to/shipmindlabs/order-per-entity-not-per-queue-in-an-offline-write-queue-2cgc)
+- [Ten ways AI coding agents fake a green build &lpar;and how to catch them in the pull request&rpar;](https://dev.to/itsayush/ten-ways-ai-coding-agents-fake-a-green-build-and-how-to-catch-them-in-the-pull-request-4i3o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
