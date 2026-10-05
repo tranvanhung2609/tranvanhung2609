@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Feature Flag Kill Switch: 4 Signals Before Auto-Disable After Repeated Errors](https://dev.to/fletchervance3712/feature-flag-kill-switch-4-signals-before-auto-disable-after-repeated-errors-114j)
-- [Your Database Is Small. That Doesn’t Mean Your Queries Are Fast](https://dev.to/ioan_flaviuzsoldos_a3bf4/your-database-is-small-that-doesnt-mean-your-queries-are-fast-1130)
-- [SaaS: una bandeja por ejecución para probar emails](https://dev.to/hannahdev56/saas-una-bandeja-por-ejecucion-para-probar-emails-2f00)
-- [Uptime Health Monitoring — Pair App Metrics With Cron Heartbeats](https://dev.to/xenoncross2718/uptime-health-monitoring-pair-app-metrics-with-cron-heartbeats-gjk)
-- [Runtime cost matters to me now](https://dev.to/irr123456/runtime-cost-matters-to-me-now-4mdm)
-- [Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh](https://dev.to/hordii_bohdan/building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh-hgf)
+- [How I Set Up Encrypted Off-Site Backups for My MacBook With restic and Backblaze B2](https://dev.to/hafiz619/how-i-set-up-encrypted-off-site-backups-for-my-macbook-with-restic-and-backblaze-b2-17gn)
+- [The Security Questionnaire That Stalls Your Deal](https://dev.to/ksoft_technologies_33f7f6/the-security-questionnaire-that-stalls-your-deal-2ob6)
+- [Why Automating Shopify Admin is a Nightmare &lpar;And How We Solved It&rpar;](https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo)
+- [9 คำสั่ง kubectl ที่ควรอยู่ใน muscle memory ก่อนโดนปลุกตอนตี 2](https://dev.to/icelimited/9-khamsang-kubectl-thiikhwryuuain-muscle-memory-knodnpluktntii-2-7e0)
+- [The AI Prompts I Actually Use On-Call &lpar;Copy-Paste&rpar;](https://dev.to/devopsaitoolkit/the-ai-prompts-i-actually-use-on-call-copy-paste-2jdg)
+- [Fixing 413 request entity to large on laravel + nginx](https://dev.to/misbahlmnr/fixing-413-request-entity-to-large-on-laravel-nginx-3fno)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
