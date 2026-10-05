@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Vs Mma Timer: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/vs-mma-timer-what-we-learned-building-random-tactical-timer-2ob0)
-- [What I Learned Building Backend Features Used Across Multiple Clients](https://dev.to/gabriela_colombo_437a7a2d/what-i-learned-building-backend-features-used-across-multiple-clients-3dfn)
-- [Why Azure Skills Are Becoming Essential for Modern IT Careers](https://dev.to/karthikeya_p/why-azure-skills-are-becoming-essential-for-modern-it-careers-49bg)
-- [Transitioning from Automation Architect/SDET to DevOps: Leveraging Skills for a Title Change by Year-End](https://dev.to/maricode/transitioning-from-automation-architectsdet-to-devops-leveraging-skills-for-a-title-change-by-1jfh)
-- [Order per entity, not per queue, in an offline write queue](https://dev.to/shipmindlabs/order-per-entity-not-per-queue-in-an-offline-write-queue-2cgc)
-- [Ten ways AI coding agents fake a green build &lpar;and how to catch them in the pull request&rpar;](https://dev.to/itsayush/ten-ways-ai-coding-agents-fake-a-green-build-and-how-to-catch-them-in-the-pull-request-4i3o)
+- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
+- [Node.js Avatar Derivatives — Durable IDs Across Three Resize Targets](https://dev.to/ulyssesblack2385/nodejs-avatar-derivatives-durable-ids-across-three-resize-targets-4gon)
+- [Preventing Duplicate WhatsApp Messages: Idempotency and Webhook State Management](https://dev.to/5minutesapi/preventing-duplicate-whatsapp-messages-idempotency-and-webhook-state-management-10c5)
+- [How to stop hand-maintaining monorepo CI path filters!](https://dev.to/markalex1234/how-to-stop-hand-maintaining-monorepo-ci-path-filters-ijk)
+- [LLM gateway on-call: the 4 incidents that actually happen](https://dev.to/zerokdevops/llm-gateway-on-call-the-4-incidents-that-actually-happen-4755)
+- [Postgres Let Two Rows Through a Unique Index: The glibc Collation Trap After an OS Upgrade](https://dev.to/libme/postgres-let-two-rows-through-a-unique-index-the-glibc-collation-trap-after-an-os-upgrade-3ad6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
