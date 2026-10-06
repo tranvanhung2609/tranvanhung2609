@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Field notes from running small services](https://dev.to/mukuvi/field-notes-from-running-small-services-52j6)
-- [Infrastructure was not where I started](https://dev.to/mukuvi/infrastructure-was-not-where-i-started-3713)
-- [How to Monetize Idle GPUs in 2026: A Technical Guide for Data Center Operators](https://dev.to/kavs/how-to-monetize-idle-gpus-in-2026-a-technical-guide-for-data-center-operators-3f9g)
-- [You probably do not need Kubernetes](https://dev.to/mukuvi/you-probably-do-not-need-kubernetes-36on)
-- [Booking.com&#39;s Node savings don&#39;t carry over to Bun. Autoheal does.](https://dev.to/chovy/bookingcoms-node-savings-dont-carry-over-to-bun-autoheal-does-57n1)
-- [My ALX journey: from Hello World in C to a load balancer and my own shell](https://dev.to/mukuvi/my-alx-journey-from-hello-world-in-c-to-a-load-balancer-and-my-own-shell-47ci)
+- [Boundary Contract: Make Every Agent Tool Fail Boring](https://dev.to/anciwasim/boundary-contract-make-every-agent-tool-fail-boring-15bm)
+- [Live Auction Polls: Reconnect Semantics for Durable Realtime Test Fixtures](https://dev.to/zekecross3245/live-auction-polls-reconnect-semantics-for-durable-realtime-test-fixtures-1b7g)
+- [Practical Tips for Deploying Large Language Models in Production](https://dev.to/developerzai/practical-tips-for-deploying-large-language-models-in-production-o88)
+- [React Native OTA Is a Release Pipeline, Not a Download Feature](https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8)
+- [The job agent said &quot;I Act TODAY&quot; 26 times — and delivered two jobs](https://dev.to/elenarevicheva/the-job-agent-said-i-act-today-26-times-and-delivered-two-jobs-4gmd)
+- [Kafka load testing: end-to-end latency, consumer lag and the clock trap](https://dev.to/tanerakdemir/kafka-load-testing-end-to-end-latency-consumer-lag-and-the-clock-trap-2eaf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
