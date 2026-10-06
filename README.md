@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
-- [Node.js Avatar Derivatives — Durable IDs Across Three Resize Targets](https://dev.to/ulyssesblack2385/nodejs-avatar-derivatives-durable-ids-across-three-resize-targets-4gon)
-- [Preventing Duplicate WhatsApp Messages: Idempotency and Webhook State Management](https://dev.to/5minutesapi/preventing-duplicate-whatsapp-messages-idempotency-and-webhook-state-management-10c5)
-- [How to stop hand-maintaining monorepo CI path filters!](https://dev.to/markalex1234/how-to-stop-hand-maintaining-monorepo-ci-path-filters-ijk)
-- [LLM gateway on-call: the 4 incidents that actually happen](https://dev.to/zerokdevops/llm-gateway-on-call-the-4-incidents-that-actually-happen-4755)
-- [Postgres Let Two Rows Through a Unique Index: The glibc Collation Trap After an OS Upgrade](https://dev.to/libme/postgres-let-two-rows-through-a-unique-index-the-glibc-collation-trap-after-an-os-upgrade-3ad6)
+- [Check Linux Version the Right Way: Distro vs. Kernel](https://dev.to/__3381495fd2b/check-linux-version-the-right-way-distro-vs-kernel-15ma)
+- [Alerts Worth Waking Up For](https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof)
+- [Alfresco Upgrade Strategy: 7.x to Modern Enterprise Versions](https://dev.to/nirankari/alfresco-upgrade-strategy-7x-to-modern-enterprise-versions-kml)
+- [Alfresco Upgrade Strategy: 7.x to Modern Enterprise Versions](https://dev.to/nirankari/alfresco-upgrade-strategy-7x-to-modern-enterprise-versions-kml)
+- [Installing a .deb Package on Ubuntu or Debian Without Guesswork](https://dev.to/__3381495fd2b/installing-a-deb-package-on-ubuntu-or-debian-without-guesswork-ke)
+- [SFTP vs. FTPS: Choose the Right Secure File Transfer Protocol](https://dev.to/__3381495fd2b/sftp-vs-ftps-choose-the-right-secure-file-transfer-protocol-38pn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
