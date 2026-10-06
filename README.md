@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Check Linux Version the Right Way: Distro vs. Kernel](https://dev.to/__3381495fd2b/check-linux-version-the-right-way-distro-vs-kernel-15ma)
-- [Alerts Worth Waking Up For](https://dev.to/fattakhov/alerts-worth-waking-up-for-5aof)
-- [Alfresco Upgrade Strategy: 7.x to Modern Enterprise Versions](https://dev.to/nirankari/alfresco-upgrade-strategy-7x-to-modern-enterprise-versions-kml)
-- [Alfresco Upgrade Strategy: 7.x to Modern Enterprise Versions](https://dev.to/nirankari/alfresco-upgrade-strategy-7x-to-modern-enterprise-versions-kml)
-- [Installing a .deb Package on Ubuntu or Debian Without Guesswork](https://dev.to/__3381495fd2b/installing-a-deb-package-on-ubuntu-or-debian-without-guesswork-ke)
-- [SFTP vs. FTPS: Choose the Right Secure File Transfer Protocol](https://dev.to/__3381495fd2b/sftp-vs-ftps-choose-the-right-secure-file-transfer-protocol-38pn)
+- [Field notes from running small services](https://dev.to/mukuvi/field-notes-from-running-small-services-52j6)
+- [Infrastructure was not where I started](https://dev.to/mukuvi/infrastructure-was-not-where-i-started-3713)
+- [How to Monetize Idle GPUs in 2026: A Technical Guide for Data Center Operators](https://dev.to/kavs/how-to-monetize-idle-gpus-in-2026-a-technical-guide-for-data-center-operators-3f9g)
+- [You probably do not need Kubernetes](https://dev.to/mukuvi/you-probably-do-not-need-kubernetes-36on)
+- [Booking.com&#39;s Node savings don&#39;t carry over to Bun. Autoheal does.](https://dev.to/chovy/bookingcoms-node-savings-dont-carry-over-to-bun-autoheal-does-57n1)
+- [My ALX journey: from Hello World in C to a load balancer and my own shell](https://dev.to/mukuvi/my-alx-journey-from-hello-world-in-c-to-a-load-balancer-and-my-own-shell-47ci)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
