@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Boundary Contract: Make Every Agent Tool Fail Boring](https://dev.to/anciwasim/boundary-contract-make-every-agent-tool-fail-boring-15bm)
-- [Live Auction Polls: Reconnect Semantics for Durable Realtime Test Fixtures](https://dev.to/zekecross3245/live-auction-polls-reconnect-semantics-for-durable-realtime-test-fixtures-1b7g)
-- [Practical Tips for Deploying Large Language Models in Production](https://dev.to/developerzai/practical-tips-for-deploying-large-language-models-in-production-o88)
-- [React Native OTA Is a Release Pipeline, Not a Download Feature](https://dev.to/gfean/react-native-ota-is-a-release-pipeline-not-a-download-feature-3bo8)
-- [The job agent said &quot;I Act TODAY&quot; 26 times — and delivered two jobs](https://dev.to/elenarevicheva/the-job-agent-said-i-act-today-26-times-and-delivered-two-jobs-4gmd)
-- [Kafka load testing: end-to-end latency, consumer lag and the clock trap](https://dev.to/tanerakdemir/kafka-load-testing-end-to-end-latency-consumer-lag-and-the-clock-trap-2eaf)
+- [Why Microservices Instead of a Monolith?](https://dev.to/joungpark/why-microservices-instead-of-a-monolith-3ld3)
+- [Your first Excel report in 5 minutes - a TBEG quick start &lpar;Kotlin/Java&rpar;](https://dev.to/jogakdal/your-first-excel-report-in-5-minutes-a-tbeg-quick-start-kotlinjava-5clf)
+- [Beyond DBUnit and Raw SQL: Type-Safe Database State in Java Tests](https://dev.to/yury_28aba076671277b19a33/beyond-dbunit-and-raw-sql-type-safe-database-state-in-java-tests-2014)
+- [Our Deploys Were Dead for Six Hours and It Wasn&#39;t Our Bug](https://dev.to/rbonweb/our-deploys-were-dead-for-six-hours-and-it-wasnt-our-bug-2mog)
+- [Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System](https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce)
+- [Why the Outbox Pattern, Queue, and Embedding Worker?](https://dev.to/joungpark/why-the-outbox-pattern-queue-and-embedding-worker-2pb5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
