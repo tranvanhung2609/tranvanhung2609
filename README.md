@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [969 commits in 2.4 days, one git repo, no lock server](https://dev.to/danorie/969-commits-in-24-days-one-git-repo-no-lock-server-2fj2)
-- [AI Agent Authorization Beyond Authentication: A Look At AWS Dogwood](https://dev.to/gitguardian/ai-agent-authorization-beyond-authentication-a-look-at-aws-dogwood-11dj)
-- [Best practices for implementing LLM access controls and monitoring](https://dev.to/resk/best-practices-for-implementing-llm-access-controls-and-monitoring-4ac7)
-- [How to Migrate Player Wallets Without Breaking Casino Balances](https://dev.to/meghma_lahiri_560190337d6/how-to-migrate-player-wallets-without-breaking-casino-balances-4mp2)
-- [Top DevSecops Tools in CI/CD Pipeline](https://dev.to/elara_renford/top-devsecops-tools-in-cicd-pipeline-1on3)
-- [Kubernetes Swap Turns an OOMKill Into a Latency Problem](https://dev.to/ntctech/kubernetes-swap-turns-an-oomkill-into-a-latency-problem-1khn)
+- [Drop Vault: A Traveling Clipboard for Operators Who Have Suffered Enough](https://dev.to/matrixswarm/drop-vault-a-traveling-clipboard-for-operators-who-have-suffered-enough-1ole)
+- [How to Shape Insurance Claims Retrieval Architecture: 5 Access Rules for Auditable Intake](https://dev.to/cianwinslow371/how-to-shape-insurance-claims-retrieval-architecture-5-access-rules-for-auditable-intake-3lie)
+- [Why we built ServerOS around the servers you already own](https://dev.to/dylan_sofley_923503afa6a6/why-we-built-serveros-around-the-servers-you-already-own-53jg)
+- [Pylerium local operations](https://dev.to/donnnnn14/pylerium-local-operations-9pm)
+- [AWS optimization always looks cleaner from the outside](https://dev.to/vlad_z_16b6320e21f32bee0d/aws-optimization-always-looks-cleaner-from-the-outside-5hml)
+- [Zip Slip and decompression bombs in Java: how to extract safely](https://dev.to/austek/zip-slip-and-decompression-bombs-in-java-how-to-extract-safely-54hl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
