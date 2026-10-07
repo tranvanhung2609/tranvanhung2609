@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why Microservices Instead of a Monolith?](https://dev.to/joungpark/why-microservices-instead-of-a-monolith-3ld3)
-- [Your first Excel report in 5 minutes - a TBEG quick start &lpar;Kotlin/Java&rpar;](https://dev.to/jogakdal/your-first-excel-report-in-5-minutes-a-tbeg-quick-start-kotlinjava-5clf)
-- [Beyond DBUnit and Raw SQL: Type-Safe Database State in Java Tests](https://dev.to/yury_28aba076671277b19a33/beyond-dbunit-and-raw-sql-type-safe-database-state-in-java-tests-2014)
-- [Our Deploys Were Dead for Six Hours and It Wasn&#39;t Our Bug](https://dev.to/rbonweb/our-deploys-were-dead-for-six-hours-and-it-wasnt-our-bug-2mog)
-- [Nine Bugs That Taught Me Reliability: Post-Mortem of a Zero-Cost Hybrid AI System](https://dev.to/arielchangdev/nine-bugs-that-taught-me-reliability-post-mortem-of-a-zero-cost-hybrid-ai-system-4bce)
-- [Why the Outbox Pattern, Queue, and Embedding Worker?](https://dev.to/joungpark/why-the-outbox-pattern-queue-and-embedding-worker-2pb5)
+- [969 commits in 2.4 days, one git repo, no lock server](https://dev.to/danorie/969-commits-in-24-days-one-git-repo-no-lock-server-2fj2)
+- [AI Agent Authorization Beyond Authentication: A Look At AWS Dogwood](https://dev.to/gitguardian/ai-agent-authorization-beyond-authentication-a-look-at-aws-dogwood-11dj)
+- [Best practices for implementing LLM access controls and monitoring](https://dev.to/resk/best-practices-for-implementing-llm-access-controls-and-monitoring-4ac7)
+- [How to Migrate Player Wallets Without Breaking Casino Balances](https://dev.to/meghma_lahiri_560190337d6/how-to-migrate-player-wallets-without-breaking-casino-balances-4mp2)
+- [Top DevSecops Tools in CI/CD Pipeline](https://dev.to/elara_renford/top-devsecops-tools-in-cicd-pipeline-1on3)
+- [Kubernetes Swap Turns an OOMKill Into a Latency Problem](https://dev.to/ntctech/kubernetes-swap-turns-an-oomkill-into-a-latency-problem-1khn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
