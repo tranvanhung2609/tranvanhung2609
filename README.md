@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free REST API That Aggregates 330 Remote Jobs From 5 Sources in Real-Time](https://dev.to/earnnovadev/i-built-a-free-rest-api-that-aggregates-330-remote-jobs-from-5-sources-in-real-time-1f7c)
-- [The DevOps bootcamp · 2. The Linux you actually need](https://dev.to/techamit95ch/the-devops-bootcamp-2-the-linux-you-actually-need-32bd)
-- [Honest outcome reporting requires the definition of success to be upstream of the result.](https://dev.to/starebrain/honest-outcome-reporting-requires-the-definition-of-success-to-be-upstream-of-the-result-gbi)
-- [A zero-disruption PodDisruptionBudget can block an AKS upgrade](https://dev.to/jlmartel/a-zero-disruption-poddisruptionbudget-can-block-an-aks-upgrade-18h5)
-- [How to Configure ViciDial Script Tab — Agent Call Scripts](https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-script-tab-agent-call-scripts-cjl)
-- [6 Guardrails That Stopped My Coding Agent From Burning Through API Budget](https://dev.to/amankumar_apiclaw/6-guardrails-that-stopped-my-coding-agent-from-burning-through-api-budget-jh8)
+- [OpenTofu 1.13: What&#39;s New and What Terraform Still Doesn&#39;t Have](https://dev.to/amareswer/opentofu-113-whats-new-and-what-terraform-still-doesnt-have-4g49)
+- [Java vs. JavaScript: What&#39;s the Difference?](https://dev.to/jeni860/java-vs-javascript-whats-the-difference-3e34)
+- [Your first HTTPS certificate renewal: issue, install, check](https://dev.to/pki-channnel/your-first-https-certificate-renewal-issue-install-check-25jo)
+- [Coder Legion Dev Story](https://dev.to/mtindiedev_2/coder-legion-dev-story-591l)
+- [Node.js Failure Alerting — Polling Logs and Errors for Failed Logistics Jobs](https://dev.to/abernathycross6857/nodejs-failure-alerting-polling-logs-and-errors-for-failed-logistics-jobs-3a27)
+- [Telegram Stars vs external payments: which payment flow fits your product?](https://dev.to/alexmanner/telegram-stars-vs-external-payments-which-payment-flow-fits-your-product-2pe0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
