@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu 1.13: What&#39;s New and What Terraform Still Doesn&#39;t Have](https://dev.to/amareswer/opentofu-113-whats-new-and-what-terraform-still-doesnt-have-4g49)
-- [Java vs. JavaScript: What&#39;s the Difference?](https://dev.to/jeni860/java-vs-javascript-whats-the-difference-3e34)
-- [Your first HTTPS certificate renewal: issue, install, check](https://dev.to/pki-channnel/your-first-https-certificate-renewal-issue-install-check-25jo)
-- [Coder Legion Dev Story](https://dev.to/mtindiedev_2/coder-legion-dev-story-591l)
-- [Node.js Failure Alerting — Polling Logs and Errors for Failed Logistics Jobs](https://dev.to/abernathycross6857/nodejs-failure-alerting-polling-logs-and-errors-for-failed-logistics-jobs-3a27)
-- [Telegram Stars vs external payments: which payment flow fits your product?](https://dev.to/alexmanner/telegram-stars-vs-external-payments-which-payment-flow-fits-your-product-2pe0)
+- [FAQ: A Pasted Hunk Is Not a Commit Object](https://dev.to/gitlab_3188/faq-a-pasted-hunk-is-not-a-commit-object-1abc)
+- [A Practical SSH Key Lifecycle for Developers and Small Teams](https://dev.to/__3381495fd2b/a-practical-ssh-key-lifecycle-for-developers-and-small-teams-3bdo)
+- [Gate Changelog Drafts With a Signed Release Impact Packet](https://dev.to/github_7727/gate-changelog-drafts-with-a-signed-release-impact-packet-32ha)
+- [Letting a team&#39;s AI run commands on shared computers: two layers of permissions and an audit log](https://dev.to/mike_kim_692aa79c288bfed8/letting-a-teams-ai-run-commands-on-shared-computers-two-layers-of-permissions-and-an-audit-log-2kn5)
+- [Migrating a Large Table Without Locking Production](https://dev.to/andriiboyko/migrating-a-large-table-without-locking-production-2fk7)
+- [The Confused Deputy Problem in AWS: ExternalId, aws:Source* Keys, and RCPs](https://dev.to/rafagross/the-confused-deputy-problem-in-aws-externalid-awssource-keys-and-rcps-47nk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
