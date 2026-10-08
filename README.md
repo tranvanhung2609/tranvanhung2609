@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Drop Vault: A Traveling Clipboard for Operators Who Have Suffered Enough](https://dev.to/matrixswarm/drop-vault-a-traveling-clipboard-for-operators-who-have-suffered-enough-1ole)
-- [How to Shape Insurance Claims Retrieval Architecture: 5 Access Rules for Auditable Intake](https://dev.to/cianwinslow371/how-to-shape-insurance-claims-retrieval-architecture-5-access-rules-for-auditable-intake-3lie)
-- [Why we built ServerOS around the servers you already own](https://dev.to/dylan_sofley_923503afa6a6/why-we-built-serveros-around-the-servers-you-already-own-53jg)
-- [Pylerium local operations](https://dev.to/donnnnn14/pylerium-local-operations-9pm)
-- [AWS optimization always looks cleaner from the outside](https://dev.to/vlad_z_16b6320e21f32bee0d/aws-optimization-always-looks-cleaner-from-the-outside-5hml)
-- [Zip Slip and decompression bombs in Java: how to extract safely](https://dev.to/austek/zip-slip-and-decompression-bombs-in-java-how-to-extract-safely-54hl)
+- [I Built a Free REST API That Aggregates 330 Remote Jobs From 5 Sources in Real-Time](https://dev.to/earnnovadev/i-built-a-free-rest-api-that-aggregates-330-remote-jobs-from-5-sources-in-real-time-1f7c)
+- [The DevOps bootcamp · 2. The Linux you actually need](https://dev.to/techamit95ch/the-devops-bootcamp-2-the-linux-you-actually-need-32bd)
+- [Honest outcome reporting requires the definition of success to be upstream of the result.](https://dev.to/starebrain/honest-outcome-reporting-requires-the-definition-of-success-to-be-upstream-of-the-result-gbi)
+- [A zero-disruption PodDisruptionBudget can block an AKS upgrade](https://dev.to/jlmartel/a-zero-disruption-poddisruptionbudget-can-block-an-aks-upgrade-18h5)
+- [How to Configure ViciDial Script Tab — Agent Call Scripts](https://dev.to/moisi_trungu_31647b7ac300/how-to-configure-vicidial-script-tab-agent-call-scripts-cjl)
+- [6 Guardrails That Stopped My Coding Agent From Burning Through API Budget](https://dev.to/amankumar_apiclaw/6-guardrails-that-stopped-my-coding-agent-from-burning-through-api-budget-jh8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
