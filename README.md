@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Citrix NetScaler RCE &lpar;CVE-2026-107406&rpar;: Critical Alert](https://dev.to/kiran_sonawane/citrix-netscaler-rce-cve-2026-107406-critical-alert-do4)
-- [Lịch Sử Của Java](https://dev.to/tieushare/lich-su-cua-java-3c30)
-- [Agency Renewal Operations: Preventing Drop-Offs, Automating Calendars, and Enforcing Zero-Trust Auto-Renewals](https://dev.to/instarenewal/agency-renewal-operations-preventing-drop-offs-automating-calendars-and-enforcing-zero-trust-3ijb)
-- [Designing a Reliable Kubernetes Deployment with GitOps](https://dev.to/morizal/designing-a-reliable-kubernetes-deployment-with-gitops-464b)
-- [JAVA: implementando JDBC, Singleton &amp; Repository](https://dev.to/ulisesafcdev/java-implementando-jdbc-singleton-repository-1f9l)
-- [JAVA: implementando JDBC, Singleton &amp; Repository](https://dev.to/ulisesafcdev/java-implementando-jdbc-singleton-repository-1f9l)
+- [LLM access controls and monitoring: where the check actually belongs](https://dev.to/resk/llm-access-controls-and-monitoring-where-the-check-actually-belongs-5f2)
+- [How to make a systemd service recover from crashes without looping forever: Restart policies and Dependencies](https://dev.to/ranaweerasupun/how-to-make-a-systemd-service-recover-from-crashes-without-looping-forever-restart-policies-and-a69)
+- [How to Block Over-Privileged IAM Roles in AWS Using Policy-as-Code](https://dev.to/okoroaforvic/how-to-block-over-privileged-iam-roles-in-aws-using-policy-as-code-1k8)
+- [Stable Assertion Fails Stay Closed: A Waiver Classifier for Agent Patches](https://dev.to/datacpp_8185/stable-assertion-fails-stay-closed-a-waiver-classifier-for-agent-patches-mh4)
+- [Kotlin Coroutines vs Java Virtual Threads: A Comprehensive Comparison for Modern Backend Development](https://dev.to/said_olano/kotlin-coroutines-vs-java-virtual-threads-a-comprehensive-comparison-for-modern-backend-development-1nc0)
+- [Kotlin Coroutines vs Java Virtual Threads: A Comprehensive Comparison for Modern Backend Development](https://dev.to/said_olano/kotlin-coroutines-vs-java-virtual-threads-a-comprehensive-comparison-for-modern-backend-development-1nc0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
