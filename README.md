@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: A Pasted Hunk Is Not a Commit Object](https://dev.to/gitlab_3188/faq-a-pasted-hunk-is-not-a-commit-object-1abc)
-- [A Practical SSH Key Lifecycle for Developers and Small Teams](https://dev.to/__3381495fd2b/a-practical-ssh-key-lifecycle-for-developers-and-small-teams-3bdo)
-- [Gate Changelog Drafts With a Signed Release Impact Packet](https://dev.to/github_7727/gate-changelog-drafts-with-a-signed-release-impact-packet-32ha)
-- [Letting a team&#39;s AI run commands on shared computers: two layers of permissions and an audit log](https://dev.to/mike_kim_692aa79c288bfed8/letting-a-teams-ai-run-commands-on-shared-computers-two-layers-of-permissions-and-an-audit-log-2kn5)
-- [Migrating a Large Table Without Locking Production](https://dev.to/andriiboyko/migrating-a-large-table-without-locking-production-2fk7)
-- [The Confused Deputy Problem in AWS: ExternalId, aws:Source* Keys, and RCPs](https://dev.to/rafagross/the-confused-deputy-problem-in-aws-externalid-awssource-keys-and-rcps-47nk)
+- [Citrix NetScaler RCE &lpar;CVE-2026-107406&rpar;: Critical Alert](https://dev.to/kiran_sonawane/citrix-netscaler-rce-cve-2026-107406-critical-alert-do4)
+- [Lịch Sử Của Java](https://dev.to/tieushare/lich-su-cua-java-3c30)
+- [Agency Renewal Operations: Preventing Drop-Offs, Automating Calendars, and Enforcing Zero-Trust Auto-Renewals](https://dev.to/instarenewal/agency-renewal-operations-preventing-drop-offs-automating-calendars-and-enforcing-zero-trust-3ijb)
+- [Designing a Reliable Kubernetes Deployment with GitOps](https://dev.to/morizal/designing-a-reliable-kubernetes-deployment-with-gitops-464b)
+- [JAVA: implementando JDBC, Singleton &amp; Repository](https://dev.to/ulisesafcdev/java-implementando-jdbc-singleton-repository-1f9l)
+- [JAVA: implementando JDBC, Singleton &amp; Repository](https://dev.to/ulisesafcdev/java-implementando-jdbc-singleton-repository-1f9l)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
