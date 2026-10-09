@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [LLM access controls and monitoring: where the check actually belongs](https://dev.to/resk/llm-access-controls-and-monitoring-where-the-check-actually-belongs-5f2)
-- [How to make a systemd service recover from crashes without looping forever: Restart policies and Dependencies](https://dev.to/ranaweerasupun/how-to-make-a-systemd-service-recover-from-crashes-without-looping-forever-restart-policies-and-a69)
-- [How to Block Over-Privileged IAM Roles in AWS Using Policy-as-Code](https://dev.to/okoroaforvic/how-to-block-over-privileged-iam-roles-in-aws-using-policy-as-code-1k8)
-- [Stable Assertion Fails Stay Closed: A Waiver Classifier for Agent Patches](https://dev.to/datacpp_8185/stable-assertion-fails-stay-closed-a-waiver-classifier-for-agent-patches-mh4)
-- [Kotlin Coroutines vs Java Virtual Threads: A Comprehensive Comparison for Modern Backend Development](https://dev.to/said_olano/kotlin-coroutines-vs-java-virtual-threads-a-comprehensive-comparison-for-modern-backend-development-1nc0)
-- [Kotlin Coroutines vs Java Virtual Threads: A Comprehensive Comparison for Modern Backend Development](https://dev.to/said_olano/kotlin-coroutines-vs-java-virtual-threads-a-comprehensive-comparison-for-modern-backend-development-1nc0)
+- [I built a &lt;1ms API to extract B2B leads from dirty HTML](https://dev.to/titic_gamer_1b6261f313d12/i-built-a-1ms-api-to-extract-b2b-leads-from-dirty-html-2cce)
+- [How Prometheus Finds Matching Series in Milliseconds](https://dev.to/v4nd1t/how-prometheus-finds-matching-series-in-milliseconds-2jno)
+- [What &quot;Confidential Computing&quot; Actually Means for Containers &lpar;and Who Needs It&rpar;](https://dev.to/bascoibm/what-confidential-computing-actually-means-for-containers-and-who-needs-it-oh4)
+- [How do you handle compliance for regulated industries?](https://dev.to/varunvarde/how-do-you-handle-compliance-for-regulated-industries-21pi)
+- [Choosing a PuTTY Alternative: Start With How You Use SSH](https://dev.to/__3381495fd2b/choosing-a-putty-alternative-start-with-how-you-use-ssh-3bdp)
+- [Debugging Silent Skips in Poll-Based Reply Bots](https://dev.to/raylabs/debugging-silent-skips-in-poll-based-reply-bots-5fnl)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
