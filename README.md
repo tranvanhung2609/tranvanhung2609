@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [# AI Video Watermark Removal Workflows: A TikTok Editor’s Review of Video Background Remover](https://dev.to/_3784b12ea2d59e1ecaa10/-ai-video-watermark-removal-workflows-a-tiktok-editors-review-of-video-background-remover-5dll)
-- [Designing Search &amp; Autocomplete: Inverted Index, Trie, Ranking &amp; Scale](https://dev.to/mangeshmandlik/designing-search-autocomplete-inverted-index-trie-ranking-scale-13k5)
-- [Why I stopped letting AI write my Clean Architecture &lpar;and built a generator instead&rpar;](https://dev.to/josetenoriodev/why-i-stopped-letting-ai-write-my-clean-architecture-and-built-a-generator-instead-20kg)
-- [Failure Handling &amp; Resilience](https://dev.to/gouranga-das-khulna/failure-handling-resilience-4p8h)
-- [Failure Handling &amp; Resilience](https://dev.to/gouranga-das-khulna/failure-handling-resilience-4p8h)
-- [Fix n8n Webhook 413 Payload Too Large on Docker &amp; Nginx &lpar;The 3-Layer Solution&rpar;](https://dev.to/gearflowlab/fix-n8n-webhook-413-payload-too-large-on-docker-nginx-the-3-layer-solution-5chg)
+- [Building a Selector-Free Autonomous Desktop RPA Engine with Python &amp; Vision LLMs](https://dev.to/reigen/building-a-selector-free-autonomous-desktop-rpa-engine-with-python-vision-llms-1fp7)
+- [Park a Migration Without Losing the Work](https://dev.to/jeremy_longshore/park-a-migration-without-losing-the-work-5443)
+- [CISA&#39;s KEV catalogue has no RSS feed, so here is one &lpar;and which npm, PyPI and Maven packages are on it&rpar;](https://dev.to/abin_johnson/cisas-kev-catalogue-has-no-rss-feed-so-here-is-one-and-which-npm-pypi-and-maven-packages-are-on-4d3j)
+- [Zero-Downtime Blue-Green Deployment on ECS: Console Walkthrough + CloudFormation Automation](https://dev.to/gbengard/zero-downtime-blue-green-deployment-on-ecs-console-walkthrough-cloudformation-automation-3ba0)
+- [How Rotating S3 Presigned URLs Silently Defeated Next.js Image Optimization](https://dev.to/darshan_turakhia/how-rotating-s3-presigned-urls-silently-defeated-nextjs-image-optimization-40ok)
+- [How Rotating S3 Presigned URLs Silently Defeated Next.js Image Optimization](https://dev.to/darshan_turakhia/how-rotating-s3-presigned-urls-silently-defeated-nextjs-image-optimization-40ok)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
