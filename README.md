@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [I built a &lt;1ms API to extract B2B leads from dirty HTML](https://dev.to/titic_gamer_1b6261f313d12/i-built-a-1ms-api-to-extract-b2b-leads-from-dirty-html-2cce)
-- [How Prometheus Finds Matching Series in Milliseconds](https://dev.to/v4nd1t/how-prometheus-finds-matching-series-in-milliseconds-2jno)
-- [What &quot;Confidential Computing&quot; Actually Means for Containers &lpar;and Who Needs It&rpar;](https://dev.to/bascoibm/what-confidential-computing-actually-means-for-containers-and-who-needs-it-oh4)
-- [How do you handle compliance for regulated industries?](https://dev.to/varunvarde/how-do-you-handle-compliance-for-regulated-industries-21pi)
-- [Choosing a PuTTY Alternative: Start With How You Use SSH](https://dev.to/__3381495fd2b/choosing-a-putty-alternative-start-with-how-you-use-ssh-3bdp)
-- [Debugging Silent Skips in Poll-Based Reply Bots](https://dev.to/raylabs/debugging-silent-skips-in-poll-based-reply-bots-5fnl)
+- [# AI Video Watermark Removal Workflows: A TikTok Editor’s Review of Video Background Remover](https://dev.to/_3784b12ea2d59e1ecaa10/-ai-video-watermark-removal-workflows-a-tiktok-editors-review-of-video-background-remover-5dll)
+- [Designing Search &amp; Autocomplete: Inverted Index, Trie, Ranking &amp; Scale](https://dev.to/mangeshmandlik/designing-search-autocomplete-inverted-index-trie-ranking-scale-13k5)
+- [Why I stopped letting AI write my Clean Architecture &lpar;and built a generator instead&rpar;](https://dev.to/josetenoriodev/why-i-stopped-letting-ai-write-my-clean-architecture-and-built-a-generator-instead-20kg)
+- [Failure Handling &amp; Resilience](https://dev.to/gouranga-das-khulna/failure-handling-resilience-4p8h)
+- [Failure Handling &amp; Resilience](https://dev.to/gouranga-das-khulna/failure-handling-resilience-4p8h)
+- [Fix n8n Webhook 413 Payload Too Large on Docker &amp; Nginx &lpar;The 3-Layer Solution&rpar;](https://dev.to/gearflowlab/fix-n8n-webhook-413-payload-too-large-on-docker-nginx-the-3-layer-solution-5chg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
