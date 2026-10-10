@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Pairing Hour Kept the Replay Exit Code After the Model Edited the Fixture](https://dev.to/appjs_7055/the-pairing-hour-kept-the-replay-exit-code-after-the-model-edited-the-fixture-ilj)
-- [A Green Suite Must Not Unlock the Free Server](https://dev.to/hackjs_8688/a-green-suite-must-not-unlock-the-free-server-3g2n)
-- [Save the Exit Code Before the Smoke Host Dies](https://dev.to/devx_6522/save-the-exit-code-before-the-smoke-host-dies-487o)
-- [A Damage Claim Is a Table With Evidence Columns and a Clock](https://dev.to/fulfillnexa/a-damage-claim-is-a-table-with-evidence-columns-and-a-clock-523p)
-- [A Cancel Is a State Transition, Not a Boolean](https://dev.to/fulfillnexa/a-cancel-is-a-state-transition-not-a-boolean-2ejn)
-- [5 Whys: How to Find the Root Cause Instead of the First Explanation](https://dev.to/said_olano/5-whys-how-to-find-the-root-cause-instead-of-the-first-explanation-2oo8)
+- [Running a BFT blockchain as one native binary on a 2 GB VPS — what broke and what held](https://dev.to/syriandeveloper/running-a-bft-blockchain-as-one-native-binary-on-a-2-gb-vps-what-broke-and-what-held-4ff1)
+- [5 CI/CD Resources Worth Your Time &lpar;Week of Oct 10, 2026&rpar;](https://dev.to/maadhesh_d14697cfa10adfab/5-cicd-resources-worth-your-time-week-of-oct-10-2026-18b2)
+- [From Git Push to Kubernetes: Building a Local GitOps Pipeline](https://dev.to/tingwei628/from-git-push-to-kubernetes-building-a-local-gitops-pipeline-without-docker-desktop-kpc)
+- [Backpressure in Go: Keeping Services Stable Under Load](https://dev.to/serifcolakel/backpressure-in-go-keeping-services-stable-under-load-22jk)
+- [Fix pnpm Migration Phantom Dependency Errors](https://dev.to/raylabs/fix-pnpm-migration-phantom-dependency-errors-4m16)
+- [2026 Backend Exception API: Rollback Proof for Cron Jobs and Workers](https://dev.to/gideonsterling9643/2026-backend-exception-api-rollback-proof-for-cron-jobs-and-workers-cbd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
