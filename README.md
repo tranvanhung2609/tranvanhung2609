@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building a Selector-Free Autonomous Desktop RPA Engine with Python &amp; Vision LLMs](https://dev.to/reigen/building-a-selector-free-autonomous-desktop-rpa-engine-with-python-vision-llms-1fp7)
-- [Park a Migration Without Losing the Work](https://dev.to/jeremy_longshore/park-a-migration-without-losing-the-work-5443)
-- [CISA&#39;s KEV catalogue has no RSS feed, so here is one &lpar;and which npm, PyPI and Maven packages are on it&rpar;](https://dev.to/abin_johnson/cisas-kev-catalogue-has-no-rss-feed-so-here-is-one-and-which-npm-pypi-and-maven-packages-are-on-4d3j)
-- [Zero-Downtime Blue-Green Deployment on ECS: Console Walkthrough + CloudFormation Automation](https://dev.to/gbengard/zero-downtime-blue-green-deployment-on-ecs-console-walkthrough-cloudformation-automation-3ba0)
-- [How Rotating S3 Presigned URLs Silently Defeated Next.js Image Optimization](https://dev.to/darshan_turakhia/how-rotating-s3-presigned-urls-silently-defeated-nextjs-image-optimization-40ok)
-- [How Rotating S3 Presigned URLs Silently Defeated Next.js Image Optimization](https://dev.to/darshan_turakhia/how-rotating-s3-presigned-urls-silently-defeated-nextjs-image-optimization-40ok)
+- [The Pairing Hour Kept the Replay Exit Code After the Model Edited the Fixture](https://dev.to/appjs_7055/the-pairing-hour-kept-the-replay-exit-code-after-the-model-edited-the-fixture-ilj)
+- [A Green Suite Must Not Unlock the Free Server](https://dev.to/hackjs_8688/a-green-suite-must-not-unlock-the-free-server-3g2n)
+- [Save the Exit Code Before the Smoke Host Dies](https://dev.to/devx_6522/save-the-exit-code-before-the-smoke-host-dies-487o)
+- [A Damage Claim Is a Table With Evidence Columns and a Clock](https://dev.to/fulfillnexa/a-damage-claim-is-a-table-with-evidence-columns-and-a-clock-523p)
+- [A Cancel Is a State Transition, Not a Boolean](https://dev.to/fulfillnexa/a-cancel-is-a-state-transition-not-a-boolean-2ejn)
+- [5 Whys: How to Find the Root Cause Instead of the First Explanation](https://dev.to/said_olano/5-whys-how-to-find-the-root-cause-instead-of-the-first-explanation-2oo8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
