@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Running a BFT blockchain as one native binary on a 2 GB VPS — what broke and what held](https://dev.to/syriandeveloper/running-a-bft-blockchain-as-one-native-binary-on-a-2-gb-vps-what-broke-and-what-held-4ff1)
-- [5 CI/CD Resources Worth Your Time &lpar;Week of Oct 10, 2026&rpar;](https://dev.to/maadhesh_d14697cfa10adfab/5-cicd-resources-worth-your-time-week-of-oct-10-2026-18b2)
-- [From Git Push to Kubernetes: Building a Local GitOps Pipeline](https://dev.to/tingwei628/from-git-push-to-kubernetes-building-a-local-gitops-pipeline-without-docker-desktop-kpc)
-- [Backpressure in Go: Keeping Services Stable Under Load](https://dev.to/serifcolakel/backpressure-in-go-keeping-services-stable-under-load-22jk)
-- [Fix pnpm Migration Phantom Dependency Errors](https://dev.to/raylabs/fix-pnpm-migration-phantom-dependency-errors-4m16)
-- [2026 Backend Exception API: Rollback Proof for Cron Jobs and Workers](https://dev.to/gideonsterling9643/2026-backend-exception-api-rollback-proof-for-cron-jobs-and-workers-cbd)
+- [API Design — Advanced](https://dev.to/gouranga-das-khulna/api-design-advanced-86f)
+- [💡 Argocd manual vs auto sync — which one should you actually use?](https://dev.to/ptp2308/argocd-manual-vs-auto-sync-which-one-should-you-actually-use-fja)
+- [Detecting False Answer Supervision &lpar;FAS&rpar; Carrier Fraud](https://dev.to/moisi_trungu_31647b7ac300/detecting-false-answer-supervision-fas-carrier-fraud-2kc0)
+- [Agents with guardrails](https://dev.to/usehive/agents-with-guardrails-1lll)
+- [Implement Welcome Email Suppression Lists with Auditable Unsubscribe and Bounce Handling](https://dev.to/loganpierce2073/implement-welcome-email-suppression-lists-with-auditable-unsubscribe-and-bounce-handling-b0j)
+- [48-Hour Field Notes: The Writer Was Fine. Four Process Defaults Had Already Voted.](https://dev.to/codepy_1473/48-hour-field-notes-the-writer-was-fine-four-process-defaults-had-already-voted-4ae7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
