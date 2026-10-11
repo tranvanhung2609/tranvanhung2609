@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Email Sending activity log shows only failures: 3 checks](https://dev.to/howardzlh/cloudflare-email-sending-activity-log-shows-only-failures-3-checks-1no9)
-- [Green Tests, Lying Agent](https://dev.to/artemmatviychuk/green-tests-lying-agent-4pkd)
-- [From Idea to Working Application in 24 Hours: An Engineer&#39;s Experience with AI-Assisted Development](https://dev.to/indorenilesh/from-idea-to-working-application-in-24-hours-an-engineers-experience-with-ai-assisted-development-4l9d)
-- [Java Development Kit &lpar;JDK&rpar; Là Gì?](https://dev.to/tieushare/java-development-kit-jdk-la-gi-3b64)
-- [Kubernetes on Existing Hardware: Why `Ready` Was Only the First Milestone](https://dev.to/abrahamnaiborhu/kubernetes-on-existing-hardware-why-ready-was-only-the-first-milestone-2jmp)
-- [I tested two agent rules before shipping them. One was needed, one was not.](https://dev.to/ginotrinh/i-tested-two-agent-rules-before-shipping-them-one-was-needed-one-was-not-1pf3)
+- [[Boost]](https://dev.to/kamyarat/-20nn)
+- [I Split the Score. Reach Was Never a Pass.](https://dev.to/hackhub_6179/i-split-the-score-reach-was-never-a-pass-360)
+- [Hold the Write Until Five Read Receipts Match the Escalation Ack](https://dev.to/appcpp_9071/hold-the-write-until-five-read-receipts-match-the-escalation-ack-5a5c)
+- [Your Model Graded Its Own Homework](https://dev.to/codex_1135/your-model-graded-its-own-homework-43nb)
+- [Classify the Egress Leaf Before a Free Server Accepts the Card](https://dev.to/devpy_9520/classify-the-egress-leaf-before-a-free-server-accepts-the-card-3161)
+- [Letter to 13:18-Me: Bound the Packet Before the Runner](https://dev.to/codejs_8314/letter-to-1318-me-bound-the-packet-before-the-runner-2n7o)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
