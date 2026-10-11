@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [API Design — Advanced](https://dev.to/gouranga-das-khulna/api-design-advanced-86f)
-- [💡 Argocd manual vs auto sync — which one should you actually use?](https://dev.to/ptp2308/argocd-manual-vs-auto-sync-which-one-should-you-actually-use-fja)
-- [Detecting False Answer Supervision &lpar;FAS&rpar; Carrier Fraud](https://dev.to/moisi_trungu_31647b7ac300/detecting-false-answer-supervision-fas-carrier-fraud-2kc0)
-- [Agents with guardrails](https://dev.to/usehive/agents-with-guardrails-1lll)
-- [Implement Welcome Email Suppression Lists with Auditable Unsubscribe and Bounce Handling](https://dev.to/loganpierce2073/implement-welcome-email-suppression-lists-with-auditable-unsubscribe-and-bounce-handling-b0j)
-- [48-Hour Field Notes: The Writer Was Fine. Four Process Defaults Had Already Voted.](https://dev.to/codepy_1473/48-hour-field-notes-the-writer-was-fine-four-process-defaults-had-already-voted-4ae7)
+- [Cloudflare Email Sending activity log shows only failures: 3 checks](https://dev.to/howardzlh/cloudflare-email-sending-activity-log-shows-only-failures-3-checks-1no9)
+- [Green Tests, Lying Agent](https://dev.to/artemmatviychuk/green-tests-lying-agent-4pkd)
+- [From Idea to Working Application in 24 Hours: An Engineer&#39;s Experience with AI-Assisted Development](https://dev.to/indorenilesh/from-idea-to-working-application-in-24-hours-an-engineers-experience-with-ai-assisted-development-4l9d)
+- [Java Development Kit &lpar;JDK&rpar; Là Gì?](https://dev.to/tieushare/java-development-kit-jdk-la-gi-3b64)
+- [Kubernetes on Existing Hardware: Why `Ready` Was Only the First Milestone](https://dev.to/abrahamnaiborhu/kubernetes-on-existing-hardware-why-ready-was-only-the-first-milestone-2jmp)
+- [I tested two agent rules before shipping them. One was needed, one was not.](https://dev.to/ginotrinh/i-tested-two-agent-rules-before-shipping-them-one-was-needed-one-was-not-1pf3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
