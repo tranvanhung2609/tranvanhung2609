@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/kamyarat/-20nn)
-- [I Split the Score. Reach Was Never a Pass.](https://dev.to/hackhub_6179/i-split-the-score-reach-was-never-a-pass-360)
-- [Hold the Write Until Five Read Receipts Match the Escalation Ack](https://dev.to/appcpp_9071/hold-the-write-until-five-read-receipts-match-the-escalation-ack-5a5c)
-- [Your Model Graded Its Own Homework](https://dev.to/codex_1135/your-model-graded-its-own-homework-43nb)
-- [Classify the Egress Leaf Before a Free Server Accepts the Card](https://dev.to/devpy_9520/classify-the-egress-leaf-before-a-free-server-accepts-the-card-3161)
-- [Letter to 13:18-Me: Bound the Packet Before the Runner](https://dev.to/codejs_8314/letter-to-1318-me-bound-the-packet-before-the-runner-2n7o)
+- [Three scans and a carton, what a verified pick has to record](https://dev.to/fulfillnexa/three-scans-and-a-carton-what-a-verified-pick-has-to-record-1b0i)
+- [Replaying a variance, what a cycle count has to store](https://dev.to/fulfillnexa/replaying-a-variance-what-a-cycle-count-has-to-store-52j)
+- [The Iceberg Table That Was Never Where We Wrote It](https://dev.to/kotwal-itpro/the-iceberg-table-that-was-never-where-we-wrote-it-3c0b)
+- [The GitOps Bridge: Keep Terraform and ArgoCD Out of Each Other&#39;s Way](https://dev.to/avneet_bansal_a65b3f31fc4/the-gitops-bridge-keep-terraform-and-argocd-out-of-each-others-way-3721)
+- [Production Go services: typed errors, consumer-side interfaces, and tests that need no database](https://dev.to/naphat1243/production-go-services-typed-errors-consumer-side-interfaces-and-tests-that-need-no-database-3ldh)
+- [Your Memories Feature Looks Simple. The Infrastructure Behind It Isn’t](https://dev.to/fyre_memories_25858a8ff48/your-memories-feature-looks-simple-the-infrastructure-behind-it-isnt-5442)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
