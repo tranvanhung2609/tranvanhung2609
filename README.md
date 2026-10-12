@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Three scans and a carton, what a verified pick has to record](https://dev.to/fulfillnexa/three-scans-and-a-carton-what-a-verified-pick-has-to-record-1b0i)
-- [Replaying a variance, what a cycle count has to store](https://dev.to/fulfillnexa/replaying-a-variance-what-a-cycle-count-has-to-store-52j)
-- [The Iceberg Table That Was Never Where We Wrote It](https://dev.to/kotwal-itpro/the-iceberg-table-that-was-never-where-we-wrote-it-3c0b)
-- [The GitOps Bridge: Keep Terraform and ArgoCD Out of Each Other&#39;s Way](https://dev.to/avneet_bansal_a65b3f31fc4/the-gitops-bridge-keep-terraform-and-argocd-out-of-each-others-way-3721)
-- [Production Go services: typed errors, consumer-side interfaces, and tests that need no database](https://dev.to/naphat1243/production-go-services-typed-errors-consumer-side-interfaces-and-tests-that-need-no-database-3ldh)
-- [Your Memories Feature Looks Simple. The Infrastructure Behind It Isn’t](https://dev.to/fyre_memories_25858a8ff48/your-memories-feature-looks-simple-the-infrastructure-behind-it-isnt-5442)
+- [Why traditional monitoring tools fail with AI APIs &lpar;and how I&#39;m fixing it&rpar;](https://dev.to/mohammed_ghallab_19c89665/why-traditional-monitoring-tools-fail-with-ai-apis-and-how-im-fixing-it-29gj)
+- [How I Coordinate Multiple AI Agent Swarms Across Vendors Without Letting Them Collide](https://dev.to/kriscodes2/how-i-coordinate-multiple-ai-agent-swarms-across-vendors-without-letting-them-collide-3h6l)
+- [An IPv4 Admin&#39;s First Hour with IPv6 Subnets](https://dev.to/yuanke215/an-ipv4-admins-first-hour-with-ipv6-subnets-37f7)
+- [Terraform State Explained: Locking, Backups, and Recovery](https://dev.to/amareswer/terraform-state-explained-locking-backups-and-recovery-8h3)
+- [Scality&#39;s AI Inference Factory Keeps the Context Cache in Object Storage Over RDMA](https://dev.to/echakiri/scalitys-ai-inference-factory-keeps-the-context-cache-in-object-storage-over-rdma-ija)
+- [WhatsApp System Design: Building a Reliable Messaging Platform](https://dev.to/mangeshmandlik/whatsapp-system-design-building-a-reliable-messaging-platform-483e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
