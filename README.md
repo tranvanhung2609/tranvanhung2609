@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why traditional monitoring tools fail with AI APIs &lpar;and how I&#39;m fixing it&rpar;](https://dev.to/mohammed_ghallab_19c89665/why-traditional-monitoring-tools-fail-with-ai-apis-and-how-im-fixing-it-29gj)
-- [How I Coordinate Multiple AI Agent Swarms Across Vendors Without Letting Them Collide](https://dev.to/kriscodes2/how-i-coordinate-multiple-ai-agent-swarms-across-vendors-without-letting-them-collide-3h6l)
-- [An IPv4 Admin&#39;s First Hour with IPv6 Subnets](https://dev.to/yuanke215/an-ipv4-admins-first-hour-with-ipv6-subnets-37f7)
-- [Terraform State Explained: Locking, Backups, and Recovery](https://dev.to/amareswer/terraform-state-explained-locking-backups-and-recovery-8h3)
-- [Scality&#39;s AI Inference Factory Keeps the Context Cache in Object Storage Over RDMA](https://dev.to/echakiri/scalitys-ai-inference-factory-keeps-the-context-cache-in-object-storage-over-rdma-ija)
-- [WhatsApp System Design: Building a Reliable Messaging Platform](https://dev.to/mangeshmandlik/whatsapp-system-design-building-a-reliable-messaging-platform-483e)
+- [Event Driven Workflow Automation for Autonomous AI Systems](https://dev.to/rausal_bahtiarfadhli_d94/event-driven-workflow-automation-for-autonomous-ai-systems-2g1n)
+- [Deploy succeeded but production is broken: chunk 404s, stale builds](https://dev.to/gemmein/deploy-succeeded-but-production-is-broken-chunk-404s-stale-builds-52n6)
+- [Freeze the Failed Prompt: A Wiki Handoff Before an Agent Retry](https://dev.to/devx_6522/freeze-the-failed-prompt-a-wiki-handoff-before-an-agent-retry-1ek1)
+- [Scheduled Data Cleanup: Node.js Cron HTTP Endpoint for Nightly Queue Jobs &lpar;Trade-offs&rpar;](https://dev.to/ethanbrooks1647/scheduled-data-cleanup-nodejs-cron-http-endpoint-for-nightly-queue-jobs-trade-offs-n61)
+- [I Diffed Locale and umask Before I Let the Health Check Land](https://dev.to/codepy_1473/i-diffed-locale-and-umask-before-i-let-the-health-check-land-2p85)
+- [Why Your Terraform Cloud Runs Are Stuck](https://dev.to/n451m/why-your-terraform-cloud-runs-are-stuck-2ba6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
