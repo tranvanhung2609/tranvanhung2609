@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Terraform vs OpenTofu in 2026, and how to migrate](https://dev.to/admiral-editor/opentofu-vs-terraform-in-2026-and-how-to-migrate-3omb)
-- [LG Smart TVs Vulnerable to Root Takeover Flaws: Advisory](https://dev.to/kiran_sonawane/lg-smart-tvs-vulnerable-to-root-takeover-flaws-advisory-m4m)
-- [The job you defined never ran](https://dev.to/hermesthevaliant/the-job-you-defined-never-ran-b5l)
-- [Secrets Next.js : 3 garde-fous PowerShell](https://dev.to/securiumagency/secrets-nextjs-3-garde-fous-powershell-nhl)
-- [A failing hook must not hand back the moved order](https://dev.to/shipmindlabs/a-failing-hook-must-not-hand-back-the-moved-order-2e7p)
-- [Kubernetes readiness gates and rolling deploys without downtime](https://dev.to/amitshuklabag/kubernetes-readiness-gates-and-rolling-deploys-without-downtime-25a5)
+- [Intermittent 502s and &quot;read ECONNRESET&quot; Behind a Load Balancer: The Keep-Alive Timeout Mismatch](https://dev.to/libme/intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch-1b3n)
+- [Transactional Email Deliverability: How to Fix Welcome Message Problems](https://dev.to/cianwinslow371/transactional-email-deliverability-how-to-fix-welcome-message-problems-24j9)
+- [Java project with Spring](https://dev.to/joel_c07/java-project-with-spring-1e64)
+- [Backend Exception Tracking API: 4 Tests for Cron Jobs and Workers](https://dev.to/wilfredknight8447/backend-exception-tracking-api-4-tests-for-cron-jobs-and-workers-153i)
+- [Reuse cache mounts reliably across multi-stage Dockerfiles](https://dev.to/chriserodriguez/reuse-cache-mounts-reliably-across-multi-stage-dockerfiles-4837)
+- [Terraform : survivre à un state corrompu, guide de réparation sans tout détruire](https://dev.to/florient_4262fab5463a691/terraform-survivre-a-un-state-corrompu-guide-de-reparation-sans-tout-detruire-14ic)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
