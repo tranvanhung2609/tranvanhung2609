@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Event Driven Workflow Automation for Autonomous AI Systems](https://dev.to/rausal_bahtiarfadhli_d94/event-driven-workflow-automation-for-autonomous-ai-systems-2g1n)
-- [Deploy succeeded but production is broken: chunk 404s, stale builds](https://dev.to/gemmein/deploy-succeeded-but-production-is-broken-chunk-404s-stale-builds-52n6)
-- [Freeze the Failed Prompt: A Wiki Handoff Before an Agent Retry](https://dev.to/devx_6522/freeze-the-failed-prompt-a-wiki-handoff-before-an-agent-retry-1ek1)
-- [Scheduled Data Cleanup: Node.js Cron HTTP Endpoint for Nightly Queue Jobs &lpar;Trade-offs&rpar;](https://dev.to/ethanbrooks1647/scheduled-data-cleanup-nodejs-cron-http-endpoint-for-nightly-queue-jobs-trade-offs-n61)
-- [I Diffed Locale and umask Before I Let the Health Check Land](https://dev.to/codepy_1473/i-diffed-locale-and-umask-before-i-let-the-health-check-land-2p85)
-- [Why Your Terraform Cloud Runs Are Stuck](https://dev.to/n451m/why-your-terraform-cloud-runs-are-stuck-2ba6)
+- [Terraform vs OpenTofu in 2026, and how to migrate](https://dev.to/admiral-editor/opentofu-vs-terraform-in-2026-and-how-to-migrate-3omb)
+- [LG Smart TVs Vulnerable to Root Takeover Flaws: Advisory](https://dev.to/kiran_sonawane/lg-smart-tvs-vulnerable-to-root-takeover-flaws-advisory-m4m)
+- [The job you defined never ran](https://dev.to/hermesthevaliant/the-job-you-defined-never-ran-b5l)
+- [Secrets Next.js : 3 garde-fous PowerShell](https://dev.to/securiumagency/secrets-nextjs-3-garde-fous-powershell-nhl)
+- [A failing hook must not hand back the moved order](https://dev.to/shipmindlabs/a-failing-hook-must-not-hand-back-the-moved-order-2e7p)
+- [Kubernetes readiness gates and rolling deploys without downtime](https://dev.to/amitshuklabag/kubernetes-readiness-gates-and-rolling-deploys-without-downtime-25a5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
