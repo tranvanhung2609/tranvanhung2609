@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We Rendered a HQ Demo Video on a Free Farm Run by Strangers](https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440)
-- [3 Terraform policies to start with: tags, ingress, instance types](https://dev.to/stackguardian/3-terraform-policies-to-start-with-tags-ingress-instance-types-mo8)
-- [Java Stream API for Beginners: From Loops to Pipelines](https://dev.to/mayur_bodhare/java-stream-api-for-beginners-from-loops-to-pipelines-1p76)
-- [A backlog policy is a comparator with a version number](https://dev.to/fulfillnexa/a-backlog-policy-is-a-comparator-with-a-version-number-578f)
-- [Freeze ranges and effective dates, what a stop-ship table has to store](https://dev.to/fulfillnexa/freeze-ranges-and-effective-dates-what-a-stop-ship-table-has-to-store-5po)
-- [Let&#39;s Encrypt Rate Limits: The Operator Flowchart](https://dev.to/webpixie/lets-encrypt-rate-limits-the-operator-flowchart-448d)
+- [FastAPI in production · 2. Pydantic as your API contract](https://dev.to/techamit95ch/fastapi-in-production-2-pydantic-as-your-api-contract-3ifh)
+- [How to Back Up Postgres on a VPS &lpar;and Prove the Restore Works&rpar;](https://dev.to/arthur_luca/how-to-back-up-postgres-on-a-vps-and-prove-the-restore-works-464h)
+- [Urgent Event Notifications: How to Build a 4-State SMS-First Fallback](https://dev.to/norbertchristensen3183/urgent-event-notifications-how-to-build-a-4-state-sms-first-fallback-145c)
+- [Bigbucket setup](https://dev.to/jenil_sheth_3eb6f86dc4900/bigbucket-setup-40a7)
+- [The API your automation switched on is the one the attacker needs](https://dev.to/kashif_manzer/the-api-your-automation-switched-on-is-the-one-the-attacker-needs-3af4)
+- [The API your automation switched on is the one the attacker needs](https://dev.to/kashif_manzer/the-api-your-automation-switched-on-is-the-one-the-attacker-needs-3af4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
