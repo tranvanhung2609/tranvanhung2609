@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Inbound Dead Air: Answered Calls Where Asterisk Never Accepts Carrier RTP](https://dev.to/moisi_trungu_31647b7ac300/detecting-inbound-dead-air-answered-calls-where-asterisk-never-accepts-carrier-rtp-5ckn)
-- [Phone Login with SMS OTP Resend Countdown &lpar;An Auditable Backend&rpar;](https://dev.to/wilhelmknight8435/phone-login-with-sms-otp-resend-countdown-an-auditable-backend-1l0g)
-- [Your Docker Container Is Running… So Why Is Your Application Down?](https://dev.to/yash_sonawane25/your-docker-container-is-running-so-why-is-your-application-down-11jj)
-- [What we&#39;re learning building HIVE](https://dev.to/usehive/what-were-learning-building-hive-260h)
-- [AI Agents Used a Package Registry as a Web Browser: 5 Sandboxing Rules for Your Own Agents](https://dev.to/jamilxt/ai-agents-used-a-package-registry-as-a-web-browser-5-sandboxing-rules-for-your-own-agents-gjm)
-- [When AI Agents Break Git: How Anthropic Rebuilt Source Control for the Agent Era](https://dev.to/gabby_six/when-ai-agents-break-git-how-anthropic-rebuilt-source-control-for-the-agent-era-2m0k)
+- [We Rendered a HQ Demo Video on a Free Farm Run by Strangers](https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440)
+- [3 Terraform policies to start with: tags, ingress, instance types](https://dev.to/stackguardian/3-terraform-policies-to-start-with-tags-ingress-instance-types-mo8)
+- [Java Stream API for Beginners: From Loops to Pipelines](https://dev.to/mayur_bodhare/java-stream-api-for-beginners-from-loops-to-pipelines-1p76)
+- [A backlog policy is a comparator with a version number](https://dev.to/fulfillnexa/a-backlog-policy-is-a-comparator-with-a-version-number-578f)
+- [Freeze ranges and effective dates, what a stop-ship table has to store](https://dev.to/fulfillnexa/freeze-ranges-and-effective-dates-what-a-stop-ship-table-has-to-store-5po)
+- [Let&#39;s Encrypt Rate Limits: The Operator Flowchart](https://dev.to/webpixie/lets-encrypt-rate-limits-the-operator-flowchart-448d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
