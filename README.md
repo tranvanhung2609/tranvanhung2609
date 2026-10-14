@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Intermittent 502s and &quot;read ECONNRESET&quot; Behind a Load Balancer: The Keep-Alive Timeout Mismatch](https://dev.to/libme/intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch-1b3n)
-- [Transactional Email Deliverability: How to Fix Welcome Message Problems](https://dev.to/cianwinslow371/transactional-email-deliverability-how-to-fix-welcome-message-problems-24j9)
-- [Java project with Spring](https://dev.to/joel_c07/java-project-with-spring-1e64)
-- [Backend Exception Tracking API: 4 Tests for Cron Jobs and Workers](https://dev.to/wilfredknight8447/backend-exception-tracking-api-4-tests-for-cron-jobs-and-workers-153i)
-- [Reuse cache mounts reliably across multi-stage Dockerfiles](https://dev.to/chriserodriguez/reuse-cache-mounts-reliably-across-multi-stage-dockerfiles-4837)
-- [Terraform : survivre à un state corrompu, guide de réparation sans tout détruire](https://dev.to/florient_4262fab5463a691/terraform-survivre-a-un-state-corrompu-guide-de-reparation-sans-tout-detruire-14ic)
+- [Detecting Inbound Dead Air: Answered Calls Where Asterisk Never Accepts Carrier RTP](https://dev.to/moisi_trungu_31647b7ac300/detecting-inbound-dead-air-answered-calls-where-asterisk-never-accepts-carrier-rtp-5ckn)
+- [Phone Login with SMS OTP Resend Countdown &lpar;An Auditable Backend&rpar;](https://dev.to/wilhelmknight8435/phone-login-with-sms-otp-resend-countdown-an-auditable-backend-1l0g)
+- [Your Docker Container Is Running… So Why Is Your Application Down?](https://dev.to/yash_sonawane25/your-docker-container-is-running-so-why-is-your-application-down-11jj)
+- [What we&#39;re learning building HIVE](https://dev.to/usehive/what-were-learning-building-hive-260h)
+- [AI Agents Used a Package Registry as a Web Browser: 5 Sandboxing Rules for Your Own Agents](https://dev.to/jamilxt/ai-agents-used-a-package-registry-as-a-web-browser-5-sandboxing-rules-for-your-own-agents-gjm)
+- [When AI Agents Break Git: How Anthropic Rebuilt Source Control for the Agent Era](https://dev.to/gabby_six/when-ai-agents-break-git-how-anthropic-rebuilt-source-control-for-the-agent-era-2m0k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
