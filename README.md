@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI in production · 2. Pydantic as your API contract](https://dev.to/techamit95ch/fastapi-in-production-2-pydantic-as-your-api-contract-3ifh)
-- [How to Back Up Postgres on a VPS &lpar;and Prove the Restore Works&rpar;](https://dev.to/arthur_luca/how-to-back-up-postgres-on-a-vps-and-prove-the-restore-works-464h)
-- [Urgent Event Notifications: How to Build a 4-State SMS-First Fallback](https://dev.to/norbertchristensen3183/urgent-event-notifications-how-to-build-a-4-state-sms-first-fallback-145c)
-- [Bigbucket setup](https://dev.to/jenil_sheth_3eb6f86dc4900/bigbucket-setup-40a7)
-- [The API your automation switched on is the one the attacker needs](https://dev.to/kashif_manzer/the-api-your-automation-switched-on-is-the-one-the-attacker-needs-3af4)
-- [The API your automation switched on is the one the attacker needs](https://dev.to/kashif_manzer/the-api-your-automation-switched-on-is-the-one-the-attacker-needs-3af4)
+- [Managing Node Applications with PM2](https://dev.to/vultr/managing-node-applications-with-pm2-39dn)
+- [Handling Balances and Transactions: Patterns and Anti-Patterns](https://dev.to/devaaai/handling-balances-and-transactions-patterns-and-anti-patterns-2lg)
+- [Monitor SSL expiry and security headers for any domain with one API](https://dev.to/olly_08beff75f1fe547dcb92/monitor-ssl-expiry-and-security-headers-for-any-domain-with-one-api-46ek)
+- [Terraform Unleashed: Building Scalable Infra‑as‑Code Pipelines](https://dev.to/ukasha_mahir_84eeb71db239/terraform-unleashed-building-scalable-infra-as-code-pipelines-4j74)
+- [Testing Like a Pro: From Unit Nuggets to Full‑Scale Integration](https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e)
+- [Don&#39;t make the failure path stricter than the success path](https://dev.to/hermesthevaliant/dont-make-the-failure-path-stricter-than-the-success-path-5hij)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
