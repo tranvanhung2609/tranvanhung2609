@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [48-Hour Field Notes: The Box Recycled My Worker and the Jobs Stayed `running`](https://dev.to/codepy_1473/48-hour-field-notes-the-box-recycled-my-worker-and-the-jobs-stayed-running-9pj)
-- [Temperature Zero Is Not a Reproducibility Guarantee: Five Agent Myths, Tested](https://dev.to/gitlab_3188/temperature-zero-is-not-a-reproducibility-guarantee-five-agent-myths-tested-1i14)
-- [Budgeting Hindsight: Stop Background Memory Work From Owning Your API Bill](https://dev.to/james_lin/budgeting-hindsight-stop-background-memory-work-from-owning-your-api-bill-4538)
-- [Latest Jobs in Pakistan 2026](https://dev.to/ohaib_d80a267ff9e2b11be/latest-jobs-in-pakistan-2026-30kg)
-- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
-- [The same redirect and bot-blocking rules for Apache, Nginx, Caddy and Cloudflare](https://dev.to/paidhosting/the-same-redirect-and-bot-blocking-rules-for-apache-nginx-caddy-and-cloudflare-3bae)
+- [CircleCI&#39;s Runners Were Ready. PostgreSQL Couldn&#39;t Dispatch Jobs.](https://dev.to/buildopsy/the-database-was-the-healthiest-part-of-circlecis-fleet-it-still-took-down-3500-jobs-2fi5)
+- [How I get Slack alerts when a vendor status page reports an incident](https://dev.to/ravi_krishna_aeda/how-i-get-slack-alerts-when-a-vendor-status-page-reports-an-incident-2dcl)
+- [Webhook Hub with Spring Boot: Strategy Pattern, Sub-Strategies and Collection Injection](https://dev.to/alaugks/webhook-hub-with-spring-boot-strategy-pattern-sub-strategies-and-collection-injection-16b9)
+- [Myth FAQ: Your Free Dev Box Is Not a Staging Environment](https://dev.to/gitlab_3188/myth-faq-your-free-dev-box-is-not-a-staging-environment-3ckm)
+- [Your Agent Found a Source. Is It the Version You Need?](https://dev.to/yuichi-tanaka/your-agent-found-a-source-is-it-the-version-you-need-3k0p)
+- [Notes on the tar + ssh pipe technique](https://dev.to/kohei_wada/notes-on-the-tar-ssh-pipe-technique-49b9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
