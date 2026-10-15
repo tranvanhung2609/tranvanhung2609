@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Scheduling Stale-Reservation Webhooks — Follow-Up Tasks One Hour Later, Queue or Cron](https://dev.to/jorisrhodes8286/scheduling-stale-reservation-webhooks-follow-up-tasks-one-hour-later-queue-or-cron-56ih)
-- [Target Got Breached Through Its Air Conditioning Vendor](https://dev.to/kstriabintang/target-got-breached-through-its-air-conditioning-vendor-2b0)
-- [What To Do When a Free LLM API Says 429 &lpar;A Field Playbook&rpar;](https://dev.to/neusoftware/what-to-do-when-a-free-llm-api-says-429-a-field-playbook-3g5l)
-- [Filter in ASP.NET Core Web API](https://dev.to/syed_mohamed/filter-in-aspnet-core-web-api-5c0n)
-- [Designing a Distributed Rate Limiter: Token Bucket, Leaky Bucket, and Sliding Window Counters](https://dev.to/devanshu_patil/designing-a-distributed-rate-limiter-token-bucket-leaky-bucket-and-sliding-window-counters-37do)
-- [Designing an Audit Trail for Attendance Edits Without Overwriting Source Events](https://dev.to/insacheck/designing-an-audit-trail-for-attendance-edits-without-overwriting-source-events-19dk)
+- [48-Hour Field Notes: The Box Recycled My Worker and the Jobs Stayed `running`](https://dev.to/codepy_1473/48-hour-field-notes-the-box-recycled-my-worker-and-the-jobs-stayed-running-9pj)
+- [Temperature Zero Is Not a Reproducibility Guarantee: Five Agent Myths, Tested](https://dev.to/gitlab_3188/temperature-zero-is-not-a-reproducibility-guarantee-five-agent-myths-tested-1i14)
+- [Budgeting Hindsight: Stop Background Memory Work From Owning Your API Bill](https://dev.to/james_lin/budgeting-hindsight-stop-background-memory-work-from-owning-your-api-bill-4538)
+- [Latest Jobs in Pakistan 2026](https://dev.to/ohaib_d80a267ff9e2b11be/latest-jobs-in-pakistan-2026-30kg)
+- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
+- [The same redirect and bot-blocking rules for Apache, Nginx, Caddy and Cloudflare](https://dev.to/paidhosting/the-same-redirect-and-bot-blocking-rules-for-apache-nginx-caddy-and-cloudflare-3bae)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
