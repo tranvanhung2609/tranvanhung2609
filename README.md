@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Managing Node Applications with PM2](https://dev.to/vultr/managing-node-applications-with-pm2-39dn)
-- [Handling Balances and Transactions: Patterns and Anti-Patterns](https://dev.to/devaaai/handling-balances-and-transactions-patterns-and-anti-patterns-2lg)
-- [Monitor SSL expiry and security headers for any domain with one API](https://dev.to/olly_08beff75f1fe547dcb92/monitor-ssl-expiry-and-security-headers-for-any-domain-with-one-api-46ek)
-- [Terraform Unleashed: Building Scalable Infra‑as‑Code Pipelines](https://dev.to/ukasha_mahir_84eeb71db239/terraform-unleashed-building-scalable-infra-as-code-pipelines-4j74)
-- [Testing Like a Pro: From Unit Nuggets to Full‑Scale Integration](https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e)
-- [Don&#39;t make the failure path stricter than the success path](https://dev.to/hermesthevaliant/dont-make-the-failure-path-stricter-than-the-success-path-5hij)
+- [Scheduling Stale-Reservation Webhooks — Follow-Up Tasks One Hour Later, Queue or Cron](https://dev.to/jorisrhodes8286/scheduling-stale-reservation-webhooks-follow-up-tasks-one-hour-later-queue-or-cron-56ih)
+- [Target Got Breached Through Its Air Conditioning Vendor](https://dev.to/kstriabintang/target-got-breached-through-its-air-conditioning-vendor-2b0)
+- [What To Do When a Free LLM API Says 429 &lpar;A Field Playbook&rpar;](https://dev.to/neusoftware/what-to-do-when-a-free-llm-api-says-429-a-field-playbook-3g5l)
+- [Filter in ASP.NET Core Web API](https://dev.to/syed_mohamed/filter-in-aspnet-core-web-api-5c0n)
+- [Designing a Distributed Rate Limiter: Token Bucket, Leaky Bucket, and Sliding Window Counters](https://dev.to/devanshu_patil/designing-a-distributed-rate-limiter-token-bucket-leaky-bucket-and-sliding-window-counters-37do)
+- [Designing an Audit Trail for Attendance Edits Without Overwriting Source Events](https://dev.to/insacheck/designing-an-audit-trail-for-attendance-edits-without-overwriting-source-events-19dk)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
