@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CircleCI&#39;s Runners Were Ready. PostgreSQL Couldn&#39;t Dispatch Jobs.](https://dev.to/buildopsy/the-database-was-the-healthiest-part-of-circlecis-fleet-it-still-took-down-3500-jobs-2fi5)
-- [How I get Slack alerts when a vendor status page reports an incident](https://dev.to/ravi_krishna_aeda/how-i-get-slack-alerts-when-a-vendor-status-page-reports-an-incident-2dcl)
-- [Webhook Hub with Spring Boot: Strategy Pattern, Sub-Strategies and Collection Injection](https://dev.to/alaugks/webhook-hub-with-spring-boot-strategy-pattern-sub-strategies-and-collection-injection-16b9)
-- [Myth FAQ: Your Free Dev Box Is Not a Staging Environment](https://dev.to/gitlab_3188/myth-faq-your-free-dev-box-is-not-a-staging-environment-3ckm)
-- [Your Agent Found a Source. Is It the Version You Need?](https://dev.to/yuichi-tanaka/your-agent-found-a-source-is-it-the-version-you-need-3k0p)
-- [Notes on the tar + ssh pipe technique](https://dev.to/kohei_wada/notes-on-the-tar-ssh-pipe-technique-49b9)
+- [[SD] Particionamento e Sharding: conceitos, estratégias e desafios na escalabilidade de bancos de dados](https://dev.to/reishenrique/sd-sharding-o-que-e-porque-precisamos-estrategias-e-trade-offs-1mnj)
+- [Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us](https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j)
+- [Kubernetes Pod Churn &amp; Node Thrashing: Ephemeral Storage Exhaustion and Eviction Cascades](https://dev.to/usman_khan_io/kubernetes-pod-churn-node-thrashing-ephemeral-storage-exhaustion-and-eviction-cascades-4035)
+- [Worktree lifecycle for AI agents](https://dev.to/saez520/worktree-lifecycle-for-ai-agents-1ooo)
+- [About Me](https://dev.to/malfurra/about-me-286j)
+- [I published my first GitHub Action. Five things I&#39;d tell myself first](https://dev.to/utsavmishra25/i-published-my-first-github-action-five-things-id-tell-myself-first-1ap5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
