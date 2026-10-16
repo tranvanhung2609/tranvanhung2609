@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Build Your React UI in Seconds. What About the Backend?](https://dev.to/nileslabs/ai-can-build-your-react-ui-in-seconds-what-about-the-backend-1pn0)
-- [Zero-Secret Pipelines: Hardening GitLab CI/CD with OIDC &amp; HashiCorp Vault](https://dev.to/hrlpavan/zero-secret-pipelines-hardening-gitlab-cicd-with-oidc-hashicorp-vault-9a)
-- [Eliminating Flaky Tests in GitLab CI/CD: Predictive Selection, Quarantining &amp; JUnit Reports](https://dev.to/hrlpavan/eliminating-flaky-tests-in-gitlab-cicd-predictive-selection-quarantining-junit-reports-g80)
-- [Production GitOps with GitLab: Continuous Delivery with the GitLab Agent for Kubernetes](https://dev.to/hrlpavan/production-gitops-with-gitlab-continuous-delivery-with-the-gitlab-agent-for-kubernetes-2co9)
-- [Reusable Pipelines Done Right: Building Typed GitLab CI/CD Components for the CI/CD Catalog](https://dev.to/hrlpavan/reusable-pipelines-done-right-building-typed-gitlab-cicd-components-for-the-cicd-catalog-50bc)
-- [How to find every caller of a route across 20 repos, and keep the answer true](https://dev.to/worstone0/how-to-find-every-caller-of-a-route-across-20-repos-and-keep-the-answer-true-4amg)
+- [Seeing Into a Talos Cluster: The Observability Stack I Actually Run](https://dev.to/mortennordbye/seeing-into-a-talos-cluster-the-observability-stack-i-actually-run-20ce)
+- [What is ETL orchestration? A technical guide](https://dev.to/polysync/what-is-etl-orchestration-a-technical-guide-46l2)
+- [Locking Down Your Cluster: Rolling Out Cilium Network Policies Without Breaking Everything](https://dev.to/mortennordbye/locking-down-your-cluster-rolling-out-cilium-network-policies-without-breaking-everything-335d)
+- [Hire a Freelance Software Developer vs Agency in Kerala: Cost &amp; Quality Breakdown](https://dev.to/abinschandran/hire-a-freelance-software-developer-vs-agency-in-kerala-cost-quality-breakdown-226o)
+- [Pourquoi nous avons créé EnvoiSMS.ma : une vraie API SMS et WhatsApp direct opérateur au Maroc](https://dev.to/naouri/pourquoi-nous-avons-cree-envoismsma-une-vraie-api-sms-et-whatsapp-direct-operateur-au-maroc-6ll)
+- [Agents Are Breaching Real Systems, and Their Harnesses Are the Weak Point](https://dev.to/humanbound_ai/agents-are-breaching-real-systems-and-their-harnesses-are-the-weak-point-1m0k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
