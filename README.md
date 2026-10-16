@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Seeing Into a Talos Cluster: The Observability Stack I Actually Run](https://dev.to/mortennordbye/seeing-into-a-talos-cluster-the-observability-stack-i-actually-run-20ce)
-- [What is ETL orchestration? A technical guide](https://dev.to/polysync/what-is-etl-orchestration-a-technical-guide-46l2)
-- [Locking Down Your Cluster: Rolling Out Cilium Network Policies Without Breaking Everything](https://dev.to/mortennordbye/locking-down-your-cluster-rolling-out-cilium-network-policies-without-breaking-everything-335d)
-- [Hire a Freelance Software Developer vs Agency in Kerala: Cost &amp; Quality Breakdown](https://dev.to/abinschandran/hire-a-freelance-software-developer-vs-agency-in-kerala-cost-quality-breakdown-226o)
-- [Pourquoi nous avons créé EnvoiSMS.ma : une vraie API SMS et WhatsApp direct opérateur au Maroc](https://dev.to/naouri/pourquoi-nous-avons-cree-envoismsma-une-vraie-api-sms-et-whatsapp-direct-operateur-au-maroc-6ll)
-- [Agents Are Breaching Real Systems, and Their Harnesses Are the Weak Point](https://dev.to/humanbound_ai/agents-are-breaching-real-systems-and-their-harnesses-are-the-weak-point-1m0k)
+- [Why a Deleted Linux File Can Still Consume Disk Space](https://dev.to/asepsayyad007/why-a-deleted-linux-file-can-still-consume-disk-space-4mlk)
+- [Claude Code Review is GA: what a base-branch REVIEW.md teaches us about agent standards](https://dev.to/dav_9d08ede16c60950b/claude-code-review-is-ga-what-a-base-branch-reviewmd-teaches-us-about-agent-standards-2eo)
+- [Self-Host n8n with Docker Compose, PostgreSQL and Automatic HTTPS &lpar;2026 Guide&rpar;](https://dev.to/onyxaholguincyber/self-host-n8n-with-docker-compose-postgresql-and-automatic-https-2026-guide-252d)
+- [Reducing AI Token Costs by 80%: How We Built a CI/CD Layer That Pays for Itself](https://dev.to/frederick_wong_76/reducing-ai-token-costs-by-80-how-we-built-a-cicd-layer-that-pays-for-itself-ep7)
+- [How long Supabase tables stayed readable by the anon key](https://dev.to/amsozzer/how-long-supabase-tables-stayed-readable-by-the-anon-key-34ia)
+- [Node.js SMS API Integration — Property Support Server Monitoring Alerts](https://dev.to/sterlingvance2196/nodejs-sms-api-integration-property-support-server-monitoring-alerts-2be6)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
