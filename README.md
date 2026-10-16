@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [[SD] Particionamento e Sharding: conceitos, estratégias e desafios na escalabilidade de bancos de dados](https://dev.to/reishenrique/sd-sharding-o-que-e-porque-precisamos-estrategias-e-trade-offs-1mnj)
-- [Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us](https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j)
-- [Kubernetes Pod Churn &amp; Node Thrashing: Ephemeral Storage Exhaustion and Eviction Cascades](https://dev.to/usman_khan_io/kubernetes-pod-churn-node-thrashing-ephemeral-storage-exhaustion-and-eviction-cascades-4035)
-- [Worktree lifecycle for AI agents](https://dev.to/saez520/worktree-lifecycle-for-ai-agents-1ooo)
-- [About Me](https://dev.to/malfurra/about-me-286j)
-- [I published my first GitHub Action. Five things I&#39;d tell myself first](https://dev.to/utsavmishra25/i-published-my-first-github-action-five-things-id-tell-myself-first-1ap5)
+- [AI Can Build Your React UI in Seconds. What About the Backend?](https://dev.to/nileslabs/ai-can-build-your-react-ui-in-seconds-what-about-the-backend-1pn0)
+- [Zero-Secret Pipelines: Hardening GitLab CI/CD with OIDC &amp; HashiCorp Vault](https://dev.to/hrlpavan/zero-secret-pipelines-hardening-gitlab-cicd-with-oidc-hashicorp-vault-9a)
+- [Eliminating Flaky Tests in GitLab CI/CD: Predictive Selection, Quarantining &amp; JUnit Reports](https://dev.to/hrlpavan/eliminating-flaky-tests-in-gitlab-cicd-predictive-selection-quarantining-junit-reports-g80)
+- [Production GitOps with GitLab: Continuous Delivery with the GitLab Agent for Kubernetes](https://dev.to/hrlpavan/production-gitops-with-gitlab-continuous-delivery-with-the-gitlab-agent-for-kubernetes-2co9)
+- [Reusable Pipelines Done Right: Building Typed GitLab CI/CD Components for the CI/CD Catalog](https://dev.to/hrlpavan/reusable-pipelines-done-right-building-typed-gitlab-cicd-components-for-the-cicd-catalog-50bc)
+- [How to find every caller of a route across 20 repos, and keep the answer true](https://dev.to/worstone0/how-to-find-every-caller-of-a-route-across-20-repos-and-keep-the-answer-true-4amg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
