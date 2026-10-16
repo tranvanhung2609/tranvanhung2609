@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why a Deleted Linux File Can Still Consume Disk Space](https://dev.to/asepsayyad007/why-a-deleted-linux-file-can-still-consume-disk-space-4mlk)
-- [Claude Code Review is GA: what a base-branch REVIEW.md teaches us about agent standards](https://dev.to/dav_9d08ede16c60950b/claude-code-review-is-ga-what-a-base-branch-reviewmd-teaches-us-about-agent-standards-2eo)
-- [Self-Host n8n with Docker Compose, PostgreSQL and Automatic HTTPS &lpar;2026 Guide&rpar;](https://dev.to/onyxaholguincyber/self-host-n8n-with-docker-compose-postgresql-and-automatic-https-2026-guide-252d)
-- [Reducing AI Token Costs by 80%: How We Built a CI/CD Layer That Pays for Itself](https://dev.to/frederick_wong_76/reducing-ai-token-costs-by-80-how-we-built-a-cicd-layer-that-pays-for-itself-ep7)
-- [How long Supabase tables stayed readable by the anon key](https://dev.to/amsozzer/how-long-supabase-tables-stayed-readable-by-the-anon-key-34ia)
-- [Node.js SMS API Integration — Property Support Server Monitoring Alerts](https://dev.to/sterlingvance2196/nodejs-sms-api-integration-property-support-server-monitoring-alerts-2be6)
+- [The handler you assumed existed](https://dev.to/hermesthevaliant/the-handler-you-assumed-existed-13a8)
+- [Securing a .NET API with JWT Authentication Using Clean Architecture](https://dev.to/elshwilahmed/securing-a-net-api-with-jwt-authentication-using-clean-architecture-1kn7)
+- [Sentry caught my Express error. The request still hung forever](https://dev.to/amorizz/sentry-caught-my-express-error-the-request-still-hung-forever-32kk)
+- [I packaged my go-to Node.js/TypeScript backend setup into a boilerplate](https://dev.to/lamaizi_hajar_b310d8837b4/i-packaged-my-go-to-nodejstypescript-backend-setup-into-a-boilerplate-24bm)
+- [I packaged my go-to Node.js/TypeScript backend setup into a boilerplate](https://dev.to/lamaizi_hajar_b310d8837b4/i-packaged-my-go-to-nodejstypescript-backend-setup-into-a-boilerplate-24bm)
+- [Stoke Money&#39;s Cash Flow Forecast Engine: How Real-Time Financial Projections Replace Static Budget Categories](https://dev.to/mech_app_ai/stoke-moneys-cash-flow-forecast-engine-how-real-time-financial-projections-replace-static-budget-2bbg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
