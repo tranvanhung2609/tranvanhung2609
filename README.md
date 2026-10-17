@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s 100 Overcharge Bug: What Internationalization Failures Reveal About Agent Payment Pipelines](https://dev.to/mech_app_ai/anthropics-100x-overcharge-bug-what-internationalization-failures-reveal-about-agent-payment-3e58)
-- [I installed a bunch of agent skills. Then I wrote a tool to audit them.](https://dev.to/techdevfun/i-installed-a-bunch-of-agent-skills-then-i-wrote-a-tool-to-audit-them-4e2h)
-- [Go Profiling in Production: pprof, Flamegraphs and Memory Leaks](https://dev.to/ayinedjimi-consultants/go-profiling-in-production-pprof-flamegraphs-and-memory-leaks-45a0)
-- [Building a Multi-Agent Voice Command Center: Load Bearing Empire&#39;s QHV Stack on Supabase, VAPI, and Vercel](https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-load-bearing-empires-qhv-stack-on-supabase-vapi-and-1ie3)
-- [A crontab entry for a second weekly film, and the UTC hour it hides](https://dev.to/robswierk/a-crontab-entry-for-a-second-weekly-film-and-the-utc-hour-it-hides-pd3)
-- [Docker Compose 5.6&#39;s jobs type only starts through docker compose run](https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a)
+- [Deterministic Open-Registry Verification &amp; L2 Settlement Benchmarks: Handling Schema Drift, Redirects, and Replay Windows](https://dev.to/o2splatformcmyk/deterministic-open-registry-verification-l2-settlement-benchmarks-handling-schema-drift-41o2)
+- [Terraform vs CloudFormation: The 2026 AWS IaC Battle-Tested Guide &amp; Migration Runbook](https://dev.to/naveedkumbhar/terraform-vs-cloudformation-the-2026-aws-iac-battle-tested-guide-migration-runbook-4ei2)
+- [Building Medirescue-AI: Revolutionizing Emergency Healthcare with FalkorDB Knowledge Graphs](https://dev.to/abinaya_fcbfecbddbaa8c696/building-medirescue-ai-revolutionizing-emergency-healthcare-with-falkordb-knowledge-graphs-5bf1)
+- [Giving Your Spring AI Agent a Memory — Conversations That Actually Make Sense](https://dev.to/shamprakash2000/giving-your-spring-ai-agent-a-memory-conversations-that-actually-make-sense-10im)
+- [Romance of properties](https://dev.to/amarao/romance-of-properties-2d0n)
+- [DevOps Email Tests Need a Handoff Contract](https://dev.to/mrdapperx/devops-email-tests-need-a-handoff-contract-2o6p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
