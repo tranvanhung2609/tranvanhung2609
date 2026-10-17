@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The handler you assumed existed](https://dev.to/hermesthevaliant/the-handler-you-assumed-existed-13a8)
-- [Securing a .NET API with JWT Authentication Using Clean Architecture](https://dev.to/elshwilahmed/securing-a-net-api-with-jwt-authentication-using-clean-architecture-1kn7)
-- [Sentry caught my Express error. The request still hung forever](https://dev.to/amorizz/sentry-caught-my-express-error-the-request-still-hung-forever-32kk)
-- [I packaged my go-to Node.js/TypeScript backend setup into a boilerplate](https://dev.to/lamaizi_hajar_b310d8837b4/i-packaged-my-go-to-nodejstypescript-backend-setup-into-a-boilerplate-24bm)
-- [I packaged my go-to Node.js/TypeScript backend setup into a boilerplate](https://dev.to/lamaizi_hajar_b310d8837b4/i-packaged-my-go-to-nodejstypescript-backend-setup-into-a-boilerplate-24bm)
-- [Stoke Money&#39;s Cash Flow Forecast Engine: How Real-Time Financial Projections Replace Static Budget Categories](https://dev.to/mech_app_ai/stoke-moneys-cash-flow-forecast-engine-how-real-time-financial-projections-replace-static-budget-2bbg)
+- [Uptime Monitoring: Test the Application, Not Only the Server](https://dev.to/alifhost/uptime-monitoring-test-the-application-not-only-the-server-1ka6)
+- [Website Migration: Build a Cutover Plan Before Changing DNS](https://dev.to/alifhost/website-migration-build-a-cutover-plan-before-changing-dns-4157)
+- [Page Cache and Object Cache in WordPress: Different Jobs, Different Tests](https://dev.to/alifhost/page-cache-and-object-cache-in-wordpress-different-jobs-different-tests-3jbg)
+- [DNS Changes Without Guesswork: Separate Authoritative Answers from Cached Results](https://dev.to/alifhost/dns-changes-without-guesswork-separate-authoritative-answers-from-cached-results-1ei9)
+- [Website Backups: A Restore Test That Proves Your Recovery Plan Works](https://dev.to/alifhost/website-backups-a-restore-test-that-proves-your-recovery-plan-works-4op5)
+- [Get an Email When Your EC2 CPU Spikes: CloudWatch + SNS](https://dev.to/vishal_patil_aws/get-an-email-when-your-ec2-cpu-spikes-cloudwatch-sns-59a8)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
