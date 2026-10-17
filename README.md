@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Deterministic Open-Registry Verification &amp; L2 Settlement Benchmarks: Handling Schema Drift, Redirects, and Replay Windows](https://dev.to/o2splatformcmyk/deterministic-open-registry-verification-l2-settlement-benchmarks-handling-schema-drift-41o2)
-- [Terraform vs CloudFormation: The 2026 AWS IaC Battle-Tested Guide &amp; Migration Runbook](https://dev.to/naveedkumbhar/terraform-vs-cloudformation-the-2026-aws-iac-battle-tested-guide-migration-runbook-4ei2)
-- [Building Medirescue-AI: Revolutionizing Emergency Healthcare with FalkorDB Knowledge Graphs](https://dev.to/abinaya_fcbfecbddbaa8c696/building-medirescue-ai-revolutionizing-emergency-healthcare-with-falkordb-knowledge-graphs-5bf1)
-- [Giving Your Spring AI Agent a Memory — Conversations That Actually Make Sense](https://dev.to/shamprakash2000/giving-your-spring-ai-agent-a-memory-conversations-that-actually-make-sense-10im)
-- [Romance of properties](https://dev.to/amarao/romance-of-properties-2d0n)
-- [DevOps Email Tests Need a Handoff Contract](https://dev.to/mrdapperx/devops-email-tests-need-a-handoff-contract-2o6p)
+- [Dissecting Open WebUI&#39;s FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71)
+- [Node.js Trust Boundaries: 4 Schema Versioning Controls for Multiplayer Quiz Failure Handling](https://dev.to/sawyerflynn1578/nodejs-trust-boundaries-4-schema-versioning-controls-for-multiplayer-quiz-failure-handling-4hea)
+- [ChokePoint: Why We Replaced 50 Dependabot Alerts With FalkorDB GraphBLAS Min-Cut Remediation](https://dev.to/rajan_mishra_a9f78ad216b4/chokepoint-why-we-replaced-50-dependabot-alerts-with-falkordb-graphblas-min-cut-remediation-29k1)
+- [Tracing Fraud Rings with a Graph: What I Learned Building with FalkorDB](https://dev.to/aadvik_krishna_2d1baa4c0a/tracing-fraud-rings-with-a-graph-what-i-learned-building-with-falkordb-4p2h)
+- [Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is](https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli)
+- [I ran 50 orders at 1 unit of stock. Here’s what stopped the oversell.](https://dev.to/coderposwal15/i-ran-50-orders-at-1-unit-of-stock-heres-what-stopped-the-oversell-1kcg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
