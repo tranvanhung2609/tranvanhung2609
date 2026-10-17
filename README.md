@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Monitoring: Test the Application, Not Only the Server](https://dev.to/alifhost/uptime-monitoring-test-the-application-not-only-the-server-1ka6)
-- [Website Migration: Build a Cutover Plan Before Changing DNS](https://dev.to/alifhost/website-migration-build-a-cutover-plan-before-changing-dns-4157)
-- [Page Cache and Object Cache in WordPress: Different Jobs, Different Tests](https://dev.to/alifhost/page-cache-and-object-cache-in-wordpress-different-jobs-different-tests-3jbg)
-- [DNS Changes Without Guesswork: Separate Authoritative Answers from Cached Results](https://dev.to/alifhost/dns-changes-without-guesswork-separate-authoritative-answers-from-cached-results-1ei9)
-- [Website Backups: A Restore Test That Proves Your Recovery Plan Works](https://dev.to/alifhost/website-backups-a-restore-test-that-proves-your-recovery-plan-works-4op5)
-- [Get an Email When Your EC2 CPU Spikes: CloudWatch + SNS](https://dev.to/vishal_patil_aws/get-an-email-when-your-ec2-cpu-spikes-cloudwatch-sns-59a8)
+- [Anthropic&#39;s 100 Overcharge Bug: What Internationalization Failures Reveal About Agent Payment Pipelines](https://dev.to/mech_app_ai/anthropics-100x-overcharge-bug-what-internationalization-failures-reveal-about-agent-payment-3e58)
+- [I installed a bunch of agent skills. Then I wrote a tool to audit them.](https://dev.to/techdevfun/i-installed-a-bunch-of-agent-skills-then-i-wrote-a-tool-to-audit-them-4e2h)
+- [Go Profiling in Production: pprof, Flamegraphs and Memory Leaks](https://dev.to/ayinedjimi-consultants/go-profiling-in-production-pprof-flamegraphs-and-memory-leaks-45a0)
+- [Building a Multi-Agent Voice Command Center: Load Bearing Empire&#39;s QHV Stack on Supabase, VAPI, and Vercel](https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-load-bearing-empires-qhv-stack-on-supabase-vapi-and-1ie3)
+- [A crontab entry for a second weekly film, and the UTC hour it hides](https://dev.to/robswierk/a-crontab-entry-for-a-second-weekly-film-and-the-utc-hour-it-hides-pd3)
+- [Docker Compose 5.6&#39;s jobs type only starts through docker compose run](https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
