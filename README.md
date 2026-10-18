@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [copilot approvals need separation of duties](https://dev.to/pvgomes/copilot-approvals-need-separation-of-duties-55jl)
-- [observability sinks are becoming the audit contract for AI agents](https://dev.to/pvgomes/observability-sinks-are-becoming-the-audit-contract-for-ai-agents-1111)
-- [Etsy listings expired overnight: 1 of ours dropped from the catalogue](https://dev.to/robswierk/etsy-listings-expired-overnight-1-of-ours-dropped-from-the-catalogue-57id)
-- [SQLite 3.54&#39;s diskused command needs a build flag sqlite3_analyzer never required](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8)
-- [Building an Agentless, AI-Assisted Privileged Access Gateway](https://dev.to/vinod_patil_a7bd8dcbcc42e/building-an-agentless-ai-assisted-privileged-access-gateway-1i3k)
-- [Stolen LLM keys ran up OpenCode users&#39; bills overnight. A 115-line proxy that caps spend per app](https://dev.to/neeraj_sharma_757fbb49aa7/stolen-llm-keys-ran-up-opencode-users-bills-overnight-a-115-line-proxy-that-caps-spend-per-app-npp)
+- [From One Laptop to HTTPS: Deploying Miren on EC2](https://dev.to/nebulascout/from-one-laptop-to-https-deploying-miren-on-ec2-245a)
+- [How We Engineered a Zero-Boilerplate Composite Build Architecture for Enterprise Gradle Plugins](https://dev.to/yannickebongue/how-we-engineered-a-zero-boilerplate-composite-build-architecture-for-enterprise-gradle-plugins-50k1)
+- [Building a Multi-Client Chat Application with Java Sockets and JavaFX](https://dev.to/houda_bachr_6190bcf47d311/building-a-multi-client-chat-application-with-java-sockets-and-javafx-ej4)
+- [Fargate SQS worker stuck at 0 tasks? The IF&lpar;running &gt; 0&rpar; guard never gets to run](https://dev.to/abhimanyu9988/fargate-sqs-worker-stuck-at-0-tasks-the-ifrunning-0-guard-never-gets-to-run-19n4)
+- [Async Python FastAPI Integration with ComfyUI&#39;s WebSocket API](https://dev.to/leo_martinez/async-python-fastapi-integration-with-comfyuis-websocket-api-2mei)
+- [Discover FREE Online Tools!](https://dev.to/__7ebea5deebfa72/discover-free-online-tools-508e)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
