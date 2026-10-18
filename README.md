@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker container keeps restarting? Find out why the loop won&#39;t stop](https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab)
-- [Building a Background Job Processing System in Node.js Using BullMQ and Redis](https://dev.to/devanshu_patil/building-a-background-job-processing-system-in-nodejs-using-bullmq-and-redis-5b5g)
-- [Retrieval Architecture for Course Tutors: Relevance Tuning Without Lock-In](https://dev.to/marcorossi4891/retrieval-architecture-for-course-tutors-relevance-tuning-without-lock-in-5ag5)
-- [48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item](https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k)
-- [Cold Starts, Lost Files, and Green Dots: Five Myths About Using a Free Server as Staging](https://dev.to/gitlab_3188/cold-starts-lost-files-and-green-dots-five-myths-about-using-a-free-server-as-staging-2mjj)
-- [Why I built an open source alternative to Terra for wearable data](https://dev.to/quentincar0n/why-i-built-an-open-source-alternative-to-terra-for-wearable-data-37b9)
+- [copilot approvals need separation of duties](https://dev.to/pvgomes/copilot-approvals-need-separation-of-duties-55jl)
+- [observability sinks are becoming the audit contract for AI agents](https://dev.to/pvgomes/observability-sinks-are-becoming-the-audit-contract-for-ai-agents-1111)
+- [Etsy listings expired overnight: 1 of ours dropped from the catalogue](https://dev.to/robswierk/etsy-listings-expired-overnight-1-of-ours-dropped-from-the-catalogue-57id)
+- [SQLite 3.54&#39;s diskused command needs a build flag sqlite3_analyzer never required](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8)
+- [Building an Agentless, AI-Assisted Privileged Access Gateway](https://dev.to/vinod_patil_a7bd8dcbcc42e/building-an-agentless-ai-assisted-privileged-access-gateway-1i3k)
+- [Stolen LLM keys ran up OpenCode users&#39; bills overnight. A 115-line proxy that caps spend per app](https://dev.to/neeraj_sharma_757fbb49aa7/stolen-llm-keys-ran-up-opencode-users-bills-overnight-a-115-line-proxy-that-caps-spend-per-app-npp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
