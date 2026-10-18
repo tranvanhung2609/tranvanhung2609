@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [From One Laptop to HTTPS: Deploying Miren on EC2](https://dev.to/nebulascout/from-one-laptop-to-https-deploying-miren-on-ec2-245a)
-- [How We Engineered a Zero-Boilerplate Composite Build Architecture for Enterprise Gradle Plugins](https://dev.to/yannickebongue/how-we-engineered-a-zero-boilerplate-composite-build-architecture-for-enterprise-gradle-plugins-50k1)
-- [Building a Multi-Client Chat Application with Java Sockets and JavaFX](https://dev.to/houda_bachr_6190bcf47d311/building-a-multi-client-chat-application-with-java-sockets-and-javafx-ej4)
-- [Fargate SQS worker stuck at 0 tasks? The IF&lpar;running &gt; 0&rpar; guard never gets to run](https://dev.to/abhimanyu9988/fargate-sqs-worker-stuck-at-0-tasks-the-ifrunning-0-guard-never-gets-to-run-19n4)
-- [Async Python FastAPI Integration with ComfyUI&#39;s WebSocket API](https://dev.to/leo_martinez/async-python-fastapi-integration-with-comfyuis-websocket-api-2mei)
-- [Discover FREE Online Tools!](https://dev.to/__7ebea5deebfa72/discover-free-online-tools-508e)
+- [Solid Queue 1.6.0 Fiber Workers: How Rails Turned Concurrency Primitives into Agent Job Orchestration](https://dev.to/mech_app_ai/solid-queue-160-fiber-workers-how-rails-turned-concurrency-primitives-into-agent-job-2dp7)
+- [GitHub Won&#39;t Count Your Approval on a PR You Asked Copilot to Write. Your Laptop Will](https://dev.to/gabrielanhaia/github-wont-count-your-approval-on-a-pr-you-asked-copilot-to-write-your-laptop-will-4cd6)
+- [A Technical SEO Checklist for Launching a New Website](https://dev.to/sandeepsingh_uchik/a-technical-seo-checklist-for-launching-a-new-website-235)
+- [Gaming Subscription 2FA API: SMS OTP Resend and Cancel Trust Boundaries](https://dev.to/syltharwave2946/gaming-subscription-2fa-api-sms-otp-resend-and-cancel-trust-boundaries-3jli)
+- [I built a free, open-source platform with 180+ developer tools and 18 technical guides &lpar;Built with Astro&rpar;](https://dev.to/th-tech/i-built-a-free-open-source-platform-with-180-developer-tools-and-18-technical-guides-built-with-2eem)
+- [APIWatch: Checking API Traffic and Subscription Controls with WSO2 API Manager](https://dev.to/nusaikaj/apiwatch-checking-api-traffic-and-subscription-controls-with-wso2-api-manager-2797)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
