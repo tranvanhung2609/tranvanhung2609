@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Dissecting Open WebUI&#39;s FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71)
-- [Node.js Trust Boundaries: 4 Schema Versioning Controls for Multiplayer Quiz Failure Handling](https://dev.to/sawyerflynn1578/nodejs-trust-boundaries-4-schema-versioning-controls-for-multiplayer-quiz-failure-handling-4hea)
-- [ChokePoint: Why We Replaced 50 Dependabot Alerts With FalkorDB GraphBLAS Min-Cut Remediation](https://dev.to/rajan_mishra_a9f78ad216b4/chokepoint-why-we-replaced-50-dependabot-alerts-with-falkordb-graphblas-min-cut-remediation-29k1)
-- [Tracing Fraud Rings with a Graph: What I Learned Building with FalkorDB](https://dev.to/aadvik_krishna_2d1baa4c0a/tracing-fraud-rings-with-a-graph-what-i-learned-building-with-falkordb-4p2h)
-- [Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is](https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli)
-- [I ran 50 orders at 1 unit of stock. Here’s what stopped the oversell.](https://dev.to/coderposwal15/i-ran-50-orders-at-1-unit-of-stock-heres-what-stopped-the-oversell-1kcg)
+- [Docker container keeps restarting? Find out why the loop won&#39;t stop](https://dev.to/itops/docker-container-keeps-restarting-find-out-why-the-loop-wont-stop-20ab)
+- [Building a Background Job Processing System in Node.js Using BullMQ and Redis](https://dev.to/devanshu_patil/building-a-background-job-processing-system-in-nodejs-using-bullmq-and-redis-5b5g)
+- [Retrieval Architecture for Course Tutors: Relevance Tuning Without Lock-In](https://dev.to/marcorossi4891/retrieval-architecture-for-course-tutors-relevance-tuning-without-lock-in-5ag5)
+- [48-Hour Field Notes: The Batch Worker Vanished and My Re-Run Redid Every Item](https://dev.to/codepy_1473/48-hour-field-notes-the-batch-worker-vanished-and-my-re-run-redid-every-item-505k)
+- [Cold Starts, Lost Files, and Green Dots: Five Myths About Using a Free Server as Staging](https://dev.to/gitlab_3188/cold-starts-lost-files-and-green-dots-five-myths-about-using-a-free-server-as-staging-2mjj)
+- [Why I built an open source alternative to Terra for wearable data](https://dev.to/quentincar0n/why-i-built-an-open-source-alternative-to-terra-for-wearable-data-37b9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
