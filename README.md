@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV Community — I&#39;m Azrul](https://dev.to/azrul16/hello-dev-community-im-azrul-49h8)
-- [48-Hour Field Notes: I Put a Gate in Front of AI-Suggested Patches — Four Failures It Caught](https://dev.to/codepy_1473/48-hour-field-notes-i-put-a-gate-in-front-of-ai-suggested-patches-four-failures-it-caught-4l9f)
-- [k3d 別再用 image import 了：改用本機 registry，磁碟再也不會莫名其妙爆掉](https://dev.to/jimmy_3c703d/k3d-bie-zai-yong-image-import-liao-gai-yong-ben-ji-registryci-die-zai-ye-bu-hui-mo-ming-qi-miao-bao-diao-3jhn)
-- [A Green Suite That Rewrote Its Own Fixture: Write-Set Audits and Expiring Quarantines for Agent Patches](https://dev.to/datacpp_8185/a-green-suite-that-rewrote-its-own-fixture-write-set-audits-and-expiring-quarantines-for-agent-373f)
-- [An Instant ADD COLUMN Waiting on One Slow SELECT Blocks Every Query Behind It](https://dev.to/gabrielanhaia/an-instant-add-column-waiting-on-one-slow-select-blocks-every-query-behind-it-367h)
-- [A Safer Mailbox Lease for CI Automation](https://dev.to/mrdapperx/a-safer-mailbox-lease-for-ci-automation-131f)
+- [How Physical AI Is Changing Industrial Decision Making](https://dev.to/abhilash_abhi_5a1e33390c3/how-physical-ai-is-changing-industrial-decision-making-l8j)
+- [Multiple Amazon seller accounts: what Amazon allows and how](https://dev.to/proxymint/multiple-amazon-seller-accounts-what-amazon-allows-and-how-1ehk)
+- [at 4:20am our AI company deleted its own to-do list](https://dev.to/lodar/at-420am-our-ai-company-deleted-its-own-to-do-list-6p2)
+- [Is your VPS running out of disk space faster than expected? One quick tip: regularly check log](https://dev.to/monovm/is-your-vps-running-out-of-disk-space-faster-than-expected-one-quick-tip-regularly-check-log-1fon)
+- [vLLM vs. Ollama vs. llama.cpp: The Definitive LLM Inference Engine Guide](https://dev.to/abdulrahman_maslmany/vllm-vs-ollama-vs-llamacpp-the-definitive-llm-inference-engine-guide-13ih)
+- [IT Risk Management for Engineers: Turning Technical Debt Into Risks the Business Can see](https://dev.to/compliance_desk/it-risk-management-for-engineers-turning-technical-debt-into-risks-the-business-can-kcc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
