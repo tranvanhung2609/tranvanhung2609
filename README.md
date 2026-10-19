@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How Physical AI Is Changing Industrial Decision Making](https://dev.to/abhilash_abhi_5a1e33390c3/how-physical-ai-is-changing-industrial-decision-making-l8j)
-- [Multiple Amazon seller accounts: what Amazon allows and how](https://dev.to/proxymint/multiple-amazon-seller-accounts-what-amazon-allows-and-how-1ehk)
-- [at 4:20am our AI company deleted its own to-do list](https://dev.to/lodar/at-420am-our-ai-company-deleted-its-own-to-do-list-6p2)
-- [Is your VPS running out of disk space faster than expected? One quick tip: regularly check log](https://dev.to/monovm/is-your-vps-running-out-of-disk-space-faster-than-expected-one-quick-tip-regularly-check-log-1fon)
-- [vLLM vs. Ollama vs. llama.cpp: The Definitive LLM Inference Engine Guide](https://dev.to/abdulrahman_maslmany/vllm-vs-ollama-vs-llamacpp-the-definitive-llm-inference-engine-guide-13ih)
-- [IT Risk Management for Engineers: Turning Technical Debt Into Risks the Business Can see](https://dev.to/compliance_desk/it-risk-management-for-engineers-turning-technical-debt-into-risks-the-business-can-kcc)
+- [Designing an uncheatable trial referral system: 5 anti-abuse patterns from production](https://dev.to/scsoi/designing-an-uncheatable-trial-referral-system-5-anti-abuse-patterns-from-production-3nh4)
+- [How I cut my Datadog bill by 90% - the open-source observability stack I switched to](https://dev.to/scsoi/how-i-cut-my-datadog-bill-by-90-the-open-source-observability-stack-i-switched-to-1knj)
+- [7 lessons from running my own email server for 2 years &lpar;just use FastMail? I tried both&rpar;](https://dev.to/scsoi/7-lessons-from-running-my-own-email-server-for-2-years-just-use-fastmail-i-tried-both-352h)
+- [From 0 to 17,000 users: A meaningful guide to scale apps keeping infrastructure costs low](https://dev.to/michaliskout/from-0-to-17000-users-a-meaningful-guide-to-scale-small-apps-keeping-infrastructure-costs-low-4dhk)
+- [My open-source monitoring stack in 2026 - 5 tools that replaced Datadog for $0](https://dev.to/scsoi/my-open-source-monitoring-stack-in-2026-5-tools-that-replaced-datadog-for-0-2654)
+- [A Unique Key Strategy for Avatar Upload Overwrites and Object Storage Races](https://dev.to/thalion51/a-unique-key-strategy-for-avatar-upload-overwrites-and-object-storage-races-1g6n)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
