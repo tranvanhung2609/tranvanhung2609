@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Solid Queue 1.6.0 Fiber Workers: How Rails Turned Concurrency Primitives into Agent Job Orchestration](https://dev.to/mech_app_ai/solid-queue-160-fiber-workers-how-rails-turned-concurrency-primitives-into-agent-job-2dp7)
-- [GitHub Won&#39;t Count Your Approval on a PR You Asked Copilot to Write. Your Laptop Will](https://dev.to/gabrielanhaia/github-wont-count-your-approval-on-a-pr-you-asked-copilot-to-write-your-laptop-will-4cd6)
-- [A Technical SEO Checklist for Launching a New Website](https://dev.to/sandeepsingh_uchik/a-technical-seo-checklist-for-launching-a-new-website-235)
-- [Gaming Subscription 2FA API: SMS OTP Resend and Cancel Trust Boundaries](https://dev.to/syltharwave2946/gaming-subscription-2fa-api-sms-otp-resend-and-cancel-trust-boundaries-3jli)
-- [I built a free, open-source platform with 180+ developer tools and 18 technical guides &lpar;Built with Astro&rpar;](https://dev.to/th-tech/i-built-a-free-open-source-platform-with-180-developer-tools-and-18-technical-guides-built-with-2eem)
-- [APIWatch: Checking API Traffic and Subscription Controls with WSO2 API Manager](https://dev.to/nusaikaj/apiwatch-checking-api-traffic-and-subscription-controls-with-wso2-api-manager-2797)
+- [Hello DEV Community — I&#39;m Azrul](https://dev.to/azrul16/hello-dev-community-im-azrul-49h8)
+- [48-Hour Field Notes: I Put a Gate in Front of AI-Suggested Patches — Four Failures It Caught](https://dev.to/codepy_1473/48-hour-field-notes-i-put-a-gate-in-front-of-ai-suggested-patches-four-failures-it-caught-4l9f)
+- [k3d 別再用 image import 了：改用本機 registry，磁碟再也不會莫名其妙爆掉](https://dev.to/jimmy_3c703d/k3d-bie-zai-yong-image-import-liao-gai-yong-ben-ji-registryci-die-zai-ye-bu-hui-mo-ming-qi-miao-bao-diao-3jhn)
+- [A Green Suite That Rewrote Its Own Fixture: Write-Set Audits and Expiring Quarantines for Agent Patches](https://dev.to/datacpp_8185/a-green-suite-that-rewrote-its-own-fixture-write-set-audits-and-expiring-quarantines-for-agent-373f)
+- [An Instant ADD COLUMN Waiting on One Slow SELECT Blocks Every Query Behind It](https://dev.to/gabrielanhaia/an-instant-add-column-waiting-on-one-slow-select-blocks-every-query-behind-it-367h)
+- [A Safer Mailbox Lease for CI Automation](https://dev.to/mrdapperx/a-safer-mailbox-lease-for-ci-automation-131f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
