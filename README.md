@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube says your React Native app is fine. Here&#39;s what it can&#39;t see.](https://dev.to/keel_alican_akyol/sonarqube-says-your-react-native-app-is-fine-heres-what-it-cant-see-38j6)
-- [Secure php database](https://dev.to/idarpe/secure-php-database-2nc)
-- [Your Website Works—Until the Cache Serves Yesterday’s JavaScript](https://dev.to/logixer_creatives/your-website-works-until-the-cache-serves-yesterdays-javascript-2kg0)
-- [Gating Claude Code skills in CI with a pull request comment](https://dev.to/basitalisandhu/gating-claude-code-skills-in-ci-with-a-pull-request-comment-46d4)
-- [Hello World, the Production Way: Java, AWS CDK and GitHub Actions](https://dev.to/riteshbangal/hello-world-the-production-way-java-aws-cdk-and-github-actions-2lgc)
-- [Your Code Ran on the Free Box. That&#39;s Not an Environment Match.](https://dev.to/gitlab_3188/your-code-ran-on-the-free-box-thats-not-an-environment-match-1mn7)
+- [An artisan-style boilerplate generator for the VirtusLab Scala stack](https://dev.to/aranadedoros/an-artisan-style-boilerplate-generator-for-the-virtuslab-scala-stack-4kaj)
+- [Benchmarking mem0ai/mem0: Memory Overhead and Recall Latency Under Concurrent Agent Workloads](https://dev.to/samuel_oakley/benchmarking-mem0aimem0-memory-overhead-and-recall-latency-under-concurrent-agent-workloads-10lg)
+- [CheckMate: An AI-Powered Chess Game Built with Java](https://dev.to/abhishekdpandey18/checkmate-an-ai-powered-chess-game-built-with-java-4g0o)
+- [Letting a support agent delegate to the customer&#39;s AI helper](https://dev.to/vainamoinen/letting-a-support-agent-delegate-to-the-customers-ai-helper-3m9k)
+- [An AI Agent Bought a Domain and Connected It to Vercel for $1.54](https://dev.to/alexar76/an-ai-agent-bought-a-domain-and-connected-it-to-vercel-for-154-44o4)
+- [Benchmarking Ghidra Headless Analysis: Decompilation Throughput Under Multi-Core Parallel Load](https://dev.to/sophia_nord/benchmarking-ghidra-headless-analysis-decompilation-throughput-under-multi-core-parallel-load-17h2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
