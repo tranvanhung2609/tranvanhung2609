@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Killing Recursive CTEs: Sub-Millisecond Comment Trees &amp; Bitmask RBAC in PostgreSQL 17](https://dev.to/khanhduong22/killing-recursive-ctes-sub-millisecond-comment-trees-bitmask-rbac-in-postgresql-17-4o49)
-- [Zero-Config GraphQL Prototyping: Nested Queries, Relations &amp; State Mutations](https://dev.to/nileslabs/zero-config-graphql-prototyping-nested-queries-relations-state-mutations-5gfk)
-- [A Bounded Go Worker Pool in Front of an LLM Gateway: Two Postmortems and a Benchmark](https://dev.to/kevin_tian/a-bounded-go-worker-pool-in-front-of-an-llm-gateway-two-postmortems-and-a-benchmark-334l)
-- [A Go-Live Checklist You Can Hand Any Agency: Alerts, Fallbacks and a Kill Switch for Small-Business WhatsApp Flows](https://dev.to/ujjwal_dubey_9/a-go-live-checklist-you-can-hand-any-agency-alerts-fallbacks-and-a-kill-switch-for-small-business-2d19)
-- [How to Choose Self-Hosted Portfolio Management Software](https://dev.to/subramanyamc/how-to-choose-self-hosted-portfolio-management-software-1f0j)
-- [GitHub Actions pull_request_target: what to check before November 2, 2026](https://dev.to/livasticvm2primary/github-actions-pullrequesttarget-what-to-check-before-november-2-2026-2le9)
+- [SonarQube says your React Native app is fine. Here&#39;s what it can&#39;t see.](https://dev.to/keel_alican_akyol/sonarqube-says-your-react-native-app-is-fine-heres-what-it-cant-see-38j6)
+- [Secure php database](https://dev.to/idarpe/secure-php-database-2nc)
+- [Your Website Works—Until the Cache Serves Yesterday’s JavaScript](https://dev.to/logixer_creatives/your-website-works-until-the-cache-serves-yesterdays-javascript-2kg0)
+- [Gating Claude Code skills in CI with a pull request comment](https://dev.to/basitalisandhu/gating-claude-code-skills-in-ci-with-a-pull-request-comment-46d4)
+- [Hello World, the Production Way: Java, AWS CDK and GitHub Actions](https://dev.to/riteshbangal/hello-world-the-production-way-java-aws-cdk-and-github-actions-2lgc)
+- [Your Code Ran on the Free Box. That&#39;s Not an Environment Match.](https://dev.to/gitlab_3188/your-code-ran-on-the-free-box-thats-not-an-environment-match-1mn7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
