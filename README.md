@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [An artisan-style boilerplate generator for the VirtusLab Scala stack](https://dev.to/aranadedoros/an-artisan-style-boilerplate-generator-for-the-virtuslab-scala-stack-4kaj)
-- [Benchmarking mem0ai/mem0: Memory Overhead and Recall Latency Under Concurrent Agent Workloads](https://dev.to/samuel_oakley/benchmarking-mem0aimem0-memory-overhead-and-recall-latency-under-concurrent-agent-workloads-10lg)
-- [CheckMate: An AI-Powered Chess Game Built with Java](https://dev.to/abhishekdpandey18/checkmate-an-ai-powered-chess-game-built-with-java-4g0o)
-- [Letting a support agent delegate to the customer&#39;s AI helper](https://dev.to/vainamoinen/letting-a-support-agent-delegate-to-the-customers-ai-helper-3m9k)
-- [An AI Agent Bought a Domain and Connected It to Vercel for $1.54](https://dev.to/alexar76/an-ai-agent-bought-a-domain-and-connected-it-to-vercel-for-154-44o4)
-- [Benchmarking Ghidra Headless Analysis: Decompilation Throughput Under Multi-Core Parallel Load](https://dev.to/sophia_nord/benchmarking-ghidra-headless-analysis-decompilation-throughput-under-multi-core-parallel-load-17h2)
+- [An /etc/fstab for developers](https://dev.to/bhaible/an-etcfstab-for-developers-27dg)
+- [Avatar Uploads Without Versioning: A Rollback Policy for Object Storage](https://dev.to/nevillechristensen2637/avatar-uploads-without-versioning-a-rollback-policy-for-object-storage-3ki4)
+- [Docker &quot;toomanyrequests: You have reached your pull rate limit&quot; in CI: Log In, Mirror, or Run a Pull-Through Cache?](https://dev.to/libme/docker-toomanyrequests-you-have-reached-your-pull-rate-limit-in-ci-log-in-mirror-or-run-a-4h3e)
+- [Hetzner or AWS for a small company](https://dev.to/codelevel/hetzner-or-aws-for-a-small-company-jfc)
+- [How to set up AWS budget alerts](https://dev.to/codelevel/how-to-set-up-aws-budget-alerts-39al)
+- [SageMaker HyperPod Governance: Project Access to Quotas](https://dev.to/kami_butt_69b922ade8de012/sagemaker-hyperpod-governance-project-access-to-quotas-i8j)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
