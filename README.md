@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Designing an uncheatable trial referral system: 5 anti-abuse patterns from production](https://dev.to/scsoi/designing-an-uncheatable-trial-referral-system-5-anti-abuse-patterns-from-production-3nh4)
-- [How I cut my Datadog bill by 90% - the open-source observability stack I switched to](https://dev.to/scsoi/how-i-cut-my-datadog-bill-by-90-the-open-source-observability-stack-i-switched-to-1knj)
-- [7 lessons from running my own email server for 2 years &lpar;just use FastMail? I tried both&rpar;](https://dev.to/scsoi/7-lessons-from-running-my-own-email-server-for-2-years-just-use-fastmail-i-tried-both-352h)
-- [From 0 to 17,000 users: A meaningful guide to scale apps keeping infrastructure costs low](https://dev.to/michaliskout/from-0-to-17000-users-a-meaningful-guide-to-scale-small-apps-keeping-infrastructure-costs-low-4dhk)
-- [My open-source monitoring stack in 2026 - 5 tools that replaced Datadog for $0](https://dev.to/scsoi/my-open-source-monitoring-stack-in-2026-5-tools-that-replaced-datadog-for-0-2654)
-- [A Unique Key Strategy for Avatar Upload Overwrites and Object Storage Races](https://dev.to/thalion51/a-unique-key-strategy-for-avatar-upload-overwrites-and-object-storage-races-1g6n)
+- [Killing Recursive CTEs: Sub-Millisecond Comment Trees &amp; Bitmask RBAC in PostgreSQL 17](https://dev.to/khanhduong22/killing-recursive-ctes-sub-millisecond-comment-trees-bitmask-rbac-in-postgresql-17-4o49)
+- [Zero-Config GraphQL Prototyping: Nested Queries, Relations &amp; State Mutations](https://dev.to/nileslabs/zero-config-graphql-prototyping-nested-queries-relations-state-mutations-5gfk)
+- [A Bounded Go Worker Pool in Front of an LLM Gateway: Two Postmortems and a Benchmark](https://dev.to/kevin_tian/a-bounded-go-worker-pool-in-front-of-an-llm-gateway-two-postmortems-and-a-benchmark-334l)
+- [A Go-Live Checklist You Can Hand Any Agency: Alerts, Fallbacks and a Kill Switch for Small-Business WhatsApp Flows](https://dev.to/ujjwal_dubey_9/a-go-live-checklist-you-can-hand-any-agency-alerts-fallbacks-and-a-kill-switch-for-small-business-2d19)
+- [How to Choose Self-Hosted Portfolio Management Software](https://dev.to/subramanyamc/how-to-choose-self-hosted-portfolio-management-software-1f0j)
+- [GitHub Actions pull_request_target: what to check before November 2, 2026](https://dev.to/livasticvm2primary/github-actions-pullrequesttarget-what-to-check-before-november-2-2026-2le9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
