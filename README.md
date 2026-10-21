@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Pilot Worked. So Why Is Nobody Ready to Put It Into Production?](https://dev.to/quantazone_team_99da3fc13/your-ai-pilot-worked-so-why-is-nobody-ready-to-put-it-into-production-1pd5)
-- [MongoDB vs PostgreSQL in 2026: Why Postgres Is the Safer Default](https://dev.to/techloghub/mongodb-vs-postgresql-in-2026-why-postgres-is-the-safer-default-g34)
-- [To Rewrite or To Refactor? How AI is Flipping the Legacy Modernization Playbook](https://dev.to/moderncpp/to-rewrite-or-to-refactor-how-ai-is-flipping-the-legacy-modernization-playbook-4iae)
-- [A stopped process can still be the wrong process](https://dev.to/brodyga45/a-stopped-process-can-still-be-the-wrong-process-p9)
-- [Polymarket Trading Bot: Build a Market Maker Bot in Python- Project Setup and API Integration](https://dev.to/benjamin_cup/polymarket-trading-bot-build-a-market-maker-bot-in-python-project-setup-and-api-integration-5c2f)
-- [Certificate authority keys: eMudhra&#39;s browser and runtime trust gap](https://dev.to/axrisi/certificate-authority-keys-emudhras-browser-and-runtime-trust-gap-4edc)
+- [eMudhra Certificate Distrust: One CA Key Was 4. How to Check If Your Site Breaks](https://dev.to/alanwest/emudhra-certificate-distrust-one-ca-key-was-4-how-to-check-if-your-site-breaks-31cp)
+- [Reading static verification evidence: three exit codes, three review decisions](https://dev.to/kevin_kissi_c8b5bb62a1f34/reading-static-verification-evidence-three-exit-codes-three-review-decisions-5ep1)
+- [Inside the Kilawatt Report: 10 GPU Failover Drills, 6 Excluded Attempts, Every Number Published](https://dev.to/kilawattcloud/inside-the-kilawatt-report-10-gpu-failover-drills-6-excluded-attempts-every-number-published-5gba)
+- [The mesh did not die of laziness. It died of a substrate that could not tell a promise from a landing.](https://dev.to/ilya_mozerov_867dbdd91feb/the-mesh-did-not-die-of-laziness-it-died-of-a-substrate-that-could-not-tell-a-promise-from-a-3lgo)
+- [Realtime Tokens: 3 Reasons They Exist and What Scoping Protects](https://dev.to/loganpierce2073/realtime-tokens-3-reasons-they-exist-and-what-scoping-protects-2737)
+- [Ten checks to run before you merge an API change](https://dev.to/abhinavs1920/ten-checks-to-run-before-you-merge-an-api-change-2jfp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
