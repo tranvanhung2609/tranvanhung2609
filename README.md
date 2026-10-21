@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [An /etc/fstab for developers](https://dev.to/bhaible/an-etcfstab-for-developers-27dg)
-- [Avatar Uploads Without Versioning: A Rollback Policy for Object Storage](https://dev.to/nevillechristensen2637/avatar-uploads-without-versioning-a-rollback-policy-for-object-storage-3ki4)
-- [Docker &quot;toomanyrequests: You have reached your pull rate limit&quot; in CI: Log In, Mirror, or Run a Pull-Through Cache?](https://dev.to/libme/docker-toomanyrequests-you-have-reached-your-pull-rate-limit-in-ci-log-in-mirror-or-run-a-4h3e)
-- [Hetzner or AWS for a small company](https://dev.to/codelevel/hetzner-or-aws-for-a-small-company-jfc)
-- [How to set up AWS budget alerts](https://dev.to/codelevel/how-to-set-up-aws-budget-alerts-39al)
-- [SageMaker HyperPod Governance: Project Access to Quotas](https://dev.to/kami_butt_69b922ade8de012/sagemaker-hyperpod-governance-project-access-to-quotas-i8j)
+- [The Bridge Role: How Operations Liaisons Turn Plant Problems into Reliable Performance](https://dev.to/said_olano/the-bridge-role-how-operations-liaisons-turn-plant-problems-into-reliable-performance-3e10)
+- [The Bridge Role: How Operations Liaisons Turn Plant Problems into Reliable Performance](https://dev.to/said_olano/the-bridge-role-how-operations-liaisons-turn-plant-problems-into-reliable-performance-3e10)
+- [After the eMudhra CA Incident, Update More Than Your Browser](https://dev.to/jamilxt/after-the-emudhra-ca-incident-update-more-than-your-browser-3m52)
+- [Choosing a Confluence Replacement for On-Premises Teams](https://dev.to/annatadrzak/choosing-a-confluence-replacement-for-on-premises-teams-7g8)
+- [AI量化與RWA加速融合：PAQT Token啟動下一階段數位金融生態布局](https://dev.to/paqtinsights/ailiang-hua-yu-rwajia-su-rong-he-paqt-tokenqi-dong-xia-jie-duan-shu-wei-jin-rong-sheng-tai-bu-ju-1khk)
+- [Automating Flutter Workflows: Why CI/CD Is Non-Negotiable](https://dev.to/uzairxdev/automating-flutter-workflows-why-cicd-is-non-negotiable-50d3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
