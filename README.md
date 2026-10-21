@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Bridge Role: How Operations Liaisons Turn Plant Problems into Reliable Performance](https://dev.to/said_olano/the-bridge-role-how-operations-liaisons-turn-plant-problems-into-reliable-performance-3e10)
-- [The Bridge Role: How Operations Liaisons Turn Plant Problems into Reliable Performance](https://dev.to/said_olano/the-bridge-role-how-operations-liaisons-turn-plant-problems-into-reliable-performance-3e10)
-- [After the eMudhra CA Incident, Update More Than Your Browser](https://dev.to/jamilxt/after-the-emudhra-ca-incident-update-more-than-your-browser-3m52)
-- [Choosing a Confluence Replacement for On-Premises Teams](https://dev.to/annatadrzak/choosing-a-confluence-replacement-for-on-premises-teams-7g8)
-- [AI量化與RWA加速融合：PAQT Token啟動下一階段數位金融生態布局](https://dev.to/paqtinsights/ailiang-hua-yu-rwajia-su-rong-he-paqt-tokenqi-dong-xia-jie-duan-shu-wei-jin-rong-sheng-tai-bu-ju-1khk)
-- [Automating Flutter Workflows: Why CI/CD Is Non-Negotiable](https://dev.to/uzairxdev/automating-flutter-workflows-why-cicd-is-non-negotiable-50d3)
+- [Your SSH client can delete a trusted host key and exit 0 with nothing on stderr](https://dev.to/lumen198/your-ssh-client-can-delete-a-trusted-host-key-and-exit-0-with-nothing-on-stderr-2l2l)
+- [Bash Shortcuts Cheat Sheet: Essential Shortcuts You Should Know](https://dev.to/serveravatar/bash-shortcuts-cheat-sheet-essential-shortcuts-you-should-know-59j0)
+- [SERVFAIL: Diagnosing DNSSEC Validation Failures](https://dev.to/webpixie/servfail-diagnosing-dnssec-validation-failures-1og0)
+- [Zeabur&#39;s Unrotated Administrator Credentials Triggered the Breach That Shut the Company Down](https://dev.to/rbonweb/zeaburs-unrotated-administrator-credentials-triggered-the-breach-that-shut-the-company-down-494c)
+- [Two agents, one git index: why your commit took my changes](https://dev.to/vainamoinen/two-agents-one-git-index-why-your-commit-took-my-changes-2ma)
+- [What I Learned Running OpenAI Codex on a Real Spring Boot Codebase](https://dev.to/pengzhou/what-i-learned-running-openai-codex-on-a-real-spring-boot-codebase-4eaa)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
