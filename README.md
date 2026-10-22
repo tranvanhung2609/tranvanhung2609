@@ -103,12 +103,14 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Auditable, observable, budgetable: what it takes to run AI agents in production](https://dev.to/nicolai_bohn_rhesis/auditable-observable-budgetable-what-it-takes-to-run-ai-agents-in-production-70o)
-- [Two machines, one channel: put Claude Code and Codex on different computers on one team](https://dev.to/alexcarney/two-machines-one-channel-put-claude-code-and-codex-on-different-computers-on-one-team-4bf3)
-- [Where can I buy a website with Google AdSense?](https://dev.to/asmsulm/where-can-i-buy-a-website-with-google-adsense-501d)
-- [Keeping Vector Retrieval Stable While Your Knowledge Base Is Still Loading](https://dev.to/samuel_oakley/keeping-vector-retrieval-stable-while-your-knowledge-base-is-still-loading-3kn5)
-- [The equals and hashCode contract in Java: Failure modes and the TreeSet twist](https://dev.to/srinivas_gouru_d26dc31f21/the-equals-and-hashcode-contract-in-java-failure-modes-and-the-treeset-twist-3p3l)
-- [n8n&#39;s Error Trigger Is Opt-In. My Bot Gate Failed for 71 Hours and Alerted Nobody.](https://dev.to/achiya-automation/n8ns-error-trigger-is-opt-in-my-bot-gate-failed-for-71-hours-and-alerted-nobody-57pf)
+- [Patching PHP 5.6 to 8.1 for PHP2Shell on old Ubuntu servers by rebuilding RunCloud&#39;s PHP](https://dev.to/seppegadeyne/patching-php-56-to-81-for-php2shell-on-old-ubuntu-servers-by-rebuilding-runclouds-php-1bl7)
+- [Eliminating $500+ Bucket-Truck Rolls: Bridging Isolated 60GHz Rooftop Radios Over 5G Tailscale Tunnels](https://dev.to/ariawavetech/eliminating-500-bucket-truck-rolls-bridging-isolated-60ghz-rooftop-radios-over-5g-tailscale-28ae)
+- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
+- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
+- [Provisioning Resilient Azure Infrastructure with Terraform, DevPod, and mise: A Hands-On Guide](https://dev.to/alanvarghese-dev/provisioning-resilient-azure-infrastructure-with-terraform-devpod-and-mise-a-hands-on-guide-f8a)
+- [Curious: how has your PR volume changed vs. a year ago, or vs. six months ago?
+
+Ours more than tripled: ~150 a week to ~500 a week. Even with a new CI server, we&#39;re falling behind, and that growth isn&#39;t slowing down for the next few weeks, maybe months.](https://dev.to/linyiru/curious-how-has-your-pr-volume-changed-vs-a-year-ago-or-vs-six-months-ago-ours-more-than-2lde)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
