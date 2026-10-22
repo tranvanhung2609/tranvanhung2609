@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [eMudhra Certificate Distrust: One CA Key Was 4. How to Check If Your Site Breaks](https://dev.to/alanwest/emudhra-certificate-distrust-one-ca-key-was-4-how-to-check-if-your-site-breaks-31cp)
-- [Reading static verification evidence: three exit codes, three review decisions](https://dev.to/kevin_kissi_c8b5bb62a1f34/reading-static-verification-evidence-three-exit-codes-three-review-decisions-5ep1)
-- [Inside the Kilawatt Report: 10 GPU Failover Drills, 6 Excluded Attempts, Every Number Published](https://dev.to/kilawattcloud/inside-the-kilawatt-report-10-gpu-failover-drills-6-excluded-attempts-every-number-published-5gba)
-- [The mesh did not die of laziness. It died of a substrate that could not tell a promise from a landing.](https://dev.to/ilya_mozerov_867dbdd91feb/the-mesh-did-not-die-of-laziness-it-died-of-a-substrate-that-could-not-tell-a-promise-from-a-3lgo)
-- [Realtime Tokens: 3 Reasons They Exist and What Scoping Protects](https://dev.to/loganpierce2073/realtime-tokens-3-reasons-they-exist-and-what-scoping-protects-2737)
-- [Ten checks to run before you merge an API change](https://dev.to/abhinavs1920/ten-checks-to-run-before-you-merge-an-api-change-2jfp)
+- [Kubernetes Security Is Three Problems, Not One: Admission, Identity, Runtime](https://dev.to/avneet_bansal_a65b3f31fc4/kubernetes-security-is-three-problems-not-one-admission-identity-runtime-22f7)
+- [Portainer CE on Docker: Install, Stacks and Git Updates](https://dev.to/deploylark/portainer-ce-on-docker-install-stacks-and-git-updates-2gck)
+- [Choosing an On-Premises Document Collaboration Tool: A Practical Guide for 2026](https://dev.to/jessieburnside/choosing-an-on-premises-document-collaboration-tool-a-practical-guide-for-2026-286n)
+- [We patched PHP2Shell &lpar;CVE-2026-109618&rpar; across 634 real servers. Here is the before and after](https://dev.to/gardience/we-patched-php2shell-cve-2026-109618-across-634-real-servers-here-is-the-before-and-after-5a0i)
+- [Toán Tử &lpar;Operators&rpar; Trong Java](https://dev.to/tieushare/toan-tu-operators-trong-java-5ail)
+- [Why We Built an Automated Expense Tracking Flow for SaaS &amp; Dev Tools in 2026](https://dev.to/jojo_willnn_/why-we-built-an-automated-expense-tracking-flow-for-saas-dev-tools-in-2026-190)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
