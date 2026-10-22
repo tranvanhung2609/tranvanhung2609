@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Security Is Three Problems, Not One: Admission, Identity, Runtime](https://dev.to/avneet_bansal_a65b3f31fc4/kubernetes-security-is-three-problems-not-one-admission-identity-runtime-22f7)
-- [Portainer CE on Docker: Install, Stacks and Git Updates](https://dev.to/deploylark/portainer-ce-on-docker-install-stacks-and-git-updates-2gck)
-- [Choosing an On-Premises Document Collaboration Tool: A Practical Guide for 2026](https://dev.to/jessieburnside/choosing-an-on-premises-document-collaboration-tool-a-practical-guide-for-2026-286n)
-- [We patched PHP2Shell &lpar;CVE-2026-109618&rpar; across 634 real servers. Here is the before and after](https://dev.to/gardience/we-patched-php2shell-cve-2026-109618-across-634-real-servers-here-is-the-before-and-after-5a0i)
-- [Toán Tử &lpar;Operators&rpar; Trong Java](https://dev.to/tieushare/toan-tu-operators-trong-java-5ail)
-- [Why We Built an Automated Expense Tracking Flow for SaaS &amp; Dev Tools in 2026](https://dev.to/jojo_willnn_/why-we-built-an-automated-expense-tracking-flow-for-saas-dev-tools-in-2026-190)
+- [October 21 Security Roundup: PHP2Shell&#39;s Backstory, Java, HTTP/3, Node, Railway and OVH](https://dev.to/iamcanturk/october-21-security-roundup-php2shells-backstory-java-http3-node-railway-and-ovh-55m)
+- [What a customer support chatbot really costs per month &lpar;real API bill breakdown&rpar;](https://dev.to/paul-s/what-a-customer-support-chatbot-really-costs-per-month-real-api-bill-breakdown-26ff)
+- [zstd on NGINX thread pools: ngx_mzstd vs zstd-nginx-module](https://dev.to/mnwa/zstd-on-nginx-thread-pools-ngxmzstd-vs-zstd-nginx-module-2k0i)
+- [How to Find Performance Bottlenecks Before Your Users Do](https://dev.to/qtsolv/how-to-find-performance-bottlenecks-before-your-users-do-27ad)
+- [Leased vs Dial-Up Internet Connections: What Developers Should Know](https://dev.to/vincenttommi/leased-vs-dial-up-internet-connections-what-developers-should-know-44b4)
+- [How to Choose the Right Bag Manufacturing Partner in India](https://dev.to/bagfactory_india/how-to-choose-the-right-bag-manufacturing-partner-in-india-8i3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
