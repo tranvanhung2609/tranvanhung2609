@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [October 21 Security Roundup: PHP2Shell&#39;s Backstory, Java, HTTP/3, Node, Railway and OVH](https://dev.to/iamcanturk/october-21-security-roundup-php2shells-backstory-java-http3-node-railway-and-ovh-55m)
-- [What a customer support chatbot really costs per month &lpar;real API bill breakdown&rpar;](https://dev.to/paul-s/what-a-customer-support-chatbot-really-costs-per-month-real-api-bill-breakdown-26ff)
-- [zstd on NGINX thread pools: ngx_mzstd vs zstd-nginx-module](https://dev.to/mnwa/zstd-on-nginx-thread-pools-ngxmzstd-vs-zstd-nginx-module-2k0i)
-- [How to Find Performance Bottlenecks Before Your Users Do](https://dev.to/qtsolv/how-to-find-performance-bottlenecks-before-your-users-do-27ad)
-- [Leased vs Dial-Up Internet Connections: What Developers Should Know](https://dev.to/vincenttommi/leased-vs-dial-up-internet-connections-what-developers-should-know-44b4)
-- [How to Choose the Right Bag Manufacturing Partner in India](https://dev.to/bagfactory_india/how-to-choose-the-right-bag-manufacturing-partner-in-india-8i3)
+- [Auditable, observable, budgetable: what it takes to run AI agents in production](https://dev.to/nicolai_bohn_rhesis/auditable-observable-budgetable-what-it-takes-to-run-ai-agents-in-production-70o)
+- [Two machines, one channel: put Claude Code and Codex on different computers on one team](https://dev.to/alexcarney/two-machines-one-channel-put-claude-code-and-codex-on-different-computers-on-one-team-4bf3)
+- [Where can I buy a website with Google AdSense?](https://dev.to/asmsulm/where-can-i-buy-a-website-with-google-adsense-501d)
+- [Keeping Vector Retrieval Stable While Your Knowledge Base Is Still Loading](https://dev.to/samuel_oakley/keeping-vector-retrieval-stable-while-your-knowledge-base-is-still-loading-3kn5)
+- [The equals and hashCode contract in Java: Failure modes and the TreeSet twist](https://dev.to/srinivas_gouru_d26dc31f21/the-equals-and-hashcode-contract-in-java-failure-modes-and-the-treeset-twist-3p3l)
+- [n8n&#39;s Error Trigger Is Opt-In. My Bot Gate Failed for 71 Hours and Alerted Nobody.](https://dev.to/achiya-automation/n8ns-error-trigger-is-opt-in-my-bot-gate-failed-for-71-hours-and-alerted-nobody-57pf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
