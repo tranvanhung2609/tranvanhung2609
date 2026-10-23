@@ -103,14 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Patching PHP 5.6 to 8.1 for PHP2Shell on old Ubuntu servers by rebuilding RunCloud&#39;s PHP](https://dev.to/seppegadeyne/patching-php-56-to-81-for-php2shell-on-old-ubuntu-servers-by-rebuilding-runclouds-php-1bl7)
-- [Eliminating $500+ Bucket-Truck Rolls: Bridging Isolated 60GHz Rooftop Radios Over 5G Tailscale Tunnels](https://dev.to/ariawavetech/eliminating-500-bucket-truck-rolls-bridging-isolated-60ghz-rooftop-radios-over-5g-tailscale-28ae)
-- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
-- [Java no es el riesgo. Tu implementación y tu parche, sí.](https://dev.to/ebercruz/java-no-es-el-riesgo-tu-implementacion-y-tu-parche-si-59l4)
-- [Provisioning Resilient Azure Infrastructure with Terraform, DevPod, and mise: A Hands-On Guide](https://dev.to/alanvarghese-dev/provisioning-resilient-azure-infrastructure-with-terraform-devpod-and-mise-a-hands-on-guide-f8a)
-- [Curious: how has your PR volume changed vs. a year ago, or vs. six months ago?
-
-Ours more than tripled: ~150 a week to ~500 a week. Even with a new CI server, we&#39;re falling behind, and that growth isn&#39;t slowing down for the next few weeks, maybe months.](https://dev.to/linyiru/curious-how-has-your-pr-volume-changed-vs-a-year-ago-or-vs-six-months-ago-ours-more-than-2lde)
+- [How to Protect AI Agents From Prompt Injection Attacks](https://dev.to/biztechpulsehub/how-to-protect-ai-agents-from-prompt-injection-attacks-7m)
+- [PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity](https://dev.to/pratik_12b3f8bf3b50e48bae/php2shell-how-ai-assisted-research-is-changing-cybersecurity-4omc)
+- [Find Minecraft server lag with LagLens and cap it with CapLimit](https://dev.to/blackspectre512/find-minecraft-server-lag-with-laglens-and-cap-it-with-caplimit-5ed)
+- [Find Minecraft server lag with LagLens and cap it with CapLimit](https://dev.to/blackspectre512/find-minecraft-server-lag-with-laglens-and-cap-it-with-caplimit-5ed)
+- [Special Mobs Revived: 148 monster variants on Fabric 26.2](https://dev.to/blackspectre512/special-mobs-revived-148-monster-variants-on-fabric-262-44ji)
+- [Link usable assets to a task so your agent finds account usage without asking](https://dev.to/sunfishloop/link-usable-assets-to-a-task-so-your-agent-finds-account-usage-without-asking-2dme)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
