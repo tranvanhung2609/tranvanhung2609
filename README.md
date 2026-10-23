@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect AI Agents From Prompt Injection Attacks](https://dev.to/biztechpulsehub/how-to-protect-ai-agents-from-prompt-injection-attacks-7m)
-- [PHP2Shell: How AI-Assisted Research Is Changing Cybersecurity](https://dev.to/pratik_12b3f8bf3b50e48bae/php2shell-how-ai-assisted-research-is-changing-cybersecurity-4omc)
-- [Find Minecraft server lag with LagLens and cap it with CapLimit](https://dev.to/blackspectre512/find-minecraft-server-lag-with-laglens-and-cap-it-with-caplimit-5ed)
-- [Find Minecraft server lag with LagLens and cap it with CapLimit](https://dev.to/blackspectre512/find-minecraft-server-lag-with-laglens-and-cap-it-with-caplimit-5ed)
-- [Special Mobs Revived: 148 monster variants on Fabric 26.2](https://dev.to/blackspectre512/special-mobs-revived-148-monster-variants-on-fabric-262-44ji)
-- [Link usable assets to a task so your agent finds account usage without asking](https://dev.to/sunfishloop/link-usable-assets-to-a-task-so-your-agent-finds-account-usage-without-asking-2dme)
+- [How to Enforce Module Boundaries Without Breaking a Monolith into Microservices](https://dev.to/swati-rawat/how-to-enforce-module-boundaries-without-breaking-a-monolith-into-microservices-bba)
+- [How to Enforce Module Boundaries Without Breaking a Monolith into Microservices](https://dev.to/swati-rawat/how-to-enforce-module-boundaries-without-breaking-a-monolith-into-microservices-bba)
+- [The 10-Minute Race: Designing Email Verification That Doesn&#39;t Frustrate Users](https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7)
+- [LLMOps Is Supply Chain Work: Pinning the Inputs You Don&#39;t Control](https://dev.to/dima_kruglov_608741d9a416/llmops-is-supply-chain-work-pinning-the-inputs-you-dont-control-10dj)
+- [Free cloud builds for your AI agent: 10,000 coins, no credit card](https://dev.to/tanvir_islam_f23d85dcbdc2/free-cloud-builds-for-your-ai-agent-10000-coins-no-credit-card-3io6)
+- [Custom Mobile App Development Services in USA](https://dev.to/mobileappdevelopments/custom-mobile-app-development-services-in-usa-2n0b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
