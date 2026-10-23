@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Enforce Module Boundaries Without Breaking a Monolith into Microservices](https://dev.to/swati-rawat/how-to-enforce-module-boundaries-without-breaking-a-monolith-into-microservices-bba)
-- [How to Enforce Module Boundaries Without Breaking a Monolith into Microservices](https://dev.to/swati-rawat/how-to-enforce-module-boundaries-without-breaking-a-monolith-into-microservices-bba)
-- [The 10-Minute Race: Designing Email Verification That Doesn&#39;t Frustrate Users](https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7)
-- [LLMOps Is Supply Chain Work: Pinning the Inputs You Don&#39;t Control](https://dev.to/dima_kruglov_608741d9a416/llmops-is-supply-chain-work-pinning-the-inputs-you-dont-control-10dj)
-- [Free cloud builds for your AI agent: 10,000 coins, no credit card](https://dev.to/tanvir_islam_f23d85dcbdc2/free-cloud-builds-for-your-ai-agent-10000-coins-no-credit-card-3io6)
-- [Custom Mobile App Development Services in USA](https://dev.to/mobileappdevelopments/custom-mobile-app-development-services-in-usa-2n0b)
+- [The Agent Loophole Nobody Logged](https://dev.to/reidmarlow/the-agent-loophole-nobody-logged-2076)
+- [Why Developers Should Design for Blockchain Errors](https://dev.to/jamie_fernando_95d01c9d36/why-developers-should-design-for-blockchain-errors-4np6)
+- [Stopgap fix: patch CVE-2026-109618 / 109619 &lpar;PHP RCE&rpar; while still on PHP 7.4](https://dev.to/softjapan/stopgap-fix-patch-cve-2026-109618-109619-php-rce-while-still-on-php-74-2pbd)
+- [Top 788 Verified Luxy Accounts Explained: A Complete Guide to USA and Aged Profiles](https://dev.to/kalindi_houston_568be4e88/top-788-verified-luxy-accounts-explained-a-complete-guide-to-usa-and-aged-profiles-4ncl)
+- [Why the Linux OOM killer killed your container when memory looked fine](https://dev.to/kashif_manzer/why-the-linux-oom-killer-killed-your-container-when-memory-looked-fine-4o60)
+- [Why Your Docker Container Takes 10 Seconds to Stop: PID 1, Signals and Graceful Shutdown Explained](https://dev.to/eme_gug_0821b41b948be6516/why-your-docker-container-takes-10-seconds-to-stop-pid-1-signals-and-graceful-shutdown-explained-33in)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
