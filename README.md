@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Loophole Nobody Logged](https://dev.to/reidmarlow/the-agent-loophole-nobody-logged-2076)
-- [Why Developers Should Design for Blockchain Errors](https://dev.to/jamie_fernando_95d01c9d36/why-developers-should-design-for-blockchain-errors-4np6)
-- [Stopgap fix: patch CVE-2026-109618 / 109619 &lpar;PHP RCE&rpar; while still on PHP 7.4](https://dev.to/softjapan/stopgap-fix-patch-cve-2026-109618-109619-php-rce-while-still-on-php-74-2pbd)
-- [Top 788 Verified Luxy Accounts Explained: A Complete Guide to USA and Aged Profiles](https://dev.to/kalindi_houston_568be4e88/top-788-verified-luxy-accounts-explained-a-complete-guide-to-usa-and-aged-profiles-4ncl)
-- [Why the Linux OOM killer killed your container when memory looked fine](https://dev.to/kashif_manzer/why-the-linux-oom-killer-killed-your-container-when-memory-looked-fine-4o60)
-- [Why Your Docker Container Takes 10 Seconds to Stop: PID 1, Signals and Graceful Shutdown Explained](https://dev.to/eme_gug_0821b41b948be6516/why-your-docker-container-takes-10-seconds-to-stop-pid-1-signals-and-graceful-shutdown-explained-33in)
+- [One Load per Key: Collapsing Duplicate Lookups with Spring Boot&#39;s Cache and Caffeine](https://dev.to/fialhorenato/one-load-per-key-collapsing-duplicate-lookups-with-spring-boots-cache-and-caffeine-390p)
+- [Lowest-Latency Image Generation APIs for Real-Time Node.js Catalog Applications](https://dev.to/vespasianblack3884/lowest-latency-image-generation-apis-for-real-time-nodejs-catalog-applications-3cle)
+- [Estimate Cost for Image Generation API Models Before Calling &lpar;2026, Media Review&rpar;](https://dev.to/jorisrhodes8286/estimate-cost-for-image-generation-api-models-before-calling-2026-media-review-4hd7)
+- [Text Summarization Quality and Cost Explained — A Media Catalog Decision Guide](https://dev.to/ethanbrooks1647/text-summarization-quality-and-cost-explained-a-media-catalog-decision-guide-3fa2)
+- [Planning a VoIP Phone System for a Small Business: An Asterisk and FreePBX Checklist](https://dev.to/muhammadalimughal/planning-a-voip-phone-system-for-a-small-business-an-asterisk-and-freepbx-checklist-5cn7)
+- [How to Check SPF, DKIM and DMARC Records in 10 Minutes &lpar;and Fix the Common Mistakes&rpar;](https://dev.to/muhammadalimughal/how-to-check-spf-dkim-and-dmarc-records-in-10-minutes-and-fix-the-common-mistakes-18dc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
