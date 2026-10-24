@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [CRM&#39;de kapanan satışı Meta Conversions API&#39;ye geri bildirmek: Hash, event_id ve zaman penceresi üzerine geliştirici notları](https://dev.to/korayyalcin/crmde-kapanan-satisi-meta-conversions-apiye-geri-bildirmek-hash-eventid-ve-zaman-penceresi-2e2g)
-- [Why devs should design for blockchain errors, not around them](https://dev.to/harvey_landyn_763d72c944f/why-devs-should-design-for-blockchain-errors-not-around-them-3me1)
-- [What part of building and shipping software takes longer than it should?](https://dev.to/mudbasedev/what-part-of-building-and-shipping-software-takes-longer-than-it-should-4d6l)
-- [Why no Python configuration library covers everything](https://dev.to/niccolum/why-no-python-configuration-library-covers-everything-1phe)
-- [I Made a Static Framer Snapshot Before Launch Day](https://dev.to/ybouane/i-made-a-static-framer-snapshot-before-launch-day-5c04)
-- [Claude Code hooks for teams: four hooks worth committing to your repo](https://dev.to/aiworkspacebuilder/claude-code-hooks-for-teams-four-hooks-worth-committing-to-your-repo-1kjp)
+- [Helm chart vs operator: PostgreSQL installed both ways on kind](https://dev.to/kadet-hub/helm-chart-vs-operator-postgresql-installed-both-ways-on-kind-1nke)
+- [Writing a Helm chart vs Kapitan: three popular charts rebuilt](https://dev.to/kadet-hub/writing-a-helm-chart-vs-kapitan-three-popular-charts-rebuilt-2il7)
+- [TIVI MAGAZINE SPECIAL REPORT | ARCHITECTURE &amp; WARFARE](https://dev.to/bigf_fellow/tivi-magazine-special-report-architecture-warfare-11n3)
+- [Ngtcore CrisisBridge is an early-stage project, and development is ongoing](https://dev.to/anmkumo/ngtcore-crisisbridge-is-an-early-stage-project-and-development-is-ongoing-5f49)
+- [How to Calculate Subnets by Hand: A Step-by-Step Guide](https://dev.to/arelvox/how-to-calculate-subnets-by-hand-a-step-by-step-guide-3eh8)
+- [The retry storm that ate 40,000 messages](https://dev.to/dhananjay_mundhada_02c326/the-retry-storm-that-ate-40000-messages-70g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
