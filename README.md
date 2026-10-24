@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [ต้นทุน ความเสี่ยง และคนที่ต้องเซ็นรับ: สแตกไหนเหมาะกับทีมขนาดไหน?](https://dev.to/sarantoon/tnthun-khwaamesiiyng-aelakhnthiitngechnrab-saetkaihnehmaaakabthiimkhnaadaihn-36h4)
-- [Release Management Process: Operational Best Practices](https://dev.to/prerna_sharma_2354d311ff5/release-management-process-operational-best-practices-3aog)
-- [Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC](https://dev.to/hostingpodium/hardening-enterprise-sso-with-keycloak-saml-20-oauth2-pkce-and-zero-trust-rbac-4gp8)
-- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04)
-- [The Panopticon in Your Neighborhood Entrance: How Warrantless Camera Meshes Turned Public Roads into Queryable Databases](https://dev.to/ariawavetech/the-panopticon-in-your-neighborhood-entrance-how-warrantless-camera-meshes-turned-public-roads-2g11)
-- [GitLab&#39;s Second 10.0 RCE This Month. Your October 12 Patch Doesn&#39;t Cover It.](https://dev.to/mahmudhasan/gitlabs-second-100-rce-this-month-your-october-12-patch-doesnt-cover-it-24gi)
+- [Day two of the audit: CloudWatch went from $2,400 to $380](https://dev.to/vlad_z_16b6320e21f32bee0d/day-two-of-the-audit-cloudwatch-went-from-2400-to-380-3opo)
+- [What Does Crypto Com Customer Support do?](https://dev.to/cryptocomcustome/what-does-crypto-com-customer-support-do-552j)
+- [Oumma from Zero: Installing the Engine, the Web App and Keycloak &lpar;A Guide for Absolute Beginners&rpar;](https://dev.to/benchouia_ahmedabdelhaki/oumma-from-zero-installing-the-engine-the-web-app-and-keycloak-a-guide-for-absolute-beginners-14kb)
+- [Finding Error in a simple &quot;Hello World!&quot; Program.](https://dev.to/iamsubash/finding-error-in-a-simple-hello-world-program-4hi0)
+- [Building a Secrets Detection Pre-Commit Hook in 50 Lines](https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8)
+- [Claude Code docs pages changed on the day we read them](https://dev.to/robswierk/claude-code-docs-pages-changed-on-the-day-we-read-them-1hfm)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
