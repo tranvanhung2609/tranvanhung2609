@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [One Load per Key: Collapsing Duplicate Lookups with Spring Boot&#39;s Cache and Caffeine](https://dev.to/fialhorenato/one-load-per-key-collapsing-duplicate-lookups-with-spring-boots-cache-and-caffeine-390p)
-- [Lowest-Latency Image Generation APIs for Real-Time Node.js Catalog Applications](https://dev.to/vespasianblack3884/lowest-latency-image-generation-apis-for-real-time-nodejs-catalog-applications-3cle)
-- [Estimate Cost for Image Generation API Models Before Calling &lpar;2026, Media Review&rpar;](https://dev.to/jorisrhodes8286/estimate-cost-for-image-generation-api-models-before-calling-2026-media-review-4hd7)
-- [Text Summarization Quality and Cost Explained — A Media Catalog Decision Guide](https://dev.to/ethanbrooks1647/text-summarization-quality-and-cost-explained-a-media-catalog-decision-guide-3fa2)
-- [Planning a VoIP Phone System for a Small Business: An Asterisk and FreePBX Checklist](https://dev.to/muhammadalimughal/planning-a-voip-phone-system-for-a-small-business-an-asterisk-and-freepbx-checklist-5cn7)
-- [How to Check SPF, DKIM and DMARC Records in 10 Minutes &lpar;and Fix the Common Mistakes&rpar;](https://dev.to/muhammadalimughal/how-to-check-spf-dkim-and-dmarc-records-in-10-minutes-and-fix-the-common-mistakes-18dc)
+- [ต้นทุน ความเสี่ยง และคนที่ต้องเซ็นรับ: สแตกไหนเหมาะกับทีมขนาดไหน?](https://dev.to/sarantoon/tnthun-khwaamesiiyng-aelakhnthiitngechnrab-saetkaihnehmaaakabthiimkhnaadaihn-36h4)
+- [Release Management Process: Operational Best Practices](https://dev.to/prerna_sharma_2354d311ff5/release-management-process-operational-best-practices-3aog)
+- [Hardening Enterprise SSO with Keycloak: SAML 2.0, OAuth2 PKCE, and Zero-Trust RBAC](https://dev.to/hostingpodium/hardening-enterprise-sso-with-keycloak-saml-20-oauth2-pkce-and-zero-trust-rbac-4gp8)
+- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04)
+- [The Panopticon in Your Neighborhood Entrance: How Warrantless Camera Meshes Turned Public Roads into Queryable Databases](https://dev.to/ariawavetech/the-panopticon-in-your-neighborhood-entrance-how-warrantless-camera-meshes-turned-public-roads-2g11)
+- [GitLab&#39;s Second 10.0 RCE This Month. Your October 12 Patch Doesn&#39;t Cover It.](https://dev.to/mahmudhasan/gitlabs-second-100-rce-this-month-your-october-12-patch-doesnt-cover-it-24gi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
