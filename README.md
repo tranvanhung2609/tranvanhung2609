@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Day two of the audit: CloudWatch went from $2,400 to $380](https://dev.to/vlad_z_16b6320e21f32bee0d/day-two-of-the-audit-cloudwatch-went-from-2400-to-380-3opo)
-- [What Does Crypto Com Customer Support do?](https://dev.to/cryptocomcustome/what-does-crypto-com-customer-support-do-552j)
-- [Oumma from Zero: Installing the Engine, the Web App and Keycloak &lpar;A Guide for Absolute Beginners&rpar;](https://dev.to/benchouia_ahmedabdelhaki/oumma-from-zero-installing-the-engine-the-web-app-and-keycloak-a-guide-for-absolute-beginners-14kb)
-- [Finding Error in a simple &quot;Hello World!&quot; Program.](https://dev.to/iamsubash/finding-error-in-a-simple-hello-world-program-4hi0)
-- [Building a Secrets Detection Pre-Commit Hook in 50 Lines](https://dev.to/ayinedjimi-consultants/building-a-secrets-detection-pre-commit-hook-in-50-lines-12d8)
-- [Claude Code docs pages changed on the day we read them](https://dev.to/robswierk/claude-code-docs-pages-changed-on-the-day-we-read-them-1hfm)
+- [CRM&#39;de kapanan satışı Meta Conversions API&#39;ye geri bildirmek: Hash, event_id ve zaman penceresi üzerine geliştirici notları](https://dev.to/korayyalcin/crmde-kapanan-satisi-meta-conversions-apiye-geri-bildirmek-hash-eventid-ve-zaman-penceresi-2e2g)
+- [Why devs should design for blockchain errors, not around them](https://dev.to/harvey_landyn_763d72c944f/why-devs-should-design-for-blockchain-errors-not-around-them-3me1)
+- [What part of building and shipping software takes longer than it should?](https://dev.to/mudbasedev/what-part-of-building-and-shipping-software-takes-longer-than-it-should-4d6l)
+- [Why no Python configuration library covers everything](https://dev.to/niccolum/why-no-python-configuration-library-covers-everything-1phe)
+- [I Made a Static Framer Snapshot Before Launch Day](https://dev.to/ybouane/i-made-a-static-framer-snapshot-before-launch-day-5c04)
+- [Claude Code hooks for teams: four hooks worth committing to your repo](https://dev.to/aiworkspacebuilder/claude-code-hooks-for-teams-four-hooks-worth-committing-to-your-repo-1kjp)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
