@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Helm chart vs operator: PostgreSQL installed both ways on kind](https://dev.to/kadet-hub/helm-chart-vs-operator-postgresql-installed-both-ways-on-kind-1nke)
-- [Writing a Helm chart vs Kapitan: three popular charts rebuilt](https://dev.to/kadet-hub/writing-a-helm-chart-vs-kapitan-three-popular-charts-rebuilt-2il7)
-- [TIVI MAGAZINE SPECIAL REPORT | ARCHITECTURE &amp; WARFARE](https://dev.to/bigf_fellow/tivi-magazine-special-report-architecture-warfare-11n3)
-- [Ngtcore CrisisBridge is an early-stage project, and development is ongoing](https://dev.to/anmkumo/ngtcore-crisisbridge-is-an-early-stage-project-and-development-is-ongoing-5f49)
-- [How to Calculate Subnets by Hand: A Step-by-Step Guide](https://dev.to/arelvox/how-to-calculate-subnets-by-hand-a-step-by-step-guide-3eh8)
-- [The retry storm that ate 40,000 messages](https://dev.to/dhananjay_mundhada_02c326/the-retry-storm-that-ate-40000-messages-70g)
+- [Ceph NVMe Distributed Storage Engineering for Bare-Metal KVM &amp; Proxmox Clusters](https://dev.to/hostingpodium/ceph-nvme-distributed-storage-engineering-for-bare-metal-kvm-proxmox-clusters-4gol)
+- [Debugging Cron Trigger Issues for Scheduled Webhook Delivery — Node.js Guide](https://dev.to/lorenzholm3752/debugging-cron-trigger-issues-for-scheduled-webhook-delivery-nodejs-guide-a76)
+- [File and Directory Management in Linux](https://dev.to/yeasin4745/file-and-directory-management-in-linux-jj8)
+- [Building a $0 VPS on Google Cloud: DietPi, Tailscale, IPv6, and the traps I hit](https://dev.to/jrpasolini/building-a-0-vps-on-google-cloud-dietpi-tailscale-ipv6-and-the-traps-i-hit-3aeb)
+- [SaaS: prueba la activación con señales de email](https://dev.to/hannahdev56/saas-prueba-la-activacion-con-senales-de-email-5da5)
+- [PHP Got Hacked? PHP2Shell, LiteLLM, GitLab and a CA Key of 4: What Devs Should Update Now](https://dev.to/rainytechlab/php-got-hacked-php2shell-litellm-gitlab-and-a-ca-key-of-4-what-devs-should-update-now-5470)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
