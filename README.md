@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Building an Autonomous AI Incident Knowledge Engine with Cognee and Uptime Kuma](https://dev.to/pranavsinghpatil/building-an-autonomous-ai-incident-knowledge-engine-with-cognee-and-uptime-kuma-45hi)
-- [Lessons from Deploying Mission-Critical Applications on Kubernetes: Reliability, Configuration, and Troubleshooting](https://dev.to/naveedakram/lessons-from-deploying-mission-critical-applications-on-kubernetes-reliability-configuration-and-4doe)
-- [DKIM &quot;no key for signature&quot; after switching to a 2048-bit key: the TXT record is probably cut off](https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn)
-- [Latency is the wrong metric for fallback routes](https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj)
-- [UK Cyber Essentials v3.3 &lpar;&quot;Danzell&quot;&rpar; &amp; EU NIS2 Article 21: A Practical Technical Checklist for IT Managers &amp; MSPs](https://dev.to/faultypacket/uk-cyber-essentials-v33-danzell-eu-nis2-article-21-a-practical-technical-checklist-for-it-f6d)
-- [Why Your SPF Record Passes Lookups at Setup—and Silently Breaks Months Later &lpar;Plus How to Fix MTA-STS &amp; PHP2Shell Exposure&rpar;](https://dev.to/faultypacket/why-your-spf-record-passes-lookups-at-setup-and-silently-breaks-months-later-plus-how-to-fix-269p)
+- [IPv4 Subnetting and CIDR Explained: How Routers Hand Out Host Ranges](https://dev.to/routeripguide/ipv4-subnetting-and-cidr-explained-how-routers-hand-out-host-ranges-5a1m)
+- [Backend from First Principles, Week 1: How the Web Actually Talks](https://dev.to/akhileswar1905/backend-from-first-principles-week-1-how-the-web-actually-talks-2k55)
+- [I built a self-hosted dashboard for the handful of VPSs I run](https://dev.to/sandakelum15/i-built-a-self-hosted-dashboard-for-the-handful-of-vpss-i-run-5ge7)
+- [[OpenShell] Fixing OpenShell MainProcessExited Error via DB Bypass](https://dev.to/pandas_studio_d473619e281/openshell-fixing-openshell-mainprocessexited-error-via-db-bypass-49li)
+- [GPU Preflight For Cron Agents](https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-313f)
+- [Building a Real-Time E-Commerce Support Platform with an AI Agent Team](https://dev.to/esadata/building-a-real-time-e-commerce-support-platform-with-an-ai-agent-team-4lb9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
