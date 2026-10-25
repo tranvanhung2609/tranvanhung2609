@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [IPv4 Subnetting and CIDR Explained: How Routers Hand Out Host Ranges](https://dev.to/routeripguide/ipv4-subnetting-and-cidr-explained-how-routers-hand-out-host-ranges-5a1m)
-- [Backend from First Principles, Week 1: How the Web Actually Talks](https://dev.to/akhileswar1905/backend-from-first-principles-week-1-how-the-web-actually-talks-2k55)
-- [I built a self-hosted dashboard for the handful of VPSs I run](https://dev.to/sandakelum15/i-built-a-self-hosted-dashboard-for-the-handful-of-vpss-i-run-5ge7)
-- [[OpenShell] Fixing OpenShell MainProcessExited Error via DB Bypass](https://dev.to/pandas_studio_d473619e281/openshell-fixing-openshell-mainprocessexited-error-via-db-bypass-49li)
-- [GPU Preflight For Cron Agents](https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-313f)
-- [Building a Real-Time E-Commerce Support Platform with an AI Agent Team](https://dev.to/esadata/building-a-real-time-e-commerce-support-platform-with-an-ai-agent-team-4lb9)
+- [OpenAI-Compatible Image Generation API: Single Endpoint Routing for Marketplace Catalogs](https://dev.to/mordecainilsson7582/openai-compatible-image-generation-api-single-endpoint-routing-for-marketplace-catalogs-3b82)
+- [Kustomize delete resource: Kyverno PDBs and ESO webhooks](https://dev.to/kadet-hub/kustomize-delete-resource-kyverno-pdbs-and-eso-webhooks-27cl)
+- [Kustomize JSON patch add: fields a Helm chart does not template](https://dev.to/kadet-hub/kustomize-json-patch-add-fields-a-helm-chart-does-not-template-534h)
+- [Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012](https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn)
+- [Four rules for letting an AI agent deploy to Salesforce](https://dev.to/madebyasking/four-rules-for-letting-an-ai-agent-deploy-to-salesforce-bh7)
+- [Framer vs. Webflow vs. WordPress: Which is Best for High-Ticket Brands?](https://dev.to/saiiddesigns/framer-vs-webflow-vs-wordpress-which-is-best-for-high-ticket-brands-a11)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
