@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Ceph NVMe Distributed Storage Engineering for Bare-Metal KVM &amp; Proxmox Clusters](https://dev.to/hostingpodium/ceph-nvme-distributed-storage-engineering-for-bare-metal-kvm-proxmox-clusters-4gol)
-- [Debugging Cron Trigger Issues for Scheduled Webhook Delivery — Node.js Guide](https://dev.to/lorenzholm3752/debugging-cron-trigger-issues-for-scheduled-webhook-delivery-nodejs-guide-a76)
-- [File and Directory Management in Linux](https://dev.to/yeasin4745/file-and-directory-management-in-linux-jj8)
-- [Building a $0 VPS on Google Cloud: DietPi, Tailscale, IPv6, and the traps I hit](https://dev.to/jrpasolini/building-a-0-vps-on-google-cloud-dietpi-tailscale-ipv6-and-the-traps-i-hit-3aeb)
-- [SaaS: prueba la activación con señales de email](https://dev.to/hannahdev56/saas-prueba-la-activacion-con-senales-de-email-5da5)
-- [PHP Got Hacked? PHP2Shell, LiteLLM, GitLab and a CA Key of 4: What Devs Should Update Now](https://dev.to/rainytechlab/php-got-hacked-php2shell-litellm-gitlab-and-a-ca-key-of-4-what-devs-should-update-now-5470)
+- [Building an Autonomous AI Incident Knowledge Engine with Cognee and Uptime Kuma](https://dev.to/pranavsinghpatil/building-an-autonomous-ai-incident-knowledge-engine-with-cognee-and-uptime-kuma-45hi)
+- [Lessons from Deploying Mission-Critical Applications on Kubernetes: Reliability, Configuration, and Troubleshooting](https://dev.to/naveedakram/lessons-from-deploying-mission-critical-applications-on-kubernetes-reliability-configuration-and-4doe)
+- [DKIM &quot;no key for signature&quot; after switching to a 2048-bit key: the TXT record is probably cut off](https://dev.to/mogley1011/dkim-no-key-for-signature-after-switching-to-a-2048-bit-key-the-txt-record-is-probably-cut-off-5fpn)
+- [Latency is the wrong metric for fallback routes](https://dev.to/cleo_cliona/latency-is-the-wrong-metric-for-fallback-routes-30jj)
+- [UK Cyber Essentials v3.3 &lpar;&quot;Danzell&quot;&rpar; &amp; EU NIS2 Article 21: A Practical Technical Checklist for IT Managers &amp; MSPs](https://dev.to/faultypacket/uk-cyber-essentials-v33-danzell-eu-nis2-article-21-a-practical-technical-checklist-for-it-f6d)
+- [Why Your SPF Record Passes Lookups at Setup—and Silently Breaks Months Later &lpar;Plus How to Fix MTA-STS &amp; PHP2Shell Exposure&rpar;](https://dev.to/faultypacket/why-your-spf-record-passes-lookups-at-setup-and-silently-breaks-months-later-plus-how-to-fix-269p)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
