@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [We intercepted PostgreSQL’s COMMIT completion and replayed the batch](https://dev.to/iammohamedatef/we-intercepted-postgresqls-commit-completion-and-replayed-the-batch-1olj)
-- [Offline User Notification Failures: A Best-Effort Publish Root-Cause Debug Checklist](https://dev.to/arthurfinley2291/offline-user-notification-failures-a-best-effort-publish-root-cause-debug-checklist-2djk)
-- [Cloudflare Worker redirect not working? Assets are served first](https://dev.to/howardzlh/cloudflare-worker-redirect-not-working-assets-are-served-first-550c)
-- [Implementing Distributed Data Cleanup Across Multiple Worker Nodes: Python Queue Recovery](https://dev.to/abernathycross6857/implementing-distributed-data-cleanup-across-multiple-worker-nodes-python-queue-recovery-318)
-- [Never Pay Twice for the Same Prompt: A Durable Generation Cache for Free-Tier Hosts](https://dev.to/hackcpp_3619/never-pay-twice-for-the-same-prompt-a-durable-generation-cache-for-free-tier-hosts-4k9k)
-- [Legacy Modernization Isn&#39;t One Skill. Ten Vendors Split Across Five Completely Different Migrations](https://dev.to/yulyabrocoders/legacy-modernization-isnt-one-skill-ten-vendors-split-across-five-completely-different-migrations-1og0)
+- [Backing up VMware for free with Plakar](https://dev.to/plakar/backing-up-vmware-for-free-with-plakar-2gno)
+- [MariaDB Galera Cluster &amp; ProxySQL Read/Write Splitting for Zero-Downtime SQL Scaling](https://dev.to/hostingpodium/mariadb-galera-cluster-proxysql-readwrite-splitting-for-zero-downtime-sql-scaling-2caf)
+- [Production Next.js Dockerfile: Multi-Stage, Standalone and Non-Root](https://dev.to/fabwaseem/production-nextjs-dockerfile-multi-stage-standalone-and-non-root-e2j)
+- [A Backup Isn&#39;t a Recovery Plan: Building a Docker-Based MySQL Restore Verifier](https://dev.to/xetera1/a-backup-isnt-a-recovery-plan-building-a-docker-based-mysql-restore-verifier-2kic)
+- [The Zeroeth Law of Engineering](https://dev.to/regis-ud/the-zeroeth-law-of-engineering-ckm)
+- [Migrating an Application to the Cloud: Node.js Graceful Shutdown](https://dev.to/geminate_solutions_9b6035/migrating-an-application-to-the-cloud-nodejs-graceful-shutdown-2a58)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
