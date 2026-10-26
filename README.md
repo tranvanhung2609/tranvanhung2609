@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI-Compatible Image Generation API: Single Endpoint Routing for Marketplace Catalogs](https://dev.to/mordecainilsson7582/openai-compatible-image-generation-api-single-endpoint-routing-for-marketplace-catalogs-3b82)
-- [Kustomize delete resource: Kyverno PDBs and ESO webhooks](https://dev.to/kadet-hub/kustomize-delete-resource-kyverno-pdbs-and-eso-webhooks-27cl)
-- [Kustomize JSON patch add: fields a Helm chart does not template](https://dev.to/kadet-hub/kustomize-json-patch-add-fields-a-helm-chart-does-not-template-534h)
-- [Nuxt 4.6 nuxt/server: Why Mixing h3 Imports Throws NUXT_E8012](https://dev.to/parsajiravand/nuxt-46-nuxtserver-why-mixing-h3-imports-throws-nuxte8012-11fn)
-- [Four rules for letting an AI agent deploy to Salesforce](https://dev.to/madebyasking/four-rules-for-letting-an-ai-agent-deploy-to-salesforce-bh7)
-- [Framer vs. Webflow vs. WordPress: Which is Best for High-Ticket Brands?](https://dev.to/saiiddesigns/framer-vs-webflow-vs-wordpress-which-is-best-for-high-ticket-brands-a11)
+- [B2B AI Workflow Automation in Production: RAG Architecture, Guardrails, and Token Cost Engineering for Enterprise Operations](https://dev.to/muhammadalimughal/b2b-ai-workflow-automation-in-production-rag-architecture-guardrails-and-token-cost-engineering-12ck)
+- [Legacy ERP &amp; Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss](https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0)
+- [Legacy ERP &amp; Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss](https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0)
+- [CORS Misconfigurations in Production APIs: How Access-Control-Allow-Origin &amp; Credentials Leak Sensitive Data &lpar;And How to Audit Headers&rpar;](https://dev.to/muhammadalimughal/cors-misconfigurations-in-production-apis-how-access-control-allow-origin-credentials-leak-1n46)
+- [After the Meeting Ends: How Audio Becomes Structured Work in Our System](https://dev.to/mininglamp/after-the-meeting-ends-how-audio-becomes-structured-work-in-our-system-2ia8)
+- [Nodus vs Nebius: which is better for GPU training?](https://dev.to/viswaretas_kotra/nodus-vs-nebius-which-is-better-for-gpu-training-3lmb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
