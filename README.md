@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [B2B AI Workflow Automation in Production: RAG Architecture, Guardrails, and Token Cost Engineering for Enterprise Operations](https://dev.to/muhammadalimughal/b2b-ai-workflow-automation-in-production-rag-architecture-guardrails-and-token-cost-engineering-12ck)
-- [Legacy ERP &amp; Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss](https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0)
-- [Legacy ERP &amp; Monolith Modernization: How to Execute a Strangler-Fig Migration Without Downtime or Data Loss](https://dev.to/muhammadalimughal/legacy-erp-monolith-modernization-how-to-execute-a-strangler-fig-migration-without-downtime-or-5cd0)
-- [CORS Misconfigurations in Production APIs: How Access-Control-Allow-Origin &amp; Credentials Leak Sensitive Data &lpar;And How to Audit Headers&rpar;](https://dev.to/muhammadalimughal/cors-misconfigurations-in-production-apis-how-access-control-allow-origin-credentials-leak-1n46)
-- [After the Meeting Ends: How Audio Becomes Structured Work in Our System](https://dev.to/mininglamp/after-the-meeting-ends-how-audio-becomes-structured-work-in-our-system-2ia8)
-- [Nodus vs Nebius: which is better for GPU training?](https://dev.to/viswaretas_kotra/nodus-vs-nebius-which-is-better-for-gpu-training-3lmb)
+- [We intercepted PostgreSQL’s COMMIT completion and replayed the batch](https://dev.to/iammohamedatef/we-intercepted-postgresqls-commit-completion-and-replayed-the-batch-1olj)
+- [Offline User Notification Failures: A Best-Effort Publish Root-Cause Debug Checklist](https://dev.to/arthurfinley2291/offline-user-notification-failures-a-best-effort-publish-root-cause-debug-checklist-2djk)
+- [Cloudflare Worker redirect not working? Assets are served first](https://dev.to/howardzlh/cloudflare-worker-redirect-not-working-assets-are-served-first-550c)
+- [Implementing Distributed Data Cleanup Across Multiple Worker Nodes: Python Queue Recovery](https://dev.to/abernathycross6857/implementing-distributed-data-cleanup-across-multiple-worker-nodes-python-queue-recovery-318)
+- [Never Pay Twice for the Same Prompt: A Durable Generation Cache for Free-Tier Hosts](https://dev.to/hackcpp_3619/never-pay-twice-for-the-same-prompt-a-durable-generation-cache-for-free-tier-hosts-4k9k)
+- [Legacy Modernization Isn&#39;t One Skill. Ten Vendors Split Across Five Completely Different Migrations](https://dev.to/yulyabrocoders/legacy-modernization-isnt-one-skill-ten-vendors-split-across-five-completely-different-migrations-1og0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
