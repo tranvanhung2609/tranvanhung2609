@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [The Root Password Changed at 10:17 and Nobody Logged In — The VM Console Path Your Firewall Never Sees](https://dev.to/daanial/the-root-password-changed-at-1017-and-nobody-logged-in-the-vm-console-path-your-firewall-never-1mc8)
-- [A Dependency Patch Is Only Half a Security Fix: The Release Path Matters](https://dev.to/raktim_ranjit_a91828943ca/a-dependency-patch-is-only-half-a-security-fix-the-release-path-matters-506f)
-- [What a One-Command Linux Installer Should Prove Before You Trust It](https://dev.to/raktim_ranjit_a91828943ca/what-a-one-command-linux-installer-should-prove-before-you-trust-it-2o6o)
-- [Docker Compose for a Self-Hosted Restaurant POS: Local LAN, VPS, and Tunnel Setups](https://dev.to/raktim_ranjit_a91828943ca/docker-compose-for-a-self-hosted-restaurant-pos-local-lan-vps-and-tunnel-setups-3hdp)
-- [Building RAG Pipelines in Java: Ingestion, Chunking, Embeddings, Vector Stores, Evaluation, and Re-Ranking](https://dev.to/said_olano/building-rag-pipelines-in-java-ingestion-chunking-embeddings-vector-stores-evaluation-and-1odd)
-- [Your subagent chain is paraphrasing your safety rules](https://dev.to/vectle/your-subagent-chain-is-paraphrasing-your-safety-rules-220h)
+- [A flow can&#39;t wake a flow: building a hands-off agent loop on GitLab Duo](https://dev.to/emarc99/a-flow-cant-wake-a-flow-building-a-hands-off-agent-loop-on-gitlab-duo-483i)
+- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5)
+- [Random AI jokes based on mode](https://dev.to/divyagupta29/random-ai-jokes-based-on-mode-3mpo)
+- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9)
+- [Your database says &quot;saved&quot; before it touches the table. Here&#39;s why that&#39;s safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4)
+- [I built a leaderless service-discovery system in Go. Here&#39;s what broke along the way](https://dev.to/manzi_niyongiraosee_1586/i-built-a-leaderless-service-discovery-system-in-go-heres-what-broke-along-the-way-2apg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
