@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Show the total before checkout: notes on ProxyRoller, coming soon](https://dev.to/spicanet/show-the-total-before-checkout-notes-on-proxyroller-coming-soon-5hdi)
-- [Agent Tool Error Envelopes: Make Failures Safe to Recover From](https://dev.to/jackm-singularity/agent-tool-error-envelopes-make-failures-safe-to-recover-from-3hg6)
-- [Know About Record And Replay Testing](https://dev.to/keploy/know-about-record-and-replay-testing-dnb)
-- [The Free Server Slept Overnight: Four State Claims Your App Can&#39;t Back Up](https://dev.to/gitlab_3188/the-free-server-slept-overnight-four-state-claims-your-app-cant-back-up-4l27)
-- [What robots.txt can and can&#39;t do for paid content — and the setup that actually holds](https://dev.to/aumcreate/what-robotstxt-can-and-cant-do-for-paid-content-and-the-setup-that-actually-holds-56pj)
-- [Building a Reliable Notification Service in .NET](https://dev.to/ravi-vishwakarma-hash/building-a-reliable-notification-service-in-net-205k)
+- [Credential rotation is only half the recovery: lessons for Laravel teams](https://dev.to/hraj_07/credential-rotation-is-only-half-the-recovery-lessons-for-laravel-teams-4b1k)
+- [FinOps for AI Workloads on Azure: Tokens, PTU and Pay-As-You-Go](https://dev.to/gisli78/finops-for-ai-workloads-on-azure-tokens-ptu-and-pay-as-you-go-4mbn)
+- [Your Team Celebration Is an Event Handler. Make It a Cron Job &lpar;With the Workflow&rpar;](https://dev.to/robat_das_3c6e956212f6408/your-team-celebration-is-an-event-handler-make-it-a-cron-job-with-the-workflow-580e)
+- [Why &quot;Agents&quot; Are Just the Bridge: Digital Twins Are the True End State of AI](https://dev.to/primordiaos/why-agents-are-just-the-bridge-digital-twins-are-the-true-end-state-of-ai-43mm)
+- [How OpenTelemetry](https://dev.to/darshan_turakhia/how-opentelemetry-npj)
+- [PostgreSQL 19&#39;s ON CONFLICT DO SELECT cuts a get-or-create call from two round trips to one](https://dev.to/alexgeorgiev17/postgresql-19s-on-conflict-do-select-cuts-a-get-or-create-call-from-two-round-trips-to-one-9mb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
