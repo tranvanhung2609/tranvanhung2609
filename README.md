@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Credential rotation is only half the recovery: lessons for Laravel teams](https://dev.to/hraj_07/credential-rotation-is-only-half-the-recovery-lessons-for-laravel-teams-4b1k)
-- [FinOps for AI Workloads on Azure: Tokens, PTU and Pay-As-You-Go](https://dev.to/gisli78/finops-for-ai-workloads-on-azure-tokens-ptu-and-pay-as-you-go-4mbn)
-- [Your Team Celebration Is an Event Handler. Make It a Cron Job &lpar;With the Workflow&rpar;](https://dev.to/robat_das_3c6e956212f6408/your-team-celebration-is-an-event-handler-make-it-a-cron-job-with-the-workflow-580e)
-- [Why &quot;Agents&quot; Are Just the Bridge: Digital Twins Are the True End State of AI](https://dev.to/primordiaos/why-agents-are-just-the-bridge-digital-twins-are-the-true-end-state-of-ai-43mm)
-- [How OpenTelemetry](https://dev.to/darshan_turakhia/how-opentelemetry-npj)
-- [PostgreSQL 19&#39;s ON CONFLICT DO SELECT cuts a get-or-create call from two round trips to one](https://dev.to/alexgeorgiev17/postgresql-19s-on-conflict-do-select-cuts-a-get-or-create-call-from-two-round-trips-to-one-9mb)
+- [The Root Password Changed at 10:17 and Nobody Logged In — The VM Console Path Your Firewall Never Sees](https://dev.to/daanial/the-root-password-changed-at-1017-and-nobody-logged-in-the-vm-console-path-your-firewall-never-1mc8)
+- [A Dependency Patch Is Only Half a Security Fix: The Release Path Matters](https://dev.to/raktim_ranjit_a91828943ca/a-dependency-patch-is-only-half-a-security-fix-the-release-path-matters-506f)
+- [What a One-Command Linux Installer Should Prove Before You Trust It](https://dev.to/raktim_ranjit_a91828943ca/what-a-one-command-linux-installer-should-prove-before-you-trust-it-2o6o)
+- [Docker Compose for a Self-Hosted Restaurant POS: Local LAN, VPS, and Tunnel Setups](https://dev.to/raktim_ranjit_a91828943ca/docker-compose-for-a-self-hosted-restaurant-pos-local-lan-vps-and-tunnel-setups-3hdp)
+- [Building RAG Pipelines in Java: Ingestion, Chunking, Embeddings, Vector Stores, Evaluation, and Re-Ranking](https://dev.to/said_olano/building-rag-pipelines-in-java-ingestion-chunking-embeddings-vector-stores-evaluation-and-1odd)
+- [Your subagent chain is paraphrasing your safety rules](https://dev.to/vectle/your-subagent-chain-is-paraphrasing-your-safety-rules-220h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
