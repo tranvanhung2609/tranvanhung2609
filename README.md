@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Backing up VMware for free with Plakar](https://dev.to/plakar/backing-up-vmware-for-free-with-plakar-2gno)
-- [MariaDB Galera Cluster &amp; ProxySQL Read/Write Splitting for Zero-Downtime SQL Scaling](https://dev.to/hostingpodium/mariadb-galera-cluster-proxysql-readwrite-splitting-for-zero-downtime-sql-scaling-2caf)
-- [Production Next.js Dockerfile: Multi-Stage, Standalone and Non-Root](https://dev.to/fabwaseem/production-nextjs-dockerfile-multi-stage-standalone-and-non-root-e2j)
-- [A Backup Isn&#39;t a Recovery Plan: Building a Docker-Based MySQL Restore Verifier](https://dev.to/xetera1/a-backup-isnt-a-recovery-plan-building-a-docker-based-mysql-restore-verifier-2kic)
-- [The Zeroeth Law of Engineering](https://dev.to/regis-ud/the-zeroeth-law-of-engineering-ckm)
-- [Migrating an Application to the Cloud: Node.js Graceful Shutdown](https://dev.to/geminate_solutions_9b6035/migrating-an-application-to-the-cloud-nodejs-graceful-shutdown-2a58)
+- [Show the total before checkout: notes on ProxyRoller, coming soon](https://dev.to/spicanet/show-the-total-before-checkout-notes-on-proxyroller-coming-soon-5hdi)
+- [Agent Tool Error Envelopes: Make Failures Safe to Recover From](https://dev.to/jackm-singularity/agent-tool-error-envelopes-make-failures-safe-to-recover-from-3hg6)
+- [Know About Record And Replay Testing](https://dev.to/keploy/know-about-record-and-replay-testing-dnb)
+- [The Free Server Slept Overnight: Four State Claims Your App Can&#39;t Back Up](https://dev.to/gitlab_3188/the-free-server-slept-overnight-four-state-claims-your-app-cant-back-up-4l27)
+- [What robots.txt can and can&#39;t do for paid content — and the setup that actually holds](https://dev.to/aumcreate/what-robotstxt-can-and-cant-do-for-paid-content-and-the-setup-that-actually-holds-56pj)
+- [Building a Reliable Notification Service in .NET](https://dev.to/ravi-vishwakarma-hash/building-a-reliable-notification-service-in-net-205k)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
