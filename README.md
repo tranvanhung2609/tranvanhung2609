@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [A flow can&#39;t wake a flow: building a hands-off agent loop on GitLab Duo](https://dev.to/emarc99/a-flow-cant-wake-a-flow-building-a-hands-off-agent-loop-on-gitlab-duo-483i)
-- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5)
-- [Random AI jokes based on mode](https://dev.to/divyagupta29/random-ai-jokes-based-on-mode-3mpo)
-- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9)
-- [Your database says &quot;saved&quot; before it touches the table. Here&#39;s why that&#39;s safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4)
-- [I built a leaderless service-discovery system in Go. Here&#39;s what broke along the way](https://dev.to/manzi_niyongiraosee_1586/i-built-a-leaderless-service-discovery-system-in-go-heres-what-broke-along-the-way-2apg)
+- [HTTP QUERY 메서드 완벽 정리: RFC 10008, QUERY와 GET·POST 비교](https://dev.to/rihpig/http-query-meseodeu-wanbyeog-jeongri-rfc-10008-querywa-getpost-bigyo-23lh)
+- [HTTP QUERY Metodu Nedir? RFC 10008, QUERY vs GET vs POST](https://dev.to/tobiass_hoffmann/http-query-metodu-nedir-rfc-10008-query-vs-get-vs-post-2572)
+- [Giải thích phương thức HTTP QUERY: RFC 10008, QUERY vs GET vs POST](https://dev.to/sebbasstian/giai-thich-phuong-thuc-http-query-rfc-10008-query-vs-get-vs-post-5f1k)
+- [HTTP QUERY Method Explained: RFC 10008, QUERY vs GET vs POST](https://dev.to/hassann/http-query-method-explained-rfc-10008-query-vs-get-vs-post-1a14)
+- [WordPress form triage: missing mail, spam-folder messages, and bot submissions](https://dev.to/aumcreate/wordpress-form-triage-missing-mail-spam-folder-messages-and-bot-submissions-540a)
+- [Rethinking PHP: I Built a 30MB &quot;Web Operating Environment&quot; Inspired by OS Architecture 🛸](https://dev.to/hadelrachid/rethinking-php-i-built-a-30mb-web-operating-environment-inspired-by-os-architecture-1l33)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
