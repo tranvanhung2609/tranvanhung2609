@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [HTTP QUERY 메서드 완벽 정리: RFC 10008, QUERY와 GET·POST 비교](https://dev.to/rihpig/http-query-meseodeu-wanbyeog-jeongri-rfc-10008-querywa-getpost-bigyo-23lh)
-- [HTTP QUERY Metodu Nedir? RFC 10008, QUERY vs GET vs POST](https://dev.to/tobiass_hoffmann/http-query-metodu-nedir-rfc-10008-query-vs-get-vs-post-2572)
-- [Giải thích phương thức HTTP QUERY: RFC 10008, QUERY vs GET vs POST](https://dev.to/sebbasstian/giai-thich-phuong-thuc-http-query-rfc-10008-query-vs-get-vs-post-5f1k)
-- [HTTP QUERY Method Explained: RFC 10008, QUERY vs GET vs POST](https://dev.to/hassann/http-query-method-explained-rfc-10008-query-vs-get-vs-post-1a14)
-- [WordPress form triage: missing mail, spam-folder messages, and bot submissions](https://dev.to/aumcreate/wordpress-form-triage-missing-mail-spam-folder-messages-and-bot-submissions-540a)
-- [Rethinking PHP: I Built a 30MB &quot;Web Operating Environment&quot; Inspired by OS Architecture 🛸](https://dev.to/hadelrachid/rethinking-php-i-built-a-30mb-web-operating-environment-inspired-by-os-architecture-1l33)
+- [Monitor Trigger Authority: Who Decides When the Agent Gets Watched](https://dev.to/ntctech/monitor-trigger-authority-who-decides-when-the-agent-gets-watched-1nhj)
+- [Full-stack developer -&gt; Devops](https://dev.to/terminator_true/full-stack-developer-devops-5h4g)
+- [Looking for a Marketplace Development Company in India? What to Check Before Signing a Contract](https://dev.to/nativeclusters_b695bf2918/looking-for-a-marketplace-development-company-in-india-what-to-check-before-signing-a-contract-b6l)
+- [Soul in Motion — 5:18 PM | 2026-10-28](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-518-pm-2026-10-28-334h)
+- [Proxy pricing: per GB, per IP or per port for your job](https://dev.to/proxymint/proxy-pricing-per-gb-per-ip-or-per-port-for-your-job-iej)
+- [FedRAMP Continuous Monitoring for Healthcare SaaS: From Security Signals to Compliance Evidence](https://dev.to/chethna_e780ae0533fb8d44d/fedramp-continuous-monitoring-for-healthcare-saas-from-security-signals-to-compliance-evidence-hfj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
