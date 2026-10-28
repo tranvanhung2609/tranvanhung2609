@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Monitor Trigger Authority: Who Decides When the Agent Gets Watched](https://dev.to/ntctech/monitor-trigger-authority-who-decides-when-the-agent-gets-watched-1nhj)
-- [Full-stack developer -&gt; Devops](https://dev.to/terminator_true/full-stack-developer-devops-5h4g)
-- [Looking for a Marketplace Development Company in India? What to Check Before Signing a Contract](https://dev.to/nativeclusters_b695bf2918/looking-for-a-marketplace-development-company-in-india-what-to-check-before-signing-a-contract-b6l)
-- [Soul in Motion — 5:18 PM | 2026-10-28](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-518-pm-2026-10-28-334h)
-- [Proxy pricing: per GB, per IP or per port for your job](https://dev.to/proxymint/proxy-pricing-per-gb-per-ip-or-per-port-for-your-job-iej)
-- [FedRAMP Continuous Monitoring for Healthcare SaaS: From Security Signals to Compliance Evidence](https://dev.to/chethna_e780ae0533fb8d44d/fedramp-continuous-monitoring-for-healthcare-saas-from-security-signals-to-compliance-evidence-hfj)
+- [Node.js Feature Flag Rollbacks Explained with 3 Safe Pricing Guardrails](https://dev.to/marcorossi4891/nodejs-feature-flag-rollbacks-explained-with-3-safe-pricing-guardrails-349m)
+- [Why your monitor says a crash-looping Docker container is up, and how to catch it](https://dev.to/s8kur/why-your-monitor-says-a-crash-looping-docker-container-is-up-and-how-to-catch-it-290c)
+- [Best AI Code Review Tools by False Positive Rate &lpar;2026&rpar;: What the Benchmarks Actually Show](https://dev.to/dev_barron/best-ai-code-review-tools-by-false-positive-rate-what-the-benchmarks-actually-show-2e8l)
+- [Best AI Code Review Tools for Air-Gapped and Self-Hosted Environments &lpar;2026&rpar;](https://dev.to/dev_barron/best-ai-code-review-tools-for-air-gapped-and-self-hosted-environments-j6c)
+- [Bitbucket AI Code Review: 3 Things I Didn&#39;t Expect](https://dev.to/uss/bitbucket-ai-code-review-3-things-i-didnt-expect-34im)
+- [Run a Telegram Bot 24/7 on a VPS: Python, systemd and Auto-Restart](https://dev.to/buran_host/run-a-telegram-bot-247-on-a-vps-python-systemd-and-auto-restart-4l7g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
