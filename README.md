@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Running Production Infrastructure Solo: 162 Containers Across Three Hosts](https://dev.to/hoelee/running-production-infrastructure-solo-162-containers-across-three-hosts-28bl)
-- [What the Zeabur Breach Actually Broke &lpar;and What Isolation Architecture Could Have Stopped&rpar;](https://dev.to/rbonweb/what-the-zeabur-breach-actually-broke-and-what-isolation-architecture-could-have-stopped-527j)
-- [Mastering Remote AI Agents: A Comprehensive Guide to Claude and Codex on Virtual Machines](https://dev.to/devandrew/mastering-remote-ai-agents-a-comprehensive-guide-to-claude-and-codex-on-virtual-machines-m7n)
-- [Digital Ofrenda](https://dev.to/priyanshi_sharma_0f54b6fd/digital-ofrenda-3fi)
-- [Java Erases Your Generics. TypeScript Erases Every Type. What Survives to Runtime](https://dev.to/gabrielanhaia/java-erases-your-generics-typescript-erases-every-type-what-survives-to-runtime-16mk)
-- [The three meters behind a $65 million observability bill](https://dev.to/buildopsy/the-three-meters-behind-a-65-million-observability-bill-42dd)
+- [Commerce Delivery Forensics: 7 Practices for Debugging Malformed JSON Alerts](https://dev.to/xaviorcross6845/commerce-delivery-forensics-7-practices-for-debugging-malformed-json-alerts-k6f)
+- [GitLab 19.3.6 Wasn&#39;t Enough for Alpine&#39;s Custom Image: Verify Ruby Too](https://dev.to/jamilxt/gitlab-1936-wasnt-enough-for-alpines-custom-image-verify-ruby-too-4874)
+- [Building Sub-5ms Ingestion Middleware for ServiceTitan and Jobber: Part Two - Edge Validation, Telemetry Flattening, and Automated DLQ Isolation](https://dev.to/kallowaythayer/building-sub-5ms-ingestion-middleware-for-servicetitan-and-jobber-part-two-edge-validation-2a3f)
+- [Residential proxy pricing: what a GB buys for your job](https://dev.to/proxymint/residential-proxy-pricing-what-a-gb-buys-for-your-job-jp)
+- [Treat a Hermes Skill Merge as a Deployment Change](https://dev.to/ihopkins/treat-a-hermes-skill-merge-as-a-deployment-change-41d5)
+- [Dual write: the bug hiding between your database and your message broker](https://dev.to/devmaycry/dual-write-the-bug-hiding-between-your-database-and-your-message-broker-3mlg)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
