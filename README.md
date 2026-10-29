@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Feature Flag Rollbacks Explained with 3 Safe Pricing Guardrails](https://dev.to/marcorossi4891/nodejs-feature-flag-rollbacks-explained-with-3-safe-pricing-guardrails-349m)
-- [Why your monitor says a crash-looping Docker container is up, and how to catch it](https://dev.to/s8kur/why-your-monitor-says-a-crash-looping-docker-container-is-up-and-how-to-catch-it-290c)
-- [Best AI Code Review Tools by False Positive Rate &lpar;2026&rpar;: What the Benchmarks Actually Show](https://dev.to/dev_barron/best-ai-code-review-tools-by-false-positive-rate-what-the-benchmarks-actually-show-2e8l)
-- [Best AI Code Review Tools for Air-Gapped and Self-Hosted Environments &lpar;2026&rpar;](https://dev.to/dev_barron/best-ai-code-review-tools-for-air-gapped-and-self-hosted-environments-j6c)
-- [Bitbucket AI Code Review: 3 Things I Didn&#39;t Expect](https://dev.to/uss/bitbucket-ai-code-review-3-things-i-didnt-expect-34im)
-- [Run a Telegram Bot 24/7 on a VPS: Python, systemd and Auto-Restart](https://dev.to/buran_host/run-a-telegram-bot-247-on-a-vps-python-systemd-and-auto-restart-4l7g)
+- [Running Production Infrastructure Solo: 162 Containers Across Three Hosts](https://dev.to/hoelee/running-production-infrastructure-solo-162-containers-across-three-hosts-28bl)
+- [What the Zeabur Breach Actually Broke &lpar;and What Isolation Architecture Could Have Stopped&rpar;](https://dev.to/rbonweb/what-the-zeabur-breach-actually-broke-and-what-isolation-architecture-could-have-stopped-527j)
+- [Mastering Remote AI Agents: A Comprehensive Guide to Claude and Codex on Virtual Machines](https://dev.to/devandrew/mastering-remote-ai-agents-a-comprehensive-guide-to-claude-and-codex-on-virtual-machines-m7n)
+- [Digital Ofrenda](https://dev.to/priyanshi_sharma_0f54b6fd/digital-ofrenda-3fi)
+- [Java Erases Your Generics. TypeScript Erases Every Type. What Survives to Runtime](https://dev.to/gabrielanhaia/java-erases-your-generics-typescript-erases-every-type-what-survives-to-runtime-16mk)
+- [The three meters behind a $65 million observability bill](https://dev.to/buildopsy/the-three-meters-behind-a-65-million-observability-bill-42dd)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
