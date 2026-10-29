@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Commerce Delivery Forensics: 7 Practices for Debugging Malformed JSON Alerts](https://dev.to/xaviorcross6845/commerce-delivery-forensics-7-practices-for-debugging-malformed-json-alerts-k6f)
-- [GitLab 19.3.6 Wasn&#39;t Enough for Alpine&#39;s Custom Image: Verify Ruby Too](https://dev.to/jamilxt/gitlab-1936-wasnt-enough-for-alpines-custom-image-verify-ruby-too-4874)
-- [Building Sub-5ms Ingestion Middleware for ServiceTitan and Jobber: Part Two - Edge Validation, Telemetry Flattening, and Automated DLQ Isolation](https://dev.to/kallowaythayer/building-sub-5ms-ingestion-middleware-for-servicetitan-and-jobber-part-two-edge-validation-2a3f)
-- [Residential proxy pricing: what a GB buys for your job](https://dev.to/proxymint/residential-proxy-pricing-what-a-gb-buys-for-your-job-jp)
-- [Treat a Hermes Skill Merge as a Deployment Change](https://dev.to/ihopkins/treat-a-hermes-skill-merge-as-a-deployment-change-41d5)
-- [Dual write: the bug hiding between your database and your message broker](https://dev.to/devmaycry/dual-write-the-bug-hiding-between-your-database-and-your-message-broker-3mlg)
+- [Docker Compose depends_on Doesn&#39;t Wait for the Database: Fix &quot;Connection Refused&quot; on Startup](https://dev.to/libme/docker-compose-dependson-doesnt-wait-for-the-database-fix-connection-refused-on-startup-4jn6)
+- [The same account after cleanup: $9,800 a month](https://dev.to/vlad_z_16b6320e21f32bee0d/the-same-account-after-cleanup-9800-a-month-2ip0)
+- [Stop Writing API Mocks by Hand: How Keploy Automates Integration Testing](https://dev.to/satanic47/stop-writing-api-mocks-by-hand-how-keploy-automates-integration-testing-3aoi)
+- [How to Buy Old GitHub Accounts Securely &lpar;Complete Guide In 26](https://dev.to/kevinsutherin/how-to-buy-old-github-accounts-securely-complete-guide-in-26-5eg0)
+- [Who Approves the AI&#39;s Code?](https://dev.to/aicodeops_dev/who-approves-the-ais-code-1kd6)
+- [Your Merge Button Is the Real Quality Gate](https://dev.to/aicodeops_dev/your-merge-button-is-the-real-quality-gate-11l3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
