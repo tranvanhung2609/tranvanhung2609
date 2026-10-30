@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose depends_on Doesn&#39;t Wait for the Database: Fix &quot;Connection Refused&quot; on Startup](https://dev.to/libme/docker-compose-dependson-doesnt-wait-for-the-database-fix-connection-refused-on-startup-4jn6)
-- [The same account after cleanup: $9,800 a month](https://dev.to/vlad_z_16b6320e21f32bee0d/the-same-account-after-cleanup-9800-a-month-2ip0)
-- [Stop Writing API Mocks by Hand: How Keploy Automates Integration Testing](https://dev.to/satanic47/stop-writing-api-mocks-by-hand-how-keploy-automates-integration-testing-3aoi)
-- [How to Buy Old GitHub Accounts Securely &lpar;Complete Guide In 26](https://dev.to/kevinsutherin/how-to-buy-old-github-accounts-securely-complete-guide-in-26-5eg0)
-- [Who Approves the AI&#39;s Code?](https://dev.to/aicodeops_dev/who-approves-the-ais-code-1kd6)
-- [Your Merge Button Is the Real Quality Gate](https://dev.to/aicodeops_dev/your-merge-button-is-the-real-quality-gate-11l3)
+- [How to check which AI crawlers actually hit a new WordPress site in week one](https://dev.to/aumcreate/how-to-check-which-ai-crawlers-actually-hit-a-new-wordpress-site-in-week-one-16cp)
+- [Tracing AI Agents with OpenTelemetry: A Design for LLM and Agentic AI Observability](https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-1cjp)
+- [How to Check an SSL Certificate Expiry Date &lpar;Browser, OpenSSL, PowerShell, curl and Python&rpar;](https://dev.to/mfaysaldev/how-to-check-an-ssl-certificate-expiry-date-browser-openssl-powershell-curl-and-python-b3k)
+- [Building a Behavior-Based Email Welcome Flow Without Complex Automation](https://dev.to/sprout24th/building-a-behavior-based-email-welcome-flow-without-complex-automation-33jl)
+- [Automating tax calculation from Amazon VAT reports: a system design for VAT service providers](https://dev.to/jobs_yang_9d4ae5132ae1507/automating-tax-calculation-from-amazon-vat-reports-a-system-design-for-vat-service-providers-2f65)
+- [How we bundled Java 8 into a one-click Windows zip for our game](https://dev.to/snowrsps/how-we-bundled-java-8-into-a-one-click-windows-zip-for-our-game-2j02)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
