@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How much RAM does a Java application really need? Sizing a small server](https://dev.to/boban_c_efdfda91574c06d5/how-much-ram-does-a-java-application-really-need-sizing-a-small-server-2dma)
-- [How to Stop Overselling in Inventory Management Software Development &lpar;Node.js and PostgreSQL&rpar; published: false](https://dev.to/sanya_mittal_a509a2c50a2d/how-to-stop-overselling-in-inventory-management-software-development-nodejs-and-postgresql-25fi)
-- [AI Agents in Production: State Management, Cost Control, and Observability 2026](https://dev.to/saaro_net/ai-agents-in-production-state-management-cost-control-and-observability-2026-5gek)
-- [We Migrated the Server and Only Payments Died — Reverse DNS and Error 908 from a Payment Gateway](https://dev.to/pythona/we-migrated-the-server-and-only-payments-died-reverse-dns-and-error-908-from-a-payment-gateway-4po8)
-- [What is PAM &lpar;Privileged Access Management&rpar;? A practical guide and free self-hosted options](https://dev.to/siemcompliance/what-is-pam-privileged-access-management-a-practical-guide-and-free-self-hosted-options-1624)
-- [Maker-Checker Approvals and Audit Logs: Design Notes for Government Workflow Apps](https://dev.to/affix_centersoftechserv/maker-checker-approvals-and-audit-logs-design-notes-for-government-workflow-apps-32co)
+- [Marketplace Imports: Error Tracking Practices for Handling Uncaught Node.js Exceptions](https://dev.to/norbertchristensen3183/marketplace-imports-error-tracking-practices-for-handling-uncaught-nodejs-exceptions-1pgg)
+- [Prometheus Certified Associate: How PromQL Decides Whether You Pass](https://dev.to/yetmike/prometheus-certified-associate-how-promql-decides-whether-you-pass-130a)
+- [GitHub Actions Cache Never Hits on Pull Requests: Branch Scope, Immutable Keys, and restore-keys](https://dev.to/libme/github-actions-cache-never-hits-on-pull-requests-branch-scope-immutable-keys-and-restore-keys-59bb)
+- [DORA Metrics for AI Agents: How We Built an Observability Engine in Pure Go](https://dev.to/rodrigodosanjosoliveira/dora-metrics-for-ai-agents-how-we-built-an-observability-engine-in-pure-go-254i)
+- [Modernizando Java legado com IA - o que funciona e o que dá errado](https://dev.to/luciencorreia/modernizando-java-legado-com-ia-o-que-funciona-e-o-que-da-errado-371a)
+- [jssdataloom — JS + JDBC data extraction with GraalVM](https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
