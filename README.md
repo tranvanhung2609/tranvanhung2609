@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to check which AI crawlers actually hit a new WordPress site in week one](https://dev.to/aumcreate/how-to-check-which-ai-crawlers-actually-hit-a-new-wordpress-site-in-week-one-16cp)
-- [Tracing AI Agents with OpenTelemetry: A Design for LLM and Agentic AI Observability](https://dev.to/bonree-js/tracing-ai-agents-with-opentelemetry-a-design-for-llm-and-agentic-ai-observability-1cjp)
-- [How to Check an SSL Certificate Expiry Date &lpar;Browser, OpenSSL, PowerShell, curl and Python&rpar;](https://dev.to/mfaysaldev/how-to-check-an-ssl-certificate-expiry-date-browser-openssl-powershell-curl-and-python-b3k)
-- [Building a Behavior-Based Email Welcome Flow Without Complex Automation](https://dev.to/sprout24th/building-a-behavior-based-email-welcome-flow-without-complex-automation-33jl)
-- [Automating tax calculation from Amazon VAT reports: a system design for VAT service providers](https://dev.to/jobs_yang_9d4ae5132ae1507/automating-tax-calculation-from-amazon-vat-reports-a-system-design-for-vat-service-providers-2f65)
-- [How we bundled Java 8 into a one-click Windows zip for our game](https://dev.to/snowrsps/how-we-bundled-java-8-into-a-one-click-windows-zip-for-our-game-2j02)
+- [How much RAM does a Java application really need? Sizing a small server](https://dev.to/boban_c_efdfda91574c06d5/how-much-ram-does-a-java-application-really-need-sizing-a-small-server-2dma)
+- [How to Stop Overselling in Inventory Management Software Development &lpar;Node.js and PostgreSQL&rpar; published: false](https://dev.to/sanya_mittal_a509a2c50a2d/how-to-stop-overselling-in-inventory-management-software-development-nodejs-and-postgresql-25fi)
+- [AI Agents in Production: State Management, Cost Control, and Observability 2026](https://dev.to/saaro_net/ai-agents-in-production-state-management-cost-control-and-observability-2026-5gek)
+- [We Migrated the Server and Only Payments Died — Reverse DNS and Error 908 from a Payment Gateway](https://dev.to/pythona/we-migrated-the-server-and-only-payments-died-reverse-dns-and-error-908-from-a-payment-gateway-4po8)
+- [What is PAM &lpar;Privileged Access Management&rpar;? A practical guide and free self-hosted options](https://dev.to/siemcompliance/what-is-pam-privileged-access-management-a-practical-guide-and-free-self-hosted-options-1624)
+- [Maker-Checker Approvals and Audit Logs: Design Notes for Government Workflow Apps](https://dev.to/affix_centersoftechserv/maker-checker-approvals-and-audit-logs-design-notes-for-government-workflow-apps-32co)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
