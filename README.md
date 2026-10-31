@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Marketplace Imports: Error Tracking Practices for Handling Uncaught Node.js Exceptions](https://dev.to/norbertchristensen3183/marketplace-imports-error-tracking-practices-for-handling-uncaught-nodejs-exceptions-1pgg)
-- [Prometheus Certified Associate: How PromQL Decides Whether You Pass](https://dev.to/yetmike/prometheus-certified-associate-how-promql-decides-whether-you-pass-130a)
-- [GitHub Actions Cache Never Hits on Pull Requests: Branch Scope, Immutable Keys, and restore-keys](https://dev.to/libme/github-actions-cache-never-hits-on-pull-requests-branch-scope-immutable-keys-and-restore-keys-59bb)
-- [DORA Metrics for AI Agents: How We Built an Observability Engine in Pure Go](https://dev.to/rodrigodosanjosoliveira/dora-metrics-for-ai-agents-how-we-built-an-observability-engine-in-pure-go-254i)
-- [Modernizando Java legado com IA - o que funciona e o que dá errado](https://dev.to/luciencorreia/modernizando-java-legado-com-ia-o-que-funciona-e-o-que-da-errado-371a)
-- [jssdataloom — JS + JDBC data extraction with GraalVM](https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4)
+- [Duong Phuc Khanh &lpar;Dương Phúc Khánh · Kido&rpar; — Systems Architect: 5 Open-Source Distributed Systems &amp; FinTech Engineering Monographs](https://dev.to/khanhduong22/duong-phuc-khanh-duong-phuc-khanh-kido-systems-architect-5-open-source-distributed-systems--2c83)
+- [Platform Engineering in Practice 2026: Golden Paths, Portals, and Proof Anyone Uses Them](https://dev.to/softverseadmin/platform-engineering-in-practice-2026-golden-paths-portals-and-proof-anyone-uses-them-26k3)
+- [Preventing Account Takeover &lpar;ATO&rpar; &amp; Spam Floods: Email Risk-Scoring Explained](https://dev.to/shawon_hossain1809256_/preventing-account-takeover-ato-spam-floods-email-risk-scoring-explained-3gd2)
+- [Testing Webhook &amp; Transactional Email Flows with Ephemeral Inboxes: A Practical Guide](https://dev.to/shawon_hossain1809256_/testing-webhook-transactional-email-flows-with-ephemeral-inboxes-a-practical-guide-h43)
+- [Automating OTP &amp; Email Verification in Mobile App Testing &lpar;Without Burner SIMs&rpar;](https://dev.to/shawon_hossain1809256_/automating-otp-email-verification-in-mobile-app-testing-without-burner-sims-1iki)
+- [How to Build an Automated OTP &amp; Email Verification Pipeline for E2E Testing](https://dev.to/shawon_hossain1809256_/how-to-build-an-automated-otp-email-verification-pipeline-for-e2e-testing-4aed)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
