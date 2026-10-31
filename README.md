@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Email Event Notifications in Node.js: Implement Report Attachments with 2026 Code](https://dev.to/holdenfox8476/email-event-notifications-in-nodejs-implement-report-attachments-with-2026-code-1b7m)
-- [How to Install PHP 8.5 on Ubuntu 24.04 — and Run Several PHP Versions Side by Side](https://dev.to/shahid_karimi/how-to-install-php-85-on-ubuntu-2404-and-run-several-php-versions-side-by-side-1egh)
-- [How to Install WordPress on Ubuntu 24.04 with Caddy, PHP 8.4 and MariaDB](https://dev.to/shahid_karimi/how-to-install-wordpress-on-ubuntu-2404-with-caddy-php-84-and-mariadb-244k)
-- [How to Deploy Laravel 13 to Production on Your Own Ubuntu Server](https://dev.to/shahid_karimi/how-to-deploy-laravel-13-to-production-on-your-own-ubuntu-server-l1o)
-- [Java - Constructor &amp; Constructor Overloading](https://dev.to/gowtham_s/java-constructor-constructor-overloading-45d9)
-- [AI Summarization Workflow: Combining Batch Processing with a GPT API for Code Review](https://dev.to/sladebarrett9642/ai-summarization-workflow-combining-batch-processing-with-a-gpt-api-for-code-review-h83)
+- [Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1)
+- [Latencia de memoria: qué es y por qué tu CPU no rinde al 100%](https://dev.to/lu1tr0n/latencia-de-memoria-que-es-y-por-que-tu-cpu-no-rinde-al-100-4ml2)
+- [Your Software Can&#39;t Heal What It Can&#39;t See: Support Is the Missing Loop](https://dev.to/geongeorge/your-software-cant-heal-what-it-cant-see-support-is-the-missing-loop-h71)
+- [The Local Loop Is the Architecture](https://dev.to/flisk/the-local-loop-is-the-architecture-16f)
+- [The Local Loop Gateway](https://dev.to/flisk/the-local-loop-gateway-1i4p)
+- [Eyes, Not Hands: Adding AWS DevOps Agent, Bedrock AgentCore and Kiro to a GitOps Platform on EKS](https://dev.to/aws-builders/eyes-not-hands-adding-aws-devops-agent-bedrock-agentcore-and-kiro-to-a-gitops-platform-on-eks-2in9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
