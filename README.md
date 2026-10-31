@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Hotel mapping: giving one hotel one ID across supplier feeds](https://dev.to/travelexe_edge91_b08eec3f/hotel-mapping-giving-one-hotel-one-id-across-supplier-feeds-4ck1)
-- [Our app has 601 serverless invocations a day and exactly one background task, and the task gets 1,800 seconds](https://dev.to/daniel_pertu/our-app-has-601-serverless-invocations-a-day-and-exactly-one-background-task-and-the-task-gets-2gko)
-- [Terraform Testing in 2026: Unit Tests With terraform test and Mock Providers](https://dev.to/softverseadmin/terraform-testing-in-2026-unit-tests-with-terraform-test-and-mock-providers-2e5k)
-- [n8n 3.0 removes the Function node, and published workflows stop activating](https://dev.to/voxahq/n8n-30-removes-the-function-node-and-published-workflows-stop-activating-41h1)
-- [Our maintenance mode is one boolean in a TypeScript file, and it taught us that our sign-in pages are not public](https://dev.to/daniel_pertu/our-maintenance-mode-is-one-boolean-in-a-typescript-file-and-it-taught-us-that-our-sign-in-pages-5afd)
-- [Agent Browsing Moved to the Cloud: Sessions, Locations, Handover, and the Per-Minute Bill](https://dev.to/donk8r/agent-browsing-moved-to-the-cloud-sessions-locations-handover-and-the-per-minute-bill-4o38)
+- [Email Event Notifications in Node.js: Implement Report Attachments with 2026 Code](https://dev.to/holdenfox8476/email-event-notifications-in-nodejs-implement-report-attachments-with-2026-code-1b7m)
+- [How to Install PHP 8.5 on Ubuntu 24.04 — and Run Several PHP Versions Side by Side](https://dev.to/shahid_karimi/how-to-install-php-85-on-ubuntu-2404-and-run-several-php-versions-side-by-side-1egh)
+- [How to Install WordPress on Ubuntu 24.04 with Caddy, PHP 8.4 and MariaDB](https://dev.to/shahid_karimi/how-to-install-wordpress-on-ubuntu-2404-with-caddy-php-84-and-mariadb-244k)
+- [How to Deploy Laravel 13 to Production on Your Own Ubuntu Server](https://dev.to/shahid_karimi/how-to-deploy-laravel-13-to-production-on-your-own-ubuntu-server-l1o)
+- [Java - Constructor &amp; Constructor Overloading](https://dev.to/gowtham_s/java-constructor-constructor-overloading-45d9)
+- [AI Summarization Workflow: Combining Batch Processing with a GPT API for Code Review](https://dev.to/sladebarrett9642/ai-summarization-workflow-combining-batch-processing-with-a-gpt-api-for-code-review-h83)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
