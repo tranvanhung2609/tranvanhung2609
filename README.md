@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Duong Phuc Khanh &lpar;Dương Phúc Khánh · Kido&rpar; — Systems Architect: 5 Open-Source Distributed Systems &amp; FinTech Engineering Monographs](https://dev.to/khanhduong22/duong-phuc-khanh-duong-phuc-khanh-kido-systems-architect-5-open-source-distributed-systems--2c83)
-- [Platform Engineering in Practice 2026: Golden Paths, Portals, and Proof Anyone Uses Them](https://dev.to/softverseadmin/platform-engineering-in-practice-2026-golden-paths-portals-and-proof-anyone-uses-them-26k3)
-- [Preventing Account Takeover &lpar;ATO&rpar; &amp; Spam Floods: Email Risk-Scoring Explained](https://dev.to/shawon_hossain1809256_/preventing-account-takeover-ato-spam-floods-email-risk-scoring-explained-3gd2)
-- [Testing Webhook &amp; Transactional Email Flows with Ephemeral Inboxes: A Practical Guide](https://dev.to/shawon_hossain1809256_/testing-webhook-transactional-email-flows-with-ephemeral-inboxes-a-practical-guide-h43)
-- [Automating OTP &amp; Email Verification in Mobile App Testing &lpar;Without Burner SIMs&rpar;](https://dev.to/shawon_hossain1809256_/automating-otp-email-verification-in-mobile-app-testing-without-burner-sims-1iki)
-- [How to Build an Automated OTP &amp; Email Verification Pipeline for E2E Testing](https://dev.to/shawon_hossain1809256_/how-to-build-an-automated-otp-email-verification-pipeline-for-e2e-testing-4aed)
+- [Hotel mapping: giving one hotel one ID across supplier feeds](https://dev.to/travelexe_edge91_b08eec3f/hotel-mapping-giving-one-hotel-one-id-across-supplier-feeds-4ck1)
+- [Our app has 601 serverless invocations a day and exactly one background task, and the task gets 1,800 seconds](https://dev.to/daniel_pertu/our-app-has-601-serverless-invocations-a-day-and-exactly-one-background-task-and-the-task-gets-2gko)
+- [Terraform Testing in 2026: Unit Tests With terraform test and Mock Providers](https://dev.to/softverseadmin/terraform-testing-in-2026-unit-tests-with-terraform-test-and-mock-providers-2e5k)
+- [n8n 3.0 removes the Function node, and published workflows stop activating](https://dev.to/voxahq/n8n-30-removes-the-function-node-and-published-workflows-stop-activating-41h1)
+- [Our maintenance mode is one boolean in a TypeScript file, and it taught us that our sign-in pages are not public](https://dev.to/daniel_pertu/our-maintenance-mode-is-one-boolean-in-a-typescript-file-and-it-taught-us-that-our-sign-in-pages-5afd)
+- [Agent Browsing Moved to the Cloud: Sessions, Locations, Handover, and the Per-Minute Bill](https://dev.to/donk8r/agent-browsing-moved-to-the-cloud-sessions-locations-handover-and-the-per-minute-bill-4o38)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
