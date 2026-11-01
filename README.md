@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Why a local SMTP catcher is not an email integration test](https://dev.to/yoni_ryabinski_da05ba8c9c/why-a-local-smtp-catcher-is-not-an-email-integration-test-3cn1)
-- [Latencia de memoria: qué es y por qué tu CPU no rinde al 100%](https://dev.to/lu1tr0n/latencia-de-memoria-que-es-y-por-que-tu-cpu-no-rinde-al-100-4ml2)
-- [Your Software Can&#39;t Heal What It Can&#39;t See: Support Is the Missing Loop](https://dev.to/geongeorge/your-software-cant-heal-what-it-cant-see-support-is-the-missing-loop-h71)
-- [The Local Loop Is the Architecture](https://dev.to/flisk/the-local-loop-is-the-architecture-16f)
-- [The Local Loop Gateway](https://dev.to/flisk/the-local-loop-gateway-1i4p)
-- [Eyes, Not Hands: Adding AWS DevOps Agent, Bedrock AgentCore and Kiro to a GitOps Platform on EKS](https://dev.to/aws-builders/eyes-not-hands-adding-aws-devops-agent-bedrock-agentcore-and-kiro-to-a-gitops-platform-on-eks-2in9)
+- [Reliable Logistics Receipts with Node.js Email Event Polling: Retries and Recovery](https://dev.to/magnusnilsson2124/reliable-logistics-receipts-with-nodejs-email-event-polling-retries-and-recovery-2k8p)
+- [Your Disk-Full Alert Is Lying: Stop Alerting on Percentages](https://dev.to/hoelee/your-disk-full-alert-is-lying-stop-alerting-on-percentages-3jaa)
+- [Exploring tenant isolation with Spring Boot, OIDC, and PostgreSQL RLS](https://dev.to/chafian/exploring-tenant-isolation-with-spring-boot-oidc-and-postgresql-rls-3e22)
+- [Why your n8n Error Workflow is not triggering &lpar;and how to fix it&rpar;](https://dev.to/lanternflows/why-your-n8n-error-workflow-is-not-triggering-and-how-to-fix-it-1jm7)
+- [Braintree&#39;s Vault Knows the New Card. Your Retry Still Used the Old One.](https://dev.to/swipe-again/braintrees-vault-knows-the-new-card-your-retry-still-used-the-old-one-pe0)
+- [Bridging the Gap: Applying Infrastructure Discipline to Probabilistic AI Systems](https://dev.to/alenichev/bridging-the-gap-applying-infrastructure-discipline-to-probabilistic-ai-systems-351h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
