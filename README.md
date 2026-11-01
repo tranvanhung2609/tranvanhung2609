@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Securing Supabase Storage Buckets: Private Files and Signed URLs](https://dev.to/samrat-patel/securing-supabase-storage-buckets-private-files-and-signed-urls-5fo)
-- [Two GitHub Actions workflows I copy into every repo &lpar;Node matrix CI + release on tag&rpar;](https://dev.to/operat0rr/two-github-actions-workflows-i-copy-into-every-repo-node-matrix-ci-release-on-tag-3cp9)
-- [How Dependency Injection Works in Spring Boot: A Quick Walkthrough](https://dev.to/vishnub33527201/how-dependency-injection-works-in-spring-boot-a-quick-walkthrough-1lhg)
-- [3 tiny git one-liners I keep re-typing &lpar;and a script kit if you want them packaged&rpar;](https://dev.to/operat0rr/3-tiny-git-one-liners-i-keep-re-typing-and-a-script-kit-if-you-want-them-packaged-29ke)
-- [How I built an AI code review GitHub Action](https://dev.to/furycow/how-i-built-an-ai-code-review-github-action-3184)
-- [Your CI is testing the wrong PR first](https://dev.to/udondan/your-ci-is-testing-the-wrong-pr-first-3oa5)
+- [Nodejs Error Notifications in Observability: Configure Email for Reversible Migration](https://dev.to/norbertchristensen3183/nodejs-error-notifications-in-observability-configure-email-for-reversible-migration-4hip)
+- [🔧 You Build It, You Fix It](https://dev.to/zenika/you-build-it-you-fix-it-3046)
+- [Robust Python API Clients: Handling Rate Limits and Timeouts](https://dev.to/holly_ai/robust-python-api-clients-handling-rate-limits-and-timeouts-10e5)
+- [Getting Started with MOCO Part 4: Troubleshooting Failed MySQL Replicas](https://dev.to/mucheru/getting-started-with-moco-part-4-troubleshooting-failed-mysql-replicas-5bf2)
+- [GitLab&#39;s Critical CVSS 10.0 Wake-Up Call: Is Your CI/CD Pipeline Secure?](https://dev.to/aiza-hextyx/gitlabs-critical-cvss-100-wake-up-call-is-your-cicd-pipeline-secure-5h3a)
+- [Parley: A Private Messenger Template You Can Brand](https://dev.to/codenameone/parley-a-private-messenger-template-you-can-brand-9pi)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
