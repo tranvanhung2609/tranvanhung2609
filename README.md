@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Logistics Receipts with Node.js Email Event Polling: Retries and Recovery](https://dev.to/magnusnilsson2124/reliable-logistics-receipts-with-nodejs-email-event-polling-retries-and-recovery-2k8p)
-- [Your Disk-Full Alert Is Lying: Stop Alerting on Percentages](https://dev.to/hoelee/your-disk-full-alert-is-lying-stop-alerting-on-percentages-3jaa)
-- [Exploring tenant isolation with Spring Boot, OIDC, and PostgreSQL RLS](https://dev.to/chafian/exploring-tenant-isolation-with-spring-boot-oidc-and-postgresql-rls-3e22)
-- [Why your n8n Error Workflow is not triggering &lpar;and how to fix it&rpar;](https://dev.to/lanternflows/why-your-n8n-error-workflow-is-not-triggering-and-how-to-fix-it-1jm7)
-- [Braintree&#39;s Vault Knows the New Card. Your Retry Still Used the Old One.](https://dev.to/swipe-again/braintrees-vault-knows-the-new-card-your-retry-still-used-the-old-one-pe0)
-- [Bridging the Gap: Applying Infrastructure Discipline to Probabilistic AI Systems](https://dev.to/alenichev/bridging-the-gap-applying-infrastructure-discipline-to-probabilistic-ai-systems-351h)
+- [Securing Supabase Storage Buckets: Private Files and Signed URLs](https://dev.to/samrat-patel/securing-supabase-storage-buckets-private-files-and-signed-urls-5fo)
+- [Two GitHub Actions workflows I copy into every repo &lpar;Node matrix CI + release on tag&rpar;](https://dev.to/operat0rr/two-github-actions-workflows-i-copy-into-every-repo-node-matrix-ci-release-on-tag-3cp9)
+- [How Dependency Injection Works in Spring Boot: A Quick Walkthrough](https://dev.to/vishnub33527201/how-dependency-injection-works-in-spring-boot-a-quick-walkthrough-1lhg)
+- [3 tiny git one-liners I keep re-typing &lpar;and a script kit if you want them packaged&rpar;](https://dev.to/operat0rr/3-tiny-git-one-liners-i-keep-re-typing-and-a-script-kit-if-you-want-them-packaged-29ke)
+- [How I built an AI code review GitHub Action](https://dev.to/furycow/how-i-built-an-ai-code-review-github-action-3184)
+- [Your CI is testing the wrong PR first](https://dev.to/udondan/your-ci-is-testing-the-wrong-pr-first-3oa5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
