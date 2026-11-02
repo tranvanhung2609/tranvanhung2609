@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency Keys Under Distributed Retry Pressure: Key Scoping, Storage Contracts, and the Deduplication Boundary](https://dev.to/neeraj_singhi_golang/idempotency-keys-under-distributed-retry-pressure-key-scoping-storage-contracts-and-the-4p6p)
-- [DeepSeek Harness: Self-Hosted Agent Runtime, Measured](https://dev.to/selfhostpilot/deepseek-harness-self-hosted-agent-runtime-measured-9j0)
-- [Java Exception Handling and File Handling](https://dev.to/manislab96/java-exception-handling-and-file-handling-1pk3)
-- [We stopped reading 2,195 MCP servers for three days. Another team&#39;s log is how we found out](https://dev.to/alexar76/we-stopped-reading-2195-mcp-servers-for-three-days-another-teams-log-is-how-we-found-out-52g0)
-- [OpenTelemetry in Production: When Auto-Instrumentation Stops &lpar;MSK, Outbox, Cron&rpar;](https://dev.to/joungpark/opentelemetry-in-production-when-auto-instrumentation-stops-msk-outbox-cron-3c8f)
-- [The Forward-Auth Gate That Verified Perfectly — and Wasn&#39;t Live](https://dev.to/hoelee/the-forward-auth-gate-that-verified-perfectly-and-wasnt-live-5g0a)
+- [How I Built a Shift-Left DevSecOps Pipeline for FastAPI &amp; Kubernetes &lpar;And Caught 3 Real High-Severity CVEs with Trivy&rpar; published: true](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)
+- [GitHub Actions for Beginners: Automate Tests and Deploys on Every Push](https://dev.to/arhan_khan/github-actions-for-beginners-automate-tests-and-deploys-on-every-push-19fm)
+- [🧠 Do Prompt ao RAG: como fazer um LLM responder sem inventar &lpar;e sem processo do cliente&rpar;](https://dev.to/fabiothomazrocha/do-prompt-ao-rag-como-fazer-um-llm-responder-sem-inventar-e-sem-processo-do-cliente-1jnn)
+- [Expressões Cron sem mistério: Como montar agendamentos sem errar na produção](https://dev.to/geekecia/expressoes-cron-sem-misterio-como-montar-agendamentos-sem-errar-na-producao-4g0i)
+- [From Zero to Live: Containerise a Python App, Deploy It to Azure Container Apps and Automate It with GitHub Actions](https://dev.to/rahimah_dev/from-zero-to-live-containerise-a-python-app-deploy-it-to-azure-container-apps-and-automate-it-4g9g)
+- [The checklist I run on every cloud account](https://dev.to/vlad_z_16b6320e21f32bee0d/the-checklist-i-run-on-every-cloud-account-714)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
