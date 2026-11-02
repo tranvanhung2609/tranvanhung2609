@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Nodejs Error Notifications in Observability: Configure Email for Reversible Migration](https://dev.to/norbertchristensen3183/nodejs-error-notifications-in-observability-configure-email-for-reversible-migration-4hip)
-- [🔧 You Build It, You Fix It](https://dev.to/zenika/you-build-it-you-fix-it-3046)
-- [Robust Python API Clients: Handling Rate Limits and Timeouts](https://dev.to/holly_ai/robust-python-api-clients-handling-rate-limits-and-timeouts-10e5)
-- [Getting Started with MOCO Part 4: Troubleshooting Failed MySQL Replicas](https://dev.to/mucheru/getting-started-with-moco-part-4-troubleshooting-failed-mysql-replicas-5bf2)
-- [GitLab&#39;s Critical CVSS 10.0 Wake-Up Call: Is Your CI/CD Pipeline Secure?](https://dev.to/aiza-hextyx/gitlabs-critical-cvss-100-wake-up-call-is-your-cicd-pipeline-secure-5h3a)
-- [Parley: A Private Messenger Template You Can Brand](https://dev.to/codenameone/parley-a-private-messenger-template-you-can-brand-9pi)
+- [Idempotency Keys Under Distributed Retry Pressure: Key Scoping, Storage Contracts, and the Deduplication Boundary](https://dev.to/neeraj_singhi_golang/idempotency-keys-under-distributed-retry-pressure-key-scoping-storage-contracts-and-the-4p6p)
+- [DeepSeek Harness: Self-Hosted Agent Runtime, Measured](https://dev.to/selfhostpilot/deepseek-harness-self-hosted-agent-runtime-measured-9j0)
+- [Java Exception Handling and File Handling](https://dev.to/manislab96/java-exception-handling-and-file-handling-1pk3)
+- [We stopped reading 2,195 MCP servers for three days. Another team&#39;s log is how we found out](https://dev.to/alexar76/we-stopped-reading-2195-mcp-servers-for-three-days-another-teams-log-is-how-we-found-out-52g0)
+- [OpenTelemetry in Production: When Auto-Instrumentation Stops &lpar;MSK, Outbox, Cron&rpar;](https://dev.to/joungpark/opentelemetry-in-production-when-auto-instrumentation-stops-msk-outbox-cron-3c8f)
+- [The Forward-Auth Gate That Verified Perfectly — and Wasn&#39;t Live](https://dev.to/hoelee/the-forward-auth-gate-that-verified-perfectly-and-wasnt-live-5g0a)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
