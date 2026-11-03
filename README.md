@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Welcome Message Delivery: Bounce Suppression for Healthtech Email Pipelines](https://dev.to/sladebarrett9642/welcome-message-delivery-bounce-suppression-for-healthtech-email-pipelines-53k5)
-- [Is your reviewer agent ever actually called? Counting it from session logs](https://dev.to/morganvale/is-your-reviewer-agent-ever-actually-called-counting-it-from-session-logs-1c5d)
-- [Decoding IAM: The Invisible Shield Every Engineer Needs to Understand](https://dev.to/karthikkorrayi/decoding-iam-the-invisible-shield-every-engineer-needs-to-understand-6oi)
-- [asyncpg + PgBouncer Transaction Mode: 61 Prepared Statement Errors](https://dev.to/ji_ai/asyncpg-pgbouncer-transaction-mode-61-prepared-statement-errors-2pin)
-- [Object Storage Services for Secure AI-Generated Image Hosting with Reproducible Retention](https://dev.to/liamfoster1844/object-storage-services-for-secure-ai-generated-image-hosting-with-reproducible-retention-14g6)
-- [Choosing Chatbot API Quality Versus Latency for Marketplace CRM Actions &lpar;and Why One Wins&rpar;](https://dev.to/brennancross2167/choosing-chatbot-api-quality-versus-latency-for-marketplace-crm-actions-and-why-one-wins-34pb)
+- [[AI in Action] Rewriting a Daily LINE Bot from Python to Go 1.26 on Cloud Run: 1/4 Resource Usage, Google ADK v1.9.0, and Zero-D](https://dev.to/gde/ai-in-action-rewriting-a-daily-line-bot-from-python-to-go-126-on-cloud-run-14-resource-usage-2o62)
+- [Write Once, Debug Everywhere](https://dev.to/chaesang/write-once-debug-everywhere-59c)
+- [🤖 The Future of Artificial Intelligence in 2026: How AI Is Changing the World](https://dev.to/pop_bro_870/the-future-of-artificial-intelligence-in-2026-how-ai-is-changing-the-world-39fo)
+- [Why a parser cursor has to stay failed after the first refusal](https://dev.to/polycratia/why-a-parser-cursor-has-to-stay-failed-after-the-first-refusal-16co)
+- [CVE-2026-98432: Ubuntu Is Still Unpatched After 19 Days. How to Protect Servers](https://dev.to/alanwest/cve-2026-98432-ubuntu-is-still-unpatched-after-19-days-how-to-protect-servers-3hi8)
+- [Monitoring Outgoing Webhooks: Failure Rates, Backlogs, and Alerts](https://dev.to/shannonllc/monitoring-outgoing-webhooks-failure-rates-backlogs-and-alerts-3bbh)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
