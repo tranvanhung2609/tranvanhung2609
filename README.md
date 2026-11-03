@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Shift-Left DevSecOps Pipeline for FastAPI &amp; Kubernetes &lpar;And Caught 3 Real High-Severity CVEs with Trivy&rpar; published: true](https://dev.to/mohammed_armaan_51c01b74e/how-i-built-a-shift-left-devsecops-pipeline-for-fastapi-kubernetes-and-caught-3-real-g8k)
-- [GitHub Actions for Beginners: Automate Tests and Deploys on Every Push](https://dev.to/arhan_khan/github-actions-for-beginners-automate-tests-and-deploys-on-every-push-19fm)
-- [🧠 Do Prompt ao RAG: como fazer um LLM responder sem inventar &lpar;e sem processo do cliente&rpar;](https://dev.to/fabiothomazrocha/do-prompt-ao-rag-como-fazer-um-llm-responder-sem-inventar-e-sem-processo-do-cliente-1jnn)
-- [Expressões Cron sem mistério: Como montar agendamentos sem errar na produção](https://dev.to/geekecia/expressoes-cron-sem-misterio-como-montar-agendamentos-sem-errar-na-producao-4g0i)
-- [From Zero to Live: Containerise a Python App, Deploy It to Azure Container Apps and Automate It with GitHub Actions](https://dev.to/rahimah_dev/from-zero-to-live-containerise-a-python-app-deploy-it-to-azure-container-apps-and-automate-it-4g9g)
-- [The checklist I run on every cloud account](https://dev.to/vlad_z_16b6320e21f32bee0d/the-checklist-i-run-on-every-cloud-account-714)
+- [Welcome Message Delivery: Bounce Suppression for Healthtech Email Pipelines](https://dev.to/sladebarrett9642/welcome-message-delivery-bounce-suppression-for-healthtech-email-pipelines-53k5)
+- [Is your reviewer agent ever actually called? Counting it from session logs](https://dev.to/morganvale/is-your-reviewer-agent-ever-actually-called-counting-it-from-session-logs-1c5d)
+- [Decoding IAM: The Invisible Shield Every Engineer Needs to Understand](https://dev.to/karthikkorrayi/decoding-iam-the-invisible-shield-every-engineer-needs-to-understand-6oi)
+- [asyncpg + PgBouncer Transaction Mode: 61 Prepared Statement Errors](https://dev.to/ji_ai/asyncpg-pgbouncer-transaction-mode-61-prepared-statement-errors-2pin)
+- [Object Storage Services for Secure AI-Generated Image Hosting with Reproducible Retention](https://dev.to/liamfoster1844/object-storage-services-for-secure-ai-generated-image-hosting-with-reproducible-retention-14g6)
+- [Choosing Chatbot API Quality Versus Latency for Marketplace CRM Actions &lpar;and Why One Wins&rpar;](https://dev.to/brennancross2167/choosing-chatbot-api-quality-versus-latency-for-marketplace-crm-actions-and-why-one-wins-34pb)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
