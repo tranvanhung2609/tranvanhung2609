@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [[AI in Action] Rewriting a Daily LINE Bot from Python to Go 1.26 on Cloud Run: 1/4 Resource Usage, Google ADK v1.9.0, and Zero-D](https://dev.to/gde/ai-in-action-rewriting-a-daily-line-bot-from-python-to-go-126-on-cloud-run-14-resource-usage-2o62)
-- [Write Once, Debug Everywhere](https://dev.to/chaesang/write-once-debug-everywhere-59c)
-- [🤖 The Future of Artificial Intelligence in 2026: How AI Is Changing the World](https://dev.to/pop_bro_870/the-future-of-artificial-intelligence-in-2026-how-ai-is-changing-the-world-39fo)
-- [Why a parser cursor has to stay failed after the first refusal](https://dev.to/polycratia/why-a-parser-cursor-has-to-stay-failed-after-the-first-refusal-16co)
-- [CVE-2026-98432: Ubuntu Is Still Unpatched After 19 Days. How to Protect Servers](https://dev.to/alanwest/cve-2026-98432-ubuntu-is-still-unpatched-after-19-days-how-to-protect-servers-3hi8)
-- [Monitoring Outgoing Webhooks: Failure Rates, Backlogs, and Alerts](https://dev.to/shannonllc/monitoring-outgoing-webhooks-failure-rates-backlogs-and-alerts-3bbh)
+- [Support Welcome Email Feature APIs — Retention Budgets and Processor Evidence](https://dev.to/eliasfischer8351/support-welcome-email-feature-apis-retention-budgets-and-processor-evidence-1l5h)
+- [Your API Client Knows Too Much: Moving to Local-First, Git-Versioned API Testing with Bruno and Hurl](https://dev.to/eme_gug_0821b41b948be6516/your-api-client-knows-too-much-moving-to-local-first-git-versioned-api-testing-with-bruno-and-hurl-12m6)
+- [Docker Desktop Alternatives on Mac: OrbStack vs Colima vs Podman Desktop](https://dev.to/libme/docker-desktop-alternatives-on-mac-orbstack-vs-colima-vs-podman-desktop-2l13)
+- [How I structure a Java test automation project &lpar;and the free template I made from it&rpar;](https://dev.to/edwardmrdoian/how-i-structure-a-java-test-automation-project-and-the-free-template-i-made-from-it-49il)
+- [SMS Delivery Status Explained — 3 Receipt Checks Before Fetching Events](https://dev.to/sawyerflynn1578/sms-delivery-status-explained-3-receipt-checks-before-fetching-events-43n)
+- [Terraform State Locking, Drift Detection &amp; Ephemeral Preview Environments](https://dev.to/hostingpodium/terraform-state-locking-drift-detection-ephemeral-preview-environments-41i3)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
