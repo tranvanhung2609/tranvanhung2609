@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Support Welcome Email Feature APIs — Retention Budgets and Processor Evidence](https://dev.to/eliasfischer8351/support-welcome-email-feature-apis-retention-budgets-and-processor-evidence-1l5h)
-- [Your API Client Knows Too Much: Moving to Local-First, Git-Versioned API Testing with Bruno and Hurl](https://dev.to/eme_gug_0821b41b948be6516/your-api-client-knows-too-much-moving-to-local-first-git-versioned-api-testing-with-bruno-and-hurl-12m6)
-- [Docker Desktop Alternatives on Mac: OrbStack vs Colima vs Podman Desktop](https://dev.to/libme/docker-desktop-alternatives-on-mac-orbstack-vs-colima-vs-podman-desktop-2l13)
-- [How I structure a Java test automation project &lpar;and the free template I made from it&rpar;](https://dev.to/edwardmrdoian/how-i-structure-a-java-test-automation-project-and-the-free-template-i-made-from-it-49il)
-- [SMS Delivery Status Explained — 3 Receipt Checks Before Fetching Events](https://dev.to/sawyerflynn1578/sms-delivery-status-explained-3-receipt-checks-before-fetching-events-43n)
-- [Terraform State Locking, Drift Detection &amp; Ephemeral Preview Environments](https://dev.to/hostingpodium/terraform-state-locking-drift-detection-ephemeral-preview-environments-41i3)
+- [How to Monitor Client Domains and SSL Certificates for Free Before They Expire](https://dev.to/sanjay_singh_1/how-to-monitor-client-domains-and-ssl-certificates-for-free-before-they-expire-36fl)
+- [One documentation site from five sources](https://dev.to/474443481/one-documentation-site-from-five-sources-16eh)
+- [AWS SysOps Is Now CloudOps Engineer: SOA-C03 Explained](https://dev.to/sajeevsebastian/aws-sysops-is-now-cloudops-engineer-soa-c03-explained-57pn)
+- [How to Compare Two API Responses and Find Hidden Changes Faster](https://dev.to/toolzenhub/how-to-compare-two-api-responses-and-find-hidden-changes-faster-5hmf)
+- [Website Migration Without Losing Search Traffic: A Developer&#39;s Redirect Checklist](https://dev.to/prisminfoways/website-migration-without-losing-search-traffic-a-developers-redirect-checklist-2dm4)
+- [How I Vet an Open-Source Dependency Before Betting On It](https://dev.to/hoelee/how-i-vet-an-open-source-dependency-before-betting-on-it-73f)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
