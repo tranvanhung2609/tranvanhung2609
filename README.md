@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor Client Domains and SSL Certificates for Free Before They Expire](https://dev.to/sanjay_singh_1/how-to-monitor-client-domains-and-ssl-certificates-for-free-before-they-expire-36fl)
-- [One documentation site from five sources](https://dev.to/474443481/one-documentation-site-from-five-sources-16eh)
-- [AWS SysOps Is Now CloudOps Engineer: SOA-C03 Explained](https://dev.to/sajeevsebastian/aws-sysops-is-now-cloudops-engineer-soa-c03-explained-57pn)
-- [How to Compare Two API Responses and Find Hidden Changes Faster](https://dev.to/toolzenhub/how-to-compare-two-api-responses-and-find-hidden-changes-faster-5hmf)
-- [Website Migration Without Losing Search Traffic: A Developer&#39;s Redirect Checklist](https://dev.to/prisminfoways/website-migration-without-losing-search-traffic-a-developers-redirect-checklist-2dm4)
-- [How I Vet an Open-Source Dependency Before Betting On It](https://dev.to/hoelee/how-i-vet-an-open-source-dependency-before-betting-on-it-73f)
+- [Risk-based code review for AI-written pull requests: a 5-step setup on GitHub](https://dev.to/gauravsharmagg/risk-based-code-review-for-ai-written-pull-requests-a-5-step-setup-on-github-4ej8)
+- [AI App Builders That Actually Deploy to Production: 9 Tools Compared &lpar;2026&rpar;](https://dev.to/spiritt/ai-app-builders-that-actually-deploy-to-production-9-tools-compared-2026-5045)
+- [LLM access controls and monitoring: what actually stops a confused-deputy agent](https://dev.to/resk/llm-access-controls-and-monitoring-what-actually-stops-a-confused-deputy-agent-4kn3)
+- [Terraform to OpenTofu Migration: A Complete Infrastructure as Code Planning Guide](https://dev.to/naveens16/terraform-to-opentofu-migration-a-complete-infrastructure-as-code-planning-guide-215a)
+- [How Stripe Handles Payments at Scale Without Losing a Cent](https://dev.to/mubashirtaj/how-stripe-handles-payments-at-scale-without-losing-a-cent-244p)
+- [Who Did What, and Could You Prove It?](https://dev.to/adelusheriff/who-did-what-and-could-you-prove-it-4jkj)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
