@@ -103,12 +103,12 @@
 
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
-- [Risk-based code review for AI-written pull requests: a 5-step setup on GitHub](https://dev.to/gauravsharmagg/risk-based-code-review-for-ai-written-pull-requests-a-5-step-setup-on-github-4ej8)
-- [AI App Builders That Actually Deploy to Production: 9 Tools Compared &lpar;2026&rpar;](https://dev.to/spiritt/ai-app-builders-that-actually-deploy-to-production-9-tools-compared-2026-5045)
-- [LLM access controls and monitoring: what actually stops a confused-deputy agent](https://dev.to/resk/llm-access-controls-and-monitoring-what-actually-stops-a-confused-deputy-agent-4kn3)
-- [Terraform to OpenTofu Migration: A Complete Infrastructure as Code Planning Guide](https://dev.to/naveens16/terraform-to-opentofu-migration-a-complete-infrastructure-as-code-planning-guide-215a)
-- [How Stripe Handles Payments at Scale Without Losing a Cent](https://dev.to/mubashirtaj/how-stripe-handles-payments-at-scale-without-losing-a-cent-244p)
-- [Who Did What, and Could You Prove It?](https://dev.to/adelusheriff/who-did-what-and-could-you-prove-it-4jkj)
+- [Your SPF and DKIM passed last month. Here is why they can fail today without you touching DNS](https://dev.to/mogley1011/your-spf-and-dkim-passed-last-month-here-is-why-they-can-fail-today-without-you-touching-dns-2elf)
+- [cert-manager 1.21.3: what a trust-store update means for your cluster](https://dev.to/pki-channnel/cert-manager-1213-what-a-trust-store-update-means-for-your-cluster-20i0)
+- [Realtime Connection Token Rotation: 5 Failure Rules for Multiplayer Quiz Games](https://dev.to/pantaleonshaw8478/realtime-connection-token-rotation-5-failure-rules-for-multiplayer-quiz-games-59ol)
+- [Stop paying for the CPU your pods leave idle](https://dev.to/sebtardif/stop-paying-for-the-cpu-your-pods-leave-idle-2c67)
+- [WebP and AVIF Image Thumbnail Recovery — Safe File Naming in Object Storage](https://dev.to/sullivanreed1247/webp-and-avif-image-thumbnail-recovery-safe-file-naming-in-object-storage-m1k)
+- [SambaNova and Supermicro&#39;s inference plan puts the handoff between chips in focus](https://dev.to/da-li-at-pl/sambanova-and-supermicros-inference-plan-puts-the-handoff-between-chips-in-focus-366b)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Statistics
