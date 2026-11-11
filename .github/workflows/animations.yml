@@ -1,0 +1,54 @@
+name: Generate Animations
+
+on:
+  # Tắt push trên main và tắt schedule 12 tiếng để tránh chạy liên tục và tiêu tốn tài nguyên
+  # schedule:
+  #   - cron: "0 0 * * 0" # Chỉ bật lại nếu muốn chạy 1 lần/tuần vào Chủ Nhật
+  workflow_dispatch: # Chạy thủ công khi bạn muốn cập nhật lại đồ họa contribution
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pacman animation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+
+      - name: Generate gitartwork
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: ${{ github.repository_owner }}
+          text: HUNG!
+
+      - name: Move gitartwork.svg to dist
+        run: mv gitartwork.svg dist/
+
+      - name: Push animations to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

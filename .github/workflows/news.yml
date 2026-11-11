@@ -1,0 +1,21 @@
+name: Latest News
+
+on:
+  # Tắt tạm thời schedule để tránh bot tự động commit spam liên tục lên main (đã tạo hơn 1,100 commits)
+  # schedule:
+  #   - cron: '0 0 * * 0' # Chỉ bật lại nếu muốn chạy 1 lần/tuần vào Chủ Nhật
+  workflow_dispatch: # Chạy thủ công khi bạn muốn cập nhật bài viết mới
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/tag/java, https://dev.to/feed/tag/devops, https://dev.to/feed/tag/backend"
+          max_post_count: 6
