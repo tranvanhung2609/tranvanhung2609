@@ -92,12 +92,6 @@
   </a>
 </div>
 
-### 📜 Certifications
-
-<div align="left">
-  <img src="images/toeic.jpg" alt="TOEIC Certificate" width="200" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
-</div>
-
 ### 📰 Backend & DevOps News
 <!-- BLOG-POST-LIST:START -->
 - [Your SPF and DKIM passed last month. Here is why they can fail today without you touching DNS](https://dev.to/mogley1011/your-spf-and-dkim-passed-last-month-here-is-why-they-can-fail-today-without-you-touching-dns-2elf)
