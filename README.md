@@ -69,6 +69,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=tranvanhung2609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tranvanhung2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
+</div>
+
+<h3 align="left">🔥 Streak Stats</h3>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=tranvanhung2609&theme=dracula" height="220" alt="streak graph" />
+  </a>
+</div>
+
 <!-- Contribution Graph Animations -->
 <p align="center">
   <img alt="gitartwork" src="https://raw.githubusercontent.com/tranvanhung2609/tranvanhung2609/output/gitartwork.svg">
@@ -101,20 +115,6 @@
 - [WebP and AVIF Image Thumbnail Recovery — Safe File Naming in Object Storage](https://dev.to/sullivanreed1247/webp-and-avif-image-thumbnail-recovery-safe-file-naming-in-object-storage-m1k)
 - [SambaNova and Supermicro&#39;s inference plan puts the handoff between chips in focus](https://dev.to/da-li-at-pl/sambanova-and-supermicros-inference-plan-puts-the-handoff-between-chips-in-focus-366b)
 <!-- BLOG-POST-LIST:END -->
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tranvanhung2609&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=tranvanhung2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
-
-<h3 align="left">Streak Stats</h3>
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=tranvanhung2609&theme=dracula" height="220" alt="streak graph" />
-  </a>
-</div>
 
 ---
 <div align="center">
